@@ -212,6 +212,36 @@
       "Garak's Suit/3" : 1,
       "Tailoring Tool/3" : 1
    },
+   "Geordi's Hyperspanner/2" : {
+      "Casing/1" : 2,
+      "Hyperspanner (DS9)/1" : 1,
+      "Power Cell/1" : 2
+   },
+   "Geordi's Hyperspanner/3" : {
+      "Casing/2" : 2,
+      "Hyperspanner (DS9)/2" : 2,
+      "Power Cell/2" : 2
+   },
+   "Geordi's Hyperspanner/5" : {
+      "Casing/4" : 2,
+      "Geordi's Hyperspanner/4" : 2,
+      "Power Cell/4" : 2
+   },
+   "Geordi's Toolbox/3" : {
+      "EJ-7 Interlock/2" : 2,
+      "Geordi's Hyperspanner/2" : 1,
+      "Toolbox/2" : 2
+   },
+   "Geordi's Toolbox/4" : {
+      "Geordi's Hyperspanner/3" : 1,
+      "Geordi's Toolbox/3" : 1,
+      "Gravitic Caliper/3" : 2
+   },
+   "Geordi's Toolbox/5" : {
+      "Geordi's Hyperspanner/4" : 2,
+      "Geordi's Toolbox/4" : 2,
+      "Gravitic Caliper/4" : 1
+   },
    "Geordi's VISOR/2" : {
       "Interphasic Scanner/1" : 1,
       "Spectral Micrometer/1" : 2,
