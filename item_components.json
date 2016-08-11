@@ -2208,6 +2208,11 @@
       "Hyperspanner (DS9)/2" : 2,
       "Power Cell/2" : 2
    },
+   "Geordi's Hyperspanner/4" : {
+      "Casing/3" : 2,
+      "Geordi's Hyperspanner/3" : 2,
+      "Power Cell/3" : 2
+   },
    "Geordi's Hyperspanner/5" : {
       "Casing/4" : 2,
       "Geordi's Hyperspanner/4" : 2,
@@ -3003,6 +3008,11 @@
    "Ketracel-white/1" : {
       "Dominion PADD/0" : 1,
       "Science Experiment/0" : 1
+   },
+   "Kim's Calculations/2" : {
+      "Science Experiment/0" : 2,
+      "Temporal Prime Directive/2" : 1,
+      "Writing PADD (TNG)/0" : 2
    },
    "Kira's Disguise/3" : {
       "Civilian Disguise/2" : 2,
@@ -4521,6 +4531,16 @@
       "Power Cell/1" : 2,
       "Terran Emblem/1" : 1,
       "Writing PADD (TNG)/1" : 1
+   },
+   "Professor Sisko's PADD/3" : {
+      "Astrometric Chart/1" : 2,
+      "Optronic Circuit/2" : 2,
+      "Professor Sisko's PADD/2" : 1
+   },
+   "Professor Sisko's Research/3" : {
+      "Database (Panel)/1" : 2,
+      "Science Experiment/0" : 2,
+      "Terran Emblem/1" : 1
    },
    "Prune Juice/1" : {
       "Identification Code/1" : 1,

@@ -5345,6 +5345,168 @@
          "level" : 99
       }
    ],
+   "Captain La Forge" : [
+      {
+         "item" : "Starfleet Uniform (DS9)",
+         "level" : 1
+      },
+      {
+         "item" : "Authorization Code",
+         "level" : 2
+      },
+      {
+         "item" : "Identification Code",
+         "level" : 4
+      },
+      {
+         "item" : "EPI Capacitor",
+         "level" : 5
+      },
+      {
+         "item" : "Starfleet Command Uniform (WORF)",
+         "level" : 10
+      },
+      {
+         "item" : "Hyperspanner (DS9)",
+         "level" : 13
+      },
+      {
+         "item" : "Desktop Monitor (TNG)",
+         "level" : 16
+      },
+      {
+         "item" : "Geordi's Implants",
+         "level" : 20
+      },
+      {
+         "item" : "Starfleet Command Uniform (WORF)",
+         "level" : 20
+      },
+      {
+         "item" : "Priority One Message",
+         "level" : 23
+      },
+      {
+         "item" : "Combadge (ALT)",
+         "level" : 26
+      },
+      {
+         "item" : "Geordi's Hyperspanner",
+         "level" : 30
+      },
+      {
+         "item" : "Starfleet Command Uniform (WORF)",
+         "level" : 30
+      },
+      {
+         "item" : "Temporal Prime Directive",
+         "level" : 33
+      },
+      {
+         "item" : "Geordi's Implants",
+         "level" : 36
+      },
+      {
+         "item" : "Geordi's Toolbox",
+         "level" : 40
+      },
+      {
+         "item" : "Starfleet Command Uniform (WORF)",
+         "level" : 40
+      },
+      {
+         "item" : "Astrometric Chart",
+         "level" : 43
+      },
+      {
+         "item" : "Combadge (ALT)",
+         "level" : 46
+      },
+      {
+         "item" : "Geordi's Hyperspanner",
+         "level" : 50
+      },
+      {
+         "item" : "item",
+         "level" : 50
+      },
+      {
+         "item" : "item",
+         "level" : 53
+      },
+      {
+         "item" : "item",
+         "level" : 56
+      },
+      {
+         "item" : "item",
+         "level" : 60
+      },
+      {
+         "item" : "item",
+         "level" : 60
+      },
+      {
+         "item" : "item",
+         "level" : 63
+      },
+      {
+         "item" : "item",
+         "level" : 66
+      },
+      {
+         "item" : "item",
+         "level" : 70
+      },
+      {
+         "item" : "item",
+         "level" : 70
+      },
+      {
+         "item" : "item",
+         "level" : 73
+      },
+      {
+         "item" : "item",
+         "level" : 76
+      },
+      {
+         "item" : "item",
+         "level" : 80
+      },
+      {
+         "item" : "item",
+         "level" : 80
+      },
+      {
+         "item" : "item",
+         "level" : 83
+      },
+      {
+         "item" : "item",
+         "level" : 86
+      },
+      {
+         "item" : "item",
+         "level" : 90
+      },
+      {
+         "item" : "item",
+         "level" : 90
+      },
+      {
+         "item" : "item",
+         "level" : 93
+      },
+      {
+         "item" : "item",
+         "level" : 96
+      },
+      {
+         "item" : "item",
+         "level" : 99
+      }
+   ],
    "Captain Proton Paris" : [
       {
          "item" : "Civilian Command Clothing",
@@ -7355,6 +7517,10 @@
          "level" : 40
       },
       {
+         "item" : "Karr's Uniform",
+         "level" : 40
+      },
+      {
          "item" : "Holo-imager",
          "level" : 43
       },
@@ -7363,8 +7529,20 @@
          "level" : 46
       },
       {
+         "item" : "Karr's Rifle",
+         "level" : 50
+      },
+      {
+         "item" : "Karr's Uniform",
+         "level" : 50
+      },
+      {
          "item" : "Self-sealing Stem Bolt",
          "level" : 53
+      },
+      {
+         "item" : "Haron's Furs",
+         "level" : 56
       },
       {
          "item" : "Authorization Code",
@@ -15033,19 +15211,19 @@
          "level" : 90
       },
       {
-         "item" : "item",
+         "item" : "Starfleet Command Uniform (TOS)",
          "level" : 90
       },
       {
-         "item" : "item",
+         "item" : "Writing PADD (ENT)",
          "level" : 93
       },
       {
-         "item" : "item",
+         "item" : "NX-01 Cap",
          "level" : 96
       },
       {
-         "item" : "item",
+         "item" : "Desktop Monitor",
          "level" : 99
       }
    ],
@@ -19861,35 +20039,35 @@
          "level" : 70
       },
       {
-         "item" : "item",
+         "item" : "Human Q's Clothing",
          "level" : 70
       },
       {
-         "item" : "item",
+         "item" : "Chocolate Sundae",
          "level" : 73
       },
       {
-         "item" : "item",
+         "item" : "Tricorder Mark VII",
          "level" : 76
       },
       {
-         "item" : "item",
+         "item" : "Toolbox",
          "level" : 80
       },
       {
-         "item" : "item",
+         "item" : "Human Q's Clothing",
          "level" : 80
       },
       {
-         "item" : "item",
+         "item" : "Self-sealing Stem Bolt",
          "level" : 83
       },
       {
-         "item" : "item",
+         "item" : "Earl Grey Tea",
          "level" : 86
       },
       {
-         "item" : "item",
+         "item" : "Micro-Resonator",
          "level" : 90
       },
       {
@@ -26439,19 +26617,19 @@
          "level" : 30
       },
       {
-         "item" : "item",
+         "item" : "Civilian Diplomatic Dress",
          "level" : 30
       },
       {
-         "item" : "item",
+         "item" : "Plasma Torch",
          "level" : 33
       },
       {
-         "item" : "item",
+         "item" : "Professor Sisko's PADD",
          "level" : 36
       },
       {
-         "item" : "item",
+         "item" : "Professor Sisko's Research",
          "level" : 40
       },
       {
@@ -30436,6 +30614,168 @@
       },
       {
          "item" : "Antigen Bomb",
+         "level" : 99
+      }
+   ],
+   "Rogue Harry Kim" : [
+      {
+         "item" : "Civilian Scientist Clothing",
+         "level" : 1
+      },
+      {
+         "item" : "Emergency Transporter Armband",
+         "level" : 2
+      },
+      {
+         "item" : "Spectral Micrometer",
+         "level" : 4
+      },
+      {
+         "item" : "Science Experiment",
+         "level" : 5
+      },
+      {
+         "item" : "Civilian Scientist Clothing",
+         "level" : 10
+      },
+      {
+         "item" : "TR-590 Tricorder X",
+         "level" : 13
+      },
+      {
+         "item" : "Palm Beacon",
+         "level" : 16
+      },
+      {
+         "item" : "Astrometric Chart",
+         "level" : 20
+      },
+      {
+         "item" : "Civilian Engineer Clothing",
+         "level" : 20
+      },
+      {
+         "item" : "Borg Cortical Node",
+         "level" : 23
+      },
+      {
+         "item" : "Kim's Calculations",
+         "level" : 26
+      },
+      {
+         "item" : "Field Rations",
+         "level" : 30
+      },
+      {
+         "item" : "item",
+         "level" : 30
+      },
+      {
+         "item" : "item",
+         "level" : 33
+      },
+      {
+         "item" : "item",
+         "level" : 36
+      },
+      {
+         "item" : "item",
+         "level" : 40
+      },
+      {
+         "item" : "item",
+         "level" : 40
+      },
+      {
+         "item" : "item",
+         "level" : 43
+      },
+      {
+         "item" : "item",
+         "level" : 46
+      },
+      {
+         "item" : "item",
+         "level" : 50
+      },
+      {
+         "item" : "item",
+         "level" : 50
+      },
+      {
+         "item" : "item",
+         "level" : 53
+      },
+      {
+         "item" : "item",
+         "level" : 56
+      },
+      {
+         "item" : "item",
+         "level" : 60
+      },
+      {
+         "item" : "item",
+         "level" : 60
+      },
+      {
+         "item" : "item",
+         "level" : 63
+      },
+      {
+         "item" : "item",
+         "level" : 66
+      },
+      {
+         "item" : "item",
+         "level" : 70
+      },
+      {
+         "item" : "item",
+         "level" : 70
+      },
+      {
+         "item" : "item",
+         "level" : 73
+      },
+      {
+         "item" : "item",
+         "level" : 76
+      },
+      {
+         "item" : "item",
+         "level" : 80
+      },
+      {
+         "item" : "item",
+         "level" : 80
+      },
+      {
+         "item" : "item",
+         "level" : 83
+      },
+      {
+         "item" : "item",
+         "level" : 86
+      },
+      {
+         "item" : "item",
+         "level" : 90
+      },
+      {
+         "item" : "item",
+         "level" : 90
+      },
+      {
+         "item" : "item",
+         "level" : 93
+      },
+      {
+         "item" : "item",
+         "level" : 96
+      },
+      {
+         "item" : "item",
          "level" : 99
       }
    ],

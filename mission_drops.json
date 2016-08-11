@@ -34,13 +34,13 @@
    "A Father Figure/1" : {
       "cost" : "4",
       "item" : {
-         "Emitter Crystal/0" : 664,
-         "IDIC/1" : 167,
-         "ODN Recoupler/0" : 169,
-         "Prime Directive/1" : 62,
-         "Starfleet Uniform (DS9)/0" : 198
+         "Emitter Crystal/0" : 694,
+         "IDIC/1" : 169,
+         "ODN Recoupler/0" : 175,
+         "Prime Directive/1" : 64,
+         "Starfleet Uniform (DS9)/0" : 210
       },
-      "runs" : 315
+      "runs" : 328
    },
    "A Father Figure/2" : {
       "cost" : "6",
@@ -88,13 +88,13 @@
    "A Logical Response/1" : {
       "cost" : "4",
       "item" : {
-         "Combadge (DS9)/0" : 91,
-         "Medical Scanner/0" : 110,
-         "Microconnector/0" : 214,
-         "Quantum Chronometer/0" : 98,
-         "Sensor/0" : 219
+         "Combadge (DS9)/0" : 95,
+         "Medical Scanner/0" : 112,
+         "Microconnector/0" : 224,
+         "Quantum Chronometer/0" : 101,
+         "Sensor/0" : 221
       },
-      "runs" : 244
+      "runs" : 251
    },
    "A Logical Response/2" : {
       "cost" : "6",
@@ -430,13 +430,13 @@
    "Beyond the Call/1" : {
       "cost" : "4",
       "item" : {
-         "Clothing Pattern/0" : 369,
-         "Communicator (TOS)/0" : 175,
-         "Hypospray (TNG)/0" : 164,
-         "Incense/0" : 354,
-         "Translation Algorithm/0" : 177
+         "Clothing Pattern/0" : 377,
+         "Communicator (TOS)/0" : 182,
+         "Hypospray (TNG)/0" : 167,
+         "Incense/0" : 364,
+         "Translation Algorithm/0" : 179
       },
-      "runs" : 413
+      "runs" : 423
    },
    "Beyond the Call/2" : {
       "cost" : "6",
@@ -663,13 +663,13 @@
    "Deadly Disruptions/1" : {
       "cost" : "8",
       "item" : {
-         "Identification Code/1" : 316,
-         "Optronic Circuit/1" : 654,
+         "Identification Code/1" : 317,
+         "Optronic Circuit/1" : 660,
          "Phaser Type 1/0" : 179,
          "Replicator Ration/2" : 158,
-         "Spices/0" : 640
+         "Spices/0" : 645
       },
-      "runs" : 649
+      "runs" : 653
    },
    "Deadly Disruptions/2" : {
       "cost" : "14",
@@ -708,13 +708,13 @@
    "Death Throes/3" : {
       "cost" : "20",
       "item" : {
-         "Casing/3" : 46,
-         "Database (Panel)/4" : 8,
+         "Casing/3" : 47,
+         "Database (Panel)/4" : 9,
          "Furs/4" : 9,
          "Incense/2" : 140,
-         "Sensor/2" : 130
+         "Sensor/2" : 131
       },
-      "runs" : 111
+      "runs" : 112
    },
    "Death in Battle/1" : {
       "cost" : "4",
@@ -1247,13 +1247,13 @@
    "Into His Own Hands/3" : {
       "cost" : "22",
       "item" : {
-         "Casing/2" : 104,
-         "Clothing Pattern/3" : 32,
+         "Casing/2" : 107,
+         "Clothing Pattern/3" : 34,
          "Database (Panel)/4" : 7,
-         "Incense/3" : 100,
+         "Incense/3" : 101,
          "Isolinear Chips/4" : 6
       },
-      "runs" : 83
+      "runs" : 85
    },
    "Ishka Issues/1" : {
       "cost" : "8",
@@ -1343,13 +1343,13 @@
    "Long Live the King/3" : {
       "cost" : "22",
       "item" : {
-         "Clothing Pattern/2" : 18,
+         "Clothing Pattern/2" : 20,
          "Clothing Pattern/3" : 6,
          "Database (Panel)/" : 1,
          "Power Cell/" : 4,
-         "Sensor/3" : 10
+         "Sensor/3" : 11
       },
-      "runs" : 13
+      "runs" : 14
    },
    "Man with a Plan/1" : {
       "cost" : "6",
@@ -1444,12 +1444,12 @@
       "item" : {
          "Bajoran PADD/0" : 24,
          "Duotronic Probe/0" : 30,
-         "Graviton Emitter/0" : 227,
-         "Maquis Raider Schematic/0" : 60,
-         "Neurocortical Monitor/0" : 109,
+         "Graviton Emitter/0" : 230,
+         "Maquis Raider Schematic/0" : 61,
+         "Neurocortical Monitor/0" : 111,
          "Phase Pistol/1" : 114
       },
-      "runs" : 188
+      "runs" : 190
    },
    "Mortals and Mayhem/2" : {
       "cost" : "8",
@@ -1935,6 +1935,10 @@
       },
       "runs" : 30
    },
+   "Researching Future History/1" : {
+      "cost" : "16",
+      "runs" : "8"
+   },
    "Retroactive Vengeance/1" : {
       "cost" : "16",
       "item" : {
@@ -2124,12 +2128,12 @@
    "Talarian Coup/1" : {
       "cost" : "1",
       "item" : {
-         "Darts/0" : 4,
-         "Holoprogram/0" : 8,
-         "Optronic Circuit/0" : 4,
-         "Prime Directive/0" : 2
+         "Darts/0" : 5,
+         "Holoprogram/0" : 16,
+         "Optronic Circuit/0" : 6,
+         "Prime Directive/0" : 6
       },
-      "runs" : 6
+      "runs" : 11
    },
    "Talarian Coup/2" : {
       "cost" : "1",
@@ -2271,13 +2275,13 @@
    "The Prodigal Son/1" : {
       "cost" : "4",
       "item" : {
-         "Coffee/0" : 223,
-         "Criminal Activity Report/1" : 71,
-         "Database (Panel)/0" : 890,
-         "Prime Directive/0" : 224,
-         "Tricorder/0" : 218
+         "Coffee/0" : 226,
+         "Criminal Activity Report/1" : 72,
+         "Database (Panel)/0" : 894,
+         "Prime Directive/0" : 226,
+         "Tricorder/0" : 220
       },
-      "runs" : 542
+      "runs" : 546
    },
    "The Prodigal Son/2" : {
       "cost" : "6",
@@ -2520,12 +2524,12 @@
       "cost" : "10",
       "item" : {
          "Astrometric Chart/2" : 0,
-         "Emitter Crystal/2" : 0,
-         "Incense/1" : 17,
+         "Emitter Crystal/2" : 1,
+         "Incense/1" : 25,
          "Replicator Ration/2" : 0,
          "Spices/3" : 1
       },
-      "runs" : 6
+      "runs" : 9
    },
    "Turncoat Outpost/1" : {
       "cost" : "14",
