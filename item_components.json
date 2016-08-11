@@ -1,0 +1,3718 @@
+{
+   "Airponics/1" : {
+      "Casing/0" : 4,
+      "Science Experiment/0" : 2
+   },
+   "Airponics/2" : {
+      "Airponics/1" : 1,
+      "Casing/1" : 4,
+      "Orchids/1" : 1
+   },
+   "Airponics/3" : {
+      "Airponics/2" : 1,
+      "Casing/2" : 4,
+      "Orchids/2" : 1
+   },
+   "Arachnia's Gown/2" : {
+      "Civilian Diplomatic Dress/2" : 1,
+      "Coffee/1" : 1,
+      "Holoprogram/1" : 1
+   },
+   "Arachnia's Gown/3" : {
+      "Arachnia's Gown/2" : 1,
+      "Pheromones/2" : 1,
+      "Ray Gun/1" : 1
+   },
+   "Arachnia's Gown/4" : {
+      "Arachnia's Gown/3" : 1,
+      "Covert Contacts/2" : 1,
+      "Pheromones/3" : 1
+   },
+   "Arachnia's Gown/5" : {
+      "Arachnia's Gown/4" : 1,
+      "Pheromones/4" : 1,
+      "Spell of the Spider Holonovel/3" : 1
+   },
+   "Bashir's Disguise/2" : {
+      "Security Codes/1" : 1,
+      "Starfleet Medicine Uniform (DS9)/2" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Bashir's Disguise/3" : {
+      "Bashir's Disguise/2" : 1,
+      "Identification Code/2" : 1,
+      "Wrench/1" : 2
+   },
+   "Bashir's Disguise/4" : {
+      "Bashir's Disguise/3" : 1,
+      "Bashir's Orders/2" : 1,
+      "Dominion PADD/1" : 2
+   },
+   "Bashir's Disguise/5" : {
+      "Bashir's Disguise/4" : 1,
+      "Kukalaka/4" : 1,
+      "Raquet/3" : 1
+   },
+   "Data's Tricorder/2" : {
+      "Database (Panel)/1" : 4,
+      "Positronic Brain/1" : 1,
+      "TR-590 Tricorder X/1" : 2
+   },
+   "Data's Tricorder/3" : {
+      "Data's Tricorder/2" : 1,
+      "Database (Panel)/2" : 4,
+      "Ethical Subroutine/2" : 1
+   },
+   "Data's Tricorder/4" : {
+      "Data's Tricorder/3" : 2,
+      "Database (Panel)/3" : 4,
+      "Poetry/3" : 1
+   },
+   "Data's Tricorder/5" : {
+      "Data's Tricorder/4" : 1,
+      "Database (Panel)/4" : 4,
+      "Strategema/4" : 1
+   },
+   "Flux Coupler/1" : {
+      "Flux Coupler/0" : 2
+   },
+   "Flux Coupler/2" : {
+      "Flux Coupler/1" : 2
+   },
+   "Flux Coupler/3" : {
+      "Flux Coupler/2" : 2
+   },
+   "Flux Coupler/4" : {
+      "Flux Coupler/3" : 2
+   },
+   "Flux Coupler/5" : {
+      "Flux Coupler/4" : 2
+   },
+   "Forensic Psychology Text/2" : {
+      "Security Reports/2" : 1,
+      "Text Book/0" : 1
+   },
+   "Forensic Psychology Text/3" : {
+      "Forensic Psychology Text/2" : 2
+   },
+   "Forensic Psychology Text/4" : {
+      "Forensic Psychology Text/3" : 2
+   },
+   "Founder's Dress/3" : {
+      "Civilian Diplomatic Dress/2" : 2,
+      "Dominion PADD/2" : 1,
+      "Ketracel-white/1" : 1
+   },
+   "Founder's Dress/4" : {
+      "Dominion Seal/2" : 1,
+      "Founder's Dress/3" : 1,
+      "Treaty of Bajor/3" : 1
+   },
+   "Frankenstein Movie/2" : {
+      "Ancient Film/1" : 1,
+      "Isolinear Chips/0" : 1
+   },
+   "GI Helmet/0" : {
+      "Clothing Pattern/0" : 2,
+      "Pollyalloy/0" : 2
+   },
+   "GI Helmet/1" : {
+      "Clothing Pattern/0" : 2,
+      "GI Helmet/0" : 1,
+      "Security Codes/0" : 1
+   },
+   "GI Helmet/2" : {
+      "GI Helmet/1" : 1,
+      "Pollyalloy/1" : 2,
+      "Tactical Alert/1" : 1
+   },
+   "GI Helmet/3" : {
+      "Field Rations/2" : 1,
+      "GI Helmet/2" : 1,
+      "Pollyalloy/2" : 2
+   },
+   "GI Jacket/0" : {
+      "20th Century Pistol/0" : 1,
+      "Clothing Pattern/0" : 2
+   },
+   "GI Jacket/1" : {
+      "Ancient Film/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "GI Jacket/0" : 1
+   },
+   "GI Jacket/2" : {
+      "20th Century Rifle/0" : 2,
+      "Clothing Pattern/1" : 2,
+      "GI Jacket/1" : 1
+   },
+   "GI Jacket/3" : {
+      "Clothing Pattern/2" : 2,
+      "GI Jacket/2" : 1,
+      "War Report/2" : 1
+   },
+   "Gagh/3" : {
+      "Gagh/2" : 2,
+      "Spices/2" : 2
+   },
+   "Gagh/4" : {
+      "Gagh/3" : 2,
+      "Spices/3" : 2
+   },
+   "Garak's PADD/1" : {
+      "Cardassian PADD/1" : 1,
+      "Obsidian Order Clearance/0" : 1
+   },
+   "Garak's PADD/2" : {
+      "Garak's PADD/1" : 1,
+      "Obsidian Order Clearance/1" : 1,
+      "Optronic Circuit/1" : 3
+   },
+   "Garak's PADD/3" : {
+      "Cardassian PADD/1" : 2,
+      "Garak's PADD/2" : 1,
+      "Kanar/2" : 1
+   },
+   "Garak's Pistol/1" : {
+      "Cardassian Disruptor Pistol/1" : 1,
+      "Emitter Crystal/0" : 2,
+      "Obsidian Order Clearance/0" : 1
+   },
+   "Garak's Pistol/2" : {
+      "Emitter Crystal/1" : 2,
+      "Garak's Pistol/1" : 1,
+      "Tailoring Tool/1" : 2
+   },
+   "Garak's Pistol/3" : {
+      "Emitter Crystal/2" : 2,
+      "Garak's Pistol/2" : 1,
+      "Kotra/2" : 1
+   },
+   "Garak's Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "Garak's Pistol/3" : 1,
+      "Tailoring Tool/3" : 1
+   },
+   "Garak's Suit/1" : {
+      "Civilian Disguise/0" : 2,
+      "Clothing Pattern/0" : 4,
+      "Tailoring Tool/1" : 1
+   },
+   "Garak's Suit/2" : {
+      "Civilian Disguise/0" : 2,
+      "Covert Contacts/1" : 1,
+      "Garak's Suit/1" : 1
+   },
+   "Garak's Suit/3" : {
+      "Garak's Suit/2" : 1,
+      "Kotra/2" : 1,
+      "Obsidian Order Clearance/1" : 1
+   },
+   "Garak's Suit/4" : {
+      "Garak's PADD/1" : 2,
+      "Garak's Suit/3" : 1,
+      "Tailoring Tool/3" : 1
+   },
+   "Geordi's VISOR/2" : {
+      "Interphasic Scanner/1" : 1,
+      "Spectral Micrometer/1" : 2,
+      "Tricorder Mark VII/2" : 1
+   },
+   "Geordi's VISOR/3" : {
+      "Geordi's VISOR/2" : 1,
+      "Microconnector/2" : 4,
+      "Neutron Microscope/3" : 1
+   },
+   "Geordi's VISOR/4" : {
+      "Geordi's VISOR/3" : 1,
+      "Microconnector/3" : 4,
+      "Science Experiment/3" : 1
+   },
+   "Grand Nagus Staff/1" : {
+      "Ferengi PADD/0" : 1,
+      "Rules of Acquisition/0" : 1,
+      "Slug-o-Cola/0" : 1
+   },
+   "Grand Nagus Staff/2" : {
+      "Ferengi Trade By-Laws/1" : 1,
+      "Grand Nagus Staff/1" : 1
+   },
+   "Grand Nagus Staff/3" : {
+      "Gold-Pressed Latinum/1" : 3,
+      "Grand Nagus Staff/2" : 1,
+      "Great Material Continuum Texts/2" : 1
+   },
+   "Grand Nagus Staff/4" : {
+      "Ferengi Trade By-Laws/2" : 1,
+      "Grand Nagus Staff/3" : 1,
+      "Great Material Continuum Texts/3" : 1
+   },
+   "Grand Nagus Staff/5" : {
+      "Grand Nagus Staff/4" : 1,
+      "Great Material Continuum Texts/4" : 1,
+      "Tongo Deck/4" : 1
+   },
+   "Gravimetric Scanner/1" : {
+      "Gravimetric Scanner/0" : 2
+   },
+   "Gravimetric Scanner/2" : {
+      "Gravimetric Scanner/1" : 2
+   },
+   "Gravitic Caliper/1" : {
+      "Gravitic Caliper/0" : 2
+   },
+   "Gravitic Caliper/2" : {
+      "Gravitic Caliper/1" : 2
+   },
+   "Gravitic Caliper/3" : {
+      "Gravitic Caliper/2" : 2
+   },
+   "Gravitic Caliper/4" : {
+      "Gravitic Caliper/3" : 2
+   },
+   "Gravitic Caliper/5" : {
+      "Gravitic Caliper/4" : 2
+   },
+   "Graviton Emitter/1" : {
+      "Graviton Emitter/0" : 2
+   },
+   "Graviton Emitter/2" : {
+      "Graviton Emitter/1" : 2
+   },
+   "Great Material Continuum Texts/3" : {
+      "Gold-Pressed Latinum/1" : 4,
+      "Great Material Continuum Texts/2" : 1,
+      "Rules of Acquisition/1" : 1
+   },
+   "Great Material Continuum Texts/4" : {
+      "Gold-Pressed Latinum/2" : 4,
+      "Great Material Continuum Texts/3" : 1,
+      "Rules of Acquisition/2" : 1
+   },
+   "Grenade/4" : {
+      "Photon Grenade/3" : 2
+   },
+   "Haron's Furs/3" : {
+      "Furs/2" : 2,
+      "Kazon Disruptor Rifle/2" : 1,
+      "Relora Furs/2" : 1
+   },
+   "Haron's Furs/4" : {
+      "Furs/3" : 2,
+      "Haron's Furs/3" : 2
+   },
+   "Heavy Duty Tricorder/1" : {
+      "Heavy Duty Tricorder/0" : 2
+   },
+   "Heavy Duty Tricorder/2" : {
+      "Heavy Duty Tricorder/1" : 2
+   },
+   "Heavy Duty Tricorder/3" : {
+      "Heavy Duty Tricorder/2" : 2
+   },
+   "Heavy Duty Tricorder/4" : {
+      "Heavy Duty Tricorder/3" : 2
+   },
+   "Heavy Scanner/1" : {
+      "Expansion Module/0" : 2,
+      "Heavy Scanner/0" : 1,
+      "Sensor/0" : 2
+   },
+   "Heavy Scanner/2" : {
+      "Expansion Module/1" : 2,
+      "Heavy Scanner/1" : 1,
+      "Sensor/1" : 2
+   },
+   "Heavy Scanner/3" : {
+      "Expansion Module/2" : 2,
+      "Heavy Scanner/2" : 1,
+      "Sensor/2" : 2
+   },
+   "Heavy Scanner/4" : {
+      "Expansion Module/3" : 2,
+      "Heavy Scanner/3" : 1,
+      "Sensor/3" : 2
+   },
+   "Hematology Experiment/1" : {
+      "Database (Panel)/1" : 2,
+      "Science Experiment/1" : 1,
+      "TR-580 Medical Tricorder/1" : 2
+   },
+   "Hematology Experiment/2" : {
+      "Biological Sample Kit/1" : 2,
+      "Database (Panel)/2" : 2,
+      "Hematology Experiment/1" : 1
+   },
+   "Hematology Experiment/3" : {
+      "Database (Panel)/2" : 2,
+      "Hematology Experiment/2" : 2,
+      "Science Experiment/2" : 1
+   },
+   "Hirogen Tetryon Rifle/2" : {
+      "Expansion Module/1" : 2,
+      "Hirogen Alpha Mark/1" : 1,
+      "Hirogen Tetryon Rifle/1" : 1
+   },
+   "Hockey Jersey/0" : {
+      "Clothing Pattern/0" : 2,
+      "Furs/0" : 2
+   },
+   "Hockey Jersey/1" : {
+      "Clothing Pattern/1" : 1,
+      "Furs/1" : 1,
+      "Hockey Jersey/0" : 1
+   },
+   "Hockey Jersey/2" : {
+      "Clothing Pattern/2" : 2,
+      "Hockey Jersey/1" : 1
+   },
+   "Hockey Skates/0" : {
+      "Furs/0" : 2,
+      "Pollyalloy/0" : 1
+   },
+   "Hockey Skates/1" : {
+      "Furs/1" : 1,
+      "Hockey Skates/0" : 1,
+      "Pollyalloy/1" : 1
+   },
+   "Hockey Skates/2" : {
+      "Furs/2" : 1,
+      "Hockey Skates/1" : 1,
+      "Pollyalloy/2" : 1
+   },
+   "Hockey Skates/3" : {
+      "Furs/2" : 2,
+      "Hockey Skates/2" : 1
+   },
+   "Hockey Stick/1" : {
+      "Casing/0" : 2,
+      "Pollyalloy/1" : 2
+   },
+   "Hockey Stick/2" : {
+      "Hockey Stick/1" : 1,
+      "Pollyalloy/2" : 2
+   },
+   "Hockey Stick/3" : {
+      "Hockey Stick/2" : 1,
+      "Pollyalloy/3" : 2
+   },
+   "Hollander's Hat/2" : {
+      "Civilian Command Clothing/1" : 1,
+      "Civilian Security Clothing/1" : 1,
+      "Clothing Pattern/2" : 2
+   },
+   "Hollander's Hat/3" : {
+      "Clothing Pattern/3" : 2,
+      "Hollander's Hat/2" : 1,
+      "Poker Cards/2" : 1
+   },
+   "Hollander's Hat/4" : {
+      "Ancient Film/2" : 1,
+      "Ancient Timebomb/2" : 1,
+      "Hollander's Hat/3" : 1
+   },
+   "Hollander's Revolver/2" : {
+      "Ancient Revolver/2" : 1,
+      "Cigarillo/0" : 1,
+      "Holoprogram/0" : 1
+   },
+   "Hollander's Revolver/3" : {
+      "Casing/2" : 2,
+      "Hollander's Revolver/2" : 1,
+      "Quantum Chronometer/2" : 1
+   },
+   "Hollander's Revolver/4" : {
+      "Hollander's Revolver/3" : 1,
+      "Identification Code/2" : 2,
+      "Temporal Prime Directive/2" : 2
+   },
+   "Hollander's Suit/2" : {
+      "Civilian Command Clothing/1" : 1,
+      "Civilian Security Clothing/1" : 1,
+      "Holoprogram/0" : 1
+   },
+   "Hot Chocolate/1" : {
+      "Replicator Ration/0" : 4
+   },
+   "Hot Chocolate/2" : {
+      "Hot Chocolate/1" : 2,
+      "Replicator Ration/1" : 2
+   },
+   "Hot Chocolate/3" : {
+      "Hot Chocolate/2" : 2,
+      "Replicator Ration/2" : 2
+   },
+   "Hot Chocolate/4" : {
+      "Hot Chocolate/3" : 2,
+      "Replicator Ration/3" : 2
+   },
+   "Hot Chocolate/5" : {
+      "Hot Chocolate/4" : 2,
+      "Replicator Ration/4" : 2
+   },
+   "House Duras Crest/1" : {
+      "Klingon House Crest/1" : 1,
+      "Poisoned Drink/0" : 1
+   },
+   "House Duras Crest/2" : {
+      "House Duras Crest/1" : 1,
+      "Poisoned Drink/1" : 1
+   },
+   "House Duras Knife/2" : {
+      "D'k tahg/2" : 2,
+      "Polyalloy/2" : 2
+   },
+   "House Duras Knife/3" : {
+      "House Duras Crest/2" : 1,
+      "House Duras Knife/2" : 1,
+      "Polyalloy/2" : 1
+   },
+   "House Martok Crest/1" : {
+      "Bloodwine/0" : 1,
+      "Casing/1" : 2,
+      "Klingon House Crest/1" : 1
+   },
+   "House Martok Crest/2" : {
+      "Bloodwine/1" : 2,
+      "House Martok Crest/1" : 1
+   },
+   "House Martok Crest/3" : {
+      "Bloodwine/2" : 2,
+      "House Martok Crest/2" : 1
+   },
+   "House Worf Crest/3" : {
+      "Gagh/0" : 1,
+      "KCA Icon/2" : 1,
+      "Klingon House Crest/2" : 1
+   },
+   "House Worf Crest/4" : {
+      "Agonizer/2" : 1,
+      "House Worf Crest/3" : 1,
+      "KCA Icon/3" : 1
+   },
+   "House Worf Crest/5" : {
+      "House Worf Crest/4" : 1,
+      "KCA Icon/" : 1,
+      "Worf's D'k tahg/3" : 1
+   },
+   "House of Mogh Crest/2" : {
+      "Furs/1" : 2,
+      "Klingon House Crest/1" : 1
+   },
+   "House of Mogh Crest/3" : {
+      "Furs/2" : 1,
+      "House of Mogh Crest/2" : 1
+   },
+   "Hoverball/1" : {
+      "Hoverball/0" : 2
+   },
+   "Hoverball/2" : {
+      "Hoverball/1" : 2
+   },
+   "Hoverball/3" : {
+      "Hoverball/2" : 2
+   },
+   "Hoverball/4" : {
+      "Hoverball/3" : 2
+   },
+   "IDIC/3" : {
+      "IDIC/2" : 2
+   },
+   "IDIC/4" : {
+      "IDIC/3" : 2
+   },
+   "Identification Code/2" : {
+      "Identification Code/1" : 2
+   },
+   "Identification Code/3" : {
+      "Identification Code/2" : 2
+   },
+   "Identification Code/4" : {
+      "Identification Code/3" : 2
+   },
+   "Imperial Guard Emblem/1" : {
+      "Imperial Guard Emblem/0" : 2
+   },
+   "Imperial Guard Emblem/2" : {
+      "Andorian Communicator/1" : 1,
+      "Imperial Guard Emblem/1" : 1
+   },
+   "Imperial Guard Emblem/3" : {
+      "Andorian Ale/1" : 1,
+      "Imperial Guard Emblem/2" : 1
+   },
+   "Intendant's Circlet/3" : {
+      "KCA Icon/2" : 1,
+      "Multidimensional Transporter Device/1" : 1,
+      "Pollyalloy/2" : 4
+   },
+   "Intendant's Circlet/4" : {
+      "Cardassian Encryption Algorithm/2" : 1,
+      "Intendant's Circlet/3" : 1,
+      "Pollyalloy/3" : 4
+   },
+   "Intendant's Circlet/5" : {
+      "Intendant's Circlet/4" : 1,
+      "KCA Icon/2" : 1,
+      "Poisoned Drink/3" : 1
+   },
+   "Intendant's Suit/1" : {
+      "Civilian Command Clothing/0" : 1,
+      "Civilian Diplomatic Clothing/0" : 1,
+      "Civilian Security Clothing/0" : 1
+   },
+   "Intendant's Suit/2" : {
+      "Clothing Pattern/1" : 2,
+      "Intendant's Suit/1" : 1,
+      "KCA Icon/1" : 1
+   },
+   "Intendant's Suit/3" : {
+      "Agonizer/1" : 1,
+      "Intendant's Suit/2" : 1,
+      "Poisoned Drink/0" : 1
+   },
+   "Intendant's Suit/4" : {
+      "Intendant's Suit/3" : 1,
+      "KCA Icon/2" : 1,
+      "Spring Wine/3" : 1
+   },
+   "Intendant's Suit/5" : {
+      "Intendant's Circlet/3" : 1,
+      "Intendant's Suit/4" : 1,
+      "Massage Oil/3" : 1
+   },
+   "Interphasic Coil Spanner/1" : {
+      "Interphasic Coil Spanner/0" : 2
+   },
+   "Interphasic Coil Spanner/2" : {
+      "Interphasic Coil Spanner/1" : 2
+   },
+   "Interphasic Scanner/1" : {
+      "Interphasic Scanner/0" : 2
+   },
+   "Interphasic Scanner/2" : {
+      "Interphasic Scanner/1" : 2
+   },
+   "Interphasic Scanner/3" : {
+      "Interphasic Scanner/2" : 2
+   },
+   "Isolinear Rod/1" : {
+      "Isolinear Rod/0" : 2
+   },
+   "Isolinear Rod/2" : {
+      "Isolinear Rod/1" : 2
+   },
+   "Isomodulator/1" : {
+      "Isomodulator/0" : 2
+   },
+   "Isomodulator/2" : {
+      "Isomodulator/1" : 2
+   },
+   "Isomodulator/3" : {
+      "Isomodulator/2" : 2
+   },
+   "Jadzia's Classic PADD/2" : {
+      "Database (Panel)/1" : 3,
+      "Isolinear Chips/1" : 3,
+      "Writing PADD (TOS)/1" : 3
+   },
+   "Jadzia's Classic PADD/3" : {
+      "Isolinear Chips/2" : 4,
+      "Jadzia's Classic PADD/2" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Jadzia's Classic PADD/4" : {
+      "Isolinear Chips/3" : 4,
+      "Jadzia's Classic PADD/3" : 1,
+      "Temporal Prime Directive/3" : 1
+   },
+   "Jadzia's Classic Tricorder/2" : {
+      "Encoded Communique/1" : 1,
+      "Sensor/1" : 4,
+      "Tricorder/1" : 2
+   },
+   "Jadzia's Classic Tricorder/3" : {
+      "Jadzia's Classic Tricorder/2" : 1,
+      "Optronic Circuit/2" : 4,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Jadzia's Classic Tricorder/4" : {
+      "Jadzia's Classic Tricorder/3" : 1,
+      "Temporal Prime Directive/3" : 1,
+      "Tongo Deck/2" : 1
+   },
+   "Jadzia's Classic Tricorder/5" : {
+      "Jadzia's Classic Tricorder/4" : 1,
+      "Security Codes/3" : 1,
+      "Temporal Prime Directive/" : 1
+   },
+   "Jadzia's Disguise/2" : {
+      "Covert Contacts/1" : 1,
+      "Starfleet Engineering Uniform (DAX)/2" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Jadzia's Disguise/3" : {
+      "Jadzia's Disguise/2" : 1,
+      "Starfleet Uniform Pattern/2" : 2,
+      "Trident Scanner/2" : 2
+   },
+   "Jadzia's Disguise/4" : {
+      "Jadzia's Disguise/3" : 1,
+      "Starfleet Uniform Pattern/3" : 2,
+      "Toolbox/3" : 1
+   },
+   "Janeway's Tank Top/3" : {
+      "Coffee/2" : 2,
+      "Photon Grenade/2" : 2,
+      "Starfleet Sleeveless Undershirt/2" : 2
+   },
+   "Janeway's Tank Top/4" : {
+      "Janeway's Tank Top/3" : 1,
+      "Photon Grenade/3" : 2,
+      "Prime Directive/2" : 2
+   },
+   "Jet Pack/1" : {
+      "Backpack/1" : 1,
+      "Casing/0" : 4,
+      "Holoprogram/0" : 2
+   },
+   "Jet Pack/2" : {
+      "Casing/1" : 4,
+      "Jet Pack/1" : 2
+   },
+   "Jet Pack/3" : {
+      "Casing/2" : 4,
+      "Jet Pack/2" : 1,
+      "Power Cell/2" : 2
+   },
+   "Jet Pack/4" : {
+      "Casing/3" : 4,
+      "Jet Pack/3" : 2
+   },
+   "Jet Pack/5" : {
+      "Casing/4" : 4,
+      "Jet Pack/4" : 2
+   },
+   "Jibalian Spices/1" : {
+      "Astrometric Chart/1" : 1,
+      "Spices/0" : 4
+   },
+   "Jibalian Spices/2" : {
+      "Astrometric Chart/1" : 1,
+      "Jibalian Spices/1" : 1,
+      "Spices/1" : 4
+   },
+   "KCA Icon/3" : {
+      "Agonizer/0" : 1,
+      "KCA Icon/2" : 1
+   },
+   "KCA Icon/4" : {
+      "Gagh/1" : 1,
+      "KCA Icon/3" : 1
+   },
+   "Kanar/0" : {
+      "Alcohol/0" : 2,
+      "Replicator Ration/0" : 4
+   },
+   "Kanar/1" : {
+      "Alcohol/1" : 2,
+      "Kanar/0" : 2
+   },
+   "Kanar/3" : {
+      "Alcohol/2" : 2,
+      "Central Command Insignia/2" : 1,
+      "Kanar/2" : 1
+   },
+   "Kanar/4" : {
+      "Central Command Insignia/3" : 1,
+      "Kanar/3" : 2
+   },
+   "Kang's Sword/2" : {
+      "Bloodwine/1" : 1,
+      "D'k tahg/2" : 1,
+      "Pollyalloy/2" : 2
+   },
+   "Kazon Disruptor Pistol/2" : {
+      "Emitter Crystal/1" : 1,
+      "Kazon Disruptor Pistol/1" : 1,
+      "Power Cell/1" : 2
+   },
+   "Kazon Disruptor Pistol/3" : {
+      "Kazon Disruptor Pistol/2" : 2,
+      "Power Cell/2" : 1
+   },
+   "Kazon Disruptor Rifle/0" : {
+      "Compression Rifle/0" : 1,
+      "Emitter Crystal/0" : 1,
+      "Expansion Module/0" : 1
+   },
+   "Kazon Disruptor Rifle/1" : {
+      "Emitter Crystal/1" : 1,
+      "Kazon Disruptor Rifle/0" : 2
+   },
+   "Kazon Disruptor Rifle/2" : {
+      "Emitter Crystal/1" : 2,
+      "Expansion Module/2" : 1,
+      "Kazon Disruptor Rifle/1" : 2
+   },
+   "Kazon Name/1" : {
+      "Kazon Name/0" : 2
+   },
+   "Kazon Name/2" : {
+      "Kazon Name/1" : 2
+   },
+   "Kazon Name/3" : {
+      "Kazon Name/2" : 2
+   },
+   "Keevan's PADD/2" : {
+      "Dominion PADD/1" : 2,
+      "Dominion Seal/0" : 1,
+      "Isolinear Chips/1" : 1
+   },
+   "Kemocite/3" : {
+      "Kemocite/2" : 1,
+      "Science Experiment/2" : 1
+   },
+   "Kemocite/4" : {
+      "Kemocite/3" : 1,
+      "Science Experiment/3" : 1
+   },
+   "Kemocite/5" : {
+      "Kemocite/4" : 1,
+      "Science Experiment/" : 1
+   },
+   "Kira's Earring/3" : {
+      "Bajoran Earring/3" : 1,
+      "Orb Experience/1" : 1
+   },
+   "Kira's Earring/4" : {
+      "Kira's Earring/3" : 2,
+      "Security Codes/2" : 1,
+      "Spring Wine/3" : 1
+   },
+   "Kira's Pistol/3" : {
+      "Bajoran Phaser/2" : 1,
+      "Resistance Cipher/2" : 1
+   },
+   "Kira's Pistol/4" : {
+      "Kira's Pistol/3" : 2
+   },
+   "Kira's Uniform/3" : {
+      "Bajoran Command Uniform/1" : 1,
+      "Bajoran Security Uniform/2" : 1,
+      "Orb Experience/2" : 1
+   },
+   "Kirk's Communicator/2" : {
+      "Casing/1" : 4,
+      "Communicator (TOS)/1" : 2,
+      "First Contact Protocol/1" : 2
+   },
+   "Kirk's Communicator/3" : {
+      "Casing/2" : 4,
+      "Identification Code/2" : 1,
+      "Kirk's Communicator/2" : 1
+   },
+   "Kirk's Communicator/4" : {
+      "Casing/3" : 4,
+      "Kirk's Communicator/3" : 1,
+      "Tactical Alert/3" : 1
+   },
+   "Kirk's Communicator/5" : {
+      "Casing/4" : 4,
+      "First Contact Protocol/4" : 1,
+      "Kirk's Communicator/4" : 1
+   },
+   "Kirk's Lirpa/3" : {
+      "3d Chess Set/1" : 1,
+      "Hypospray (TOS)/0" : 3,
+      "Lirpa/2" : 1
+   },
+   "Kirk's Lirpa/4" : {
+      "Andorian Rifle/2" : 1,
+      "Kirk's Lirpa/3" : 1,
+      "Pollyalloy/2" : 2
+   },
+   "Klingon Baldric/1" : {
+      "Clothing Pattern/0" : 1,
+      "Klingon Baldric/0" : 1,
+      "Pollyalloy/0" : 2
+   },
+   "Klingon Baldric/2" : {
+      "Bloodwine/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "Klingon Baldric/1" : 1
+   },
+   "Klingon Baldric/3" : {
+      "Klingon Baldric/2" : 1,
+      "Klingon House Crest/1" : 1,
+      "Pollyalloy/1" : 2
+   },
+   "Klingon Baldric/4" : {
+      "Clothing Pattern/3" : 3,
+      "Klingon Baldric/3" : 1,
+      "Klingon House Crest/2" : 1
+   },
+   "Klingon Communicator/1" : {
+      "Casing/0" : 4,
+      "Gagh/0" : 1,
+      "Klingon House Crest/1" : 1
+   },
+   "Klingon Communicator/2" : {
+      "Casing/1" : 2,
+      "Expansion Module/1" : 2,
+      "Klingon Communicator/1" : 2
+   },
+   "Klingon Communicator/3" : {
+      "Casing/2" : 2,
+      "Expansion Module/2" : 2,
+      "Klingon Communicator/2" : 2
+   },
+   "Klingon Communicator/4" : {
+      "Casing/3" : 2,
+      "Expansion Module/3" : 2,
+      "Klingon Communicator/3" : 2
+   },
+   "Klingon Disruptor Pistol/2" : {
+      "Casing/1" : 2,
+      "Klingon Disruptor Pistol/1" : 1,
+      "Power Cell/1" : 2
+   },
+   "Klingon Disruptor Pistol/3" : {
+      "Klingon Disruptor Pistol/2" : 2,
+      "Power Cell/2" : 2
+   },
+   "Klingon Disruptor Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "Klingon Disruptor Pistol/3" : 2
+   },
+   "Klingon Disruptor Rifle/2" : {
+      "Expansion Module/1" : 2,
+      "Klingon Disruptor Rifle/1" : 2
+   },
+   "Klingon Disruptor Rifle/3" : {
+      "Emitter Crystal/2" : 4,
+      "Expansion Module/2" : 4,
+      "Klingon Disruptor Rifle/2" : 2
+   },
+   "Klingon Disruptor Rifle/4" : {
+      "Casing/3" : 4,
+      "Emitter Crystal/3" : 4,
+      "Klingon Disruptor Rifle/3" : 2
+   },
+   "Klingon Disruptor Rifle/5" : {
+      "Casing/4" : 4,
+      "Klingon Disruptor Rifle/4" : 2,
+      "Power Cell/4" : 4
+   },
+   "Klingon House Crest/3" : {
+      "Bloodwine/0" : 1,
+      "Gagh/0" : 1,
+      "Klingon House Crest/2" : 1
+   },
+   "Klingon PADD/0" : {
+      "Casing/0" : 2,
+      "Database (Panel)/0" : 2,
+      "Microconnector/0" : 2
+   },
+   "Klingon PADD/1" : {
+      "Database (Panel)/0" : 2,
+      "Klingon PADD/0" : 2
+   },
+   "Klingon PADD/2" : {
+      "Casing/1" : 4,
+      "Isolinear Chips/1" : 4,
+      "Klingon PADD/1" : 1
+   },
+   "Klingon PADD/3" : {
+      "Isolinear Chips/2" : 2,
+      "Klingon PADD/2" : 2
+   },
+   "Klingon Warnog/3" : {
+      "Alcohol/2" : 2,
+      "D'k tahg/1" : 2,
+      "Klingon Warnog/2" : 1
+   },
+   "Klingon Warnog/4" : {
+      "Alcohol/3" : 2,
+      "Bat'leth/1" : 1,
+      "Klingon Warnog/3" : 1
+   },
+   "Klingon Warnog/5" : {
+      "Alcohol/4" : 2,
+      "Klingon House Crest/2" : 1,
+      "Klingon Warnog/4" : 1
+   },
+   "Klingonese Dictionary/0" : {
+      "Text Book/0" : 1,
+      "Translation Algorithm/0" : 1
+   },
+   "Klingonese Dictionary/1" : {
+      "Database (Panel)/0" : 2,
+      "Klingonese Dictionary/0" : 1,
+      "Translation Algorithm/0" : 2
+   },
+   "Klingonese Dictionary/2" : {
+      " Database (Panel)/1" : 1,
+      " Klingonese Dictionary/1" : 1,
+      " Translation Algorithm/1" : 1
+   },
+   "Klingonese Dictionary/4" : {
+      "Klingonese Dictionary/3" : 1,
+      "Linguistic Database/3" : 1,
+      "Translation Algorithm/3" : 1
+   },
+   "Kolinahr Text/1" : {
+      "IDIC/1" : 1,
+      "Incense/0" : 3
+   },
+   "Kolinahr Text/2" : {
+      "Incense/1" : 4,
+      "Kolinahr Text/1" : 1,
+      "Vulcan Meditation Lamp/1" : 1
+   },
+   "Kolinahr Text/3" : {
+      "IDIC/2" : 1,
+      "Incense/2" : 4,
+      "Kolinahr Text/2" : 1
+   },
+   "Kor's Armor/2" : {
+      "Furs/2" : 2,
+      "Klingon Armor (TOS)/2" : 2,
+      "Pollyalloy/0" : 1
+   },
+   "Kor's Armor/3" : {
+      "D'k tahg/1" : 1,
+      "Furs/2" : 2,
+      "Klingon Armor (TOS)/2" : 1
+   },
+   "Kotra/1" : {
+      "3d Chess Set/1" : 1,
+      "Central Command Insignia/0" : 1
+   },
+   "Kotra/3" : {
+      "Kanar/2" : 1,
+      "Kotra/2" : 1
+   },
+   "Kotra/4" : {
+      "Central Command Insignia/3" : 1,
+      "Kotra/3" : 1
+   },
+   "Kukalaka/3" : {
+      "Autosuture/2" : 1,
+      "Medical Lesson/2" : 1,
+      "Medkit/2" : 2
+   },
+   "Kukalaka/4" : {
+      "Autosuture/3" : 1,
+      "Kukalaka/3" : 2,
+      "Medical Lesson/3" : 1
+   },
+   "Kukalaka/5" : {
+      "Autosuture/4" : 1,
+      "Kukalaka/4" : 2,
+      "Medical Lesson/4" : 2
+   },
+   "Kurlan Naiskos/1" : {
+      "Kurlan Naiskos/0" : 2
+   },
+   "Kurlan Naiskos/2" : {
+      "Kurlan Naiskos/1" : 2
+   },
+   "Kurlan Naiskos/3" : {
+      "Kurlan Naiskos/2" : 2
+   },
+   "Kurlan Naiskos/4" : {
+      "Kurlan Naiskos/3" : 2
+   },
+   "Laser Beacon/1" : {
+      "Laser Beacon/0" : 2
+   },
+   "Laser Beacon/2" : {
+      "Emitter Crystal/1" : 1,
+      "Laser Beacon/1" : 2
+   },
+   "Laser Beacon/3" : {
+      "Laser Beacon/2" : 2
+   },
+   "Laser Scalpel/1" : {
+      "Laser Scalpel/0" : 2
+   },
+   "Laser Scalpel/2" : {
+      "Laser Scalpel/1" : 2,
+      "Pollyalloy/1" : 2
+   },
+   "Late Vintage Bloodwine/3" : {
+      "Bat'leth/2" : 1,
+      "Bloodwine/2" : 1,
+      "Klingon House Crest/2" : 1
+   },
+   "Late Vintage Bloodwine/4" : {
+      "Alcohol/3" : 2,
+      "Bat'leth/3" : 1,
+      "Late Vintage Bloodwine/3" : 2
+   },
+   "Late Vintage Bloodwine/5" : {
+      "Alcohol/4" : 2,
+      "Bat'leth/4" : 2,
+      "Late Vintage Bloodwine/4" : 2
+   },
+   "Latinum Tooth Sharpener/3" : {
+      "Gold-Pressed Latinum/2" : 2,
+      "Latinum Tooth Sharpener/2" : 1,
+      "Slug-o-Cola/2" : 1
+   },
+   "Leola Root/0" : {
+      "Identification Code/0" : 2,
+      "Spices/0" : 2
+   },
+   "Leola Root/1" : {
+      "Leola Root/0" : 2,
+      "Spices/1" : 2
+   },
+   "Linguistic Database/1" : {
+      "Database (Panel)/0" : 1,
+      "Exo-Linguistic Text/0" : 1,
+      "Isolinear Chips/0" : 1
+   },
+   "Linguistic Database/2" : {
+      " Linguistic Database/1" : 2
+   },
+   "Linguistic Database/3" : {
+      "Linguistic Database/2" : 2
+   },
+   "Lirpa/1" : {
+      "IDIC/1" : 1,
+      "Pollyalloy/0" : 1
+   },
+   "Lirpa/2" : {
+      "Kolinahr Text/1" : 1,
+      "Lirpa/1" : 1,
+      "Pollyalloy/0" : 4
+   },
+   "Lursa's Communicator/2" : {
+      "House Duras Crest/1" : 1,
+      "Klingon Communicator/1" : 1,
+      "Relay/1" : 2
+   },
+   "Lursa's Communicator/3" : {
+      "Lursa's Communicator/2" : 1,
+      "Relay/2" : 2,
+      "Romulan Encryption Algorithm/2" : 1
+   },
+   "Lursa's Disruptor Pistol/2" : {
+      "House Duras Crest/1" : 1,
+      "Klingon Disruptor Pistol/1" : 1
+   },
+   "Lursa's Disruptor Pistol/3" : {
+      "Emitter Crystal/2" : 2,
+      "Klingon Disruptor Rifle/2" : 1,
+      "Lursa's Disruptor Pistol/2" : 1
+   },
+   "Lwaxana's Gown/2" : {
+      "Civilian Diplomatic Dress/1" : 2,
+      "Clothing Pattern/2" : 1,
+      "Holoprogram/1" : 1
+   },
+   "MACO Uniform/0" : {
+      "Clothing Pattern/0" : 1,
+      "Security Reports/0" : 1
+   },
+   "MACO Uniform/1" : {
+      "Clothing Pattern/0" : 2,
+      "MACO Uniform/0" : 1,
+      "Plasma Rifle/0" : 1
+   },
+   "Manitoba Journal of Interplanetary Psychology/3" : {
+      "Medical Lesson/2" : 1,
+      "Neurocortical Monitor/2" : 1,
+      "Psychology Text/2" : 1
+   },
+   "Manitoba Journal of Interplanetary Psychology/4" : {
+      "Manitoba Journal of Interplanetary Psychology/3" : 1,
+      "Medical Lesson/3" : 1,
+      "Neurocortical Monitor/3" : 1
+   },
+   "Manitoba Journal of Interplanetary Psychology/5" : {
+      "Brain Circuitry Pattern/4" : 2,
+      "Manitoba Journal of Interplanetary Psychology/4" : 1,
+      "Medical Lesson/4" : 1
+   },
+   "Maquis Command Outfit/1" : {
+      "Clothing Pattern/0" : 2,
+      "Maquis Command Outfit/0" : 1,
+      "Maquis Emblem/0" : 1
+   },
+   "Maquis Command Outfit/2" : {
+      "Maquis Command Outfit/1" : 1,
+      "Maquis Emblem/1" : 1,
+      "Maquis Pistol/1" : 1
+   },
+   "Maquis Command Outfit/3" : {
+      "Clothing Pattern/2" : 2,
+      "Maquis Command Outfit/2" : 1,
+      "Maquis Emblem/2" : 1
+   },
+   "Maquis Emblem/2" : {
+      "Maquis Command Outfit/0" : 1,
+      "Maquis Emblem/1" : 1
+   },
+   "Maquis Emblem/3" : {
+      "Maquis Emblem/2" : 1,
+      "Maquis Pistol/1" : 1
+   },
+   "Maquis Pistol/3" : {
+      "Maquis Emblem/2" : 1,
+      "Maquis Pistol/2" : 1,
+      "Power Cell/2" : 2
+   },
+   "Maquis Pistol/4" : {
+      "Maquis Emblem/3" : 1,
+      "Maquis Pistol/3" : 2,
+      "Power Cell/3" : 2
+   },
+   "Mass Spectrometer/1" : {
+      "Mass Spectrometer/0" : 2
+   },
+   "Mass Spectrometer/2" : {
+      "Mass Spectrometer/1" : 2
+   },
+   "Massage Oil/2" : {
+      "Alcohol/1" : 2,
+      "Incense/1" : 2,
+      "Replicator Ration/1" : 2
+   },
+   "Massage Oil/3" : {
+      "Incense/2" : 1,
+      "Massage Oil/2" : 2,
+      "Medical Lesson/1" : 1
+   },
+   "Massage Oil/4" : {
+      "Massage Oil/3" : 1,
+      "Medical Lesson/2" : 1,
+      "Replicator Ration/3" : 2
+   },
+   "Mayweather's Boomer Outfit/2" : {
+      "Astrometric Chart/1" : 1,
+      "Civilian Command Clothing/1" : 1
+   },
+   "Mayweather's Boomer Outfit/3" : {
+      "Astrometric Chart/2" : 1,
+      "Mayweather's Boomer Outfit/2" : 1
+   },
+   "Mayweather's Boomer Outfit/4" : {
+      "Astrometric Chart/3" : 1,
+      "Mayweather's Boomer Outfit/3" : 1
+   },
+   "McCoy's Scrubs/2" : {
+      "20th Century Scrubs/2" : 1,
+      "Hypospray (TOS)/0" : 2,
+      "Medical Scanner (Logical)/1" : 1
+   },
+   "McCoy's Tricorder/0" : {
+      "Medical Scanner (Logical)/0" : 1,
+      "Sensor/0" : 1,
+      "Tricorder/0" : 1
+   },
+   "McCoy's Tricorder/1" : {
+      "Isolinear Chips/0" : 3,
+      "McCoy's Tricorder/0" : 2
+   },
+   "McCoy's Tricorder/2" : {
+      "Cortical Monitor/0" : 1,
+      "Hypospray (TNG)/1" : 1,
+      "McCoy's Tricorder/1" : 1
+   },
+   "McCoy's Tricorder/3" : {
+      "McCoy's Tricorder/2" : 1,
+      "Medical Experiment/1" : 1,
+      "Optronic Circuit/2" : 2
+   },
+   "McCoy's Tricorder/4" : {
+      "McCoy's Tricorder/3" : 2,
+      "Sensor/4" : 4
+   },
+   "Medical Coat/0" : {
+      "Starfleet Uniform Pattern/0" : 1,
+      "TR-580 Medical Tricorder/0" : 1
+   },
+   "Medical Coat/1" : {
+      "Medical Coat/0" : 2
+   },
+   "Medical Coat/2" : {
+      "Medical Coat/1" : 2
+   },
+   "Medical Coat/3" : {
+      "Medical Coat/2" : 2
+   },
+   "Medical Coat/4" : {
+      "Medical Coat/3" : 2
+   },
+   "Medical Experiment/3" : {
+      "Medical Experiment/2" : 2,
+      "Stethoscope/2" : 2
+   },
+   "Medical Experiment/4" : {
+      "Medical Experiment/3" : 1,
+      "Stethoscope/3" : 1
+   },
+   "Medical Experiment/5" : {
+      "Medical Experiment/4" : 1,
+      "Stethoscope/4" : 1
+   },
+   "Medical Lesson/0" : {
+      "Medical Experiment/0" : 1,
+      "Writing PADD (TOS)/0" : 1
+   },
+   "Medical Lesson/1" : {
+      "Database (Panel)/0" : 4,
+      "Medical Lesson/0" : 1,
+      "TR-580 Medical Tricorder/0" : 1
+   },
+   "Medical Lesson/2" : {
+      "Database (Panel)/1" : 4,
+      "Dermal Regenerator/1" : 1,
+      "Medical Lesson/1" : 2
+   },
+   "Medical Lesson/3" : {
+      "Database (Panel)/2" : 4,
+      "Dermal Regenerator/2" : 1,
+      "Medical Lesson/2" : 1
+   },
+   "Medical Lesson/4" : {
+      "Database (Panel)/3" : 4,
+      "Medical Lesson/3" : 1,
+      "Medkit/3" : 1
+   },
+   "Medkit/1" : {
+      "Dermal Regenerator/0" : 1,
+      "Hypospray (TNG)/0" : 1,
+      "Tricorder Mark VII/0" : 1
+   },
+   "Medkit/2" : {
+      "Medkit/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Medkit/3" : {
+      "Isolinear Chips/0" : 1,
+      "Medkit/2" : 1
+   },
+   "Medkit/4" : {
+      "Medkit/3" : 1,
+      "Optronic Circuit/0" : 1
+   },
+   "Mek'leth/1" : {
+      "Mek'leth/0" : 1,
+      "Pollyalloy/1" : 2
+   },
+   "Mek'leth/2" : {
+      "D'k tahg/1" : 1,
+      "Mek'leth/1" : 1,
+      "Pollyalloy/1" : 2
+   },
+   "Mek'leth/3" : {
+      "D'k tahg/2" : 1,
+      "Gagh/1" : 1,
+      "Mek'leth/2" : 1
+   },
+   "Mek'leth/4" : {
+      "Gagh/3" : 2,
+      "Mek'leth/3" : 1,
+      "Pollyalloy/3" : 2
+   },
+   "Melora's Exoskeleton/1" : {
+      "Microconnector/1" : 2,
+      "Pollyalloy/1" : 2,
+      "Power Cell/1" : 2
+   },
+   "Melora's Exoskeleton/2" : {
+      "Melora's Exoskeleton/1" : 1,
+      "Physiostimulator/1" : 2,
+      "Pollyalloy/2" : 2
+   },
+   "Melora's Exoskeleton/3" : {
+      "Astrometric Chart/2" : 2,
+      "Engineering Lesson/1" : 1,
+      "Melora's Exoskeleton/2" : 1
+   },
+   "Model Enterprise/2" : {
+      "Earl Grey Tea/1" : 1,
+      "Gold-Pressed Latinum/1" : 2,
+      "Prime Directive/1" : 1
+   },
+   "Model Enterprise/3" : {
+      "Earl Grey Tea/2" : 1,
+      "Model Enterprise/2" : 1,
+      "Prime Directive/2" : 2
+   },
+   "Model Enterprise/4" : {
+      "Earl Grey Tea/3" : 1,
+      "Model Enterprise/3" : 2,
+      "Prime Directive/3" : 1
+   },
+   "Mora's Earring/2" : {
+      "Bajoran Earring/2" : 1,
+      "Incense/1" : 2,
+      "Science Experiment/0" : 1
+   },
+   "Multidimensional Transporter Device/3" : {
+      "Multidimensional Transporter Device/2" : 1,
+      "Subprocessor/2" : 4,
+      "Terran Slave Emblem/1" : 1
+   },
+   "Multidimensional Transporter Device/4" : {
+      "Isolinear Chips/3" : 4,
+      "Multidimensional Transporter Device/3" : 1,
+      "Terran Slave Emblem/2" : 1
+   },
+   "Multidimensional Transporter Device/5" : {
+      "Isolinear Chips/4" : 4,
+      "Multidimensional Transporter Device/4" : 2,
+      "Terran Slave Emblem/3" : 1
+   },
+   "Neelix's Suit/3" : {
+      "Civilian Diplomatic Clothing/2" : 1,
+      "First Contact Protocol/1" : 1,
+      "Leola Root/0" : 1
+   },
+   "Neelix's Suit/4" : {
+      "Astrometric Chart/1" : 1,
+      "Jibalian Spices/1" : 1,
+      "Neelix's Suit/3" : 1
+   },
+   "Neurocortical Monitor/1" : {
+      "Neurocortical Monitor/0" : 2
+   },
+   "Neurocortical Monitor/2" : {
+      "Neurocortical Monitor/1" : 2
+   },
+   "Neurocortical Monitor/3" : {
+      "Neurocortical Monitor/2" : 2
+   },
+   "Neutron Microscope/2" : {
+      "Casing/1" : 2,
+      "Neutron Microscope/1" : 2,
+      "Sensor/1" : 2
+   },
+   "Neutron Microscope/3" : {
+      "Neutron Microscope/2" : 1,
+      "Science Experiment/0" : 1,
+      "Sensor/2" : 4
+   },
+   "Neutron Microscope/4" : {
+      "Neutron Microscope/3" : 1,
+      "Science Experiment/1" : 1,
+      "Sensor/3" : 4
+   },
+   "Neutron Microscope/5" : {
+      "Neutron Microscope/4" : 1,
+      "Science Experiment/2" : 1,
+      "Sensor/4" : 4
+   },
+   "Nog's Tricorder/2" : {
+      "Root Beer/1" : 1,
+      "Slug-o-Cola/1" : 2,
+      "TR-590 Tricorder X/1" : 2
+   },
+   "Nog's Tricorder/3" : {
+      "Nog's Tricorder/2" : 1,
+      "Root Beer/2" : 1,
+      "Slug-o-Cola/2" : 2
+   },
+   "Nog's Uniform/2" : {
+      "Cadet Engineering Uniform/1" : 2,
+      "Great Material Continuum Texts/1" : 2,
+      "Root Beer/1" : 2
+   },
+   "Nog's Uniform/3" : {
+      "Great Material Continuum Texts/2" : 1,
+      "Nog's Uniform/2" : 2,
+      "Tube Grubs/2" : 1
+   },
+   "Novel/3" : {
+      "Novel/2" : 2
+   },
+   "Novel/4" : {
+      "Novel/3" : 2
+   },
+   "ODN Recoupler/1" : {
+      "ODN Recoupler/0" : 2
+   },
+   "ODN Recoupler/2" : {
+      "ODN Recoupler/1" : 2
+   },
+   "Obsidian Order Clearance/0" : {
+      "Central Command Insignia/0" : 1,
+      "Identification Code/0" : 1,
+      "Security Codes/0" : 1
+   },
+   "Obsidian Order Clearance/1" : {
+      "Database (Panel)/0" : 2,
+      "Encoded Communique/0" : 1,
+      "Obsidian Order Clearance/0" : 1
+   },
+   "Obsidian Order Clearance/2" : {
+      "Covert Contacts/1" : 1,
+      "Database (Panel)/1" : 2,
+      "Obsidian Order Clearance/1" : 1
+   },
+   "Obsidian Order Clearance/3" : {
+      "Covert Contacts/2" : 1,
+      "Database (Panel)/2" : 2,
+      "Obsidian Order Clearance/2" : 1
+   },
+   "Ode to Spot Poem/2" : {
+      "Positronic Brain/1" : 1,
+      "Writing PADD (DS9)/1" : 1
+   },
+   "Ode to Spot Poem/3" : {
+      "Ode to Spot Poem/2" : 2
+   },
+   "Ode to Spot Poem/4" : {
+      "Ode to Spot Poem/3" : 2
+   },
+   "Odo's Bucket/1" : {
+      "Identification Code/0" : 2,
+      "Pollyalloy/0" : 2,
+      "Security Reports/0" : 1
+   },
+   "Odo's Bucket/2" : {
+      "Odo's Bucket/1" : 1,
+      "Pollyalloy/1" : 3,
+      "Security Reports/1" : 1
+   },
+   "Odo's Bucket/3" : {
+      "Odo's Bucket/2" : 1,
+      "Pollyalloy/2" : 3,
+      "Security Reports/2" : 1
+   },
+   "Odo's Bucket/4" : {
+      "Odo's Bucket/3" : 1,
+      "Pollyalloy/3" : 3,
+      "Security Reports/3" : 1
+   },
+   "Odo's Monitor/3" : {
+      "Cardassian Monitor/2" : 2,
+      "Case Files/2" : 1,
+      "Resistance Cipher/1" : 1
+   },
+   "Odo's Occupation Uniform/0" : {
+      "Clothing Pattern/0" : 4,
+      "Security Reports/0" : 1
+   },
+   "Odo's Occupation Uniform/1" : {
+      "Cardassian Encryption Algorithm/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "Odo's Occupation Uniform/0" : 1
+   },
+   "Odo's Occupation Uniform/2" : {
+      "Central Command Insignia/1" : 1,
+      "Clothing Pattern/1" : 2,
+      "Odo's Occupation Uniform/1" : 2
+   },
+   "Odo's PADD/2" : {
+      "Bajoran PADD/2" : 1,
+      "Case Files/1" : 2,
+      "Security Reports/1" : 1
+   },
+   "Odo's PADD/3" : {
+      "Case Files/2" : 2,
+      "Odo's PADD/2" : 1,
+      "Resistance Cipher/1" : 1
+   },
+   "Odo's Uniform/2" : {
+      "Bajoran Security Uniform/2" : 2,
+      "Clothing Pattern/1" : 4,
+      "Security Codes/1" : 1
+   },
+   "Odo's Uniform/3" : {
+      "Case Files/2" : 1,
+      "Clothing Pattern/2" : 4,
+      "Odo's Uniform/2" : 1
+   },
+   "Ogawa's Coat/2" : {
+      "Combadge (TNG)/1" : 1,
+      "Medical Coat/2" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Opera/2" : {
+      "Novel/1" : 1,
+      "Poetry/0" : 1
+   },
+   "Opera/3" : {
+      "Opera/2" : 1,
+      "Tuxedo/2" : 1
+   },
+   "Opera/4" : {
+      "Opera/3" : 1,
+      "Orchids/2" : 1,
+      "Tuxedo/2" : 1
+   },
+   "Optronic Data Core/1" : {
+      "Optronic Circuit/0" : 2,
+      "Optronic Data Core/0" : 1,
+      "Subprocessor/0" : 2
+   },
+   "Optronic Data Core/2" : {
+      "Holoprogram/1" : 1,
+      "Optronic Circuit/1" : 2,
+      "Optronic Data Core/1" : 1
+   },
+   "Optronic Data Core/3" : {
+      "Holoprogram/2" : 1,
+      "Optronic Circuit/2" : 2,
+      "Optronic Data Core/2" : 1
+   },
+   "Optronic Data Core/4" : {
+      "Holoprogram/2" : 2,
+      "Optronic Circuit/3" : 2,
+      "Optronic Data Core/3" : 1
+   },
+   "Orb Experience/3" : {
+      "Bajoran Earring/1" : 1,
+      "Incense/3" : 2,
+      "Orb Experience/2" : 1
+   },
+   "Orb Experience/4" : {
+      "Bajoran Earring/2" : 1,
+      "Incense/4" : 2,
+      "Orb Experience/3" : 1
+   },
+   "Orb Experience/5" : {
+      "Orb Experience/4" : 1,
+      "Vedek Robes/2" : 1,
+      "Will of the Prophets Text/3" : 1
+   },
+   "Orchids/1" : {
+      "Orchids/0" : 2
+   },
+   "Orchids/2" : {
+      "Orchids/1" : 2
+   },
+   "Orchids/3" : {
+      "Orchids/2" : 2
+   },
+   "Osmotic Eel/0" : {
+      "Biological Sample Kit/0" : 1,
+      "Science Experiment/0" : 1
+   },
+   "Osmotic Eel/1" : {
+      "Augment Icon/1" : 1,
+      "Osmotic Eel/0" : 1
+   },
+   "Osmotic Eel/2" : {
+      "Augment Icon/2" : 1,
+      "Osmotic Eel/1" : 1
+   },
+   "Osmotic Eel/3" : {
+      "Augment Icon/3" : 1,
+      "Osmotic Eel/2" : 1
+   },
+   "Osmotic Eel/4" : {
+      "Augment Icon/" : 1,
+      "Osmotic Eel/3" : 1
+   },
+   "Osmotic Eel/5" : {
+      "Osmotic Eel/4" : 2
+   },
+   "Palm Beacon/1" : {
+      "Palm Beacon/0" : 2
+   },
+   "Palm Beacon/2" : {
+      "Palm Beacon/1" : 2
+   },
+   "Palm Beacon/3" : {
+      "Palm Beacon/2" : 2
+   },
+   "Palm Beacon/4" : {
+      "Palm Beacon/3" : 2
+   },
+   "Paradise Lost Novel/3" : {
+      "Alpha-wave Inducer/2" : 1,
+      "Novel/2" : 1,
+      "Opera/2" : 1
+   },
+   "Paradise Lost Novel/4" : {
+      "Paradise Lost Novel/3" : 1,
+      "Poetry/3" : 1
+   },
+   "Paradise Lost Novel/5" : {
+      "Opera/4" : 1,
+      "Paradise Lost Novel/4" : 1
+   },
+   "Parametric Scanner/1" : {
+      "Parametric Scanner/0" : 2
+   },
+   "Parametric Scanner/2" : {
+      "Parametric Scanner/1" : 2
+   },
+   "Parametric Scanner/3" : {
+      "Parametric Scanner/2" : 2
+   },
+   "Parametric Scanner/4" : {
+      "Parametric Scanner/3" : 2
+   },
+   "Paris's Stick/3" : {
+      "Hockey Stick/3" : 1,
+      "Holoprogram/1" : 1,
+      "Pollyalloy/2" : 1
+   },
+   "Pathogen/2" : {
+      "Medical Experiment/1" : 1,
+      "Science Experiment/1" : 1
+   },
+   "Pathogen/3" : {
+      "Medical Experiment/0" : 2,
+      "Pathogen/2" : 1
+   },
+   "Pathogen/4" : {
+      "Medical Experiment/1" : 2,
+      "Pathogen/3" : 1
+   },
+   "Pattern Enhancer/3" : {
+      "Pattern Enhancer/2" : 2,
+      "Power Cell/1" : 2
+   },
+   "Pattern Enhancer/4" : {
+      "Pattern Enhancer/3" : 2,
+      "Subprocessor/3" : 1
+   },
+   "Pattern Enhancer/5" : {
+      "Pattern Enhancer/4" : 2,
+      "Power Cell/4" : 1,
+      "Subprocessor/4" : 1
+   },
+   "Persis's D'k tahg/3" : {
+      "Augment Icon/1" : 1,
+      "D'k tahg/3" : 1,
+      "Pollyalloy/2" : 2
+   },
+   "Persis's D'k tahg/4" : {
+      "Augment Icon/1" : 1,
+      "Persis's D'k tahg/3" : 2,
+      "Soong's Teaching/2" : 1
+   },
+   "Persis's Outfit/2" : {
+      "Civilian Security Clothing/1" : 2,
+      "Clothing Pattern/1" : 4,
+      "Poisoned Drink/0" : 1
+   },
+   "Persis's Outfit/3" : {
+      "Clothing Pattern/2" : 4,
+      "Pathogen/2" : 1,
+      "Persis's Outfit/2" : 1
+   },
+   "Persis's Pistol/2" : {
+      "Augment Icon/1" : 1,
+      "Emitter Crystal/1" : 2,
+      "Klingon Disruptor Pistol/2" : 1
+   },
+   "Persis's Pistol/3" : {
+      "Augment Icon/1" : 1,
+      "Expansion Module/2" : 2,
+      "Persis's Pistol/2" : 1
+   },
+   "Persis's Pistol/4" : {
+      "Emitter Crystal/2" : 2,
+      "Persis's Pistol/3" : 1,
+      "Soong's Teaching/2" : 1
+   },
+   "Phase Pistol/2" : {
+      "Phase Pistol/1" : 2
+   },
+   "Phase Pistol/3" : {
+      "Phase Pistol/2" : 2
+   },
+   "Phase Pistol/4" : {
+      "Phase Pistol/3" : 2
+   },
+   "Phase Pistol/5" : {
+      "Phase Pistol/4" : 2
+   },
+   "Phaser Rifle/1" : {
+      "Casing/0" : 2,
+      "Emitter Crystal/0" : 2,
+      "Phaser Rifle/0" : 1
+   },
+   "Phaser Rifle/2" : {
+      "Emitter Crystal/1" : 2,
+      "Phaser Rifle/1" : 1,
+      "Power Cell/2" : 2
+   },
+   "Phaser Rifle/3" : {
+      "Casing/3" : 2,
+      "Emitter Crystal/2" : 2,
+      "Phaser Rifle/2" : 1
+   },
+   "Phaser Rifle/4" : {
+      "Expansion Module/3" : 2,
+      "Optronic Circuit/4" : 2,
+      "Phaser Rifle/3" : 1
+   },
+   "Phaser Type 1/3" : {
+      "Phaser Type 1/2" : 2
+   },
+   "Phaser Type 1/4" : {
+      "Phaser Type 1/3" : 2
+   },
+   "Pheromones/1" : {
+      "Alcohol/0" : 4,
+      "First Contact Protocol/0" : 2
+   },
+   "Pheromones/2" : {
+      "Alcohol/1" : 2,
+      "Pheromones/1" : 1,
+      "Science Experiment/1" : 1
+   },
+   "Pheromones/3" : {
+      "Massage Oil/2" : 1,
+      "Pheromones/2" : 1,
+      "Replicator Ration/2" : 2
+   },
+   "Pheromones/4" : {
+      "Brain Circuitry Pattern/3" : 1,
+      "Pheromones/3" : 1,
+      "Science Experiment/3" : 1
+   },
+   "Photon Grenade/1" : {
+      "Photon Grenade/0" : 2
+   },
+   "Photon Grenade/2" : {
+      "Photon Grenade/1" : 2
+   },
+   "Photon Grenade/3" : {
+      "Photon Grenade/2" : 2
+   },
+   "Photon Grenade/4" : {
+      "Photon Grenade/3" : 2
+   },
+   "Photon Grenade/5" : {
+      "Photon Grenade/4" : 2
+   },
+   "Physiostimulator/1" : {
+      "Physiostimulator/0" : 2
+   },
+   "Physiostimulator/2" : {
+      "Physiostimulator/1" : 2
+   },
+   "Physiostimulator/3" : {
+      "Physiostimulator/2" : 2
+   },
+   "Physiostimulator/4" : {
+      "Microconnector/4" : 1,
+      "Physiostimulator/3" : 2
+   },
+   "Pinstripe Suit/0" : {
+      "Civilian Command Clothing/0" : 1,
+      "Clothing Pattern/0" : 2
+   },
+   "Pinstripe Suit/1" : {
+      "Ancient Film/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "Pinstripe Suit/0" : 1
+   },
+   "Pinstripe Suit/2" : {
+      "Ancient Watch/1" : 1,
+      "Clothing Pattern/1" : 2,
+      "Pinstripe Suit/1" : 1
+   },
+   "Pinstripe Suit/3" : {
+      "Chicago Mobs of the Twenties/2" : 1,
+      "Clothing Pattern/2" : 2,
+      "Pinstripe Suit/2" : 1
+   },
+   "Plasma Rifle/1" : {
+      "Plasma Rifle/0" : 2
+   },
+   "Plasma Rifle/2" : {
+      "Plasma Rifle/1" : 2
+   },
+   "Plasma Rifle/3" : {
+      "Plasma Rifle/2" : 2
+   },
+   "Plasma Rifle/4" : {
+      "Plasma Rifle/3" : 2
+   },
+   "Plasma Torch/1" : {
+      "Casing/0" : 1,
+      "Expansion Module/0" : 2,
+      "Plasma Torch/0" : 2
+   },
+   "Plasma Torch/2" : {
+      "Casing/1" : 2,
+      "Expansion Module/1" : 2,
+      "Plasma Torch/1" : 2
+   },
+   "Plomeek Soup/1" : {
+      "Recipe Book/0" : 2,
+      "Replicator Ration/0" : 2
+   },
+   "Plomeek Soup/2" : {
+      "IDIC/1" : 1,
+      "Plomeek Soup/1" : 1,
+      "Replicator Ration/1" : 1
+   },
+   "Plomeek Soup/3" : {
+      "Kolinahr Text/2" : 1,
+      "Plomeek Soup/2" : 1,
+      "Replicator Ration/2" : 1
+   },
+   "Plomeek Soup/4" : {
+      "Plomeek Soup/2" : 1,
+      "Replicator Ration/3" : 2,
+      "Vulcan Lute/1" : 2
+   },
+   "Poetry/0" : {
+      "Alcohol/0" : 4,
+      "Writing PADD (TNG)/0" : 1
+   },
+   "Poetry/1" : {
+      "Alcohol/1" : 2,
+      "First Contact Protocol/0" : 1,
+      "Poetry/0" : 1
+   },
+   "Poetry/2" : {
+      "Poetry/1" : 1,
+      "Single Pot Whiskey/2" : 1
+   },
+   "Poetry/3" : {
+      "Database (Panel)/3" : 2,
+      "Poetry/2" : 2
+   },
+   "Poisoned Drink/1" : {
+      "Alcohol/1" : 1,
+      "Poisoned Drink/0" : 1,
+      "Science Experiment/0" : 1
+   },
+   "Poisoned Drink/2" : {
+      "Alcohol/1" : 4,
+      "Poisoned Drink/1" : 1,
+      "Spices/2" : 4
+   },
+   "Poisoned Drink/3" : {
+      "Alcohol/2" : 4,
+      "Poisoned Drink/2" : 1,
+      "Terran Emblem/1" : 2
+   },
+   "Poisoned Drink/4" : {
+      "Alcohol/3" : 4,
+      "Pathogen/2" : 1,
+      "Poisoned Drink/3" : 1
+   },
+   "Poisoned Drink/5" : {
+      "Alcohol/4" : 4,
+      "Poisoned Drink/4" : 2,
+      "Spices/4" : 4
+   },
+   "Poker Cards/2" : {
+      "Poker Cards/1" : 2
+   },
+   "Poker Cards/3" : {
+      "Poker Cards/2" : 2
+   },
+   "Poker Cards/4" : {
+      "Poker Cards/3" : 2
+   },
+   "Portable Tractor Beam/1" : {
+      "Engineering Lesson/1" : 1,
+      "Science Experiment/1" : 1
+   },
+   "Portable Tractor Beam/2" : {
+      "Engineering Lesson/2" : 1,
+      "Portable Tractor Beam/1" : 1
+   },
+   "Portable Tractor Beam/3" : {
+      "Portable Tractor Beam/2" : 2
+   },
+   "Positronic Brain/1" : {
+      "Database (Panel)/0" : 4,
+      "Interlink/0" : 4,
+      "Subprocessor/0" : 4
+   },
+   "Positronic Brain/2" : {
+      "Interlink/1" : 2,
+      "Positronic Brain/1" : 1,
+      "Subprocessor/1" : 2
+   },
+   "Positronic Brain/3" : {
+      "Interlink/2" : 2,
+      "Positronic Brain/2" : 1,
+      "Subprocessor/2" : 2
+   },
+   "Positronic Brain/4" : {
+      "Interlink/3" : 1,
+      "Positronic Brain/3" : 2,
+      "Subprocessor/3" : 1
+   },
+   "Positronic Brain/5" : {
+      "Interlink/4" : 2,
+      "Positronic Brain/4" : 2,
+      "Subprocessor/4" : 2
+   },
+   "Press Credentials/0" : {
+      "Holo-imager/0" : 1,
+      "Writing PADD (TNG)/0" : 1
+   },
+   "Press Credentials/1" : {
+      "Encoded Communique/1" : 1,
+      "Isolinear Chips/1" : 2,
+      "Press Credentials/0" : 1
+   },
+   "Press Credentials/2" : {
+      "Covert Contacts/2" : 1,
+      "Desktop Monitor/1" : 1,
+      "Press Credentials/1" : 1
+   },
+   "Press Credentials/3" : {
+      "Linguistic Database/2" : 1,
+      "Press Credentials/2" : 1,
+      "Single Pot Whiskey/3" : 1
+   },
+   "Press Credentials/4" : {
+      "Encoded Communique/3" : 1,
+      "Holo-imager/3" : 1,
+      "Press Credentials/3" : 1
+   },
+   "Prime Directive/3" : {
+      "Prime Directive/2" : 2
+   },
+   "Prime Directive/4" : {
+      "Prime Directive/3" : 2
+   },
+   "Prime Directive/5" : {
+      "Prime Directive/4" : 2
+   },
+   "Priority One Message/1" : {
+      "Encoded Communique/0" : 1,
+      "Security Reports/0" : 1
+   },
+   "Priority One Message/2" : {
+      "Prime Directive/1" : 1,
+      "Priority One Message/1" : 1
+   },
+   "Priority One Message/3" : {
+      "Admiral Pips/2" : 1,
+      "Priority One Message/2" : 1
+   },
+   "Priority One Message/4" : {
+      "Communicator/2" : 1,
+      "Desktop Monitor/2" : 1,
+      "Priority One Message/3" : 1
+   },
+   "Priority One Message/5" : {
+      "Encoded Communique/4" : 1,
+      "Prime Directive/3" : 1,
+      "Priority One Message/4" : 1
+   },
+   "Prune Juice/1" : {
+      "Identification Code/1" : 1,
+      "Replicator Ration/0" : 2
+   },
+   "Prune Juice/2" : {
+      "Identification Code/2" : 1,
+      "Prune Juice/1" : 1,
+      "Replicator Ration/1" : 2
+   },
+   "Prune Juice/3" : {
+      "Identification Code/3" : 1,
+      "Prune Juice/2" : 1,
+      "Replicator Ration/2" : 2
+   },
+   "Prune Juice/4" : {
+      "Identification Code/4" : 1,
+      "Prune Juice/3" : 1,
+      "Replicator Ration/3" : 2
+   },
+   "Psychological Evaluation Holoprogram/1" : {
+      "Alpha-wave Inducer/0" : 1,
+      "Brain Circuitry Pattern/0" : 1,
+      "Holoprogram/0" : 2
+   },
+   "Psychological Evaluation Holoprogram/2" : {
+      "Alpha-wave Inducer/1" : 2,
+      "Brain Circuitry Pattern/1" : 2,
+      "Psychological Evaluation Holoprogram/1" : 1
+   },
+   "Psychological Evaluation Holoprogram/3" : {
+      "Alpha-wave Inducer/2" : 2,
+      "Brain Circuitry Pattern/2" : 2,
+      "Psychological Evaluation Holoprogram/2" : 2
+   },
+   "Psychology Text/0" : {
+      "TR-580 Medical Tricorder/0" : 1,
+      "Text Book/0" : 1
+   },
+   "Psychology Text/1" : {
+      "Psychology Text/0" : 2
+   },
+   "Psychology Text/2" : {
+      "Brain Circuitry Pattern/1" : 2,
+      "Psychology Text/1" : 1
+   },
+   "Psychology Text/3" : {
+      "Neurocortical Monitor/1" : 2,
+      "Psychology Text/2" : 1
+   },
+   "Quantum Chronometer/1" : {
+      "Quantum Chronometer/0" : 2
+   },
+   "Quantum Chronometer/2" : {
+      "Quantum Chronometer/1" : 2
+   },
+   "Quantum Chronometer/3" : {
+      "Quantum Chronometer/2" : 2
+   },
+   "Quantum Chronometer/4" : {
+      "Quantum Chronometer/3" : 2
+   },
+   "Quantum Flux Regulator/1" : {
+      "Quantum Flux Regulator/0" : 2
+   },
+   "Quantum Flux Regulator/2" : {
+      "Quantum Flux Regulator/1" : 2
+   },
+   "Quantum Phase Regulator/1" : {
+      "Quantum Phase Regulator/0" : 2
+   },
+   "Quantum Phase Regulator/2" : {
+      "Quantum Phase Regulator/1" : 2
+   },
+   "Radiation Collector/1" : {
+      "Radiation Collector/0" : 2
+   },
+   "Radiation Collector/2" : {
+      "Radiation Collector/1" : 2
+   },
+   "Radiation Collector/3" : {
+      "Radiation Collector/2" : 2
+   },
+   "Rakal's Disruptor Pistol/3" : {
+      "Hot Chocolate/1" : 1,
+      "Romulan Disruptor/2" : 1,
+      "Tal Shiar Identification/2" : 1
+   },
+   "Rakal's Disruptor Pistol/4" : {
+      "Phaser Type 2 (TOS)/2" : 1,
+      "Power Cell/3" : 3,
+      "Rakal's Disruptor Pistol/3" : 1
+   },
+   "Rakal's Disruptor Pistol/5" : {
+      "Hot Chocolate/4" : 1,
+      "Rakal's Disruptor Pistol/4" : 1,
+      "Star Empire Icon/3" : 1
+   },
+   "Raktajino/3" : {
+      "Raktajino/2" : 1,
+      "Replicator Ration/2" : 3
+   },
+   "Raktajino/4" : {
+      "Raktajino/2" : 1,
+      "Raktajino/3" : 1,
+      "Replicator Ration/3" : 2
+   },
+   "Raktajino/5" : {
+      "Raktajino/3" : 1,
+      "Raktajino/4" : 1,
+      "Replicator Ration/4" : 2
+   },
+   "Raquet/1" : {
+      "Pollyalloy/1" : 4,
+      "Replicator Ration/0" : 3
+   },
+   "Raquet/2" : {
+      "Pollyalloy/1" : 2,
+      "Raquet/1" : 1,
+      "Replicator Ration/1" : 2
+   },
+   "Ray Gun/1" : {
+      "Casing/0" : 4,
+      "Holoprogram/0" : 2,
+      "Power Cell/0" : 4
+   },
+   "Ray Gun/2" : {
+      "Casing/1" : 2,
+      "Power Cell/1" : 2,
+      "Ray Gun/1" : 2
+   },
+   "Ray Gun/3" : {
+      "Casing/2" : 2,
+      "Power Cell/2" : 2,
+      "Ray Gun/2" : 1
+   },
+   "Ray Gun/4" : {
+      "Casing/3" : 2,
+      "Power Cell/3" : 2,
+      "Ray Gun/3" : 2
+   },
+   "Recipe Book/1" : {
+      "Recipe Book/0" : 2
+   },
+   "Regent Worf's Armor/3" : {
+      "Bloodwine/2" : 1,
+      "KCA Icon/1" : 1,
+      "Klingon Armor (TNG)/2" : 1
+   },
+   "Regent Worf's Armor/4" : {
+      "Agonizer/2" : 1,
+      "House Worf Crest/3" : 1,
+      "Regent Worf's Armor/3" : 1
+   },
+   "Regent Worf's Collar/2" : {
+      "Agonizer/1" : 1,
+      "KCA Icon/1" : 1,
+      "Pollyalloy/1" : 6
+   },
+   "Regent Worf's Collar/3" : {
+      "Dissection Tools/2" : 1,
+      "KCA Icon/1" : 1,
+      "Regent Worf's Collar/2" : 1
+   },
+   "Regent Worf's Collar/4" : {
+      "Agonizer/3" : 1,
+      "KCA Icon/2" : 1,
+      "Regent Worf's Collar/3" : 1
+   },
+   "Regent Worf's Collar/5" : {
+      "House Worf Crest/3" : 1,
+      "Late Vintage Bloodwine/3" : 1,
+      "Regent Worf's Collar/4" : 1
+   },
+   "Regent Worf's D'k tahg/3" : {
+      "D'k tahg/2" : 1,
+      "Gagh/1" : 1,
+      "KCA Icon/2" : 1
+   },
+   "Regent Worf's D'k tahg/4" : {
+      "Bloodwine/1" : 1,
+      "KCA Icon/3" : 1,
+      "Regent Worf's D'k tahg/3" : 1
+   },
+   "Regent Worf's D'k tahg/5" : {
+      "House Worf Crest/3" : 1,
+      "KCA Icon/" : 1,
+      "Regent Worf's D'k tahg/4" : 1
+   },
+   "Relora Furs/1" : {
+      "Furs/0" : 4,
+      "Kazon Furs/0" : 1,
+      "Kazon Name/0" : 1
+   },
+   "Relora Furs/2" : {
+      "Furs/1" : 2,
+      "Kazon Name/1" : 1,
+      "Relora Furs/1" : 1
+   },
+   "Reman Knife/3" : {
+      "Pollyalloy/2" : 4,
+      "Reman Knife/2" : 1,
+      "Star Empire Icon/1" : 1
+   },
+   "Reman Pistol/1" : {
+      "Emitter Crystal/0" : 2,
+      "Power Cell/0" : 2,
+      "Reman Knife/0" : 1
+   },
+   "Reman Pistol/2" : {
+      "Emitter Crystal/1" : 2,
+      "Reman Pistol/1" : 1,
+      "Star Empire Icon/1" : 1
+   },
+   "Reman Rifle/3" : {
+      "Expansion Module/2" : 2,
+      "Reman Knife/2" : 1,
+      "Romulan Disruptor Rifle/2" : 1
+   },
+   "Reman Rifle/4" : {
+      "Expansion Module/3" : 2,
+      "Reman Rifle/3" : 1,
+      "Star Empire Icon/2" : 1
+   },
+   "Reman Rifle/5" : {
+      "Expansion Module/4" : 2,
+      "Reman Rifle/4" : 1,
+      "Star Empire Icon/3" : 1
+   },
+   "Reman Uniform/0" : {
+      "Clothing Pattern/0" : 2,
+      "Reman Knife/0" : 1
+   },
+   "Reman Uniform/1" : {
+      "Clothing Pattern/0" : 2,
+      "Reman Knife/0" : 1,
+      "Reman Uniform/0" : 1
+   },
+   "Reman Uniform/2" : {
+      "Clothing Pattern/1" : 2,
+      "Reman Knife/1" : 1,
+      "Reman Uniform/1" : 1
+   },
+   "Reman Uniform/3" : {
+      "Reman Knife/2" : 1,
+      "Reman Pistol/1" : 1,
+      "Reman Uniform/2" : 1
+   },
+   "Resistance Cipher/2" : {
+      "Resistance Cipher/1" : 2
+   },
+   "Resistance Cipher/3" : {
+      "Resistance Cipher/2" : 2
+   },
+   "Rock and Roll/2" : {
+      "Boombox/2" : 1,
+      "Poetry/0" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Rock and Roll/3" : {
+      "Ancient Film/1" : 2,
+      "Rock and Roll/2" : 1,
+      "Single Pot Whiskey/2" : 1
+   },
+   "Rom's Desealing Rod/3" : {
+      "Bajoran Combadge/2" : 1,
+      "Desealing Rod/2" : 1,
+      "Latinum Tooth Sharpener/3" : 2
+   },
+   "Rom's PADD/2" : {
+      "Bajoran PADD/2" : 1,
+      "Subprocessor/1" : 2,
+      "Tube Grubs/1" : 1
+   },
+   "Rom's PADD/3" : {
+      "Latinum Tooth Sharpener/2" : 1,
+      "Rom's PADD/2" : 1,
+      "Subprocessor/3" : 2
+   },
+   "Rom's PADD/4" : {
+      "Latinum Tooth Sharpener/3" : 1,
+      "Rom's PADD/3" : 1,
+      "Subprocessor/4" : 2
+   },
+   "Rom's Suit/3" : {
+      "Civilian Diplomatic Clothing/2" : 2,
+      "Grand Nagus Staff/2" : 1,
+      "Root Beer/2" : 1
+   },
+   "Rom's Toolbox/3" : {
+      "Latinum Tooth Sharpener/2" : 1,
+      "Toolbox/2" : 2,
+      "Tube Grubs/2" : 1
+   },
+   "Romulan Disruptor Rifle/2" : {
+      "Emitter Crystal/1" : 2,
+      "Expansion Module/1" : 2,
+      "Romulan Disruptor/1" : 2
+   },
+   "Romulan Disruptor Rifle/3" : {
+      "Emitter Crystal/2" : 2,
+      "Romulan Ale/0" : 1,
+      "Romulan Disruptor Rifle/2" : 1
+   },
+   "Romulan Disruptor Rifle/4" : {
+      "Emitter Crystal/3" : 2,
+      "Romulan Disruptor Rifle/3" : 1,
+      "Star Empire Icon/2" : 1
+   },
+   "Romulan Disruptor/2" : {
+      "Power Cell/1" : 2,
+      "Romulan Ale/0" : 1,
+      "Romulan Disruptor/1" : 1
+   },
+   "Root Beer/0" : {
+      "Database (Panel)/0" : 1,
+      "Replicator Ration/0" : 1
+   },
+   "Root Beer/1" : {
+      "Root Beer/0" : 2
+   },
+   "Root Beer/2" : {
+      "Root Beer/1" : 2
+   },
+   "Rules of Acquisition/3" : {
+      "Gold-Pressed Latinum/1" : 4,
+      "Rules of Acquisition/2" : 1
+   },
+   "Rules of Acquisition/4" : {
+      "Gold-Pressed Latinum/1" : 4,
+      "Rules of Acquisition/3" : 2
+   },
+   "Rura Penthe Furs/0" : {
+      "Furs/0" : 2,
+      "Klingon PADD/0" : 1
+   },
+   "Rura Penthe Furs/1" : {
+      "Clothing Pattern/0" : 2,
+      "Furs/0" : 2,
+      "Rura Penthe Furs/0" : 1
+   },
+   "Rura Penthe Furs/2" : {
+      "Clothing Pattern/1" : 1,
+      "Furs/1" : 2,
+      "Rura Penthe Furs/1" : 1
+   },
+   "Rura Penthe Furs/3" : {
+      "Clothing Pattern/2" : 2,
+      "Furs/2" : 1,
+      "Rura Penthe Furs/2" : 1
+   },
+   "Rura Penthe Furs/4" : {
+      "Clothing Pattern/3" : 2,
+      "Furs/3" : 2,
+      "Rura Penthe Furs/3" : 1
+   },
+   "Saddle/1" : {
+      "Furs/0" : 2,
+      "Identification Code/0" : 1,
+      "Novel/1" : 1
+   },
+   "Saddle/2" : {
+      "Clothing Pattern/1" : 2,
+      "Furs/1" : 2,
+      "Saddle/1" : 2
+   },
+   "Saddle/3" : {
+      "Furs/2" : 2,
+      "Novel/2" : 1,
+      "Saddle/2" : 1
+   },
+   "Saddle/4" : {
+      "Furs/3" : 4,
+      "Saddle/3" : 2
+   },
+   "Sainte Claire 1944/1" : {
+      "Ancient Film/0" : 1,
+      "Holoprogram/0" : 1,
+      "War Report/0" : 1
+   },
+   "Sainte Claire 1944/2" : {
+      "Isolinear Chips/1" : 1,
+      "Sainte Claire 1944/1" : 1,
+      "Single Pot Whiskey/1" : 1
+   },
+   "Sainte Claire 1944/3" : {
+      "Evening Gown/2" : 1,
+      "GI Jacket/1" : 1,
+      "Sainte Claire 1944/2" : 1
+   },
+   "Saurian Brandy/0" : {
+      "Alcohol/0" : 4,
+      "First Contact Protocol/0" : 1
+   },
+   "Saurian Brandy/1" : {
+      "Alcohol/0" : 4,
+      "Saurian Brandy/0" : 1
+   },
+   "Saurian Brandy/2" : {
+      "Alcohol/1" : 4,
+      "Saurian Brandy/1" : 1
+   },
+   "Saurian Brandy/3" : {
+      "Alcohol/2" : 4,
+      "Saurian Brandy/2" : 1
+   },
+   "Saurian Brandy/4" : {
+      "Alcohol/3" : 4,
+      "Saurian Brandy/3" : 1
+   },
+   "Scalpel/3" : {
+      "Medical Lesson/1" : 1,
+      "Pollyalloy/2" : 2,
+      "Scalpel/2" : 1
+   },
+   "Scalpel/4" : {
+      "Medical Lesson/2" : 1,
+      "Pollyalloy/3" : 2,
+      "Scalpel/3" : 1
+   },
+   "Scalpel/5" : {
+      "Medical Lesson/3" : 1,
+      "Polyalloy/4" : 2,
+      "Scalpel/4" : 1
+   },
+   "Scandal in Bohemia Holonovel/1" : {
+      "Holoprogram/1" : 1,
+      "Novel/1" : 2
+   },
+   "Scandal in Bohemia Holonovel/2" : {
+      "Scandal in Bohemia Holonovel/1" : 2
+   },
+   "Scandal in Bohemia Holonovel/3" : {
+      "Scandal in Bohemia Holonovel/2" : 2
+   },
+   "Scandal in Bohemia Holonovel/4" : {
+      "Scandal in Bohemia Holonovel/3" : 2
+   },
+   "Science Experiment/3" : {
+      "Database (Panel)/1" : 2,
+      "Science Experiment/2" : 1,
+      "Tricorder/1" : 1
+   },
+   "Science Experiment/4" : {
+      "Science Experiment/2" : 1,
+      "Science Experiment/3" : 1,
+      "Tricorder/2" : 1
+   },
+   "Science Experiment/5" : {
+      "Science Experiment/3" : 1,
+      "Science Experiment/4" : 1,
+      "Tricorder/2" : 2
+   },
+   "Science Lesson/1" : {
+      "Database (Panel)/0" : 2,
+      "Science Lesson/0" : 2
+   },
+   "Science Lesson/2" : {
+      "Database (Panel)/1" : 2,
+      "Isolinear Chips/1" : 2,
+      "Science Lesson/1" : 2
+   },
+   "Science Lesson/3" : {
+      "Database (Panel)/2" : 2,
+      "Isolinear Chips/2" : 2,
+      "Science Lesson/2" : 2
+   },
+   "Security Codes/3" : {
+      "Security Codes/2" : 2
+   },
+   "Security Codes/4" : {
+      "Security Codes/3" : 2
+   },
+   "Security Codes/5" : {
+      "Security Codes/4" : 2
+   },
+   "Security Reports/1" : {
+      "Case Files/0" : 1,
+      "Security Reports/0" : 1
+   },
+   "Security Reports/2" : {
+      "Case Files/1" : 1,
+      "Security Reports/1" : 1
+   },
+   "Security Reports/3" : {
+      "Case Files/2" : 1,
+      "Security Reports/2" : 1
+   },
+   "Security Reports/4" : {
+      "Case Files/3" : 1,
+      "Security Reports/3" : 2
+   },
+   "Seven's Isomodulator/3" : {
+      "Borg Nanoprobes/2" : 1,
+      "Casing/0" : 1,
+      "Isomodulator/3" : 1
+   },
+   "Seven's Isomodulator/4" : {
+      "Borg Nanoprobes/3" : 1,
+      "Expansion Module/0" : 1,
+      "Seven's Isomodulator/3" : 1
+   },
+   "Seven's Isomodulator/5" : {
+      "Borg Nanoprobes/" : 1,
+      "Power Cell/0" : 1,
+      "Seven's Isomodulator/" : 1
+   },
+   "Seven's Nanoprobes/2" : {
+      "Borg Nanoprobes/1" : 2,
+      "Social Lesson/1" : 1,
+      "Subprocessor/1" : 2
+   },
+   "Seven's Nanoprobes/3" : {
+      "Seven's Nanoprobes/2" : 1,
+      "Social Lesson/2" : 1,
+      "Subprocessor/2" : 2
+   },
+   "Seven's Nanoprobes/4" : {
+      "Seven's Nanoprobes/3" : 1,
+      "Social Lesson/3" : 1,
+      "Subprocessor/3" : 2
+   },
+   "Seven's Nanoprobes/5" : {
+      "Seven's Nanoprobes/" : 1,
+      "Social Lesson/" : 1,
+      "Subprocessor/" : 2
+   },
+   "Seven's Suit/0" : {
+      "Clothing Pattern/0" : 4,
+      "Science Experiment/0" : 1
+   },
+   "Seven's Suit/1" : {
+      "Clothing Pattern/0" : 4,
+      "Isomodulator/0" : 2,
+      "Seven's Suit/0" : 1
+   },
+   "Seven's Suit/2" : {
+      "Science Experiment/1" : 1,
+      "Seven's Suit/1" : 1,
+      "TR-590 Tricorder X/1" : 1
+   },
+   "Seven's Suit/3" : {
+      "Clothing Pattern/2" : 2,
+      "Seven's Suit/2" : 1,
+      "Wrist Tricorder/2" : 1
+   },
+   "Seven's Suit/4" : {
+      "Clothing Pattern/3" : 2,
+      "Isomodulator/3" : 1,
+      "Seven's Suit/3" : 1
+   },
+   "Seven's Suit/5" : {
+      "Radiation Collector/3" : 1,
+      "Science Experiment/3" : 1,
+      "Seven's Suit/" : 2
+   },
+   "Seven's Tricorder/2" : {
+      "Encoded Communique/1" : 1,
+      "Subprocessor/1" : 2,
+      "TR-590 Tricorder X/1" : 2
+   },
+   "Seven's Tricorder/3" : {
+      "Seven's Tricorder/2" : 1,
+      "Subprocessor/2" : 2,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Seven's Tricorder/4" : {
+      "Criminal Activity Report/3" : 1,
+      "Seven's Tricorder/3" : 1,
+      "Subprocessor/3" : 2
+   },
+   "Seven's Tricorder/5" : {
+      "Seven's Tricorder/4" : 1,
+      "Subprocessor/4" : 2,
+      "Temporal Prime Directive/4" : 1
+   },
+   "Shinzon's Knife/3" : {
+      "Medical Experiment/2" : 1,
+      "Pollyalloy/2" : 4,
+      "Reman Knife/2" : 1
+   },
+   "Shinzon's Knife/4" : {
+      "Earl Grey Tea/3" : 1,
+      "Pollyalloy/3" : 2,
+      "Shinzon's Knife/3" : 1
+   },
+   "Shinzon's Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "Medical Experiment/3" : 1,
+      "Reman Rifle/3" : 1
+   },
+   "Shinzon's Pistol/5" : {
+      "Earl Grey Tea/4" : 1,
+      "Emitter Crystal/4" : 2,
+      "Shinzon's Pistol/4" : 1
+   },
+   "Single Pot Whiskey/1" : {
+      "Alcohol/0" : 4,
+      "Coffee/0" : 2
+   },
+   "Single Pot Whiskey/2" : {
+      "Alcohol/1" : 2,
+      "Ancient Film/0" : 1,
+      "Single Pot Whiskey/1" : 1
+   },
+   "Single Pot Whiskey/3" : {
+      "Alcohol/2" : 2,
+      "Poetry/2" : 1,
+      "Single Pot Whiskey/2" : 1
+   },
+   "Single Pot Whiskey/4" : {
+      "Alcohol/3" : 2,
+      "Novel/3" : 1,
+      "Single Pot Whiskey/3" : 1
+   },
+   "Single Pot Whiskey/5" : {
+      "Alcohol/3" : 1,
+      "Poetry/3" : 1,
+      "Single Pot Whiskey/4" : 1
+   },
+   "Sisko's Classic Phaser/3" : {
+      "Emitter Crystal/2" : 2,
+      "Phaser Type 2 (TOS)/2" : 2,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Sisko's Classic Phaser/4" : {
+      "Communicator (TOS)/2" : 1,
+      "Power Cell/3" : 2,
+      "Sisko's Classic Phaser/3" : 2
+   },
+   "Sisko's Classic Phaser/5" : {
+      "Casing/4" : 2,
+      "Security Codes/4" : 2,
+      "Sisko's Classic Phaser/4" : 1
+   },
+   "Sisko's Pistol/2" : {
+      "Klingon Disruptor Pistol/1" : 1,
+      "Terran Emblem/1" : 1,
+      "Terran Slave Emblem/1" : 1
+   },
+   "Sisko's Pistol/3" : {
+      "Gold-Pressed Latinum/2" : 4,
+      "Sisko's Pistol/2" : 1,
+      "Terran Slave Emblem/2" : 1
+   },
+   "Smoking Pipe/2" : {
+      "Casing/2" : 2,
+      "Incense/1" : 2,
+      "Replicator Ration/2" : 2
+   },
+   "Social Lesson/1" : {
+      "First Contact Protocol/0" : 1,
+      "Holoprogram/0" : 1
+   },
+   "Social Lesson/2" : {
+      "Ancient Film/1" : 1,
+      "Database (Panel)/1" : 2,
+      "Social Lesson/1" : 1
+   },
+   "Social Lesson/3" : {
+      "Database (Panel)/2" : 2,
+      "Optronic Data Core/2" : 1,
+      "Social Lesson/2" : 1
+   },
+   "Social Lesson/4" : {
+      "Ancient Film/1" : 1,
+      "Database (Panel)/3" : 2,
+      "Social Lesson/3" : 1
+   },
+   "Social Lesson/5" : {
+      "Database (Panel)/" : 1,
+      "Social Lesson/" : 2
+   },
+   "Sonic Driver/1" : {
+      "Sonic Driver/0" : 2
+   },
+   "Sonic Driver/2" : {
+      "Sonic Driver/1" : 2
+   },
+   "Sonic Driver/3" : {
+      "Sonic Driver/2" : 2
+   },
+   "Sonic Driver/4" : {
+      "Sonic Driver/3" : 2
+   },
+   "Soong's Teaching/2" : {
+      "Medical Lesson/1" : 1,
+      "Science Lesson/1" : 1,
+      "Social Lesson/1" : 1
+   },
+   "Spectral Micrometer/1" : {
+      "Spectral Micrometer/0" : 2
+   },
+   "Spectral Micrometer/2" : {
+      "Spectral Micrometer/1" : 2
+   },
+   "Spectral Micrometer/3" : {
+      "Spectral Micrometer/2" : 2
+   },
+   "Spell of the Spider Holonovel/2" : {
+      "Ancient Film/1" : 1,
+      "Holoprogram/1" : 1,
+      "Wrench/1" : 1
+   },
+   "Spell of the Spider Holonovel/3" : {
+      "Isolinear Chips/2" : 2,
+      "Ray Gun/2" : 1,
+      "Spell of the Spider Holonovel/2" : 1
+   },
+   "Spell of the Spider Holonovel/4" : {
+      "Jet Pack/3" : 1,
+      "Pheromones/1" : 2,
+      "Spell of the Spider Holonovel/3" : 1
+   },
+   "Spell of the Spider Holonovel/5" : {
+      "Arachnia's Gown/2" : 1,
+      "Optronic Data Core/4" : 1,
+      "Spell of the Spider Holonovel/4" : 1
+   },
+   "Spock's Knife/2" : {
+      "IDIC/1" : 1,
+      "Terran Knife/1" : 1,
+      "Terran Sash/1" : 1
+   },
+   "Spock's Knife/3" : {
+      "Agonizer/1" : 1,
+      "Multidimensional Transporter Device/2" : 1,
+      "Spock's Knife/2" : 1
+   },
+   "Spock's Knife/4" : {
+      "Agonizer/2" : 1,
+      "Spock's Knife/3" : 1,
+      "Vulcan Meditation Lamp/3" : 1
+   },
+   "Spock's Knife/5" : {
+      "IDIC/4" : 1,
+      "Kal-Toh/3" : 1,
+      "Spock's Knife/4" : 1
+   },
+   "Spock's Lirpa/3" : {
+      "Lirpa/2" : 1,
+      "Vulcan Lute/1" : 1,
+      "Vulcan Robes/0" : 2
+   },
+   "Spock's Lirpa/4" : {
+      "IDIC/1" : 1,
+      "Spock's Lirpa/3" : 1,
+      "The Teaching of Surak Book/2" : 1
+   },
+   "Spock's Robes/2" : {
+      "Sweat Band/1" : 1,
+      "The Teaching of Surak Book/2" : 1,
+      "Vulcan Robes/1" : 1
+   },
+   "Spock's Robes/3" : {
+      "IDIC/2" : 1,
+      "Spock's Robes/2" : 1,
+      "Vulcan Meditation Lamp/1" : 1
+   },
+   "Spock's Sash/4" : {
+      "IDIC/2" : 1,
+      "Terran Emblem/2" : 1,
+      "Terran Sash/3" : 1
+   },
+   "Spock's Sash/5" : {
+      "Kal-Toh/2" : 1,
+      "Terran Knife/3" : 1,
+      "Terran Sash/4" : 1
+   },
+   "Spock's Tricorder/2" : {
+      "IDIC/1" : 2,
+      "Sensor/1" : 2,
+      "Tricorder/1" : 1
+   },
+   "Spock's Tricorder/3" : {
+      "IDIC/2" : 2,
+      "Sensor/2" : 2,
+      "Spock's Tricorder/2" : 1
+   },
+   "Spock's Tricorder/4" : {
+      "IDIC/3" : 1,
+      "Sensor/3" : 2,
+      "Spock's Tricorder/3" : 2
+   },
+   "Spock's Tricorder/5" : {
+      "IDIC/" : 2,
+      "Sensor/" : 2,
+      "Spock's Tricorder/4" : 2
+   },
+   "Spring Wine/1" : {
+      "Alcohol/0" : 3,
+      "Replicator Ration/0" : 3
+   },
+   "Spring Wine/3" : {
+      "Alcohol/2" : 4,
+      "Spring Wine/2" : 1
+   },
+   "Spring Wine/4" : {
+      "Alcohol/3" : 2,
+      "Orb Experience/1" : 1,
+      "Spring Wine/3" : 1
+   },
+   "Star Empire Icon/1" : {
+      "Pollyalloy/1" : 2,
+      "Romulan Encryption Algorithm/0" : 2
+   },
+   "Star Empire Icon/3" : {
+      "Authorization Code/2" : 2,
+      "Romulan Ale/0" : 1,
+      "Star Empire Icon/2" : 1
+   },
+   "Star Empire Icon/4" : {
+      "Authorization Code/3" : 2,
+      "Romulan Disruptor/1" : 1,
+      "Star Empire Icon/3" : 1
+   },
+   "Starfleet Command Wrap/0" : {
+      "Authorization Code/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Command Wrap/1" : {
+      "Desktop Monitor (TOS)/1" : 1,
+      "Starfleet Command Wrap/0" : 1
+   },
+   "Starfleet Command Wrap/2" : {
+      "Starfleet Command Wrap/1" : 2
+   },
+   "Starfleet Command Wrap/3" : {
+      "Starfleet Command Wrap/2" : 2
+   },
+   "Starfleet Sleeveless Undershirt/0" : {
+      "Coffee/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Sleeveless Undershirt/1" : {
+      "Starfleet Sleeveless Undershirt/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Sleeveless Undershirt/2" : {
+      "Starfleet Sleeveless Undershirt/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Sleeveless Undershirt/3" : {
+      "Starfleet Sleeveless Undershirt/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Stethoscope/1" : {
+      "Casing/0" : 2,
+      "Medical Lesson/0" : 1
+   },
+   "Stethoscope/2" : {
+      "Casing/1" : 2,
+      "Stethoscope/1" : 2
+   },
+   "Stethoscope/3" : {
+      "Casing/2" : 2,
+      "Stethoscope/2" : 2
+   },
+   "Stethoscope/4" : {
+      "Casing/3" : 2,
+      "Stethoscope/3" : 2
+   },
+   "Stethoscope/5" : {
+      "Casing/4" : 2,
+      "Stethoscope/4" : 2
+   },
+   "Strategema/0" : {
+      "Database (Panel)/0" : 2,
+      "Sensor/0" : 2,
+      "Subprocessor/0" : 2
+   },
+   "Strategema/1" : {
+      "Interlink/0" : 1,
+      "Strategema/0" : 1,
+      "Subprocessor/0" : 4
+   },
+   "Strategema/2" : {
+      "Interlink/1" : 1,
+      "Strategema/1" : 2,
+      "Subprocessor/1" : 1
+   },
+   "Strategema/3" : {
+      "Interlink/2" : 1,
+      "Strategema/2" : 2,
+      "Subprocessor/2" : 1
+   },
+   "Strategema/4" : {
+      "Interlink/3" : 2,
+      "Strategema/3" : 1,
+      "Subprocessor/3" : 2
+   },
+   "Stun Grenade/1" : {
+      "Stun Grenade/0" : 2
+   },
+   "Stun Grenade/2" : {
+      "Stun Grenade/1" : 2
+   },
+   "Stun Grenade/3" : {
+      "Stun Grenade/2" : 2
+   },
+   "Stun Grenade/4" : {
+      "Stun Grenade/3" : 2
+   },
+   "Subcutaneous Transponder/1" : {
+      "Subcutaneous Transponder/0" : 2
+   },
+   "Subcutaneous Transponder/2" : {
+      "Power Cell/1" : 1,
+      "Subcutaneous Transponder/1" : 2
+   },
+   "Subcutaneous Transponder/3" : {
+      "Emitter Crystal/2" : 1,
+      "Subcutaneous Transponder/2" : 2
+   },
+   "Submicron Scanner/1" : {
+      "Submicron Scanner/0" : 2
+   },
+   "Submicron Scanner/2" : {
+      "Submicron Scanner/1" : 2
+   },
+   "Submicron Scanner/3" : {
+      "Submicron Scanner/2" : 2
+   },
+   "Subvocal Processor/2" : {
+      "Microconnector/1" : 2,
+      "Pollyalloy/1" : 2,
+      "Subprocessor/1" : 2
+   },
+   "Subvocal Processor/3" : {
+      "Microconnector/2" : 2,
+      "Subprocessor/1" : 2,
+      "Subvocal Processor/2" : 2
+   },
+   "Subvocal Processor/4" : {
+      "Microconnector/3" : 2,
+      "Subprocessor/2" : 2,
+      "Subvocal Processor/3" : 2
+   },
+   "Surgery Outfit/0" : {
+      "Cortical Monitor/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Surgery Outfit/1" : {
+      "Surgery Outfit/0" : 2
+   },
+   "Surgery Outfit/2" : {
+      "Surgery Outfit/1" : 2
+   },
+   "Surgical Shears/2" : {
+      "Pollyalloy/1" : 4,
+      "Scalpel/1" : 1
+   },
+   "Surgical Shears/3" : {
+      "Pollyalloy/2" : 2,
+      "Scalpel/1" : 1,
+      "Surgical Shears/2" : 1
+   },
+   "Surgical Shears/4" : {
+      "Polyalloy/3" : 2,
+      "Scalpel/2" : 1,
+      "Surgical Shears/3" : 1
+   },
+   "Surgical Shears/5" : {
+      "Polyalloy/4" : 2,
+      "Scalpel/3" : 1,
+      "Surgical Shears/4" : 1
+   },
+   "Sweat Band/0" : {
+      "Clothing Pattern/0" : 2
+   },
+   "Sweat Band/1" : {
+      "Clothing Pattern/1" : 2,
+      "Sweat Band/0" : 2
+   },
+   "Sweat Band/2" : {
+      "Clothing Pattern/2" : 2,
+      "Sweat Band/1" : 2
+   },
+   "Sweat Band/3" : {
+      "Clothing Pattern/3" : 2,
+      "Sweat Band/2" : 2
+   },
+   "Switzer Journal Article/3" : {
+      "Archaeology Text/2" : 1,
+      "Kurlan Naiskos/2" : 1
+   },
+   "T'Pol's Suit/0" : {
+      "Clothing Pattern/0" : 2,
+      "Science Experiment/0" : 1
+   },
+   "T'Pol's Suit/1" : {
+      "Clothing Pattern/0" : 4,
+      "Hand Scanner/1" : 1,
+      "T'Pol's Suit/0" : 1
+   },
+   "T'Pol's Suit/2" : {
+      "Clothing Pattern/1" : 4,
+      "IDIC/1" : 1,
+      "T'Pol's Suit/1" : 1
+   },
+   "T'Pol's Suit/3" : {
+      "Civilian Scientist Clothing/2" : 2,
+      "NX-01 Cap/2" : 1,
+      "Vulcan Robes/1" : 1
+   },
+   "T'Pol's Suit/4" : {
+      "Massage Oil/2" : 1,
+      "Science Experiment/3" : 1,
+      "T'Pol's Suit/3" : 1
+   },
+   "T'Pol's Suit/5" : {
+      "Starfleet Uniform Pattern/4" : 2,
+      "T'Pol's Suit/4" : 1,
+      "Vulcan Meditation Lamp/4" : 1
+   },
+   "Tactical Alert/3" : {
+      "Authorization Code/1" : 1,
+      "Tactical Alert/2" : 1
+   },
+   "Tactical Alert/4" : {
+      "Authorization Code/2" : 1,
+      "Security Codes/2" : 1,
+      "Tactical Alert/3" : 1
+   },
+   "Tactical Alert/5" : {
+      "Authorization Code/3" : 1,
+      "Security Codes/3" : 1,
+      "Tactical Alert/4" : 1
+   },
+   "Tailoring Tool/1" : {
+      "Casing/0" : 4,
+      "Clothing Pattern/0" : 2,
+      "Power Cell/0" : 3
+   },
+   "Tailoring Tool/2" : {
+      "Clothing Pattern/1" : 2,
+      "Power Cell/1" : 2,
+      "Tailoring Tool/1" : 2
+   },
+   "Tailoring Tool/3" : {
+      "Clothing Pattern/2" : 2,
+      "Power Cell/2" : 2,
+      "Tailoring Tool/2" : 2
+   },
+   "Tailoring Tool/4" : {
+      "Clothing Pattern/3" : 2,
+      "Power Cell/3" : 2,
+      "Tailoring Tool/3" : 2
+   },
+   "Tal Shiar Identification/2" : {
+      "Star Empire Icon/1" : 1,
+      "Tal Shiar Identification/1" : 1
+   },
+   "Tal Shiar Uniform/1" : {
+      "Clothing Pattern/0" : 4,
+      "Romulan Diplomacy Uniform/0" : 2,
+      "Romulan Encryption Algorithm/0" : 2
+   },
+   "Tal Shiar Uniform/2" : {
+      "Romulan Ale/0" : 1,
+      "Romulan Disruptor/0" : 2,
+      "Tal Shiar Uniform/1" : 1
+   },
+   "Temporal Prime Directive/2" : {
+      "Prime Directive/1" : 1,
+      "Quantum Chronometer/1" : 1
+   },
+   "Temporal Prime Directive/3" : {
+      "Prime Directive/1" : 1,
+      "Quantum Chronometer/2" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Temporal Prime Directive/4" : {
+      "Prime Directive/2" : 1,
+      "Quantum Chronometer/3" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Temporal Prime Directive/5" : {
+      "Prime Directive/3" : 1,
+      "Quantum Chronometer/" : 1,
+      "Temporal Prime Directive/3" : 1
+   },
+   "Tequila/1" : {
+      "Alcohol/0" : 4,
+      "Identification Code/0" : 2
+   },
+   "Tequila/2" : {
+      "Alcohol/1" : 4,
+      "Tequila/1" : 2
+   },
+   "Tequila/3" : {
+      "Alcohol/2" : 4,
+      "Tequila/2" : 2
+   },
+   "Tequila/4" : {
+      "Alcohol/3" : 4,
+      "Tequila/3" : 2
+   },
+   "Tequila/5" : {
+      "Alcohol/4" : 4,
+      "Tequila/4" : 2
+   },
+   "Terran Emblem/3" : {
+      "Terran Emblem/2" : 2
+   },
+   "Terran Emblem/4" : {
+      "Terran Emblem/3" : 2
+   },
+   "Terran Emblem/5" : {
+      "Terran Emblem/4" : 2
+   },
+   "Terran Empire Honors/1" : {
+      "Gold-Pressed Latinum/1" : 2,
+      "Identification Code/0" : 1,
+      "Terran Emblem/1" : 1
+   },
+   "Terran Empire Honors/2" : {
+      "Gold-Pressed Latinum/2" : 2,
+      "Terran Empire Honors/1" : 2
+   },
+   "Terran Empire Honors/3" : {
+      "Gold-Pressed Latinum/3" : 2,
+      "Terran Empire Honors/2" : 1,
+      "War Report/1" : 2
+   },
+   "Terran Empire Honors/4" : {
+      "Gold-Pressed Latinum/4" : 2,
+      "Terran Empire Honors/3" : 1,
+      "Terran Knife/1" : 2
+   },
+   "Terran Empire Science Uniform/1" : {
+      "Clothing Pattern/0" : 4,
+      "Multidimensional Transporter Device/0" : 1,
+      "Starfleet Science Uniform (TOS)/0" : 1
+   },
+   "Terran Empire Science Uniform/2" : {
+      "Clothing Pattern/1" : 4,
+      "Terran Empire Science Uniform/1" : 1,
+      "Terran Sash/1" : 1
+   },
+   "Terran Empire Science Uniform/3" : {
+      "Clothing Pattern/2" : 4,
+      "Terran Empire Science Uniform/2" : 1,
+      "Terran Sash/2" : 1
+   },
+   "Terran Empire Science Uniform/4" : {
+      "Terran Empire Science Uniform/3" : 1,
+      "Terran Knife/2" : 1,
+      "Terran Sash/3" : 1
+   },
+   "Terran Empire Science Uniform/5" : {
+      "Terran Empire Science Uniform/4" : 1,
+      "Terran Knife/3" : 1,
+      "Terran Sash/4" : 1
+   },
+   "Terran Knife/3" : {
+      "Pollyalloy/2" : 2,
+      "Terran Emblem/1" : 1,
+      "Terran Knife/2" : 1
+   },
+   "Terran Knife/4" : {
+      "Poisoned Drink/1" : 1,
+      "Pollyalloy/3" : 2,
+      "Terran Knife/3" : 1
+   },
+   "Terran Sash/1" : {
+      "Clothing Pattern/0" : 4,
+      "Multidimensional Transporter Device/0" : 1,
+      "Terran Emblem/1" : 1
+   },
+   "Terran Sash/2" : {
+      "Clothing Pattern/1" : 2,
+      "Poisoned Drink/0" : 1,
+      "Terran Sash/1" : 1
+   },
+   "Terran Sash/3" : {
+      "Clothing Pattern/2" : 2,
+      "Terran Knife/1" : 1,
+      "Terran Sash/2" : 1
+   },
+   "Terran Sash/4" : {
+      "Agonizer/2" : 1,
+      "Clothing Pattern/3" : 2,
+      "Terran Sash/3" : 1
+   },
+   "Terran Slave Emblem/3" : {
+      "Terran Slave Emblem/2" : 2
+   },
+   "Terran Slave Emblem/4" : {
+      "Terran Slave Emblem/3" : 2
+   },
+   "Terran Slave Emblem/5" : {
+      "Terran Slave Emblem/4" : 2
+   },
+   "The Alamo/3" : {
+      "Boy Scout Badge/3" : 1,
+      "Furs/2" : 2,
+      "Holoprogram/0" : 1
+   },
+   "The Alamo/4" : {
+      "The Alamo/3" : 2
+   },
+   "The Big Goodbye/3" : {
+      "20th Century Pistol/2" : 1,
+      "Holoprogram/2" : 1,
+      "Novel/2" : 1
+   },
+   "The Big Goodbye/4" : {
+      "20th Century Pistol/3" : 1,
+      "Case Files/3" : 1,
+      "The Big Goodbye/3" : 1
+   },
+   "The Cosmos A to Z/0" : {
+      "Database (Panel)/0" : 2,
+      "Text Book/0" : 1
+   },
+   "The Cosmos A to Z/1" : {
+      "Database (Panel)/0" : 2,
+      "Science Lesson/0" : 2,
+      "The Cosmos A to Z/0" : 1
+   },
+   "The Cosmos A to Z/2" : {
+      "Astrometric Chart/1" : 1,
+      "Science Lesson/0" : 2,
+      "The Cosmos A to Z/1" : 1
+   },
+   "The Teaching of Surak Book/2" : {
+      "IDIC/2" : 1,
+      "Text Book/0" : 1
+   },
+   "The Teaching of Surak Book/3" : {
+      "IDIC/2" : 1,
+      "Text Book/0" : 1,
+      "The Teaching of Surak Book/2" : 1
+   },
+   "The Teaching of Surak Book/4" : {
+      "IDIC/3" : 1,
+      "Text Book/0" : 1,
+      "The Teaching of Surak Book/3" : 1
+   },
+   "Tommy Gun/1" : {
+      "20th Century Pistol/0" : 2,
+      "Pollyalloy/0" : 2
+   },
+   "Tommy Gun/2" : {
+      "Ancient Film/1" : 1,
+      "Pollyalloy/1" : 2,
+      "Tommy Gun/1" : 1
+   },
+   "Tommy Gun/3" : {
+      "Criminal Activity Report/2" : 1,
+      "Pollyalloy/2" : 2,
+      "Tommy Gun/2" : 1
+   },
+   "Tongo Deck/1" : {
+      "Gold-Pressed Latinum/0" : 2,
+      "Poker Cards/0" : 2,
+      "Rules of Acquisition/0" : 1
+   },
+   "Tongo Deck/2" : {
+      "Gold-Pressed Latinum/1" : 2,
+      "Great Material Continuum Texts/1" : 1,
+      "Tongo Deck/1" : 1
+   },
+   "Tongo Deck/3" : {
+      "Gold-Pressed Latinum/2" : 2,
+      "Tongo Deck/2" : 1,
+      "Tube Grubs/2" : 1
+   },
+   "Tongo Deck/4" : {
+      "Rules of Acquisition/3" : 1,
+      "Slug-o-Cola/2" : 1,
+      "Tongo Deck/3" : 1
+   },
+   "Tongo Deck/5" : {
+      "Gold-Pressed Latinum/4" : 2,
+      "Rules of Acquisition/4" : 1,
+      "Tongo Deck/4" : 1
+   },
+   "Toolbox/0" : {
+      "Hyperspanner (ENT)/0" : 1,
+      "ODN Recoupler/0" : 1
+   },
+   "Toolbox/2" : {
+      "Submicron Scanner/1" : 1,
+      "Toolbox/1" : 1
+   },
+   "Toolbox/3" : {
+      "Toolbox/2" : 2
+   },
+   "Toolbox/4" : {
+      "Toolbox/3" : 2
+   },
+   "Toolbox/5" : {
+      "Toolbox/4" : 2
+   },
+   "Torres's Toolbox/3" : {
+      "Maquis Emblem/2" : 2,
+      "Toolbox/2" : 2
+   },
+   "Torres's Toolbox/4" : {
+      "Flux Coupler/3" : 2,
+      "Gravitic Caliper/3" : 1,
+      "Toolbox/3" : 1
+   },
+   "Translation Algorithm/1" : {
+      "Translation Algorithm/0" : 2
+   },
+   "Translation Algorithm/2" : {
+      "Translation Algorithm/1" : 2
+   },
+   "Translation Algorithm/3" : {
+      "Expansion Module/2" : 1,
+      "Translation Algorithm/2" : 1
+   },
+   "Translator/1" : {
+      "Translator/0" : 2
+   },
+   "Translator/2" : {
+      "Translator/1" : 2
+   },
+   "Treaty of Bajor/3" : {
+      "Dominion PADD/1" : 1,
+      "Spring Wine/1" : 1,
+      "Tulaberry Wine/2" : 1
+   },
+   "Tricorder Mark VII/1" : {
+      "Tricorder Mark VII/0" : 2
+   },
+   "Tricorder Mark VII/2" : {
+      "Casing/0" : 2,
+      "Sensor/0" : 2,
+      "Tricorder Mark VII/1" : 1
+   },
+   "Tricorder Mark VII/3" : {
+      "Tricorder Mark VII/2" : 2
+   },
+   "Tricorder/1" : {
+      "Tricorder/0" : 2
+   },
+   "Tricorder/2" : {
+      "Tricorder/1" : 2
+   },
+   "Trident Scanner/1" : {
+      "Expansion Module/0" : 2,
+      "Optronic Circuit/0" : 2,
+      "Sensor/0" : 3
+   },
+   "Trident Scanner/2" : {
+      "Expansion Module/1" : 2,
+      "Optronic Circuit/1" : 2,
+      "Trident Scanner/1" : 1
+   },
+   "Trident Scanner/3" : {
+      "Expansion Module/2" : 2,
+      "Optronic Circuit/2" : 2,
+      "Trident Scanner/2" : 1
+   },
+   "Tube Grubs/3" : {
+      "Gold-Pressed Latinum/1" : 1,
+      "Spices/1" : 1,
+      "Tube Grubs/2" : 1
+   },
+   "Tulaberry Wine/0" : {
+      "Alcohol/0" : 3,
+      "Dominion Seal/0" : 2
+   },
+   "Tulaberry Wine/2" : {
+      "Alcohol/1" : 2,
+      "Tulaberry Wine/1" : 2
+   },
+   "Tulaberry Wine/3" : {
+      "Alcohol/2" : 2,
+      "Dominion Seal/2" : 1,
+      "Tulaberry Wine/2" : 1
+   },
+   "Tulaberry Wine/4" : {
+      "Alcohol/3" : 2,
+      "Tulaberry Wine/3" : 1
+   },
+   "Tulaberry Wine/5" : {
+      "Alcohol/4" : 2,
+      "Dominion Seal/4" : 1,
+      "Tulaberry Wine/4" : 1
+   },
+   "Tuvok's Rifle/3" : {
+      "Phaser Type 3 (DS9)/2" : 2,
+      "Power Cell/2" : 1,
+      "Security Reports/2" : 1
+   },
+   "Tuvok's Rifle/4" : {
+      "Holoprogram/2" : 1,
+      "Phaser Type 3 (DS9)/3" : 2,
+      "Tuvok's Rifle/3" : 1
+   },
+   "Tuvok's Tricorder/2" : {
+      "Orchids/0" : 1,
+      "Subprocessor/1" : 2,
+      "TR-590 Tricorder X/2" : 1
+   },
+   "Tuvok's Tricorder/3" : {
+      "Kal-Toh/2" : 1,
+      "Sensor/2" : 2,
+      "Tuvok's Tricorder/2" : 1
+   },
+   "Tuxedo/0" : {
+      "Alcohol/0" : 2,
+      "Clothing Pattern/0" : 2,
+      "First Contact Protocol/0" : 1
+   },
+   "Tuxedo/1" : {
+      "Orchids/1" : 1,
+      "Tuxedo/0" : 1
+   },
+   "Tuxedo/2" : {
+      "Champagne/2" : 1,
+      "Tuxedo/1" : 1
+   },
+   "Uhura's Armband/3" : {
+      "Clothing Pattern/2" : 2,
+      "Linguistic Database/1" : 1,
+      "Terran Empire Honors/2" : 1
+   },
+   "Uhura's Armband/4" : {
+      "Gold-Pressed Latinum/3" : 4,
+      "Terran Sash/2" : 1,
+      "Uhura's Armband/3" : 1
+   },
+   "Uhura's Armband/5" : {
+      "Communicator (TOS)/4" : 1,
+      "Pheromones/2" : 1,
+      "Uhura's Armband/4" : 1
+   },
+   "Uhura's Earpiece/3" : {
+      " Casing/2" : 2,
+      " Earpiece/2" : 1,
+      " Klingonese Dictionary/2" : 1
+   },
+   "Uhura's Earpiece/4" : {
+      " Casing/3" : 2,
+      " Uhura's Earpiece/3" : 2,
+      "Klingonese Dictionary/3" : 1
+   },
+   "Uhura's Earpiece/5" : {
+      " Casing/4" : 2,
+      "Klingonese Dictionary/4" : 2,
+      "Uhura's Earpiece/4" : 1
+   },
+   "Uhura's Uniform/1" : {
+      "Earpiece/0" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Uhura's Uniform/2" : {
+      "Poisoned Drink/0" : 1,
+      "Uhura's Uniform/1" : 2
+   },
+   "Uhura's Uniform/3" : {
+      "Communicator (TOS)/0" : 1,
+      "Terran Emblem/1" : 1,
+      "Uhura's Uniform/2" : 1
+   },
+   "Uhura's Uniform/4" : {
+      "Terran Knife/1" : 1,
+      "Terran Sash/2" : 1,
+      "Uhura's Uniform/3" : 1
+   },
+   "Vedek Robes/0" : {
+      "Bajoran Earring/0" : 1,
+      "Clothing Pattern/0" : 4
+   },
+   "Velocity Holoprogram/2" : {
+      "Holoprogram/1" : 1,
+      "Hoverball/1" : 1,
+      "Phaser Type 2 (DS9)/1" : 1
+   },
+   "Velocity Holoprogram/3" : {
+      "Hoverball/2" : 1,
+      "Phaser Type 2 (DS9)/2" : 1,
+      "Velocity Holoprogram/2" : 1
+   },
+   "Velocity Holoprogram/4" : {
+      "Hoverball/3" : 1,
+      "Phaser Type 2 (DS9)/3" : 1,
+      "Velocity Holoprogram/3" : 1
+   },
+   "Velocity Holoprogram/5" : {
+      "Hoverball/4" : 1,
+      "Phaser Type 2 (DS9)/4" : 1,
+      "Velocity Holoprogram/4" : 1
+   },
+   "Violin/2" : {
+      "Opera/2" : 1,
+      "Poetry/0" : 2
+   },
+   "Vulcan Lute/1" : {
+      "Casing/0" : 2,
+      "IDIC/1" : 1
+   },
+   "Vulcan Lute/2" : {
+      "Casing/1" : 2,
+      "Vulcan Lute/1" : 2
+   },
+   "Vulcan Lute/3" : {
+      "Casing/2" : 2,
+      "Vulcan Lute/2" : 2
+   },
+   "Vulcan Meditation Lamp/3" : {
+      "IDIC/2" : 1,
+      "Incense/2" : 4,
+      "Vulcan Meditation Lamp/2" : 1
+   },
+   "Vulcan Meditation Lamp/4" : {
+      "IDIC/3" : 1,
+      "Incense/3" : 4,
+      "Vulcan Meditation Lamp/3" : 1
+   },
+   "Vulcan Meditation Lamp/5" : {
+      "IDIC/4" : 1,
+      "Incense/4" : 4,
+      "Vulcan Meditation Lamp/4" : 1
+   },
+   "Vulcan Robes/1" : {
+      "Clothing Pattern/0" : 4,
+      "Vulcan Robes/0" : 1
+   },
+   "Vulcan Tea/1" : {
+      "Earl Grey Tea/0" : 1,
+      "IDIC/1" : 1,
+      "Incense/0" : 2
+   },
+   "Vulcan Tea/2" : {
+      "Incense/1" : 2,
+      "Spices/1" : 2,
+      "Vulcan Tea/1" : 1
+   },
+   "Vulcan Tea/3" : {
+      "Vulcan Tea/2" : 2
+   },
+   "Vulcan Tea/4" : {
+      "Incense/3" : 2,
+      "Spices/3" : 2,
+      "Vulcan Tea/3" : 2
+   },
+   "War Report/0" : {
+      "Press Credentials/0" : 1,
+      "Writing PADD (TNG)/0" : 1
+   },
+   "War Report/1" : {
+      "Civilian Diplomatic Clothing/1" : 1,
+      "Coffee/0" : 1,
+      "War Report/0" : 1
+   },
+   "War Report/2" : {
+      "Coffee/1" : 1,
+      "Press Credentials/1" : 1,
+      "War Report/1" : 1
+   },
+   "Wesley's Sweater/1" : {
+      "Civilian Engineer Clothing/1" : 1,
+      "Civilian Scientist Clothing/0" : 1
+   },
+   "Wesley's Sweater/2" : {
+      "Clothing Pattern/1" : 2,
+      "Identification Code/1" : 1,
+      "Wesley's Sweater/1" : 1
+   },
+   "Wesley's Sweater/3" : {
+      "Clothing Pattern/2" : 2,
+      "Tricorder Mark VII/2" : 1,
+      "Wesley's Sweater/2" : 1
+   },
+   "Wesley's Tricorder/2" : {
+      "Sensor/0" : 2,
+      "Tricorder Mark VII/1" : 2,
+      "Wesley's Sweater/1" : 1
+   },
+   "Wesley's Tricorder/3" : {
+      "Science Lesson/2" : 1,
+      "Sensor/1" : 2,
+      "Wesley's Tricorder/2" : 1
+   },
+   "Wesley's Tricorder/4" : {
+      "Identification Code/4" : 1,
+      "Sensor/2" : 4,
+      "Wesley's Tricorder/3" : 1
+   },
+   "Will of the Prophets Text/0" : {
+      "Bajoran PADD/0" : 1,
+      "Incense/0" : 2
+   },
+   "Will of the Prophets Text/1" : {
+      "Bajoran Earring/0" : 1,
+      "Incense/0" : 2,
+      "Will of the Prophets Text/0" : 1
+   },
+   "Will of the Prophets Text/2" : {
+      "Incense/1" : 2,
+      "Vedek Robes/1" : 1,
+      "Will of the Prophets Text/1" : 1
+   },
+   "Will of the Prophets Text/3" : {
+      "Incense/2" : 2,
+      "Orb Experience/2" : 1,
+      "Will of the Prophets Text/2" : 1
+   },
+   "Worf's Baldric/3" : {
+      "Klingon Baldric/2" : 1,
+      "Pollyalloy/2" : 2,
+      "Prune Juice/2" : 1
+   },
+   "Worf's Baldric/4" : {
+      "Pollyalloy/3" : 2,
+      "Prune Juice/3" : 1,
+      "Worf's Baldric/3" : 1
+   },
+   "Worf's Baldric/5" : {
+      "Mek'leth/3" : 1,
+      "Pollyalloy/4" : 3,
+      "Worf's Baldric/4" : 1
+   },
+   "Worf's Bat'leth/3" : {
+      "Bat'leth/2" : 1,
+      "Pollyalloy/2" : 1,
+      "Prune Juice/2" : 1
+   },
+   "Worf's Bat'leth/4" : {
+      "Prune Juice/3" : 1,
+      "Security Codes/3" : 1,
+      "Worf's Bat'leth/3" : 1
+   },
+   "Worf's D'k tahg/3" : {
+      "D'k tahg/2" : 2,
+      "Prune Juice/2" : 1
+   },
+   "Worf's D'k tahg/4" : {
+      "Pollyalloy/3" : 2,
+      "Prune Juice/3" : 1,
+      "Worf's D'k tahg/3" : 1
+   },
+   "Worf's D'k tahg/5" : {
+      "Klingon Baldric/4" : 1,
+      "Prune Juice/4" : 1,
+      "Worf's D'k tahg/4" : 1
+   },
+   "Worf's Mek'leth/3" : {
+      "House Martok Crest/2" : 1,
+      "Mek'leth/2" : 1,
+      "Prune Juice/1" : 1
+   },
+   "Worf's Mek'leth/4" : {
+      "Pollyalloy/2" : 4,
+      "Prune Juice/3" : 1,
+      "Worf's Mek'leth/3" : 1
+   },
+   "Worf's Mek'leth/5" : {
+      "House Martok Crest/3" : 2,
+      "Pollyalloy/3" : 4,
+      "Worf's Mek'leth/4" : 1
+   },
+   "Wrench/1" : {
+      "Pollyalloy/0" : 4,
+      "Wrench/0" : 2
+   },
+   "Wrench/2" : {
+      "Pollyalloy/1" : 3,
+      "Wrench/1" : 2
+   },
+   "Wrench/3" : {
+      "Pollyalloy/2" : 3,
+      "Wrench/2" : 2
+   },
+   "Wrench/4" : {
+      "Pollyalloy/3" : 3,
+      "Wrench/3" : 2
+   },
+   "Wrench/5" : {
+      "Pollyalloy/4" : 3,
+      "Wrench/4" : 2
+   },
+   "Wrist Tricorder/2" : {
+      "Casing/1" : 2,
+      "Sensor/1" : 2,
+      "TR-590 Tricorder X/1" : 1
+   },
+   "Wrist Tricorder/3" : {
+      "Casing/2" : 2,
+      "Sensor/2" : 2,
+      "Wrist Tricorder/2" : 1
+   },
+   "Wrist Tricorder/4" : {
+      "Casing/3" : 2,
+      "Sensor/3" : 2,
+      "Wrist Tricorder/3" : 1
+   },
+   "Wrist Tricorder/5" : {
+      "Casing/4" : 2,
+      "Sensor/4" : 2,
+      "Wrist Tricorder/4" : 2
+   },
+   "Yar's Phaser/2" : {
+      "Emitter Crystal/1" : 2,
+      "Phaser Type 2 (TNG)/1" : 2,
+      "Security Codes/0" : 1
+   },
+   "Yar's Phaser/3" : {
+      "Power Cell/1" : 2,
+      "Security Codes/1" : 1,
+      "Yar's Phaser/2" : 1
+   },
+   "Yar's Phaser/4" : {
+      "Multidimensional Transporter Device/2" : 1,
+      "Power Cell/3" : 2,
+      "Yar's Phaser/3" : 1
+   }
+}
