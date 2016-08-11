@@ -126,6 +126,15 @@
       "Casing/2" : 4,
       "Orchids/2" : 1
    },
+   "Alpha-wave Inducer/1" : {
+      "Alpha-wave Inducer/0" : 2
+   },
+   "Alpha-wave Inducer/2" : {
+      "Alpha-wave Inducer/1" : 2
+   },
+   "Alpha-wave Inducer/3" : {
+      "Alpha-wave Inducer/2" : 2
+   },
    "Ancient Revolver/0" : {
       "Authorization Code/0" : 1,
       "Casing/0" : 2
@@ -524,6 +533,12 @@
       "Alcohol/3" : 3,
       "Bloodwine/3" : 2
    },
+   "Bone-Knitting Laser/1" : {
+      "Bone-Knitting Laser/0" : 2
+   },
+   "Bone-Knitting Laser/2" : {
+      "Bone-Knitting Laser/1" : 2
+   },
    "Boombox/0" : {
       "Casing/0" : 1,
       "Power Cell/0" : 2,
@@ -562,6 +577,21 @@
       "Borg Cortical Node/1" : 2,
       "Interlink/1" : 2,
       "Pollyalloy/1" : 1
+   },
+   "Borg Exo-Plating/1" : {
+      "Microconnector/0" : 2,
+      "Pollyalloy/0" : 2,
+      "Relay/0" : 2
+   },
+   "Borg Exo-Plating/2" : {
+      "Borg Exo-Plating/1" : 2,
+      "Microconnector/1" : 1,
+      "Pollyalloy/1" : 1
+   },
+   "Borg Exo-Plating/3" : {
+      "Borg Exo-Plating/2" : 2,
+      "Microconnector/2" : 1,
+      "Pollyalloy/2" : 1
    },
    "Borg Nanoprobes/1" : {
       "Interlink/0" : 2,
@@ -1142,6 +1172,80 @@
       "Coffee/4" : 2,
       "Replicator Ration/" : 4
    },
+   "Combadge (ALT)/2" : {
+      "Combadge (DS9)/1" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Combadge (ALT)/3" : {
+      "Casing/2" : 1,
+      "Combadge (ALT)/2" : 2,
+      "Pollyalloy/2" : 2
+   },
+   "Combadge (ALT)/4" : {
+      "Casing/3" : 1,
+      "Combadge (ALT)/3" : 2,
+      "Pollyalloy/3" : 1
+   },
+   "Combadge (ALT)/5" : {
+      "Casing/4" : 2,
+      "Combadge (ALT)/4" : 2,
+      "Pollyalloy/4" : 1
+   },
+   "Combadge (DS9)/1" : {
+      "Combadge (DS9)/0" : 2,
+      "Emitter Crystal/0" : 1
+   },
+   "Combadge (DS9)/3" : {
+      "Combadge (DS9)/2" : 2
+   },
+   "Combadge (DS9)/4" : {
+      "Combadge (DS9)/3" : 2,
+      "Emitter Crystal/3" : 1
+   },
+   "Combadge (DS9)/5" : {
+      "Combadge (DS9)/4" : 2,
+      "Emitter Crystal/4" : 2
+   },
+   "Combadge (TNG)/1" : {
+      "Combadge (TNG)/0" : 2
+   },
+   "Combadge (TNG)/2" : {
+      "Casing/0" : 1,
+      "Combadge (TNG)/1" : 1,
+      "Emitter Crystal/0" : 1,
+      "Power Cell/0" : 1
+   },
+   "Combadge (TNG)/3" : {
+      "Combadge (TNG)/2" : 2,
+      "Emitter Crystal/2" : 1
+   },
+   "Communicator (ENT)/1" : {
+      "Communicator (ENT)/0" : 2
+   },
+   "Communicator (ENT)/2" : {
+      "Communicator (ENT)/1" : 2
+   },
+   "Communicator (ENT)/3" : {
+      "Communicator (ENT)/2" : 2,
+      "Emitter Crystal/2" : 1
+   },
+   "Communicator (ENT)/4" : {
+      "Communicator (ENT)/3" : 2
+   },
+   "Communicator (TOS)/1" : {
+      "Communicator (TOS)/0" : 2
+   },
+   "Communicator (TOS)/2" : {
+      "Communicator (TOS)/1" : 2
+   },
+   "Communicator (TOS)/3" : {
+      "Communicator (TOS)/2" : 2,
+      "Emitter Crystal/2" : 1
+   },
+   "Communicator (TOS)/4" : {
+      "Communicator (TOS)/3" : 2,
+      "Emitter Crystal/3" : 2
+   },
    "Compression Rifle/1" : {
       "Compression Rifle/0" : 2
    },
@@ -1445,6 +1549,41 @@
       "Desealing Rod/3" : 2,
       "Sensor/3" : 2
    },
+   "Desktop Monitor (ENT)/1" : {
+      "Desktop Monitor (ENT)/0" : 2
+   },
+   "Desktop Monitor (ENT)/2" : {
+      "Desktop Monitor (ENT)/1" : 2
+   },
+   "Desktop Monitor (ENT)/3" : {
+      "Desktop Monitor (ENT)/2" : 2
+   },
+   "Desktop Monitor (TNG)/1" : {
+      "Desktop Monitor (TNG)/0" : 1,
+      "Expansion Module/0" : 1,
+      "Subprocessor/0" : 1
+   },
+   "Desktop Monitor (TNG)/2" : {
+      "Desktop Monitor (TNG)/1" : 2,
+      "Subprocessor/1" : 1
+   },
+   "Desktop Monitor (TNG)/3" : {
+      "Desktop Monitor (TNG)/2" : 2
+   },
+   "Desktop Monitor (TNG)/4" : {
+      "Desktop Monitor (TNG)/3" : 2,
+      "Microconnector/3" : 1
+   },
+   "Desktop Monitor (TOS)/1" : {
+      "Desktop Monitor (TOS)/0" : 2
+   },
+   "Desktop Monitor (TOS)/2" : {
+      "Desktop Monitor (TOS)/1" : 2
+   },
+   "Desktop Monitor (TOS)/3" : {
+      "Database (Panel)/2" : 1,
+      "Desktop Monitor (TOS)/2" : 2
+   },
    "Detronal Scanner/1" : {
       "Casing/0" : 1,
       "Detronal Scanner/0" : 1
@@ -1460,6 +1599,37 @@
    "Detronal Scanner/4" : {
       "Detronal Scanner/3" : 2,
       "Optronic Circuit/0" : 1
+   },
+   "Diplomatic Dress Uniform (TNG)/0" : {
+      "Combadge (TNG)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Diplomatic Dress Uniform (TNG)/1" : {
+      "Casing/0" : 1,
+      "Diplomatic Dress Uniform (TNG)/0" : 1
+   },
+   "Diplomatic Dress Uniform (TNG)/2" : {
+      "Diplomatic Dress Uniform (TNG)/1" : 2
+   },
+   "Diplomatic Dress Uniform (VOY)/1" : {
+      "Diplomatic Dress Uniform (VOY)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Diplomatic Dress Uniform (VOY)/2" : {
+      "Diplomatic Dress Uniform (VOY)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Diplomatic Dress Uniform (VOY)/3" : {
+      "Diplomatic Dress Uniform (VOY)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Diplomatic Dress Uniform (VOY)/4" : {
+      "Diplomatic Dress Uniform (VOY)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Diplomatic Dress Uniform (VOY)/5" : {
+      "Diplomatic Dress Uniform (VOY)/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
    },
    "Dissection Tools/2" : {
       "Biological Sample Kit/1" : 1,
@@ -1511,6 +1681,22 @@
    "Doctor Chaotica's Viewscreen/4" : {
       "Desktop Monitor (TNG)/2" : 1,
       "Doctor Chaotica's Viewscreen/3" : 1
+   },
+   "Dom-Jot Cue/0" : {
+      "Casing/0" : 1,
+      "Interlink/0" : 1
+   },
+   "Dom-Jot Cue/1" : {
+      "Dom-Jot Cue/0" : 2
+   },
+   "Dom-Jot Cue/2" : {
+      "Dom-Jot Cue/1" : 2
+   },
+   "Dom-Jot Cue/3" : {
+      "Dom-Jot Cue/2" : 2
+   },
+   "Dom-Jot Cue/4" : {
+      "Dom-Jot Cue/3" : 2
    },
    "Dominion PADD/1" : {
       "Authorization Code/1" : 1,
@@ -1590,6 +1776,12 @@
    "Duotronic Probe/4" : {
       "Duotronic Probe/3" : 2
    },
+   "EJ-7 Interlock/1" : {
+      "EJ-7 Interlock/0" : 2
+   },
+   "EJ-7 Interlock/2" : {
+      "EJ-7 Interlock/1" : 2
+   },
    "EPI Capacitor/1" : {
       "EPI Capacitor/0" : 2
    },
@@ -1644,6 +1836,25 @@
    "Engineering Lesson/2" : {
       "Duotronic Probe/1" : 1,
       "Engineering Lesson/1" : 2
+   },
+   "Engineering Suit (TMP)/0" : {
+      "Starfleet Uniform (TOS)/0" : 2
+   },
+   "Engineering Suit (TMP)/1" : {
+      "Engineering Suit (TMP)/0" : 1,
+      "Micro-Resonator/0" : 1
+   },
+   "Engineering Suit (TMP)/2" : {
+      "Engineering Suit (TMP)/1" : 1,
+      "Sonic Driver/1" : 1,
+      "Starfleet Uniform Pattern/1" : 1
+   },
+   "Engineering Suit (TOS)/0" : {
+      "Micro-Resonator/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Engineering Suit (TOS)/1" : {
+      "Engineering Suit (TOS)/0" : 2
    },
    "Engineering Suit/0" : {
       "Micro-Resonator/0" : 1,
@@ -1711,6 +1922,26 @@
       "Evening Gown/0" : 1,
       "Orchids/0" : 1
    },
+   "Exo-Linguistic Text/0" : {
+      "First Contact Protocol/0" : 1,
+      "Text Book/0" : 1
+   },
+   "Exo-Linguistic Text/1" : {
+      "Casing/0" : 1,
+      "Exo-Linguistic Text/0" : 1
+   },
+   "Exo-Linguistic Text/2" : {
+      "Exo-Linguistic Text/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Exo-Linguistic Text/3" : {
+      "Exo-Linguistic Text/2" : 1,
+      "Isolinear Chips/0" : 1
+   },
+   "Exo-Linguistic Text/4" : {
+      "Exo-Linguistic Text/3" : 1,
+      "Optronic Circuit/0" : 1
+   },
    "Ezri's Knife/4" : {
       "KCA Icon/3" : 1,
       "Pollyalloy/3" : 4,
@@ -1764,6 +1995,11 @@
       "Casing/1" : 4,
       "Emitter Crystal/1" : 3,
       "Power Cell/1" : 2
+   },
+   "Ferengi Trade By-Laws/3" : {
+      "Ferengi Trade By-Laws/2" : 1,
+      "Gold-Pressed Latinum/2" : 1,
+      "Great Material Continuum Texts/2" : 1
    },
    "Field Rations/3" : {
       "Field Rations/2" : 2,
@@ -2263,6 +2499,26 @@
       "Civilian Security Clothing/1" : 1,
       "Holoprogram/0" : 1
    },
+   "Holo-imager/0" : {
+      "Casing/0" : 2,
+      "Optronic Circuit/0" : 2,
+      "Sensor/0" : 2
+   },
+   "Holo-imager/1" : {
+      "Ancient Film/0" : 1,
+      "Holo-imager/0" : 1,
+      "Optronic Circuit/0" : 2
+   },
+   "Holo-imager/3" : {
+      " Casing/2" : 2,
+      " Optronic Circuit/2" : 2,
+      " Optronic Circuit/3" : 2
+   },
+   "Holo-imager/4" : {
+      "Holo-imager/3" : 2,
+      "Isolinear Chips/2" : 2,
+      "Optronic Circuit/3" : 2
+   },
    "Hot Chocolate/1" : {
       "Replicator Ration/0" : 4
    },
@@ -2350,6 +2606,37 @@
    "Human Q's Clothing/2" : {
       "Civilian Engineer Clothing/1" : 1,
       "Civilian Scientist Clothing/1" : 1
+   },
+   "Hyperspanner (DS9)/1" : {
+      "Expansion Module/0" : 2,
+      "Hyperspanner (DS9)/0" : 1,
+      "Power Cell/0" : 2
+   },
+   "Hyperspanner (DS9)/2" : {
+      "Expansion Module/1" : 2,
+      "Hyperspanner (DS9)/1" : 2,
+      "Power Cell/1" : 2
+   },
+   "Hyperspanner (ENT)/1" : {
+      "Hyperspanner (ENT)/0" : 2
+   },
+   "Hyperspanner (ENT)/2" : {
+      "Hyperspanner (ENT)/1" : 2
+   },
+   "Hyperspanner (ENT)/3" : {
+      "Hyperspanner (ENT)/2" : 2
+   },
+   "Hyperspanner (ENT)/4" : {
+      "Hyperspanner (ENT)/3" : 2
+   },
+   "Hypospray (TNG)/1" : {
+      "Hypospray (TNG)/0" : 2
+   },
+   "Hypospray (TNG)/2" : {
+      "Hypospray (TNG)/1" : 2
+   },
+   "Hypospray (TNG)/3" : {
+      "Hypospray (TNG)/2" : 2
    },
    "IDIC/3" : {
       "IDIC/2" : 2
@@ -2552,6 +2839,31 @@
       "Jibalian Spices/1" : 1,
       "Spices/1" : 4
    },
+   "Julian Bashir, Secret Agent Holonovel/1" : {
+      "20th Century Pistol/0" : 1,
+      "Holoprogram/0" : 1,
+      "Tuxedo/0" : 1
+   },
+   "Julian Bashir, Secret Agent Holonovel/2" : {
+      "Case Files/1" : 1,
+      "Holoprogram/1" : 1,
+      "Isolinear Chips/1" : 4
+   },
+   "Julian Bashir, Secret Agent Holonovel/3" : {
+      "20th Century Pistol/2" : 1,
+      "Isolinear Chips/2" : 4,
+      "Julian Bashir, Secret Agent Holonovel/2" : 1
+   },
+   "Julian Bashir, Secret Agent Holonovel/4" : {
+      "Covert Contacts/1" : 1,
+      "Julian Bashir, Secret Agent Holonovel/3" : 1,
+      "Optronic Data Core/2" : 1
+   },
+   "Julian Bashir, Secret Agent Holonovel/5" : {
+      "Case Files/4" : 1,
+      "Covert Contacts/4" : 1,
+      "Julian Bashir, Secret Agent Holonovel/4" : 1
+   },
    "KCA Icon/3" : {
       "Agonizer/0" : 1,
       "KCA Icon/2" : 1
@@ -2559,6 +2871,49 @@
    "KCA Icon/4" : {
       "Gagh/1" : 1,
       "KCA Icon/3" : 1
+   },
+   "Kadis-Kot/1" : {
+      "Kadis-Kot/0" : 2
+   },
+   "Kadis-Kot/2" : {
+      "Kadis-Kot/1" : 2
+   },
+   "Kadis-Kot/3" : {
+      "Kadis-Kot/2" : 2
+   },
+   "Kal-Toh/1" : {
+      "3d Chess Set/1" : 1,
+      "IDIC/1" : 1
+   },
+   "Kal-Toh/2" : {
+      "Kal-Toh/1" : 1,
+      "Vulcan Meditation Lamp/1" : 1,
+      "Vulcan Tea/1" : 1
+   },
+   "Kal-Toh/3" : {
+      "Kal-Toh/2" : 1,
+      "Vulcan Meditation Lamp/2" : 1,
+      "Vulcan Tea/2" : 1
+   },
+   "Kal-Toh/4" : {
+      "Kal-Toh/3" : 2,
+      "Vulcan Meditation Lamp/3" : 1,
+      "Vulcan Tea/3" : 1
+   },
+   "Kali-fal/3" : {
+      "Kali-fal/2" : 1,
+      "Replicator Ration/2" : 2,
+      "Star Empire Icon/1" : 1
+   },
+   "Kali-fal/4" : {
+      "Kali-fal/3" : 1,
+      "Replicator Ration/3" : 2,
+      "Star Empire Icon/2" : 1
+   },
+   "Kali-fal/5" : {
+      "Kali-fal/4" : 1,
+      "Replicator Ration/4" : 2,
+      "Spices/4" : 2
    },
    "Kanar/0" : {
       "Alcohol/0" : 2,
@@ -2645,6 +3000,10 @@
       "Kemocite/4" : 1,
       "Science Experiment/" : 1
    },
+   "Ketracel-white/1" : {
+      "Dominion PADD/0" : 1,
+      "Science Experiment/0" : 1
+   },
    "Kira's Disguise/3" : {
       "Civilian Disguise/2" : 2,
       "Furs/2" : 1,
@@ -2719,6 +3078,21 @@
       "Andorian Rifle/2" : 1,
       "Kirk's Lirpa/3" : 1,
       "Pollyalloy/2" : 2
+   },
+   "Klingon Armor (TNG)/3" : {
+      "Clothing Pattern/2" : 4,
+      "Klingon Armor (TNG)/2" : 2
+   },
+   "Klingon Armor (TOS)/0" : {
+      "Furs/0" : 2,
+      "Pollyalloy/0" : 2
+   },
+   "Klingon Armor (TOS)/1" : {
+      "Furs/1" : 2,
+      "Klingon Armor (TOS)/0" : 1
+   },
+   "Klingon Armor (TOS)/2" : {
+      "Klingon Armor (TOS)/1" : 2
    },
    "Klingon Baldric/1" : {
       "Clothing Pattern/0" : 1,
@@ -3025,6 +3399,15 @@
       "Power Cell/2" : 2,
       "Stun Grenade/0" : 2
    },
+   "Magnasite-Nitron Tablet/1" : {
+      "Magnasite-Nitron Tablet/0" : 2
+   },
+   "Magnasite-Nitron Tablet/2" : {
+      "Magnasite-Nitron Tablet/1" : 2
+   },
+   "Magnasite-Nitron Tablet/3" : {
+      "Magnasite-Nitron Tablet/2" : 2
+   },
    "Magnifying Glass/1" : {
       "Casing/1" : 2,
       "Neutron Microscope/1" : 1
@@ -3224,6 +3607,22 @@
       "Medical Lesson/3" : 1,
       "Medkit/3" : 1
    },
+   "Medical Scanner (Logical)/1" : {
+      "Medical Scanner (Logical)/0" : 2
+   },
+   "Medical Scanner (Popular)/1" : {
+      "Medical Scanner (Popular)/0" : 2
+   },
+   "Medical Tunic (TOS)/0" : {
+      "Hypospray (TOS)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Medical Tunic (TOS)/1" : {
+      "Medical Tunic (TOS)/0" : 2
+   },
+   "Medical Tunic (TOS)/2" : {
+      "Medical Tunic (TOS)/1" : 2
+   },
    "Medkit/1" : {
       "Dermal Regenerator/0" : 1,
       "Hypospray (TNG)/0" : 1,
@@ -3275,6 +3674,42 @@
       "Engineering Lesson/1" : 1,
       "Melora's Exoskeleton/2" : 1
    },
+   "Micro-Optic Drill/1" : {
+      "Casing/0" : 2,
+      "Micro-Optic Drill/0" : 1,
+      "Power Cell/0" : 2
+   },
+   "Micro-Optic Drill/2" : {
+      "Expansion Module/1" : 2,
+      "Micro-Optic Drill/1" : 1,
+      "Power Cell/0" : 3
+   },
+   "Micro-Optic Drill/3" : {
+      "Micro-Optic Drill/2" : 2
+   },
+   "Micro-Optic Drill/4" : {
+      "Casing/" : 2,
+      "Micro-Optic Drill/3" : 1,
+      "Power Cell/3" : 3
+   },
+   "Micro-Optic Drill/5" : {
+      "Micro-Optic Drill/4" : 2
+   },
+   "Micro-Resonator/1" : {
+      "Casing/0" : 3,
+      "Micro-Resonator/0" : 1
+   },
+   "Micro-Resonator/2" : {
+      "Casing/0" : 2,
+      "Micro-Resonator/1" : 1,
+      "Power Cell/0" : 2
+   },
+   "Micro-Resonator/3" : {
+      "Micro-Resonator/2" : 2
+   },
+   "Micro-Resonator/4" : {
+      "Micro-Resonator/3" : 2
+   },
    "Model Enterprise/2" : {
       "Earl Grey Tea/1" : 1,
       "Gold-Pressed Latinum/1" : 2,
@@ -3295,6 +3730,21 @@
       "Incense/1" : 2,
       "Science Experiment/0" : 1
    },
+   "Mr. Scott's Vest/2" : {
+      "Civilian Engineer Clothing/1" : 2,
+      "Single Pot Whiskey/1" : 1,
+      "Sonic Driver/0" : 1
+   },
+   "Mr. Scott's Vest/3" : {
+      "Mr. Scott's Vest/2" : 1,
+      "Single Pot Whiskey/2" : 1,
+      "Toolbox/1" : 1
+   },
+   "Mr. Scott's Vest/4" : {
+      "Engineering Lesson/1" : 1,
+      "Mr. Scott's Toolbox/3" : 1,
+      "Mr. Scott's Vest/3" : 1
+   },
    "Multidimensional Transporter Device/3" : {
       "Multidimensional Transporter Device/2" : 1,
       "Subprocessor/2" : 4,
@@ -3309,6 +3759,19 @@
       "Isolinear Chips/4" : 4,
       "Multidimensional Transporter Device/4" : 2,
       "Terran Slave Emblem/3" : 1
+   },
+   "NX-01 Cap/1" : {
+      "Clothing Pattern/1" : 2,
+      "First Contact Protocol/0" : 1
+   },
+   "NX-01 Cap/2" : {
+      "Clothing Pattern/1" : 1,
+      "NX-01 Cap/1" : 2
+   },
+   "NX-01 Cap/3" : {
+      "Clothing Pattern/2" : 3,
+      "First Contact Protocol/2" : 1,
+      "NX-01 Cap/2" : 2
    },
    "Neelix's Suit/3" : {
       "Civilian Diplomatic Clothing/2" : 1,
@@ -3699,6 +4162,111 @@
    },
    "Phaser Type 1/4" : {
       "Phaser Type 1/3" : 2
+   },
+   "Phaser Type 2 (DS9)/1" : {
+      "Casing/0" : 1,
+      "Phaser Type 2 (DS9)/0" : 1
+   },
+   "Phaser Type 2 (DS9)/2" : {
+      "Phaser Type 2 (DS9)/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phaser Type 2 (DS9)/3" : {
+      "Isolinear Chips/0" : 1,
+      "Phaser Type 2 (DS9)/2" : 1
+   },
+   "Phaser Type 2 (DS9)/4" : {
+      "Optronic Circuit/0" : 1,
+      "Phaser Type 2 (DS9)/3" : 1
+   },
+   "Phaser Type 2 (DS9)/5" : {
+      "Phaser Type 2 (DS9)/4" : 1,
+      "Subprocessor/0" : 1
+   },
+   "Phaser Type 2 (TMP)/1" : {
+      "Casing/0" : 1,
+      "Phaser Type 2 (TMP)/0" : 1
+   },
+   "Phaser Type 2 (TMP)/2" : {
+      "Phaser Type 2 (TMP)/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phaser Type 2 (TMP)/3" : {
+      "Isolinear Chips/0" : 1,
+      "Phaser Type 2 (TMP)/2" : 1
+   },
+   "Phaser Type 2 (TMP)/4" : {
+      "Optronic Circuit/0" : 1,
+      "Phaser Type 2 (TMP)/3" : 1
+   },
+   "Phaser Type 2 (TMP)/5" : {
+      "Phaser Type 2 (TMP)/4" : 1,
+      "Subprocessor/0" : 1
+   },
+   "Phaser Type 2 (TNG)/1" : {
+      "Phaser Type 2 (TNG)/0" : 2
+   },
+   "Phaser Type 2 (TNG)/2" : {
+      "Phaser Type 2 (TNG)/1" : 2
+   },
+   "Phaser Type 2 (TNG)/3" : {
+      "Phaser Type 2 (TNG)/2" : 2
+   },
+   "Phaser Type 2 (TOS)/1" : {
+      "Emitter Crystal/0" : 1,
+      "Phaser Type 2 (TOS)/0" : 1
+   },
+   "Phaser Type 2 (TOS)/2" : {
+      "Emitter Crystal/0" : 1,
+      "Phaser Type 2 (TOS)/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phaser Type 2 (TOS)/3" : {
+      "Phaser Type 2 (TOS)/2" : 2
+   },
+   "Phaser Type 3 (DS9)/1" : {
+      "Phaser Type 3 (DS9)/0" : 2
+   },
+   "Phaser Type 3 (DS9)/2" : {
+      "Phaser Type 3 (DS9)/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phaser Type 3 (DS9)/3" : {
+      "Isolinear Chips/0" : 1,
+      "Phaser Type 3 (DS9)/2" : 1
+   },
+   "Phaser Type 3 (DS9)/4" : {
+      "Optronic Circuit/0" : 1,
+      "Phaser Type 3 (DS9)/3" : 1
+   },
+   "Phaser Type 3 (TNG)/1" : {
+      "Phaser Type 3 (TNG)/0" : 2
+   },
+   "Phaser Type 3 (TNG)/2" : {
+      "Phaser Type 3 (TNG)/1" : 2
+   },
+   "Phaser Type 3 (TNG)/3" : {
+      "Phaser Type 3 (TNG)/2" : 2
+   },
+   "Phaser Type 3 (TNG)/4" : {
+      "Phaser Type 3 (TNG)/3" : 2
+   },
+   "Phaser Type 3 (TOS)/1" : {
+      "Phaser Type 3 (TOS)/0" : 2
+   },
+   "Phaser Type 3 (TOS)/2" : {
+      "Emitter Crystal/0" : 1,
+      "Phaser Type 3 (TOS)/1" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phaser Type 3 (TOS)/3" : {
+      "Phaser Type 3 (TOS)/2" : 2
+   },
+   "Phaser Type 3 (TOS)/4" : {
+      "Phaser Type 3 (TOS)/3" : 2
+   },
+   "Phaser Type 3 (TOS)/5" : {
+      "Phaser Type 3 (TOS)/4" : 2
    },
    "Pheromones/1" : {
       "Alcohol/0" : 4,
@@ -4520,6 +5088,22 @@
       "Case Files/3" : 1,
       "Security Reports/3" : 2
    },
+   "Self-sealing Stem Bolt/2" : {
+      "Casing/1" : 4,
+      "Self-sealing Stem Bolt/1" : 2
+   },
+   "Self-sealing Stem Bolt/3" : {
+      "Casing/2" : 4,
+      "Self-sealing Stem Bolt/2" : 2
+   },
+   "Self-sealing Stem Bolt/4" : {
+      "Casing/3" : 4,
+      "Self-sealing Stem Bolt/3" : 2
+   },
+   "Self-sealing Stem Bolt/5" : {
+      "Casing/4" : 4,
+      "Self-sealing Stem Bolt/4" : 2
+   },
    "Seven's Isomodulator/3" : {
       "Borg Nanoprobes/2" : 1,
       "Casing/0" : 1,
@@ -4672,6 +5256,23 @@
       "Gold-Pressed Latinum/2" : 4,
       "Sisko's Pistol/2" : 1,
       "Terran Slave Emblem/2" : 1
+   },
+   "Slug-o-Cola/0" : {
+      "Spices/0" : 4,
+      "Tube Grubs/0" : 1
+   },
+   "Slug-o-Cola/1" : {
+      "Slug-o-Cola/0" : 2,
+      "Spices/1" : 4
+   },
+   "Slug-o-Cola/3" : {
+      "Gold-Pressed Latinum/2" : 1,
+      "Slug-o-Cola/2" : 1,
+      "Spices/2" : 4
+   },
+   "Slug-o-Cola/4" : {
+      "Gold-Pressed Latinum/3" : 1,
+      "Slug-o-Cola/3" : 2
    },
    "Smoking Pipe/2" : {
       "Casing/2" : 2,
@@ -4844,6 +5445,120 @@
       "Romulan Disruptor/1" : 1,
       "Star Empire Icon/3" : 1
    },
+   "Starfleet Command Uniform (ENT)/0" : {
+      "Authorization Code/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Command Uniform (ENT)/1" : {
+      "Starfleet Command Uniform (ENT)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (ENT)/2" : {
+      "Starfleet Command Uniform (ENT)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Command Uniform (ENT)/3" : {
+      "Starfleet Command Uniform (ENT)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Command Uniform (TNG)/0" : {
+      "Coffee/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Command Uniform (TNG)/1" : {
+      "Starfleet Command Uniform (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (TOS)/0" : {
+      "Starfleet Uniform Pattern/0" : 2,
+      "Writing PADD (TOS)/0" : 1
+   },
+   "Starfleet Command Uniform (TOS)/1" : {
+      "Starfleet Command Uniform (TOS)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (TOS)/2" : {
+      "Starfleet Command Uniform (TOS)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Command Uniform (TOS)/3" : {
+      "Starfleet Command Uniform (TOS)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Command Uniform (VOY)/0" : {
+      "Authorization Code/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Command Uniform (VOY)/1" : {
+      "Starfleet Command Uniform (VOY)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (VOY)/2" : {
+      "Starfleet Command Uniform (VOY)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Command Uniform (VOY)/3" : {
+      "Starfleet Command Uniform (VOY)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Command Uniform (VOY)/4" : {
+      "Starfleet Command Uniform (VOY)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Command Uniform (WORF)/0" : {
+      "Authorization Code/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (WORF)/1" : {
+      "Starfleet Command Uniform (WORF)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Uniform (WORF)/2" : {
+      "Starfleet Command Uniform (WORF)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Command Uniform (WORF)/3" : {
+      "Starfleet Command Uniform (WORF)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Command Uniform (WORF)/4" : {
+      "Starfleet Command Uniform (WORF)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Command Uniform (WORF)/5" : {
+      "Starfleet Command Uniform (WORF)/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
+   },
+   "Starfleet Command Vest (ENT)/0" : {
+      "Authorization Code/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Command Vest (ENT)/1" : {
+      "Starfleet Command Vest (ENT)/0" : 2
+   },
+   "Starfleet Command Vest (ENT)/2" : {
+      "Starfleet Command Vest (ENT)/1" : 2
+   },
+   "Starfleet Command Vest (TNG)/0" : {
+      "Coffee/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Vest (TNG)/1" : {
+      "Starfleet Command Vest (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Command Vest (TNG)/2" : {
+      "Starfleet Command Vest (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Command Vest (TNG)/3" : {
+      "Starfleet Command Vest (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Command Vest (TNG)/4" : {
+      "Starfleet Command Vest (TNG)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
    "Starfleet Command Wrap/0" : {
       "Authorization Code/0" : 1,
       "Starfleet Uniform Pattern/0" : 1
@@ -4857,6 +5572,232 @@
    },
    "Starfleet Command Wrap/3" : {
       "Starfleet Command Wrap/2" : 2
+   },
+   "Starfleet Diplomacy Uniform (TNG)/0" : {
+      "Combadge (DS9)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Diplomacy Uniform (TNG)/1" : {
+      "Starfleet Diplomacy Uniform (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Diplomacy Uniform (TNG)/2" : {
+      "Starfleet Diplomacy Uniform (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Diplomacy Uniform (TNG)/3" : {
+      "Starfleet Diplomacy Uniform (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Diplomacy Uniform (TOS)/0" : {
+      "Communicator (TOS)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Diplomacy Uniform (TOS)/1" : {
+      "Starfleet Diplomacy Uniform (TOS)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Diplomacy Uniform (TOS)/2" : {
+      "Starfleet Diplomacy Uniform (TOS)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Engineering Uniform (DAX)/1" : {
+      "Starfleet Uniform Pattern/0" : 2,
+      "Trident Scanner/1" : 1
+   },
+   "Starfleet Engineering Uniform (DAX)/2" : {
+      "Heavy Duty Tricorder/1" : 1,
+      "Starfleet Engineering Uniform (DAX)/1" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Engineering Uniform (DS9)/0" : {
+      "Quantum Flux Regulator/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Engineering Uniform (DS9)/1" : {
+      "Starfleet Engineering Uniform (DS9)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Engineering Uniform (DS9)/2" : {
+      "Starfleet Engineering Uniform (DS9)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Engineering Uniform (DS9)/3" : {
+      "Starfleet Engineering Uniform (DS9)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Engineering Uniform (DS9)/4" : {
+      "Starfleet Engineering Uniform (DS9)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Engineering Uniform (TNG)/0" : {
+      "Hyperspanner (DS9)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Engineering Uniform (TNG)/1" : {
+      "Starfleet Engineering Uniform (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Engineering Uniform (TNG)/2" : {
+      "Starfleet Engineering Uniform (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Engineering Uniform (TNG)/3" : {
+      "Starfleet Engineering Uniform (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Engineering Uniform (VOY)/0" : {
+      "Isolinear Rod/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Engineering Uniform (VOY)/1" : {
+      "Starfleet Engineering Uniform (VOY)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Engineering Uniform (VOY)/2" : {
+      "Starfleet Engineering Uniform (VOY)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Medicine Uniform (ALT)/0" : {
+      "Starfleet Medicine Uniform (DS9)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Medicine Uniform (ALT)/1" : {
+      "Starfleet Medicine Uniform (ALT)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (ALT)/2" : {
+      "Medkit/1" : 1,
+      "Starfleet Medicine Uniform (ALT)/1" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/0" : {
+      "Cortical Stimulator/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/1" : {
+      "Starfleet Medicine Uniform (DS9)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/2" : {
+      "Starfleet Medicine Uniform (DS9)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/3" : {
+      "Starfleet Medicine Uniform (DS9)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/4" : {
+      "Starfleet Medicine Uniform (DS9)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Medicine Uniform (DS9)/5" : {
+      "Starfleet Medicine Uniform (DS9)/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/0" : {
+      "Cortical Monitor/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/1" : {
+      "Starfleet Medicine Uniform (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/2" : {
+      "Starfleet Medicine Uniform (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/3" : {
+      "Starfleet Medicine Uniform (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/4" : {
+      "Starfleet Medicine Uniform (TNG)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Medicine Uniform (TNG)/5" : {
+      "Starfleet Medicine Uniform (TNG)/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
+   },
+   "Starfleet Medicine Uniform (TOS)/0" : {
+      "Medical Scanner (Logical)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Medicine Uniform (TOS)/1" : {
+      "Starfleet Medicine Uniform (TOS)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/0" : {
+      "Hypospray (TNG)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/1" : {
+      "Starfleet Medicine Uniform (VOY)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/2" : {
+      "Starfleet Medicine Uniform (VOY)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/3" : {
+      "Starfleet Medicine Uniform (VOY)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/4" : {
+      "Starfleet Medicine Uniform (VOY)/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Starfleet Medicine Uniform (VOY)/5" : {
+      "Starfleet Medicine Uniform (VOY)/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
+   },
+   "Starfleet Science Uniform (TOS)/0" : {
+      "Starfleet Uniform Pattern/0" : 1,
+      "Tricorder/0" : 1
+   },
+   "Starfleet Science Uniform (TOS)/1" : {
+      "Starfleet Science Uniform (TOS)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Science Uniform (TOS)/2" : {
+      "Starfleet Science Uniform (TOS)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Science Uniform (TOS)/3" : {
+      "Starfleet Science Uniform (TOS)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Security Uniform (TNG)/0" : {
+      "Phaser Type 2 (TNG)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Security Uniform (TNG)/1" : {
+      "Starfleet Security Uniform (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Security Uniform (TNG)/2" : {
+      "Starfleet Security Uniform (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Security Uniform (TNG)/3" : {
+      "Starfleet Security Uniform (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Starfleet Security Uniform (VOY)/0" : {
+      "Phaser Type 2 (TNG)/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Starfleet Security Uniform (VOY)/1" : {
+      "Starfleet Security Uniform (VOY)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Security Uniform (VOY)/2" : {
+      "Starfleet Security Uniform (VOY)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Starfleet Security Uniform (VOY)/3" : {
+      "Starfleet Security Uniform (VOY)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
    },
    "Starfleet Sleeveless Undershirt/0" : {
       "Coffee/0" : 1,
@@ -5042,6 +5983,33 @@
       "Starfleet Uniform Pattern/4" : 2,
       "T'Pol's Suit/4" : 1,
       "Vulcan Meditation Lamp/4" : 1
+   },
+   "TR-580 Medical Tricorder/1" : {
+      "TR-580 Medical Tricorder/0" : 2
+   },
+   "TR-580 Medical Tricorder/2" : {
+      "TR-580 Medical Tricorder/1" : 2
+   },
+   "TR-580 Medical Tricorder/3" : {
+      "TR-580 Medical Tricorder/2" : 2
+   },
+   "TR-580 Medical Tricorder/4" : {
+      "TR-580 Medical Tricorder/3" : 2
+   },
+   "TR-580 Medical Tricorder/5" : {
+      "TR-580 Medical Tricorder/4" : 2
+   },
+   "TR-590 Tricorder X/1" : {
+      "TR-590 Tricorder X/0" : 2
+   },
+   "TR-590 Tricorder X/2" : {
+      "TR-590 Tricorder X/1" : 2
+   },
+   "TR-590 Tricorder X/3" : {
+      "TR-590 Tricorder X/2" : 2
+   },
+   "TR-590 Tricorder X/4" : {
+      "TR-590 Tricorder X/3" : 2
    },
    "Tactical Alert/3" : {
       "Authorization Code/1" : 1,
@@ -5735,6 +6703,43 @@
       "Casing/4" : 2,
       "Sensor/4" : 2,
       "Wrist Tricorder/4" : 2
+   },
+   "Writing PADD (DS9)/1" : {
+      "Writing PADD (DS9)/0" : 2
+   },
+   "Writing PADD (ENT)/1" : {
+      "Writing PADD (ENT)/0" : 2
+   },
+   "Writing PADD (ENT)/2" : {
+      "Writing PADD (ENT)/1" : 2
+   },
+   "Writing PADD (ENT)/3" : {
+      "Writing PADD (ENT)/2" : 2
+   },
+   "Writing PADD (TNG)/3" : {
+      "Isolinear Chips/2" : 4,
+      "Writing PADD (TNG)/2" : 1
+   },
+   "Writing PADD (TNG)/4" : {
+      "Optronic Circuit/3" : 2,
+      "Writing PADD (TNG)/3" : 1
+   },
+   "Writing PADD (TNG)/5" : {
+      "Optronic Circuit/4" : 2,
+      "Power Cell/4" : 1,
+      "Writing PADD (TNG)/4" : 1
+   },
+   "Writing PADD (TOS)/1" : {
+      "Casing/0" : 1,
+      "Writing PADD (TOS)/0" : 1
+   },
+   "Writing PADD (TOS)/2" : {
+      "Power Cell/0" : 1,
+      "Writing PADD (TOS)/1" : 1
+   },
+   "Writing PADD (TOS)/3" : {
+      "Isolinear Chips/2" : 2,
+      "Writing PADD (TOS)/2" : 1
    },
    "Yar's Phaser/2" : {
       "Emitter Crystal/1" : 2,
