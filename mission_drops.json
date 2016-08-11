@@ -697,13 +697,13 @@
    "Death Throes/2" : {
       "cost" : "16",
       "item" : {
-         "Emitter Crystal/2" : 93,
-         "Field Rations/2" : 31,
-         "Starfleet Uniform Pattern/3" : 40,
-         "Subprocessor/1" : 96,
-         "Writing PADD (DS9)/0" : 34
+         "Emitter Crystal/2" : 110,
+         "Field Rations/2" : 35,
+         "Starfleet Uniform Pattern/3" : 58,
+         "Subprocessor/1" : 136,
+         "Writing PADD (DS9)/0" : 45
       },
-      "runs" : 98
+      "runs" : 128
    },
    "Death Throes/3" : {
       "cost" : "20",
@@ -784,12 +784,12 @@
    "Down Once More/1" : {
       "cost" : "1",
       "item" : {
-         "Cortical Stimulator/0" : 5,
-         "Dermal Regenerator/0" : 7,
-         "Spices/0" : 12,
-         "Starfleet Uniform Pattern/0" : 9
+         "Cortical Stimulator/0" : 7,
+         "Dermal Regenerator/0" : 10,
+         "Spices/0" : 16,
+         "Starfleet Uniform Pattern/0" : 12
       },
-      "runs" : 11
+      "runs" : 15
    },
    "Down Once More/3" : {
       "cost" : "1",
@@ -864,13 +864,13 @@
    "For His Own Good/1" : {
       "cost" : "6",
       "item" : {
-         "EM Pistol/0" : 43,
+         "EM Pistol/0" : 49,
          "Isolinear Chips/2" : 8,
-         "Polyalloy/1" : 35,
-         "Sensor/0" : 37,
-         "TR-590 Tricorder X/0" : 51
+         "Polyalloy/1" : 37,
+         "Sensor/0" : 51,
+         "TR-590 Tricorder X/0" : 59
       },
-      "runs" : 58
+      "runs" : 68
    },
    "For His Own Good/2" : {
       "cost" : "8",
@@ -2489,12 +2489,12 @@
    "Top Marks/1" : {
       "cost" : "1",
       "item" : {
-         "First Contact Protocol/0" : 68,
-         "Identification Code/0" : 72,
-         "Interlink/0" : 95,
-         "Science Experiment/0" : 56
+         "First Contact Protocol/0" : 85,
+         "Identification Code/0" : 95,
+         "Interlink/0" : 126,
+         "Science Experiment/0" : 75
       },
-      "runs" : 97
+      "runs" : 127
    },
    "Top Marks/2" : {
       "cost" : "1",
