@@ -23,13 +23,13 @@
    "A Bold Move/3" : {
       "cost" : "22",
       "item" : {
-         "Clothing Pattern/4" : 3,
-         "Expansion Module/2" : 55,
+         "Clothing Pattern/4" : 5,
+         "Expansion Module/2" : 63,
          "Polyalloy/4" : 3,
-         "Power Cell/3" : 18,
-         "Relay/2" : 53
+         "Power Cell/3" : 20,
+         "Relay/2" : 56
       },
-      "runs" : 44
+      "runs" : 49
    },
    "A Father Figure/1" : {
       "cost" : "4",
@@ -109,12 +109,12 @@
    "A Logical Response/3" : {
       "cost" : "14",
       "item" : {
-         "Expansion Module/1" : 50,
-         "Power Cell/2" : 14,
+         "Expansion Module/1" : 55,
+         "Power Cell/2" : 18,
          "Relay/3" : 1,
          "Sensor/3" : 1
       },
-      "runs" : 22
+      "runs" : 25
    },
    "A New Recruit/1" : {
       "cost" : "6",
@@ -153,13 +153,13 @@
    "A Popular Item/2" : {
       "cost" : "10",
       "item" : {
-         "Astrometric Chart/2" : 1,
-         "Casing/1" : 71,
-         "Polyalloy/2" : 4,
-         "Replicator Ration/2" : 6,
-         "Subprocessor/3" : 2
+         "Astrometric Chart/2" : 4,
+         "Casing/1" : 81,
+         "Polyalloy/2" : 6,
+         "Replicator Ration/2" : 7,
+         "Subprocessor/3" : 4
       },
-      "runs" : 28
+      "runs" : 34
    },
    "A Popular Item/3" : {
       "cost" : "18",
@@ -206,12 +206,12 @@
    "A Singular Occurrence/2" : {
       "cost" : "12",
       "item" : {
-         "Clothing Pattern/3" : 12,
-         "Micro-Resonator/0" : 26,
-         "Microconnector/1" : 133,
-         "Subprocessor/0" : 125
+         "Clothing Pattern/3" : 13,
+         "Micro-Resonator/0" : 27,
+         "Microconnector/1" : 140,
+         "Subprocessor/0" : 144
       },
-      "runs" : 74
+      "runs" : 81
    },
    "A Singular Occurrence/3" : {
       "cost" : "18",
@@ -223,13 +223,13 @@
    "A Tale of Forgotten Lore/1" : {
       "cost" : "4",
       "item" : {
-         "Astrometric Chart/1" : 85,
+         "Astrometric Chart/1" : 86,
          "Authorization Code/0" : 246,
          "Phaser Type 2 (TOS)/0" : 221,
          "Security Codes/0" : 274,
-         "Starfleet Uniform Pattern/0" : 998
+         "Starfleet Uniform Pattern/0" : 1001
       },
-      "runs" : 456
+      "runs" : 457
    },
    "A Tale of Forgotten Lore/2" : {
       "cost" : "4",
@@ -304,24 +304,24 @@
    "Arms Race/3" : {
       "cost" : "20",
       "item" : {
-         "Interlink/4" : 0,
-         "Optronic Circuit/4" : 2,
-         "Replicator Ration/3" : 7,
-         "Spices/2" : 9,
-         "Subprocessor/2" : 15
+         "Interlink/4" : 1,
+         "Optronic Circuit/4" : 4,
+         "Replicator Ration/3" : 25,
+         "Spices/2" : 51,
+         "Subprocessor/2" : 48
       },
-      "runs" : 11
+      "runs" : 43
    },
    "Assault and Battery/1" : {
       "cost" : "4",
       "item" : {
-         "Alcohol/0" : 430,
-         "Dermal Regenerator/0" : 103,
-         "Earl Grey Tea/0" : 122,
+         "Alcohol/0" : 452,
+         "Dermal Regenerator/0" : 105,
+         "Earl Grey Tea/0" : 125,
          "Neutron Microscope/1" : 25,
-         "Text Book/0" : 120
+         "Text Book/0" : 121
       },
-      "runs" : 200
+      "runs" : 207
    },
    "Assault and Battery/2" : {
       "cost" : "6",
@@ -611,12 +611,12 @@
    "Coursing Hounds/1" : {
       "cost" : "12",
       "item" : {
-         "Power Cell/2" : 20,
-         "Power Cell/3" : 2,
-         "Relay/0" : 86,
-         "Sensor/1" : 84
+         "Power Cell/2" : 22,
+         "Power Cell/3" : 3,
+         "Relay/0" : 101,
+         "Sensor/1" : 99
       },
-      "runs" : 64
+      "runs" : 75
    },
    "Coursing Hounds/2" : {
       "cost" : "16",
@@ -730,12 +730,12 @@
    "Death in Battle/2" : {
       "cost" : "8",
       "item" : {
-         "Gold-Pressed Latinum/1" : 19,
-         "Neutron Microscope/1" : 12,
-         "Replicator Ration/0" : 26,
-         "{{item|Isolinear Chips|uncommon|}}/0" : 9
+         "Gold-Pressed Latinum/1" : 34,
+         "Neutron Microscope/1" : 22,
+         "Replicator Ration/0" : 39,
+         "{{item|Isolinear Chips|uncommon|}}/0" : 13
       },
-      "runs" : 22
+      "runs" : 36
    },
    "Death in Battle/3" : {
       "cost" : "10",
@@ -751,14 +751,14 @@
    "Double Trouble/1" : {
       "cost" : "4",
       "item" : {
-         "Casing/0" : 217,
-         "First Contact Protocol/0" : 127,
-         "Identification Code/0" : 143,
-         "Incense/1" : 128,
-         "Subprocessor/0" : 227,
-         "Writing PADD (TOS)/0" : 133
+         "Casing/0" : 230,
+         "First Contact Protocol/0" : 132,
+         "Identification Code/0" : 150,
+         "Incense/1" : 139,
+         "Subprocessor/0" : 239,
+         "Writing PADD (TOS)/0" : 145
       },
-      "runs" : 325
+      "runs" : 345
    },
    "Double Trouble/2" : {
       "cost" : "6",
@@ -1093,9 +1093,9 @@
          "Isolinear Chips/2" : 18,
          "Optronic Circuit/4" : 1,
          "Sensor/3" : 5,
-         "Writing PADD (TNG)/2" : 21
+         "Writing PADD (TNG)/2" : 24
       },
-      "runs" : 15
+      "runs" : 16
    },
    "Iconian Insider/1" : {
       "cost" : "4",
@@ -1290,13 +1290,13 @@
    "Long Distance Call/1" : {
       "cost" : "4",
       "item" : {
-         "Casing/0" : 274,
-         "Phaser Type 2 (DS9)/0" : 58,
-         "Phaser Type 2 (TNG)/0" : 23,
-         "Starfleet Uniform (TNG)/0" : 65,
-         "Starfleet Uniform (TOS)/0" : 57
+         "Casing/0" : 292,
+         "Phaser Type 2 (DS9)/0" : 60,
+         "Phaser Type 2 (TNG)/0" : 24,
+         "Starfleet Uniform (TNG)/0" : 70,
+         "Starfleet Uniform (TOS)/0" : 61
       },
-      "runs" : 159
+      "runs" : 169
    },
    "Long Distance Call/2" : {
       "cost" : "4",
@@ -1527,13 +1527,13 @@
    "No Returns Accepted/2" : {
       "cost" : "16",
       "item" : {
-         "Database (Panel)/1" : 67,
+         "Database (Panel)/1" : 68,
          "Hand Scanner/0" : 17,
          "Microconnector/4" : 6,
-         "Polyalloy/0" : 70,
+         "Polyalloy/0" : 72,
          "Polyalloy/3" : 11
       },
-      "runs" : 57
+      "runs" : 58
    },
    "No Returns Accepted/3" : {
       "cost" : "22",
@@ -1582,12 +1582,12 @@
    "Not Without A Fight/1" : {
       "cost" : "8",
       "item" : {
-         "Casing/0" : 44,
-         "Emitter Crystal/1" : 48,
-         "Emitter Crystal/2" : 12,
+         "Casing/0" : 45,
+         "Emitter Crystal/1" : 49,
+         "Emitter Crystal/2" : 13,
          "Writing PADD (TNG)/1" : 22
       },
-      "runs" : 42
+      "runs" : 43
    },
    "Not Without A Fight/3" : {
       "cost" : "18",
@@ -1731,24 +1731,24 @@
    "Pillage and Plunder/1" : {
       "cost" : "4",
       "item" : {
-         "Combadge (TNG)/0" : 98,
-         "Database (Panel)/0" : 219,
-         "Replicator Ration/0" : 216,
-         "Security Reports/0" : 179,
-         "Writing PADD (TNG)/0" : 101
+         "Combadge (TNG)/0" : 100,
+         "Database (Panel)/0" : 221,
+         "Replicator Ration/0" : 217,
+         "Security Reports/0" : 180,
+         "Writing PADD (TNG)/0" : 104
       },
-      "runs" : 271
+      "runs" : 274
    },
    "Pillage and Plunder/2" : {
       "cost" : "6",
       "item" : {
-         "Bajoran PADD/0" : 47,
-         "Database (Panel)/1" : 137,
-         "Gravimetric Scanner/0" : 186,
-         "Pattern Enhancer/0" : 210,
-         "Polyalloy/0" : 182
+         "Bajoran PADD/0" : 48,
+         "Database (Panel)/1" : 139,
+         "Gravimetric Scanner/0" : 191,
+         "Pattern Enhancer/0" : 214,
+         "Polyalloy/0" : 188
       },
-      "runs" : 254
+      "runs" : 260
    },
    "Pillage and Plunder/3" : {
       "cost" : "10",
@@ -1808,13 +1808,13 @@
    "Pretense of Mercy/2" : {
       "cost" : "6",
       "item" : {
-         "Casing/3" : 21,
-         "Furs/1" : 524,
+         "Casing/3" : 23,
+         "Furs/1" : 549,
          "Gravitic Caliper/0" : 19,
-         "Power Cell/2" : 35,
-         "Replicator Ration/2" : 31
+         "Power Cell/2" : 36,
+         "Replicator Ration/2" : 33
       },
-      "runs" : 210
+      "runs" : 220
    },
    "Pretense of Mercy/3" : {
       "cost" : "12",
@@ -2276,13 +2276,13 @@
    "The Mad Vedek/3" : {
       "cost" : "16",
       "item" : {
-         "Expansion Module/1" : 16,
+         "Expansion Module/1" : 17,
          "Expansion Module/2" : 12,
-         "Isolinear Chips/3" : 8,
+         "Isolinear Chips/3" : 9,
          "Pattern Enhancer/2" : 6,
-         "Writing PADD (DS9)/0" : 6
+         "Writing PADD (DS9)/0" : 7
       },
-      "runs" : 16
+      "runs" : 17
    },
    "The Prodigal Son/1" : {
       "cost" : "4",
