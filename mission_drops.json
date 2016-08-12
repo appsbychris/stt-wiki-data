@@ -34,13 +34,13 @@
    "A Father Figure/1" : {
       "cost" : "4",
       "item" : {
-         "Emitter Crystal/0" : 694,
-         "IDIC/1" : 169,
-         "ODN Recoupler/0" : 175,
-         "Prime Directive/1" : 64,
-         "Starfleet Uniform (DS9)/0" : 210
+         "Emitter Crystal/0" : 744,
+         "IDIC/1" : 185,
+         "ODN Recoupler/0" : 188,
+         "Prime Directive/1" : 72,
+         "Starfleet Uniform (DS9)/0" : 219
       },
-      "runs" : 328
+      "runs" : 352
    },
    "A Father Figure/2" : {
       "cost" : "6",
@@ -569,13 +569,13 @@
       "cost" : "4",
       "item" : {
          "Bloodwine/0" : 45,
-         "Constellation Class Schematic/0" : 118,
-         "Hyperspanner (DS9)/0" : 94,
-         "Micro-Optic Drill/0" : 82,
-         "Polyalloy/0" : 279,
-         "Spices/0" : 432
+         "Constellation Class Schematic/0" : 124,
+         "Hyperspanner (DS9)/0" : 98,
+         "Micro-Optic Drill/0" : 84,
+         "Polyalloy/0" : 291,
+         "Spices/0" : 444
       },
-      "runs" : 350
+      "runs" : 362
    },
    "Cleansing Fire/2" : {
       "cost" : "6",
@@ -1797,13 +1797,13 @@
    "Pretense of Mercy/1" : {
       "cost" : "6",
       "item" : {
-         "Furs/0" : 140,
-         "Interlink/2" : 24,
-         "Kurlan Naiskos/0" : 152,
-         "Optronic Circuit/1" : 86,
-         "Spectral Micrometer/0" : 153
+         "Furs/0" : 153,
+         "Interlink/2" : 26,
+         "Kurlan Naiskos/0" : 164,
+         "Optronic Circuit/1" : 94,
+         "Spectral Micrometer/0" : 172
       },
-      "runs" : 185
+      "runs" : 203
    },
    "Pretense of Mercy/2" : {
       "cost" : "6",
@@ -2275,13 +2275,13 @@
    "The Prodigal Son/1" : {
       "cost" : "4",
       "item" : {
-         "Coffee/0" : 226,
-         "Criminal Activity Report/1" : 72,
-         "Database (Panel)/0" : 894,
-         "Prime Directive/0" : 226,
-         "Tricorder/0" : 220
+         "Coffee/0" : 243,
+         "Criminal Activity Report/1" : 77,
+         "Database (Panel)/0" : 949,
+         "Prime Directive/0" : 240,
+         "Tricorder/0" : 237
       },
-      "runs" : 546
+      "runs" : 582
    },
    "The Prodigal Son/2" : {
       "cost" : "6",
@@ -2386,12 +2386,12 @@
       "cost" : "4",
       "item" : {
          "Backpack/1" : 13,
-         "Desealing Rod/1" : 7,
-         "Parametric Scanner/0" : 111,
-         "Stun Grenade/0" : 103,
-         "Wrench/0" : 96
+         "Desealing Rod/1" : 10,
+         "Parametric Scanner/0" : 125,
+         "Stun Grenade/0" : 116,
+         "Wrench/0" : 102
       },
-      "runs" : 110
+      "runs" : 122
    },
    "The Vedek's Trail/2" : {
       "cost" : "8",

@@ -1429,6 +1429,21 @@
       "Darts/2" : 2,
       "Pollyalloy/2" : 2
    },
+   "Data's Cap/3" : {
+      "Clothing Pattern/2" : 3,
+      "Deerstalker Cap/2" : 2,
+      "Positronic Brain/2" : 1
+   },
+   "Data's Cap/4" : {
+      "Clothing Pattern/2" : 3,
+      "Data's Cap/3" : 1,
+      "Scandal in Bohemia Holonovel/2" : 1
+   },
+   "Data's Cap/5" : {
+      "Clothing Pattern/3" : 3,
+      "Data's Cap/4" : 1,
+      "Scandal in Bohemia Holonovel/3" : 1
+   },
    "Data's Hand Lens/3" : {
       "Case Files/1" : 2,
       "Magnifying Glass/3" : 1,
@@ -1448,6 +1463,11 @@
       "Data's Pipe/3" : 1,
       "Incense/3" : 3,
       "Psychological Evaluation Holoprogram/3" : 1
+   },
+   "Data's Pipe/5" : {
+      "Data's Pipe/4" : 1,
+      "Forensic Psychology Text/4" : 1,
+      "Incense/3" : 3
    },
    "Data's Tricorder/2" : {
       "Database (Panel)/1" : 4,
@@ -1520,6 +1540,11 @@
    },
    "Decoupler/2" : {
       "Decoupler/1" : 2
+   },
+   "Deerstalker Cap/2" : {
+      "Clothing Pattern/1" : 3,
+      "Earl Grey Tea/1" : 1,
+      "Magnifying Glass/1" : 1
    },
    "Dermal Regenerator/1" : {
       "Casing/0" : 2,
