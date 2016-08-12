@@ -1,74 +1,74 @@
 {
    "A Bold Move/1" : {
-      "title" : "A Bold Move [E5-M2]",
+      "location" : "E5-M2",
       "type" : "Space Battle"
    },
    "A Bold Move/2" : {
-      "title" : "A Bold Move [E5-M2]",
+      "location" : "E5-M2",
       "type" : "Space Battle"
    },
    "A Bold Move/3" : {
-      "title" : "A Bold Move [E5-M2]",
+      "location" : "E5-M2",
       "type" : "Space Battle"
    },
    "A Father Figure/1" : {
-      "skillcheck" : "24",
-      "title" : "A Father Figure [E1-M6]"
+      "location" : "E1-M6",
+      "skillcheck" : "24"
    },
    "A Father Figure/2" : {
-      "skillcheck" : "73",
-      "title" : "A Father Figure [E1-M6]"
+      "location" : "E1-M6",
+      "skillcheck" : "73"
    },
    "A Father Figure/3" : {
-      "skillcheck" : "171",
-      "title" : "A Father Figure [E1-M6]"
+      "location" : "E1-M6",
+      "skillcheck" : "171"
    },
    "A Kazon Scorned/1" : {
-      "title" : "A Kazon Scorned [E4-M3]",
+      "location" : "E4-M3",
       "type" : "Space Battle"
    },
    "A Kazon Scorned/2" : {
-      "title" : "A Kazon Scorned [E4-M3]",
+      "location" : "E4-M3",
       "type" : "Space Battle"
    },
    "A Kazon Scorned/3" : {
-      "title" : "A Kazon Scorned [E4-M3]",
+      "location" : "E4-M3",
       "type" : "Space Battle"
    },
    "A Logical Response/1" : {
-      "title" : "A Logical Response [E1-M12]",
+      "location" : "E1-M12",
       "type" : "Space Battle"
    },
    "A Logical Response/2" : {
-      "title" : "A Logical Response [E1-M12]",
+      "location" : "E1-M12",
       "type" : "Space Battle"
    },
    "A Logical Response/3" : {
-      "title" : "A Logical Response [E1-M12]",
+      "location" : "E1-M12",
       "type" : "Space Battle"
    },
    "A New Recruit/1" : {
-      "skillcheck" : "73",
-      "title" : "A New Recruit [E2-M19C]"
+      "location" : "E2-M19C",
+      "skillcheck" : "73"
    },
    "A New Recruit/2" : {
-      "skillcheck" : "185",
-      "title" : "A New Recruit [E2-M19C]"
+      "location" : "E2-M19C",
+      "skillcheck" : "185"
    },
    "A New Recruit/3" : {
-      "skillcheck" : "649",
-      "title" : "A New Recruit [E2-M19C]"
+      "location" : "E2-M19C",
+      "skillcheck" : "649"
    },
    "A Popular Item/1" : {
-      "title" : "A Popular Item [E2-M18]",
+      "location" : "E2-M18",
       "type" : "Space Battle"
    },
    "A Popular Item/2" : {
-      "title" : "A Popular Item [E2-M18]",
+      "location" : "E2-M18",
       "type" : "Space Battle"
    },
    "A Popular Item/3" : {
-      "title" : "A Popular Item [E2-M18]",
+      "location" : "E2-M18",
       "type" : "Space Battle"
    },
    "A Question of Rights/1" : {
@@ -81,352 +81,352 @@
       "skillcheck" : "305"
    },
    "A Show of Force/1" : {
-      "title" : "A Show of Force [P2-M1]",
+      "location" : "P2-M1",
       "type" : "Space Battle"
    },
    "A Show of Force/2" : {
-      "title" : "A Show of Force [P2-M1]",
+      "location" : "P2-M1",
       "type" : "Space Battle"
    },
    "A Show of Force/3" : {
-      "title" : "A Show of Force [P2-M1]",
+      "location" : "P2-M1",
       "type" : "Space Battle"
    },
    "A Singular Occurrence/1" : {
-      "skillcheck" : "81",
-      "title" : "A Singular Occurrence [E3-M3]"
+      "location" : "E3-M3",
+      "skillcheck" : "81"
    },
    "A Singular Occurrence/2" : {
-      "skillcheck" : "245",
-      "title" : "A Singular Occurrence [E3-M3]"
+      "location" : "E3-M3",
+      "skillcheck" : "245"
    },
    "A Singular Occurrence/3" : {
-      "skillcheck" : "695",
-      "title" : "A Singular Occurrence [E3-M3]"
+      "location" : "E3-M3",
+      "skillcheck" : "695"
    },
    "A Tale of Forgotten Lore/1" : {
-      "skillcheck" : "25",
-      "title" : "A Tale of Forgotten Lore [DE-M2]"
+      "location" : "DE-M2",
+      "skillcheck" : "25"
    },
    "A Tale of Forgotten Lore/2" : {
-      "skillcheck" : "67",
-      "title" : "A Tale of Forgotten Lore [DE-M2]"
+      "location" : "DE-M2",
+      "skillcheck" : "67"
    },
    "A Tale of Forgotten Lore/3" : {
-      "skillcheck" : "120",
-      "title" : "A Tale of Forgotten Lore [DE-M2]"
+      "location" : "DE-M2",
+      "skillcheck" : "120"
    },
    "A Time of Morn-ing/1" : {
-      "skillcheck" : "35",
-      "title" : "A Time of Morn-ing [DE-M4]"
+      "location" : "DE-M4",
+      "skillcheck" : "35"
    },
    "A Time of Morn-ing/2" : {
-      "skillcheck" : "49",
-      "title" : "A Time of Morn-ing [DE-M4]"
+      "location" : "DE-M4",
+      "skillcheck" : "49"
    },
    "A Time of Morn-ing/3" : {
-      "skillcheck" : "70",
-      "title" : "A Time of Morn-ing [DE-M4]"
+      "location" : "DE-M4",
+      "skillcheck" : "70"
    },
    "A Violent Birth/1" : {
-      "title" : "A Violent Birth [P1-M2]",
+      "location" : "P1-M2",
       "type" : "Space Battle"
    },
    "A Violent Birth/2" : {
-      "title" : "A Violent Birth [P1-M2]",
+      "location" : "P1-M2",
       "type" : "Space Battle"
    },
    "A Violent Birth/3" : {
-      "title" : "A Violent Birth [P1-M2]",
+      "location" : "P1-M2",
       "type" : "Space Battle"
    },
    "Act of Betrayal/1" : {
-      "title" : "Act of Betrayal [E5-M8]"
+      "location" : "E5-M8"
    },
    "Act of Betrayal/2" : {
-      "title" : "Act of Betrayal [E5-M8]"
+      "location" : "E5-M8"
    },
    "Act of Betrayal/3" : {
-      "title" : "Act of Betrayal [E5-M8]"
+      "location" : "E5-M8"
    },
    "Ancient Guardians/1" : {
-      "title" : "Ancient Guardians [E6-M2]",
+      "location" : "E6-M2",
       "type" : "Space Battle"
    },
    "Ancient Guardians/2" : {
-      "title" : "Ancient Guardians [E6-M2]",
+      "location" : "E6-M2",
       "type" : "Space Battle"
    },
    "Ancient Guardians/3" : {
-      "title" : "Ancient Guardians [E6-M2]",
+      "location" : "E6-M2",
       "type" : "Space Battle"
    },
    "Arms Race/1" : {
-      "title" : "Arms Race [E4-M8]",
+      "location" : "E4-M8",
       "type" : "Space Battle"
    },
    "Arms Race/2" : {
-      "title" : "Arms Race [E4-M8]",
+      "location" : "E4-M8",
       "type" : "Space Battle"
    },
    "Arms Race/3" : {
-      "title" : "Arms Race [E4-M8]",
+      "location" : "E4-M8",
       "type" : "Space Battle"
    },
    "Assault and Battery/1" : {
-      "skillcheck" : "23",
-      "title" : "Assault and Battery [E1-M4]"
+      "location" : "E1-M4",
+      "skillcheck" : "23"
    },
    "Assault and Battery/2" : {
-      "skillcheck" : "73",
-      "title" : "Assault and Battery [E1-M4]"
+      "location" : "E1-M4",
+      "skillcheck" : "73"
    },
    "Assault and Battery/3" : {
-      "skillcheck" : "149",
-      "title" : "Assault and Battery [E1-M4]"
+      "location" : "E1-M4",
+      "skillcheck" : "149"
    },
    "Back In Time/1" : {
-      "skillcheck" : "100",
-      "title" : "Back in Time [EA-M4]"
+      "location" : "EA-M4",
+      "skillcheck" : "100"
    },
    "Back In Time/2" : {
-      "skillcheck" : "245",
-      "title" : "Back in Time [EA-M4]"
+      "location" : "EA-M4",
+      "skillcheck" : "245"
    },
    "Back In Time/3" : {
-      "skillcheck" : "345",
-      "title" : "Back in Time [EA-M4]"
+      "location" : "EA-M4",
+      "skillcheck" : "345"
    },
    "Back to School/1" : {
-      "title" : "Back to School [E5-M14]"
+      "location" : "E5-M14"
    },
    "Back to School/2" : {
-      "title" : "Back to School [E5-M14]"
+      "location" : "E5-M14"
    },
    "Back to School/3" : {
-      "title" : "Back to School [E5-M14]"
+      "location" : "E5-M14"
    },
    "Baited Hook/1" : {
-      "title" : "Baited Hook [E5-M16]"
+      "location" : "E5-M16"
    },
    "Baited Hook/2" : {
-      "title" : "Baited Hook [E5-M16]"
+      "location" : "E5-M16"
    },
    "Baited Hook/3" : {
-      "title" : "Baited Hook [E5-M16]"
+      "location" : "E5-M16"
    },
    "Battle Shinzon/1" : {
-      "title" : "Battle Shinzon [E7-M2]",
+      "location" : "E7-M2",
       "type" : "Space Battle"
    },
    "Battle Shinzon/2" : {
-      "title" : "Battle Shinzon [E7-M2]",
+      "location" : "E7-M2",
       "type" : "Space Battle"
    },
    "Battle Shinzon/3" : {
-      "title" : "Battle Shinzon [E7-M2]",
+      "location" : "E7-M2",
       "type" : "Space Battle"
    },
    "Behind Closed Doors/1" : {
-      "skillcheck" : "34",
-      "title" : "Behind Closed Doors [E1-M11]"
+      "location" : "E1-M11",
+      "skillcheck" : "34"
    },
    "Behind Closed Doors/2" : {
-      "skillcheck" : "83",
-      "title" : "Behind Closed Doors [E1-M11]"
+      "location" : "E1-M11",
+      "skillcheck" : "83"
    },
    "Behind Closed Doors/3" : {
-      "skillcheck" : "279",
-      "title" : "Behind Closed Doors [E1-M11]"
+      "location" : "E1-M11",
+      "skillcheck" : "279"
    },
    "Beyond the Call/1" : {
-      "title" : "Beyond the Call [E1-M8]",
+      "location" : "E1-M8",
       "type" : "Space Battle"
    },
    "Beyond the Call/2" : {
-      "title" : "Beyond the Call [E1-M8]",
+      "location" : "E1-M8",
       "type" : "Space Battle"
    },
    "Beyond the Call/3" : {
-      "title" : "Beyond the Call [E1-M8]",
+      "location" : "E1-M8",
       "type" : "Space Battle"
    },
    "Blunting the Dagger/1" : {
-      "skillcheck" : "212",
-      "title" : "Blunting the Dagger [E5-M5]"
+      "location" : "E5-M5",
+      "skillcheck" : "212"
    },
    "Blunting the Dagger/2" : {
-      "skillcheck" : "530",
-      "title" : "Blunting the Dagger [E5-M5]"
+      "location" : "E5-M5",
+      "skillcheck" : "530"
    },
    "Blunting the Dagger/3" : {
-      "skillcheck" : "1051",
-      "title" : "Blunting the Dagger [E5-M5]"
+      "location" : "E5-M5",
+      "skillcheck" : "1051"
    },
    "Boots on the Ground/1" : {
-      "title" : "Boots on the Ground [P2-M2]"
+      "location" : "P2-M2"
    },
    "Boots on the Ground/2" : {
-      "title" : "Boots on the Ground [P2-M2]"
+      "location" : "P2-M2"
    },
    "Boots on the Ground/3" : {
-      "title" : "Boots on the Ground [P2-M2]"
+      "location" : "P2-M2"
    },
    "Bravery in Action/1" : {
-      "skillcheck" : "55",
-      "title" : "Bravery in Action [EA-M1]"
+      "location" : "EA-M1",
+      "skillcheck" : "55"
    },
    "Bravery in Action/2" : {
-      "skillcheck" : "190",
-      "title" : "Bravery in Action [EA-M1]"
+      "location" : "EA-M1",
+      "skillcheck" : "190"
    },
    "Bravery in Action/3" : {
-      "skillcheck" : "290",
-      "title" : "Bravery in Action [EA-M1]"
+      "location" : "EA-M1",
+      "skillcheck" : "290"
    },
    "By Hook Or By Crook/1" : {
-      "skillcheck" : "39",
-      "title" : "By Hook Or By Crook [E1-M14B]"
+      "location" : "E1-M14B",
+      "skillcheck" : "39"
    },
    "By Hook Or By Crook/2" : {
-      "skillcheck" : "86",
-      "title" : "By Hook Or By Crook [E1-M14B]"
+      "location" : "E1-M14B",
+      "skillcheck" : "86"
    },
    "By Hook Or By Crook/3" : {
-      "skillcheck" : "344",
-      "title" : "By Hook Or By Crook [E1-M14B]"
+      "location" : "E1-M14B",
+      "skillcheck" : "344"
    },
    "Cardassian Hospitality/1" : {
-      "skillcheck" : "63",
-      "title" : "Cardassian Hospitality [E2-M14]"
+      "location" : "E2-M14",
+      "skillcheck" : "63"
    },
    "Cardassian Hospitality/2" : {
-      "skillcheck" : "144",
-      "title" : "Cardassian Hospitality [E2-M14]"
+      "location" : "E2-M14",
+      "skillcheck" : "144"
    },
    "Cardassian Hospitality/3" : {
-      "skillcheck" : "574",
-      "title" : "Cardassian Hospitality [E2-M14]"
+      "location" : "E2-M14",
+      "skillcheck" : "574"
    },
    "Cleansing Fire/1" : {
-      "skillcheck" : "39",
-      "title" : "Cleansing Fire [E1-M14A]"
+      "location" : "E1-M14A",
+      "skillcheck" : "39"
    },
    "Cleansing Fire/2" : {
-      "skillcheck" : "86",
-      "title" : "Cleansing Fire [E1-M14A]"
+      "location" : "E1-M14A",
+      "skillcheck" : "86"
    },
    "Cleansing Fire/3" : {
-      "skillcheck" : "344",
-      "title" : "Cleansing Fire [E1-M14A]"
+      "location" : "E1-M14A",
+      "skillcheck" : "344"
    },
    "Common Ground/1" : {
-      "skillcheck" : "101",
-      "title" : "Common Ground [E4-M4]"
+      "location" : "E4-M4",
+      "skillcheck" : "101"
    },
    "Common Ground/2" : {
-      "skillcheck" : "315",
-      "title" : "Common Ground [E4-M4]"
+      "location" : "E4-M4",
+      "skillcheck" : "315"
    },
    "Common Ground/3" : {
-      "skillcheck" : "760",
-      "title" : "Common Ground [E4-M4]"
+      "location" : "E4-M4",
+      "skillcheck" : "760"
    },
    "Control Over Chaos/1" : {
-      "skillcheck" : "240",
-      "title" : "Control Over Chaos [E5-M9]"
+      "location" : "E5-M9",
+      "skillcheck" : "240"
    },
    "Control Over Chaos/2" : {
-      "skillcheck" : "530",
-      "title" : "Control Over Chaos [E5-M9]"
+      "location" : "E5-M9",
+      "skillcheck" : "530"
    },
    "Control Over Chaos/3" : {
-      "skillcheck" : "1051",
-      "title" : "Control Over Chaos [E5-M9]"
+      "location" : "E5-M9",
+      "skillcheck" : "1051"
    },
    "Coursing Hounds/1" : {
-      "title" : "Coursing Hounds [E5-M3]",
+      "location" : "E5-M3",
       "type" : "Space Battle"
    },
    "Coursing Hounds/2" : {
-      "title" : "Coursing Hounds [E5-M3]",
+      "location" : "E5-M3",
       "type" : "Space Battle"
    },
    "Coursing Hounds/3" : {
-      "title" : "Coursing Hounds [E5-M3]",
+      "location" : "E5-M3",
       "type" : "Space Battle"
    },
    "Cytherian Highway/1" : {
-      "skillcheck" : "75",
-      "title" : "Cytherian Highway [E3-M2]"
+      "location" : "E3-M2",
+      "skillcheck" : "75"
    },
    "Cytherian Highway/2" : {
-      "skillcheck" : "235",
-      "title" : "Cytherian Highway [E3-M2]"
+      "location" : "E3-M2",
+      "skillcheck" : "235"
    },
    "Cytherian Highway/3" : {
-      "skillcheck" : "685",
-      "title" : "Cytherian Highway [E3-M2]"
+      "location" : "E3-M2",
+      "skillcheck" : "685"
    },
    "Deadly Disruptions/1" : {
-      "skillcheck" : "106",
-      "title" : "Deadly Disruptions [E4-M5]"
+      "location" : "E4-M5",
+      "skillcheck" : "106"
    },
    "Deadly Disruptions/2" : {
-      "skillcheck" : "350",
-      "title" : "Deadly Disruptions [E4-M5]"
+      "location" : "E4-M5",
+      "skillcheck" : "350"
    },
    "Deadly Disruptions/3" : {
-      "skillcheck" : "805",
-      "title" : "Deadly Disruptions [E4-M5]"
+      "location" : "E4-M5",
+      "skillcheck" : "805"
    },
    "Death Throes/1" : {
-      "title" : "Death Throes [CT-M5]",
+      "location" : "CT-M5",
       "type" : "Space Battle"
    },
    "Death Throes/2" : {
-      "title" : "Death Throes [CT-M5]",
+      "location" : "CT-M5",
       "type" : "Space Battle"
    },
    "Death Throes/3" : {
-      "title" : "Death Throes [CT-M5]",
+      "location" : "CT-M5",
       "type" : "Space Battle"
    },
    "Death in Battle/1" : {
-      "title" : "Death in Battle [DE-M7]",
+      "location" : "DE-M7",
       "type" : "Space Battle"
    },
    "Death in Battle/2" : {
-      "title" : "Death in Battle [DE-M7]",
+      "location" : "DE-M7",
       "type" : "Space Battle"
    },
    "Death in Battle/3" : {
-      "title" : "Death in Battle [DE-M7]",
+      "location" : "DE-M7",
       "type" : "Space Battle"
    },
    "Death's Endeavor/1" : {
-      "skillcheck" : "635",
-      "title" : "Death's Endeavor [E7-M13B]"
+      "location" : "E7-M13B",
+      "skillcheck" : "635"
    },
    "Death's Endeavor/2" : {
-      "skillcheck" : "1117",
-      "title" : "Death's Endeavor [E7-M13B]"
+      "location" : "E7-M13B",
+      "skillcheck" : "1117"
    },
    "Death's Endeavor/3" : {
-      "skillcheck" : "1676",
-      "title" : "Death's Endeavor [E7-M13B]"
+      "location" : "E7-M13B",
+      "skillcheck" : "1676"
    },
    "Double Trouble/1" : {
-      "skillcheck" : "29",
-      "title" : "Double Trouble [E1-M9]"
+      "location" : "E1-M9",
+      "skillcheck" : "29"
    },
    "Double Trouble/2" : {
-      "skillcheck" : "76",
-      "title" : "Double Trouble [E1-M9]"
+      "location" : "E1-M9",
+      "skillcheck" : "76"
    },
    "Double Trouble/3" : {
-      "skillcheck" : "139",
-      "title" : "Double Trouble [E1-M9]"
+      "location" : "E1-M9",
+      "skillcheck" : "139"
    },
    "Down Once More/1" : {
       "skillcheck" : "55"
@@ -438,136 +438,136 @@
       "skillcheck" : "290"
    },
    "Family Squabble/1" : {
-      "title" : "Family Squabble [E3-M1]",
+      "location" : "E3-M1",
       "type" : "Space Battle"
    },
    "Family Squabble/2" : {
-      "title" : "Family Squabble [E3-M1]",
+      "location" : "E3-M1",
       "type" : "Space Battle"
    },
    "Family Squabble/3" : {
-      "title" : "Family Squabble [E3-M1]",
+      "location" : "E3-M1",
       "type" : "Space Battle"
    },
    "Fan Club/1" : {
-      "title" : "Fan Club [E4-M9]",
+      "location" : "E4-M9",
       "type" : "Space Battle"
    },
    "Fan Club/2" : {
-      "title" : "Fan Club [E4-M9]",
+      "location" : "E4-M9",
       "type" : "Space Battle"
    },
    "Fan Club/3" : {
-      "title" : "Fan Club [E4-M9]",
+      "location" : "E4-M9",
       "type" : "Space Battle"
    },
    "First Conflict/1" : {
-      "skillcheck" : "85",
-      "title" : "First Conflict [UF-M3]"
+      "location" : "UF-M3",
+      "skillcheck" : "85"
    },
    "First Conflict/2" : {
-      "skillcheck" : "215",
-      "title" : "First Conflict [UF-M3]"
+      "location" : "UF-M3",
+      "skillcheck" : "215"
    },
    "First Conflict/3" : {
-      "skillcheck" : "325",
-      "title" : "First Conflict [UF-M3]"
+      "location" : "UF-M3",
+      "skillcheck" : "325"
    },
    "Flesh and Blood/1" : {
-      "skillcheck" : "100",
-      "title" : "Flesh and Blood [UF-M4]"
+      "location" : "UF-M4",
+      "skillcheck" : "100"
    },
    "Flesh and Blood/2" : {
-      "skillcheck" : "245",
-      "title" : "Flesh and Blood [UF-M4]"
+      "location" : "UF-M4",
+      "skillcheck" : "245"
    },
    "Flesh and Blood/3" : {
-      "skillcheck" : "345",
-      "title" : "Flesh and Blood [UF-M4]"
+      "location" : "UF-M4",
+      "skillcheck" : "345"
    },
    "For His Own Good/1" : {
-      "title" : "For His Own Good [E2-M13]",
+      "location" : "E2-M13",
       "type" : "Space Battle"
    },
    "For His Own Good/2" : {
-      "title" : "For His Own Good [E2-M13]",
+      "location" : "E2-M13",
       "type" : "Space Battle"
    },
    "For His Own Good/3" : {
-      "title" : "For His Own Good [E2-M13]",
+      "location" : "E2-M13",
       "type" : "Space Battle"
    },
    "For the People/1" : {
-      "skillcheck" : "126",
-      "title" : "For the People [E4-M12]"
+      "location" : "E4-M12",
+      "skillcheck" : "126"
    },
    "For the People/2" : {
-      "skillcheck" : "400",
-      "title" : "For the People [E4-M12]"
+      "location" : "E4-M12",
+      "skillcheck" : "400"
    },
    "For the People/3" : {
-      "skillcheck" : "916",
-      "title" : "For the People [E4-M12]"
+      "location" : "E4-M12",
+      "skillcheck" : "916"
    },
    "Garak's Gamble/1" : {
-      "title" : "Garak's Gamble [E7-M13A]",
+      "location" : "E7-M13A",
       "type" : "Space Battle"
    },
    "Garak's Gamble/2" : {
-      "title" : "Garak's Gamble [E7-M13A]",
+      "location" : "E7-M13A",
       "type" : "Space Battle"
    },
    "Garak's Gamble/3" : {
-      "title" : "Garak's Gamble [E7-M13A]",
+      "location" : "E7-M13A",
       "type" : "Space Battle"
    },
    "He Means Well/1" : {
-      "title" : "He Means Well [E4-M11]",
+      "location" : "E4-M11",
       "type" : "Space Battle"
    },
    "He Means Well/2" : {
-      "title" : "He Means Well [E4-M11]",
+      "location" : "E4-M11",
       "type" : "Space Battle"
    },
    "He Means Well/3" : {
-      "title" : "He Means Well [E4-M11]",
+      "location" : "E4-M11",
       "type" : "Space Battle"
    },
    "Highwaymen/1" : {
-      "title" : "Highwaymen [DE-M3]",
+      "location" : "DE-M3",
       "type" : "Space Battle"
    },
    "Highwaymen/2" : {
-      "title" : "Highwaymen [DE-M3]",
+      "location" : "DE-M3",
       "type" : "Space Battle"
    },
    "Highwaymen/3" : {
-      "title" : "Highwaymen [DE-M3]",
+      "location" : "DE-M3",
       "type" : "Space Battle"
    },
    "His Own Man/1" : {
-      "title" : "His Own Man [E1-M2]",
+      "location" : "E1-M2",
       "type" : "Space Battle"
    },
    "His Own Man/2" : {
-      "title" : "His Own Man [E1-M2]",
+      "location" : "E1-M2",
       "type" : "Space Battle"
    },
    "His Own Man/3" : {
-      "title" : "His Own Man [E1-M2]",
+      "location" : "E1-M2",
       "type" : "Space Battle"
    },
    "History Interrupted/1" : {
-      "skillcheck" : "55",
-      "title" : "History Interrupted [UF-M1]"
+      "location" : "UF-M1",
+      "skillcheck" : "55"
    },
    "History Interrupted/2" : {
-      "skillcheck" : "190",
-      "title" : "History Interrupted [UF-M1]"
+      "location" : "UF-M1",
+      "skillcheck" : "190"
    },
    "History Interrupted/3" : {
-      "skillcheck" : "290",
-      "title" : "History Interrupted [UF-M1]"
+      "location" : "UF-M1",
+      "skillcheck" : "290"
    },
    "Hot Pursuit/1" : {
       "type" : "Space Battle"
@@ -579,379 +579,379 @@
       "type" : "Space Battle"
    },
    "Hounded/1" : {
-      "title" : "Hounded [E7-M11]",
+      "location" : "E7-M11",
       "type" : "Space Battle"
    },
    "Hounded/2" : {
-      "title" : "Hounded [E7-M11]",
+      "location" : "E7-M11",
       "type" : "Space Battle"
    },
    "Hounded/3" : {
-      "title" : "Hounded [E7-M11]",
+      "location" : "E7-M11",
       "type" : "Space Battle"
    },
    "Iconian Insider/1" : {
-      "skillcheck" : "68",
-      "title" : "Iconian Insider [DE-E8]"
+      "location" : "DE-E8",
+      "skillcheck" : "68"
    },
    "Iconian Insider/2" : {
-      "skillcheck" : "115",
-      "title" : "Iconian Insider [DE-E8]"
+      "location" : "DE-E8",
+      "skillcheck" : "115"
    },
    "Iconian Insider/3" : {
-      "skillcheck" : "165",
-      "title" : "Iconian Insider [DE-E8]"
+      "location" : "DE-E8",
+      "skillcheck" : "165"
    },
    "Improvised Entry/1" : {
-      "skillcheck" : "400",
-      "title" : "Improvised Entry [E7-M1]"
+      "location" : "E7-M1",
+      "skillcheck" : "400"
    },
    "Improvised Entry/2" : {
-      "skillcheck" : "840",
-      "title" : "Improvised Entry [E7-M1]"
+      "location" : "E7-M1",
+      "skillcheck" : "840"
    },
    "Improvised Entry/3" : {
-      "skillcheck" : "1360",
-      "title" : "Improvised Entry [E7-M1]"
+      "location" : "E7-M1",
+      "skillcheck" : "1360"
    },
    "Incompatible With Life/1" : {
-      "skillcheck" : "70",
-      "title" : "Incompatible With Life [UF-M2]"
+      "location" : "UF-M2",
+      "skillcheck" : "70"
    },
    "Incompatible With Life/2" : {
-      "skillcheck" : "205",
-      "title" : "Incompatible With Life [UF-M2]"
+      "location" : "UF-M2",
+      "skillcheck" : "205"
    },
    "Incompatible With Life/3" : {
-      "skillcheck" : "310",
-      "title" : "Incompatible With Life [UF-M2]"
+      "location" : "UF-M2",
+      "skillcheck" : "310"
    },
    "Indiscriminate Mind/1" : {
-      "title" : "Indiscriminate Mind [DE-M5]",
+      "location" : "DE-M5",
       "type" : "Space Battle"
    },
    "Indiscriminate Mind/2" : {
-      "title" : "Indiscriminate Mind [DE-M5]",
+      "location" : "DE-M5",
       "type" : "Space Battle"
    },
    "Indiscriminate Mind/3" : {
-      "title" : "Indiscriminate Mind [DE-M5]",
+      "location" : "DE-M5",
       "type" : "Space Battle"
    },
    "Instant Intervention/1" : {
-      "title" : "Instant Intervention [E5-M13]",
+      "location" : "E5-M13",
       "type" : "Space Battle"
    },
    "Instant Intervention/2" : {
-      "title" : "Instant Intervention [E5-M13]",
+      "location" : "E5-M13",
       "type" : "Space Battle"
    },
    "Instant Intervention/3" : {
-      "title" : "Instant Intervention [E5-M13]",
+      "location" : "E5-M13",
       "type" : "Space Battle"
    },
    "Internal Dispute/1" : {
-      "skillcheck" : "63",
-      "title" : "Internal Dispute [E2-M12]"
+      "location" : "E2-M12",
+      "skillcheck" : "63"
    },
    "Internal Dispute/2" : {
-      "skillcheck" : "135",
-      "title" : "Internal Dispute [E2-M12]"
+      "location" : "E2-M12",
+      "skillcheck" : "135"
    },
    "Internal Dispute/3" : {
-      "skillcheck" : "545",
-      "title" : "Internal Dispute [E2-M12]"
+      "location" : "E2-M12",
+      "skillcheck" : "545"
    },
    "Into His Own Hands/1" : {
-      "title" : "Into His Own Hands [E5-M12]",
+      "location" : "E5-M12",
       "type" : "Space Battle"
    },
    "Into His Own Hands/2" : {
-      "title" : "Into His Own Hands [E5-M12]",
+      "location" : "E5-M12",
       "type" : "Space Battle"
    },
    "Into His Own Hands/3" : {
-      "title" : "Into His Own Hands [E5-M12]",
+      "location" : "E5-M12",
       "type" : "Space Battle"
    },
    "Ishka Issues/1" : {
-      "skillcheck" : "95",
-      "title" : "Ishka Issues [E4-M1]"
+      "location" : "E4-M1",
+      "skillcheck" : "95"
    },
    "Ishka Issues/2" : {
-      "skillcheck" : "300",
-      "title" : "Ishka Issues [E4-M1]"
+      "location" : "E4-M1",
+      "skillcheck" : "300"
    },
    "Ishka Issues/3" : {
-      "skillcheck" : "745",
-      "title" : "Ishka Issues [E4-M1]"
+      "location" : "E4-M1",
+      "skillcheck" : "745"
    },
    "Long Distance Call/1" : {
-      "title" : "Long Distance Call [DE-M1]",
+      "location" : "DE-M1",
       "type" : "Space Battle"
    },
    "Long Distance Call/2" : {
-      "title" : "Long Distance Call [DE-M1]",
+      "location" : "DE-M1",
       "type" : "Space Battle"
    },
    "Long Distance Call/3" : {
-      "title" : "Long Distance Call [DE-M1]",
+      "location" : "DE-M1",
       "type" : "Space Battle"
    },
    "Long Live the King/1" : {
-      "title" : "Long Live the King [E5-M17]",
+      "location" : "E5-M17",
       "type" : "Space Battle"
    },
    "Long Live the King/2" : {
-      "title" : "Long Live the King [E5-M17]",
+      "location" : "E5-M17",
       "type" : "Space Battle"
    },
    "Long Live the King/3" : {
-      "title" : "Long Live the King [E5-M17]",
+      "location" : "E5-M17",
       "type" : "Space Battle"
    },
    "Lost Legacy/1" : {
-      "skillcheck" : "610",
-      "title" : "Lost Legacy [E7-M12]"
+      "location" : "E7-M12",
+      "skillcheck" : "610"
    },
    "Lost Legacy/2" : {
-      "skillcheck" : "1098",
-      "title" : "Lost Legacy [E7-M12]"
+      "location" : "E7-M12",
+      "skillcheck" : "1098"
    },
    "Lost Legacy/3" : {
-      "skillcheck" : "1647",
-      "title" : "Lost Legacy [E7-M12]"
+      "location" : "E7-M12",
+      "skillcheck" : "1647"
    },
    "Man with a Plan/1" : {
-      "skillcheck" : "73",
-      "title" : "Man With a Plan [E2-M19B]"
+      "location" : "E2-M19B",
+      "skillcheck" : "73"
    },
    "Man with a Plan/2" : {
-      "skillcheck" : "184",
-      "title" : "Man With a Plan [E2-M19B]"
+      "location" : "E2-M19B",
+      "skillcheck" : "184"
    },
    "Man with a Plan/3" : {
-      "skillcheck" : "649",
-      "title" : "Man With a Plan [E2-M19B]"
+      "location" : "E2-M19B",
+      "skillcheck" : "649"
    },
    "Manna from Heaven/1" : {
-      "skillcheck" : "49",
-      "title" : "Manna from Heaven [E2-M5]"
+      "location" : "E2-M5",
+      "skillcheck" : "49"
    },
    "Manna from Heaven/2" : {
-      "skillcheck" : "105",
-      "title" : "Manna from Heaven [E2-M5]"
+      "location" : "E2-M5",
+      "skillcheck" : "105"
    },
    "Manna from Heaven/3" : {
-      "skillcheck" : "415",
-      "title" : "Manna from Heaven [E2-M5]"
+      "location" : "E2-M5",
+      "skillcheck" : "415"
    },
    "Maquis Incitement/1" : {
-      "skillcheck" : "54",
-      "title" : "Maquis Incitement [E2-M9]"
+      "location" : "E2-M9",
+      "skillcheck" : "54"
    },
    "Maquis Incitement/2" : {
-      "skillcheck" : "119",
-      "title" : "Maquis Incitement [E2-M9]"
+      "location" : "E2-M9",
+      "skillcheck" : "119"
    },
    "Maquis Incitement/3" : {
-      "skillcheck" : "500",
-      "title" : "Maquis Incitement [E2-M9]"
+      "location" : "E2-M9",
+      "skillcheck" : "500"
    },
    "Material Assistance/1" : {
-      "skillcheck" : "430",
-      "title" : "Material Assistance [E7-M3]"
+      "location" : "E7-M3",
+      "skillcheck" : "430"
    },
    "Material Assistance/2" : {
-      "skillcheck" : "903",
-      "title" : "Material Assistance [E7-M3]"
+      "location" : "E7-M3",
+      "skillcheck" : "903"
    },
    "Material Assistance/3" : {
-      "skillcheck" : "1409",
-      "title" : "Material Assistance [E7-M3]"
+      "location" : "E7-M3",
+      "skillcheck" : "1409"
    },
    "Moriarty's Deadline/1" : {
-      "skillcheck" : "175",
-      "title" : "Moriarty's Deadline [CT-M4]"
+      "location" : "CT-M4",
+      "skillcheck" : "175"
    },
    "Moriarty's Deadline/2" : {
-      "skillcheck" : "367",
-      "title" : "Moriarty's Deadline [CT-M4]"
+      "location" : "CT-M4",
+      "skillcheck" : "367"
    },
    "Moriarty's Deadline/3" : {
-      "skillcheck" : "804",
-      "title" : "Moriarty's Deadline [CT-M4]"
+      "location" : "CT-M4",
+      "skillcheck" : "804"
    },
    "Mortals and Mayhem/1" : {
-      "skillcheck" : "47",
-      "title" : "Mortals and Mayhem [DE-M6]"
+      "location" : "DE-M6",
+      "skillcheck" : "47"
    },
    "Mortals and Mayhem/2" : {
-      "skillcheck" : "95",
-      "title" : "Mortals and Mayhem [DE-M6]"
+      "location" : "DE-M6",
+      "skillcheck" : "95"
    },
    "Mortals and Mayhem/3" : {
-      "skillcheck" : "160",
-      "title" : "Mortals and Mayhem [DE-M6]"
+      "location" : "DE-M6",
+      "skillcheck" : "160"
    },
    "Mutual Assured Destruction/1" : {
-      "title" : "Mutual Assured Destruction [E4-M7]",
+      "location" : "E4-M7",
       "type" : "Space Battle"
    },
    "Mutual Assured Destruction/2" : {
-      "title" : "Mutual Assured Destruction [E4-M7]",
+      "location" : "E4-M7",
       "type" : "Space Battle"
    },
    "Mutual Assured Destruction/3" : {
-      "title" : "Mutual Assured Destruction [E4-M7]",
+      "location" : "E4-M7",
       "type" : "Space Battle"
    },
    "No Man Left Behind/1" : {
-      "skillcheck" : "135",
-      "title" : "No Man Left Behind [EA-M5]"
+      "location" : "EA-M5",
+      "skillcheck" : "135"
    },
    "No Man Left Behind/2" : {
-      "skillcheck" : "270",
-      "title" : "No Man Left Behind [EA-M5]"
+      "location" : "EA-M5",
+      "skillcheck" : "270"
    },
    "No Man Left Behind/3" : {
-      "skillcheck" : "380",
-      "title" : "No Man Left Behind [EA-M5]"
+      "location" : "EA-M5",
+      "skillcheck" : "380"
    },
    "No Returns Accepted/1" : {
-      "title" : "No Returns Accepted [CT-M7]",
+      "location" : "CT-M7",
       "type" : "Space Battle"
    },
    "No Returns Accepted/2" : {
-      "title" : "No Returns Accepted [CT-M7]",
+      "location" : "CT-M7",
       "type" : "Space Battle"
    },
    "No Returns Accepted/3" : {
-      "title" : "No Returns Accepted [CT-M7]",
+      "location" : "CT-M7",
       "type" : "Space Battle"
    },
    "Not A Drop to Drink/1" : {
-      "title" : "Not A Drop to Drink [E2-M6]",
+      "location" : "E2-M6",
       "type" : "Space Battle"
    },
    "Not A Drop to Drink/2" : {
-      "title" : "Not A Drop to Drink [E2-M6]",
+      "location" : "E2-M6",
       "type" : "Space Battle"
    },
    "Not A Drop to Drink/3" : {
-      "title" : "Not A Drop to Drink [E2-M6]",
+      "location" : "E2-M6",
       "type" : "Space Battle"
    },
    "Not Without A Fight/1" : {
-      "title" : "Not Without A Fight [E4-M2]",
+      "location" : "E4-M2",
       "type" : "Space Battle"
    },
    "Not Without A Fight/2" : {
-      "title" : "Not Without A Fight [E4-M2]",
+      "location" : "E4-M2",
       "type" : "Space Battle"
    },
    "Not Without A Fight/3" : {
-      "title" : "Not Without A Fight [E4-M2]",
+      "location" : "E4-M2",
       "type" : "Space Battle"
    },
    "Of Two Evils/1" : {
-      "skillcheck" : "135",
-      "title" : "Of Two Evils [UF-M5]"
+      "location" : "UF-M5",
+      "skillcheck" : "135"
    },
    "Of Two Evils/2" : {
-      "skillcheck" : "270",
-      "title" : "Of Two Evils [UF-M5]"
+      "location" : "UF-M5",
+      "skillcheck" : "270"
    },
    "Of Two Evils/3" : {
-      "skillcheck" : "380",
-      "title" : "Of Two Evils [UF-M5]"
+      "location" : "UF-M5",
+      "skillcheck" : "380"
    },
    "Off at the Pass/1" : {
-      "skillcheck" : "58",
-      "title" : "Off at the Pass [E2-M11]"
+      "location" : "E2-M11",
+      "skillcheck" : "58"
    },
    "Off at the Pass/2" : {
-      "skillcheck" : "127",
-      "title" : "Off at the Pass [E2-M11]"
+      "location" : "E2-M11",
+      "skillcheck" : "127"
    },
    "Off at the Pass/3" : {
-      "skillcheck" : "530",
-      "title" : "Off at the Pass [E2-M11]"
+      "location" : "E2-M11",
+      "skillcheck" : "530"
    },
    "On Their Heels/1" : {
-      "title" : "On Their Heels [E1-M5]",
+      "location" : "E1-M5",
       "type" : "Space Battle"
    },
    "On Their Heels/2" : {
-      "title" : "On Their Heels [E1-M5]",
+      "location" : "E1-M5",
       "type" : "Space Battle"
    },
    "On Their Heels/3" : {
-      "title" : "On Their Heels [E1-M5]",
+      "location" : "E1-M5",
       "type" : "Space Battle"
    },
    "One Future Ends/1" : {
-      "skillcheck" : "505",
-      "title" : "One Future Ends [E7-M7]"
+      "location" : "E7-M7",
+      "skillcheck" : "505"
    },
    "One Future Ends/2" : {
-      "skillcheck" : "707",
-      "title" : "One Future Ends [E7-M7]"
+      "location" : "E7-M7",
+      "skillcheck" : "707"
    },
    "One Future Ends/3" : {
-      "skillcheck" : "1010",
-      "title" : "One Future Ends [E7-M7]"
+      "location" : "E7-M7",
+      "skillcheck" : "1010"
    },
    "Operation Isolate/1" : {
-      "skillcheck" : "255",
-      "title" : "Operation Isolate [CT-M8]"
+      "location" : "CT-M8",
+      "skillcheck" : "255"
    },
    "Operation Isolate/2" : {
-      "skillcheck" : "484",
-      "title" : "Operation Isolate [CT-M8]"
+      "location" : "CT-M8",
+      "skillcheck" : "484"
    },
    "Operation Isolate/3" : {
-      "skillcheck" : "994",
-      "title" : "Operation Isolate [CT-M8]"
+      "location" : "CT-M8",
+      "skillcheck" : "994"
    },
    "Organian Aid/1" : {
-      "skillcheck" : "89",
-      "title" : "Organian Aid [E3-M4]"
+      "location" : "E3-M4",
+      "skillcheck" : "89"
    },
    "Organian Aid/2" : {
-      "skillcheck" : "260",
-      "title" : "Organian Aid [E3-M4]"
+      "location" : "E3-M4",
+      "skillcheck" : "260"
    },
    "Organian Aid/3" : {
-      "skillcheck" : "705",
-      "title" : "Organian Aid [E3-M4]"
+      "location" : "E3-M4",
+      "skillcheck" : "705"
    },
    "Picking the Bones/1" : {
+      "location" : "E2-M16",
       "skillcheck" : "68",
-      "title" : "Picking the Bones [E2-M16]",
       "type" : "Space Battle"
    },
    "Picking the Bones/2" : {
+      "location" : "E2-M16",
       "skillcheck" : "165",
-      "title" : "Picking the Bones [E2-M16]",
       "type" : "Space Battle"
    },
    "Picking the Bones/3" : {
+      "location" : "E2-M16",
       "skillcheck" : "136",
-      "title" : "Picking the Bones [E2-M16]",
       "type" : "Space Battle"
    },
    "Pillage and Plunder/1" : {
-      "skillcheck" : "25",
-      "title" : "Pillage and Plunder [E1-M7]"
+      "location" : "E1-M7",
+      "skillcheck" : "25"
    },
    "Pillage and Plunder/2" : {
-      "skillcheck" : "77",
-      "title" : "Pillage and Plunder [E1-M7]"
+      "location" : "E1-M7",
+      "skillcheck" : "77"
    },
    "Pillage and Plunder/3" : {
-      "skillcheck" : "200",
-      "title" : "Pillage and Plunder [E1-M7]"
+      "location" : "E1-M7",
+      "skillcheck" : "200"
    },
    "Pirate Problems/1" : {
       "type" : "Space Battle"
@@ -963,241 +963,241 @@
       "type" : "Space Battle"
    },
    "Pretense of Mercy/1" : {
-      "skillcheck" : "71",
-      "title" : "Pretense of Mercy [E2-M17]"
+      "location" : "E2-M17",
+      "skillcheck" : "71"
    },
    "Pretense of Mercy/2" : {
-      "skillcheck" : "175",
-      "title" : "Pretense of Mercy [E2-M17]"
+      "location" : "E2-M17",
+      "skillcheck" : "175"
    },
    "Pretense of Mercy/3" : {
-      "skillcheck" : "614",
-      "title" : "Pretense of Mercy [E2-M17]"
+      "location" : "E2-M17",
+      "skillcheck" : "614"
    },
    "Proof of Concept/1" : {
-      "title" : "Proof of Concept [E5-M10]",
+      "location" : "E5-M10",
       "type" : "Space Battle"
    },
    "Proof of Concept/2" : {
-      "title" : "Proof of Concept [E5-M10]",
+      "location" : "E5-M10",
       "type" : "Space Battle"
    },
    "Proof of Concept/3" : {
-      "title" : "Proof of Concept [E5-M10]",
+      "location" : "E5-M10",
       "type" : "Space Battle"
    },
    "Putting the Free in Freedom/1" : {
-      "skillcheck" : "135",
-      "title" : "Putting the Free in Freedom [E4-M14A]"
+      "location" : "E4-M14A",
+      "skillcheck" : "135"
    },
    "Putting the Free in Freedom/2" : {
-      "skillcheck" : "445",
-      "title" : "Putting the Free in Freedom [E4-M14A]"
+      "location" : "E4-M14A",
+      "skillcheck" : "445"
    },
    "Putting the Free in Freedom/3" : {
-      "skillcheck" : "945",
-      "title" : "Putting the Free in Freedom [E4-M14A]"
+      "location" : "E4-M14A",
+      "skillcheck" : "945"
    },
    "Quell the Riots/1" : {
-      "skillcheck" : "184",
-      "title" : "Quell the Riots [E5-M1]"
+      "location" : "E5-M1",
+      "skillcheck" : "184"
    },
    "Quell the Riots/2" : {
-      "skillcheck" : "452",
-      "title" : "Quell the Riots [E5-M1]"
+      "location" : "E5-M1",
+      "skillcheck" : "452"
    },
    "Quell the Riots/3" : {
-      "skillcheck" : "940",
-      "title" : "Quell the Riots [E5-M1]"
+      "location" : "E5-M1",
+      "skillcheck" : "940"
    },
    "Rabid Fans/1" : {
-      "skillcheck" : "125",
-      "title" : "Rabid Fans [CT-M2]"
+      "location" : "CT-M2",
+      "skillcheck" : "125"
    },
    "Rabid Fans/2" : {
-      "skillcheck" : "300",
-      "title" : "Rabid Fans [CT-M2]"
+      "location" : "CT-M2",
+      "skillcheck" : "300"
    },
    "Rabid Fans/3" : {
-      "skillcheck" : "712",
-      "title" : "Rabid Fans [CT-M2]"
+      "location" : "CT-M2",
+      "skillcheck" : "712"
    },
    "Race to the Finish/1" : {
-      "skillcheck" : "185",
-      "title" : "Race to the Finish [E5-M4]"
+      "location" : "E5-M4",
+      "skillcheck" : "185"
    },
    "Race to the Finish/2" : {
-      "skillcheck" : "516",
-      "title" : "Race to the Finish [E5-M4]"
+      "location" : "E5-M4",
+      "skillcheck" : "516"
    },
    "Race to the Finish/3" : {
-      "skillcheck" : "1030",
-      "title" : "Race to the Finish [E5-M4]"
+      "location" : "E5-M4",
+      "skillcheck" : "1030"
    },
    "Rescue the Val Jean/1" : {
-      "skillcheck" : "51",
-      "title" : "Rescue the Val Jean [E2-M8]"
+      "location" : "E2-M8",
+      "skillcheck" : "51"
    },
    "Rescue the Val Jean/2" : {
-      "skillcheck" : "115",
-      "title" : "Rescue the Val Jean [E2-M8]"
+      "location" : "E2-M8",
+      "skillcheck" : "115"
    },
    "Rescue the Val Jean/3" : {
-      "skillcheck" : "480",
-      "title" : "Rescue the Val Jean [E2-M8]"
+      "location" : "E2-M8",
+      "skillcheck" : "480"
    },
    "Researching Future History/1" : {
-      "skillcheck" : "545",
-      "title" : "Researching Future History [E7-M9]"
+      "location" : "E7-M9",
+      "skillcheck" : "545"
    },
    "Researching Future History/2" : {
-      "skillcheck" : "1035",
-      "title" : "Researching Future History [E7-M9]"
+      "location" : "E7-M9",
+      "skillcheck" : "1035"
    },
    "Researching Future History/3" : {
-      "skillcheck" : "1526",
-      "title" : "Researching Future History [E7-M9]"
+      "location" : "E7-M9",
+      "skillcheck" : "1526"
    },
    "Retroactive Vengeance/1" : {
-      "title" : "Retroactive Vengeance [E7-M8]",
+      "location" : "E7-M8",
       "type" : "Space Battle"
    },
    "Retroactive Vengeance/2" : {
-      "title" : "Retroactive Vengeance [E7-M8]",
+      "location" : "E7-M8",
       "type" : "Space Battle"
    },
    "Retroactive Vengeance/3" : {
-      "title" : "Retroactive Vengeance [E7-M8]",
+      "location" : "E7-M8",
       "type" : "Space Battle"
    },
    "Right Place, Wrong Time/1" : {
-      "title" : "Right Place, Wrong Time [E7-M5]",
+      "location" : "E7-M5",
       "type" : "Space Battle"
    },
    "Right Place, Wrong Time/2" : {
-      "title" : "Right Place, Wrong Time [E7-M5]",
+      "location" : "E7-M5",
       "type" : "Space Battle"
    },
    "Right Place, Wrong Time/3" : {
-      "title" : "Right Place, Wrong Time [E7-M5]",
+      "location" : "E7-M5",
       "type" : "Space Battle"
    },
    "Right of Conquest/1" : {
-      "skillcheck" : "36",
-      "title" : "Right of Conquest [E1-M13]"
+      "location" : "E1-M13",
+      "skillcheck" : "36"
    },
    "Right of Conquest/2" : {
-      "skillcheck" : "84",
-      "title" : "Right of Conquest [E1-M13]"
+      "location" : "E1-M13",
+      "skillcheck" : "84"
    },
    "Right of Conquest/3" : {
-      "skillcheck" : "319",
-      "title" : "Right of Conquest [E1-M13]"
+      "location" : "E1-M13",
+      "skillcheck" : "319"
    },
    "Rockslide/1" : {
-      "title" : "Rockslide [E3-M5]",
+      "location" : "E3-M5",
       "type" : "Space Battle"
    },
    "Rockslide/2" : {
-      "title" : "Rockslide [E3-M5]",
+      "location" : "E3-M5",
       "type" : "Space Battle"
    },
    "Rockslide/3" : {
-      "title" : "Rockslide [E3-M5]",
+      "location" : "E3-M5",
       "type" : "Space Battle"
    },
    "Salvage the Chavez/1" : {
-      "skillcheck" : "212",
-      "title" : "Salvage the Chavez [E5-M7]"
+      "location" : "E5-M7",
+      "skillcheck" : "212"
    },
    "Salvage the Chavez/2" : {
-      "skillcheck" : "561",
-      "title" : "Salvage the Chavez [E5-M7]"
+      "location" : "E5-M7",
+      "skillcheck" : "561"
    },
    "Salvage the Chavez/3" : {
-      "skillcheck" : "1081",
-      "title" : "Salvage the Chavez [E5-M7]"
+      "location" : "E5-M7",
+      "skillcheck" : "1081"
    },
    "Saving Smiley O'Brien/1" : {
-      "title" : "Saving 'Smiley' O'Brien [E5-M11]"
+      "location" : "E5-M11"
    },
    "Saving Smiley O'Brien/2" : {
-      "title" : "Saving 'Smiley' O'Brien [E5-M11]"
+      "location" : "E5-M11"
    },
    "Saving Smiley O'Brien/3" : {
-      "title" : "Saving 'Smiley' O'Brien [E5-M11]"
+      "location" : "E5-M11"
    },
    "Secure the Chavez/1" : {
-      "title" : "Secure the Chavez [E5-M6]",
+      "location" : "E5-M6",
       "type" : "Space Battle"
    },
    "Secure the Chavez/2" : {
-      "title" : "Secure the Chavez [E5-M6]",
+      "location" : "E5-M6",
       "type" : "Space Battle"
    },
    "Secure the Chavez/3" : {
-      "title" : "Secure the Chavez [E5-M6]",
+      "location" : "E5-M6",
       "type" : "Space Battle"
    },
    "Self Control/1" : {
-      "skillcheck" : "110",
-      "title" : "Self Control [E4-M6]"
+      "location" : "E4-M6",
+      "skillcheck" : "110"
    },
    "Self Control/2" : {
-      "skillcheck" : "365",
-      "title" : "Self Control [E4-M6]"
+      "location" : "E4-M6",
+      "skillcheck" : "365"
    },
    "Self Control/3" : {
-      "skillcheck" : "836",
-      "title" : "Self Control [E4-M6]"
+      "location" : "E4-M6",
+      "skillcheck" : "836"
    },
    "Serious Business/1" : {
-      "skillcheck" : "210",
-      "title" : "Serious Business [CT-M6]"
+      "location" : "CT-M6",
+      "skillcheck" : "210"
    },
    "Serious Business/2" : {
-      "skillcheck" : "441",
-      "title" : "Serious Business [CT-M6]"
+      "location" : "CT-M6",
+      "skillcheck" : "441"
    },
    "Serious Business/3" : {
-      "skillcheck" : "903",
-      "title" : "Serious Business [CT-M6]"
+      "location" : "CT-M6",
+      "skillcheck" : "903"
    },
    "Smiles and Knives/1" : {
-      "skillcheck" : "135",
-      "title" : "Smiles and Knives [E4-M14B]"
+      "location" : "E4-M14B",
+      "skillcheck" : "135"
    },
    "Smiles and Knives/2" : {
-      "skillcheck" : "445",
-      "title" : "Smiles and Knives [E4-M14B]"
+      "location" : "E4-M14B",
+      "skillcheck" : "445"
    },
    "Smiles and Knives/3" : {
-      "skillcheck" : "945",
-      "title" : "Smiles and Knives [E4-M14B]"
+      "location" : "E4-M14B",
+      "skillcheck" : "945"
    },
    "Stolen Honor/1" : {
-      "skillcheck" : "32",
-      "title" : "Stolen Honor [E1-M10]"
+      "location" : "E1-M10",
+      "skillcheck" : "32"
    },
    "Stolen Honor/2" : {
-      "skillcheck" : "81",
-      "title" : "Stolen Honor [E1-M10]"
+      "location" : "E1-M10",
+      "skillcheck" : "81"
    },
    "Stolen Honor/3" : {
-      "skillcheck" : "260",
-      "title" : "Stolen Honor [E1-M10]"
+      "location" : "E1-M10",
+      "skillcheck" : "260"
    },
    "Striking at Shadows/1" : {
-      "skillcheck" : "480",
-      "title" : "Striking at Shadows [E7-M6]"
+      "location" : "E7-M6",
+      "skillcheck" : "480"
    },
    "Striking at Shadows/2" : {
-      "skillcheck" : "969",
-      "title" : "Striking at Shadows [E7-M6]"
+      "location" : "E7-M6",
+      "skillcheck" : "969"
    },
    "Striking at Shadows/3" : {
-      "skillcheck" : "1473",
-      "title" : "Striking at Shadows [E7-M6]"
+      "location" : "E7-M6",
+      "skillcheck" : "1473"
    },
    "Talarian Coup/1" : {
       "skillcheck" : "85"
@@ -1209,273 +1209,273 @@
       "skillcheck" : "325"
    },
    "Talk Less, Smile More/1" : {
-      "skillcheck" : "85",
-      "title" : "Talk Less, Smile More [EA-M3]"
+      "location" : "EA-M3",
+      "skillcheck" : "85"
    },
    "Talk Less, Smile More/2" : {
-      "skillcheck" : "215",
-      "title" : "Talk Less, Smile More [EA-M3]"
+      "location" : "EA-M3",
+      "skillcheck" : "215"
    },
    "Talk Less, Smile More/3" : {
-      "skillcheck" : "325",
-      "title" : "Talk Less, Smile More [EA-M3]"
+      "location" : "EA-M3",
+      "skillcheck" : "325"
    },
    "Temporary Hold/1" : {
-      "skillcheck" : "68",
-      "title" : "Temporary Hold [E2-M15]"
+      "location" : "E2-M15",
+      "skillcheck" : "68"
    },
    "Temporary Hold/2" : {
-      "skillcheck" : "149",
-      "title" : "Temporary Hold [E2-M15]"
+      "location" : "E2-M15",
+      "skillcheck" : "149"
    },
    "Temporary Hold/3" : {
-      "skillcheck" : "589",
-      "title" : "Temporary Hold [E2-M15]"
+      "location" : "E2-M15",
+      "skillcheck" : "589"
    },
    "The Annihilation Syndrome/1" : {
-      "title" : "The Annihilation Syndrome [E5-M18B]"
+      "location" : "E5-M18B"
    },
    "The Annihilation Syndrome/2" : {
-      "title" : "The Annihilation Syndrome [E5-M18B]"
+      "location" : "E5-M18B"
    },
    "The Annihilation Syndrome/3" : {
-      "title" : "The Annihilation Syndrome [E5-M18B]"
+      "location" : "E5-M18B"
    },
    "The Army of Anaydis/1" : {
-      "title" : "The Army of Anaydis [E2-M3]",
+      "location" : "E2-M3",
       "type" : "Space Battle"
    },
    "The Army of Anaydis/2" : {
-      "title" : "The Army of Anaydis [E2-M3]",
+      "location" : "E2-M3",
       "type" : "Space Battle"
    },
    "The Army of Anaydis/3" : {
-      "title" : "The Army of Anaydis [E2-M3]",
+      "location" : "E2-M3",
       "type" : "Space Battle"
    },
    "The First Battle/1" : {
-      "title" : "The First Battle [P1-M1]",
+      "location" : "P1-M1",
       "type" : "Space Battle"
    },
    "The First Battle/2" : {
-      "title" : "The First Battle [P1-M1]",
+      "location" : "P1-M1",
       "type" : "Space Battle"
    },
    "The First Battle/3" : {
-      "title" : "The First Battle [P1-M1]",
+      "location" : "P1-M1",
       "type" : "Space Battle"
    },
    "The Mad Vedek/1" : {
-      "skillcheck" : "47",
-      "title" : "The Mad Vedek [E2-M4]"
+      "location" : "E2-M4",
+      "skillcheck" : "47"
    },
    "The Mad Vedek/2" : {
-      "skillcheck" : "100",
-      "title" : "The Mad Vedek [E2-M4]"
+      "location" : "E2-M4",
+      "skillcheck" : "100"
    },
    "The Mad Vedek/3" : {
-      "skillcheck" : "399",
-      "title" : "The Mad Vedek [E2-M4]"
+      "location" : "E2-M4",
+      "skillcheck" : "399"
    },
    "The Prodigal Son/1" : {
-      "skillcheck" : "22",
-      "title" : "The Prodigal Son [E1-M3]"
+      "location" : "E1-M3",
+      "skillcheck" : "22"
    },
    "The Prodigal Son/2" : {
-      "skillcheck" : "68",
-      "title" : "The Prodigal Son [E1-M3]"
+      "location" : "E1-M3",
+      "skillcheck" : "68"
    },
    "The Prodigal Son/3" : {
-      "skillcheck" : "138",
-      "title" : "The Prodigal Son [E1-M3]"
+      "location" : "E1-M3",
+      "skillcheck" : "138"
    },
    "The Raptor's Fury/1" : {
-      "skillcheck" : "450",
-      "title" : "The Raptor's Fury [E7-M4]"
+      "location" : "E7-M4",
+      "skillcheck" : "450"
    },
    "The Raptor's Fury/2" : {
-      "skillcheck" : "630",
-      "title" : "The Raptor's Fury [E7-M4]"
+      "location" : "E7-M4",
+      "skillcheck" : "630"
    },
    "The Raptor's Fury/3" : {
-      "skillcheck" : "900",
-      "title" : "The Raptor's Fury [E7-M4]"
+      "location" : "E7-M4",
+      "skillcheck" : "900"
    },
    "The Rings of Time/1" : {
-      "skillcheck" : "380",
-      "title" : "The Rings of Time [E6-M1]"
+      "location" : "E6-M1",
+      "skillcheck" : "380"
    },
    "The Rings of Time/2" : {
-      "skillcheck" : "771",
-      "title" : "The Rings of Time [E6-M1]"
+      "location" : "E6-M1",
+      "skillcheck" : "771"
    },
    "The Rings of Time/3" : {
-      "skillcheck" : "1265",
-      "title" : "The Rings of Time [E6-M1]"
+      "location" : "E6-M1",
+      "skillcheck" : "1265"
    },
    "The Time Transporter/1" : {
-      "skillcheck" : "380",
-      "title" : "The Time Transporter [E6-M4]"
+      "location" : "E6-M4",
+      "skillcheck" : "380"
    },
    "The Time Transporter/2" : {
-      "skillcheck" : "817",
-      "title" : "The Time Transporter [E6-M4]"
+      "location" : "E6-M4",
+      "skillcheck" : "817"
    },
    "The Time Transporter/3" : {
-      "skillcheck" : "1318",
-      "title" : "The Time Transporter [E6-M4]"
+      "location" : "E6-M4",
+      "skillcheck" : "1318"
    },
    "The Toss/1" : {
-      "skillcheck" : "73",
-      "title" : "The Toss [E2-M19A]"
+      "location" : "E2-M19A",
+      "skillcheck" : "73"
    },
    "The Toss/2" : {
-      "skillcheck" : "184",
-      "title" : "The Toss [E2-M19A]"
+      "location" : "E2-M19A",
+      "skillcheck" : "184"
    },
    "The Toss/3" : {
-      "skillcheck" : "649",
-      "title" : "The Toss [E2-M19A]"
+      "location" : "E2-M19A",
+      "skillcheck" : "649"
    },
    "The Vedek's Trail/1" : {
-      "skillcheck" : "44",
-      "title" : "The Vedek's Trail [E2-M2]"
+      "location" : "E2-M2",
+      "skillcheck" : "44"
    },
    "The Vedek's Trail/2" : {
-      "skillcheck" : "95",
-      "title" : "The Vedek's Trail [E2-M2]"
+      "location" : "E2-M2",
+      "skillcheck" : "95"
    },
    "The Vedek's Trail/3" : {
-      "skillcheck" : "370",
-      "title" : "The Vedek's Trail [E2-M2]"
+      "location" : "E2-M2",
+      "skillcheck" : "370"
    },
    "The Walls Have Ears/1" : {
-      "title" : "The Walls Have Ears [E2-M10]",
+      "location" : "E2-M10",
       "type" : "Space Battle"
    },
    "The Walls Have Ears/2" : {
-      "title" : "The Walls Have Ears [E2-M10]",
+      "location" : "E2-M10",
       "type" : "Space Battle"
    },
    "The Walls Have Ears/3" : {
-      "title" : "The Walls Have Ears [E2-M10]",
+      "location" : "E2-M10",
       "type" : "Space Battle"
    },
    "The Wrong Crowd/1" : {
-      "skillcheck" : "21",
-      "title" : "The Wrong Crowd [E1-M1]"
+      "location" : "E1-M1",
+      "skillcheck" : "21"
    },
    "The Wrong Crowd/2" : {
-      "skillcheck" : "67",
-      "title" : "The Wrong Crowd [E1-M1]"
+      "location" : "E1-M1",
+      "skillcheck" : "67"
    },
    "The Wrong Crowd/3" : {
-      "skillcheck" : "119",
-      "title" : "The Wrong Crowd [E1-M1]"
+      "location" : "E1-M1",
+      "skillcheck" : "119"
    },
    "Thy Enemy's Secrets/1" : {
-      "title" : "Thy Enemy's Secrets [E5-M18A]"
+      "location" : "E5-M18A"
    },
    "Thy Enemy's Secrets/2" : {
-      "title" : "Thy Enemy's Secrets [E5-M18A]"
+      "location" : "E5-M18A"
    },
    "Thy Enemy's Secrets/3" : {
-      "title" : "Thy Enemy's Secrets [E5-M18A]"
+      "location" : "E5-M18A"
    },
    "Too Greedily and Too Deep/1" : {
-      "skillcheck" : "380",
-      "title" : "Too Greedily and Too Deep [E6-M3]"
+      "location" : "E6-M3",
+      "skillcheck" : "380"
    },
    "Too Greedily and Too Deep/2" : {
-      "skillcheck" : "801",
-      "title" : "Too Greedily and Too Deep [E6-M3]"
+      "location" : "E6-M3",
+      "skillcheck" : "801"
    },
    "Too Greedily and Too Deep/3" : {
-      "skillcheck" : "1303",
-      "title" : "Too Greedily and Too Deep [E6-M3]"
+      "location" : "E6-M3",
+      "skillcheck" : "1303"
    },
    "Top Marks/1" : {
-      "skillcheck" : "70",
-      "title" : "Top Marks [EA-M2]"
+      "location" : "EA-M2",
+      "skillcheck" : "70"
    },
    "Top Marks/2" : {
-      "skillcheck" : "205",
-      "title" : "Top Marks [EA-M2]"
+      "location" : "EA-M2",
+      "skillcheck" : "205"
    },
    "Top Marks/3" : {
-      "skillcheck" : "310",
-      "title" : "Top Marks [EA-M2]"
+      "location" : "EA-M2",
+      "skillcheck" : "310"
    },
    "Trial by Fire/1" : {
-      "skillcheck" : "117",
-      "title" : "Trial by Fire [E4-M10]"
+      "location" : "E4-M10",
+      "skillcheck" : "117"
    },
    "Trial by Fire/2" : {
-      "skillcheck" : "400",
-      "title" : "Trial by Fire [E4-M10]"
+      "location" : "E4-M10",
+      "skillcheck" : "400"
    },
    "Trial by Fire/3" : {
-      "skillcheck" : "885",
-      "title" : "Trial by Fire [E4-M10]"
+      "location" : "E4-M10",
+      "skillcheck" : "885"
    },
    "Trust Issues/1" : {
-      "skillcheck" : "575",
-      "title" : "Trust Issues [E7-M10]"
+      "location" : "E7-M10",
+      "skillcheck" : "575"
    },
    "Trust Issues/2" : {
-      "skillcheck" : "1063",
-      "title" : "Trust Issues [E7-M10]"
+      "location" : "E7-M10",
+      "skillcheck" : "1063"
    },
    "Trust Issues/3" : {
-      "skillcheck" : "1575",
-      "title" : "Trust Issues [E7-M10]"
+      "location" : "E7-M10",
+      "skillcheck" : "1575"
    },
    "Turncoat Outpost/1" : {
-      "skillcheck" : "284",
-      "title" : "Turncoat Outpost [E5-M15]"
+      "location" : "E5-M15",
+      "skillcheck" : "284"
    },
    "Turncoat Outpost/2" : {
-      "skillcheck" : "681",
-      "title" : "Turncoat Outpost [E5-M15]"
+      "location" : "E5-M15",
+      "skillcheck" : "681"
    },
    "Turncoat Outpost/3" : {
-      "skillcheck" : "1192",
-      "title" : "Turncoat Outpost [E5-M15]"
+      "location" : "E5-M15",
+      "skillcheck" : "1192"
    },
    "Under New Management/1" : {
-      "skillcheck" : "42",
-      "title" : "Under New Management [E2-M1]"
+      "location" : "E2-M1",
+      "skillcheck" : "42"
    },
    "Under New Management/2" : {
-      "skillcheck" : "91",
-      "title" : "Under New Management [E2-M1]"
+      "location" : "E2-M1",
+      "skillcheck" : "91"
    },
    "Under New Management/3" : {
-      "skillcheck" : "354",
-      "title" : "Under New Management [E2-M1]"
+      "location" : "E2-M1",
+      "skillcheck" : "354"
    },
    "Warranted Pursuit/1" : {
-      "title" : "Warranted Pursuit [CT-M1]",
+      "location" : "CT-M1",
       "type" : "Space Battle"
    },
    "Warranted Pursuit/2" : {
-      "title" : "Warranted Pursuit [CT-M1]",
+      "location" : "CT-M1",
       "type" : "Space Battle"
    },
    "Warranted Pursuit/3" : {
-      "title" : "Warranted Pursuit [CT-M1]",
+      "location" : "CT-M1",
       "type" : "Space Battle"
    },
    "With Friends Like These/1" : {
-      "skillcheck" : "129",
-      "title" : "With Friends Like These [E4-M13]"
+      "location" : "E4-M13",
+      "skillcheck" : "129"
    },
    "With Friends Like These/2" : {
-      "skillcheck" : "424",
-      "title" : "With Friends Like These [E4-M13]"
+      "location" : "E4-M13",
+      "skillcheck" : "424"
    },
    "With Friends Like These/3" : {
-      "skillcheck" : "935",
-      "title" : "With Friends Like These [E4-M13]"
+      "location" : "E4-M13",
+      "skillcheck" : "935"
    }
 }
