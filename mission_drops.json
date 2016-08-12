@@ -71,7 +71,7 @@
          "Flux Coupler/0" : "19",
          "Incense/1" : "42",
          "Pollyalloy/0" : "106",
-         "Polyalloy/0" : 152
+         "Polyalloy/0" : 183
       },
       "runs" : "43"
    },
@@ -505,11 +505,11 @@
       "cost" : "1",
       "item" : {
          "Authorization Code/1" : 12,
-         "Case Files/1" : 7,
+         "Case Files/1" : 8,
          "Security Codes/2" : 5,
-         "TR-580 Medical Tricorder/0" : 12
+         "TR-580 Medical Tricorder/0" : 14
       },
-      "runs" : 12
+      "runs" : 13
    },
    "Breakwater/1" : {
       "cost" : "1",
@@ -875,12 +875,12 @@
    "For His Own Good/2" : {
       "cost" : "8",
       "item" : {
-         "Criminal Activity Report/1" : 42,
-         "Furs/2" : 18,
-         "Incense/0" : 66,
-         "Sensor/1" : 78
+         "Criminal Activity Report/1" : 46,
+         "Furs/2" : 19,
+         "Incense/0" : 76,
+         "Sensor/1" : 93
       },
-      "runs" : 68
+      "runs" : 78
    },
    "For His Own Good/3" : {
       "cost" : "16",
@@ -944,11 +944,11 @@
       "item" : {
          "Casing/4" : 3,
          "Expansion Module/4" : 7,
-         "Furs/2" : 143,
-         "Interlink/2" : 95,
-         "Sensor/3" : 31
+         "Furs/2" : 144,
+         "Interlink/2" : 96,
+         "Sensor/3" : 32
       },
-      "runs" : 93
+      "runs" : 94
    },
    "Highwaymen/1" : {
       "cost" : "4",
@@ -1325,9 +1325,9 @@
          "Incense/3" : 0,
          "Isolinear Chips/2" : 2,
          "Optronic Circuit/3" : 0,
-         "Sensor/1" : 1
+         "Sensor/1" : 7
       },
-      "runs" : 1
+      "runs" : 3
    },
    "Long Live the King/2" : {
       "cost" : "18",
@@ -1517,12 +1517,12 @@
    "No Man Left Behind/3" : {
       "cost" : "1",
       "item" : {
-         "Boy Scout Badge/1" : 27,
-         "Encoded Communique/0" : 29,
-         "First Contact Protocol/2" : 15,
-         "Translation Algorithm/0" : 34
+         "Boy Scout Badge/1" : 30,
+         "Encoded Communique/0" : 32,
+         "First Contact Protocol/2" : 20,
+         "Translation Algorithm/0" : 47
       },
-      "runs" : 35
+      "runs" : 43
    },
    "No Returns Accepted/2" : {
       "cost" : "16",
@@ -1819,13 +1819,13 @@
    "Pretense of Mercy/3" : {
       "cost" : "12",
       "item" : {
-         "Backpack/2" : 55,
-         "Casing/2" : 105,
-         "Casing/3" : 27,
+         "Backpack/2" : 57,
+         "Casing/2" : 111,
+         "Casing/3" : 30,
          "Casing/4" : 9,
-         "Clothing Pattern/1" : 227
+         "Clothing Pattern/1" : 240
       },
-      "runs" : 141
+      "runs" : 149
    },
    "Proof of Concept/1" : {
       "cost" : "12",
@@ -1913,6 +1913,10 @@
       },
       "runs" : 44
    },
+   "Race to the Finish/2" : {
+      "cost" : "16",
+      "runs" : "1"
+   },
    "Rescue the Val Jean/1" : {
       "cost" : "4",
       "item" : {
@@ -1976,12 +1980,12 @@
       "cost" : "6",
       "item" : {
          "Boy Scout Badge/1" : 0,
-         "Gold-Pressed Latinum/1" : 22,
-         "Neutron Microscope/1" : 1,
-         "Subprocessor/0" : 33,
-         "Toolbox/1" : 1
+         "Gold-Pressed Latinum/1" : 29,
+         "Neutron Microscope/1" : 4,
+         "Subprocessor/0" : 49,
+         "Toolbox/1" : 2
       },
-      "runs" : 19
+      "runs" : 28
    },
    "Rockslide/1" : {
       "cost" : "8",
@@ -2024,6 +2028,14 @@
          "Replicator Ration/1" : 77
       },
       "runs" : 52
+   },
+   "Saving Smiley O'Brien/1" : {
+      "cost" : "12",
+      "runs" : "4"
+   },
+   "Saving Smiley O'Brien/2" : {
+      "cost" : "18",
+      "runs" : "6"
    },
    "Secure the Chavez/2" : {
       "cost" : "16",
@@ -2306,14 +2318,14 @@
    "The Rings of Time/1" : {
       "cost" : "14",
       "item" : {
-         "Emitter Crystal/1" : 0,
-         "Field Rations/2" : 0,
+         "Emitter Crystal/1" : 5,
+         "Field Rations/2" : 1,
          "Interlink/3" : 0,
          "Polyalloy/4" : 0,
          "Relay/2" : 0,
          "Subprocessor/4" : 0
       },
-      "runs" : 0
+      "runs" : 2
    },
    "The Rings of Time/2" : {
       "cost" : "18",
