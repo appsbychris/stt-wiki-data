@@ -56,13 +56,13 @@
    "A Father Figure/3" : {
       "cost" : "10",
       "item" : {
-         "Clothing Pattern/2" : 11,
+         "Clothing Pattern/2" : 16,
          "Micro-Resonator/0" : 5,
          "Phaser Type 1/2" : 5,
-         "Relay/1" : 276,
-         "Spices/2" : 15
+         "Relay/1" : 301,
+         "Spices/2" : 17
       },
-      "runs" : 78
+      "runs" : 86
    },
    "A Kazon Scorned/1" : {
       "cost" : "8",
@@ -1233,6 +1233,10 @@
          "Writing PADD (TNG)/1" : 27
       },
       "runs" : 77
+   },
+   "Internal Dispute/3" : {
+      "cost" : "16",
+      "runs" : "8"
    },
    "Into His Own Hands/1" : {
       "cost" : "12",

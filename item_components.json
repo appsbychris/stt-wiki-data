@@ -905,6 +905,11 @@
       "Augment Icon/3" : 1,
       "Ceti Eel/4" : 1
    },
+   "Chakotay's Tattoo/3" : {
+      "Incense/2" : 4,
+      "Maquis Emblem/2" : 2,
+      "Maquis Pistol/2" : 1
+   },
    "Champagne/2" : {
       "Alcohol/1" : 2,
       "Replicator Ration/1" : 2,
@@ -1489,6 +1494,21 @@
       "Database (Panel)/4" : 4,
       "Strategema/4" : 1
    },
+   "Data's Trophy/3" : {
+      "Borg Exo-Plating/2" : 1,
+      "Borg Occipital Implant/2" : 2,
+      "Microconnector/2" : 2
+   },
+   "Data's Trophy/4" : {
+      "Borg Exo-Plating/2" : 1,
+      "Data's Trophy/3" : 1,
+      "Emotion Chip/3" : 1
+   },
+   "Data's Trophy/5" : {
+      "Data's Trophy/4" : 1,
+      "Ethical Subroutine/3" : 1,
+      "Microconnector/3" : 2
+   },
    "Data's Violin/3" : {
       "Replicator Ration/2" : 4,
       "Social Lesson/2" : 1,
@@ -1836,6 +1856,19 @@
       "Emergency Transponder/2" : 2,
       "Power Cell/2" : 1
    },
+   "Emory Erikson: Father of the Transporter Book/1" : {
+      "Engineering Lesson/1" : 1,
+      "Text Book/0" : 1
+   },
+   "Emory Erikson: Father of the Transporter Book/2" : {
+      "Emory Erikson: Father of the Transporter Book/1" : 1,
+      "Engineering Lesson/2" : 1
+   },
+   "Emory Erikson: Father of the Transporter Book/3" : {
+      "Emory Erikson: Father of the Transporter Book/2" : 1,
+      "Text Book/0" : 4,
+      "Transporter Control Module/2" : 1
+   },
    "Encoded Communique/3" : {
       "Encoded Communique/2" : 2,
       "Translation Algorithm/2" : 2
@@ -1848,6 +1881,30 @@
    "Encoded Communique/5" : {
       "Database (Panel)/4" : 2,
       "Encoded Communique/4" : 2
+   },
+   "Engineering Jacket/0" : {
+      "Isolinear Rod/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Engineering Jacket/1" : {
+      "Engineering Jacket/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Engineering Jacket/2" : {
+      "Engineering Jacket/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Engineering Jacket/3" : {
+      "Engineering Jacket/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Engineering Jacket/4" : {
+      "Engineering Jacket/3" : 2,
+      "Starfleet Uniform Pattern/3" : 2
+   },
+   "Engineering Jacket/5" : {
+      "Engineering Jacket/4" : 2,
+      "Starfleet Uniform Pattern/4" : 2
    },
    "Engineering Lesson/0" : {
       "Database (Panel)/0" : 2,
@@ -1971,6 +2028,16 @@
       "KCA Icon/3" : 1,
       "Pollyalloy/3" : 4,
       "Terran Knife/3" : 2
+   },
+   "Ezri's Pistol/2" : {
+      "KCA Icon/1" : 1,
+      "Power Cell/1" : 2,
+      "Terran Pistol/1" : 2
+   },
+   "Ezri's Pistol/3" : {
+      "Ezri's Pistol/2" : 1,
+      "Spring Wine/1" : 2,
+      "Terran Knife/1" : 1
    },
    "FCA Identification/1" : {
       "Ferengi Trade By-Laws/1" : 1,
@@ -2243,6 +2310,26 @@
       "Geordi's Hyperspanner/4" : 2,
       "Power Cell/4" : 2
    },
+   "Geordi's Implants/2" : {
+      "Optronic Circuit/1" : 2,
+      "Relay/1" : 2,
+      "Sensor/1" : 1
+   },
+   "Geordi's Implants/3" : {
+      "Geordi's Implants/2" : 2,
+      "Optronic Circuit/2" : 2,
+      "Sensor/2" : 1
+   },
+   "Geordi's Implants/4" : {
+      "Geordi's Implants/3" : 2,
+      "Optronic Circuit/3" : 2,
+      "Sensor/3" : 1
+   },
+   "Geordi's Implants/5" : {
+      "Geordi's Implants/4" : 2,
+      "Optronic Circuit/4" : 2,
+      "Sensor/4" : 1
+   },
    "Geordi's Toolbox/3" : {
       "EJ-7 Interlock/2" : 2,
       "Geordi's Hyperspanner/2" : 1,
@@ -2286,6 +2373,16 @@
    "Geordi's Watch/5" : {
       "Casing/4" : 4,
       "Scandal in Bohemia Holonovel/3" : 1
+   },
+   "Go/3" : {
+      "3d Chess Set/2" : 1,
+      "Casing/2" : 4,
+      "Encoded Communique/1" : 1
+   },
+   "Go/4" : {
+      "Casing/3" : 4,
+      "Encoded Communique/2" : 1,
+      "Go/3" : 1
    },
    "Golf Club/1" : {
       "Hoverball/0" : 2,
@@ -2369,6 +2466,26 @@
    },
    "Grenade/4" : {
       "Photon Grenade/3" : 2
+   },
+   "Hand Scanner/1" : {
+      "Hand Scanner/0" : 2,
+      "Sensor/0" : 2,
+      "Subprocessor/0" : 2
+   },
+   "Hand Scanner/2" : {
+      "Hand Scanner/1" : 2,
+      "Sensor/1" : 2,
+      "Subprocessor/1" : 2
+   },
+   "Hand Scanner/3" : {
+      "Hand Scanner/2" : 2,
+      "Sensor/2" : 1,
+      "Subprocessor/2" : 1
+   },
+   "Hand Scanner/4" : {
+      "Hand Scanner/3" : 1,
+      "Sensor/3" : 2,
+      "Subprocessor/3" : 2
    },
    "Haron's Furs/3" : {
       "Furs/2" : 2,
@@ -2704,6 +2821,16 @@
       "Andorian Ale/1" : 1,
       "Imperial Guard Emblem/2" : 1
    },
+   "Insurrection Alpha Holoprogram/3" : {
+      "Holoprogram/2" : 2,
+      "Maquis Command Outfit/2" : 1,
+      "Maquis Pistol/2" : 1
+   },
+   "Insurrection Alpha Holoprogram/4" : {
+      "Covert Contacts/3" : 1,
+      "Insurrection Alpha Holoprogram/3" : 1,
+      "Maquis Encryption Algorithm/2" : 1
+   },
    "Intendant's Circlet/3" : {
       "KCA Icon/2" : 1,
       "Multidimensional Transporter Device/1" : 1,
@@ -2827,6 +2954,16 @@
       "Jadzia's Disguise/3" : 1,
       "Starfleet Uniform Pattern/3" : 2,
       "Toolbox/3" : 1
+   },
+   "Jake's PADD/2" : {
+      "Identification Code/1" : 1,
+      "Press Credentials/1" : 1,
+      "Writing PADD (TNG)/1" : 1
+   },
+   "Jake's PADD/3" : {
+      "Encoded Communique/1" : 1,
+      "Jake's PADD/2" : 1,
+      "Novel/1" : 1
    },
    "Janeway's Tank Top/3" : {
       "Coffee/2" : 2,
@@ -2967,6 +3104,21 @@
       "D'k tahg/2" : 1,
       "Pollyalloy/2" : 2
    },
+   "Kayaking Holoprogram/1" : {
+      "Database (Panel)/0" : 2,
+      "Holoprogram/1" : 1,
+      "Identification Code/0" : 2
+   },
+   "Kayaking Holoprogram/2" : {
+      "Backpack/1" : 1,
+      "Kayaking Holoprogram/1" : 1,
+      "Raquet/1" : 1
+   },
+   "Kayaking Holoprogram/3" : {
+      "Backpack/2" : 2,
+      "Kayaking Holoprogram/2" : 2,
+      "Raquet/2" : 2
+   },
    "Kazon Disruptor Pistol/2" : {
       "Emitter Crystal/1" : 1,
       "Kazon Disruptor Pistol/1" : 1,
@@ -3038,6 +3190,16 @@
       "Science Experiment/0" : 2,
       "Temporal Prime Directive/2" : 1,
       "Writing PADD (TNG)/0" : 2
+   },
+   "Kim's Calculations/3" : {
+      "Database (Panel)/2" : 2,
+      "Encoded Communique/1" : 2,
+      "Kim's Calculations/2" : 1
+   },
+   "Kim's Jacket/2" : {
+      "Civilian Engineer Clothing/1" : 1,
+      "Civilian Scientist Clothing/1" : 1,
+      "Combadge (ALT)/2" : 1
    },
    "Kira's Disguise/3" : {
       "Civilian Disguise/2" : 2,
@@ -3371,6 +3533,21 @@
       "Leola Root/0" : 2,
       "Spices/1" : 2
    },
+   "Les Miserables Novel/2" : {
+      "Criminal Activity Report/1" : 1,
+      "Maquis Emblem/0" : 1,
+      "Novel/1" : 1
+   },
+   "Les Miserables Novel/3" : {
+      "Les Miserables Novel/2" : 1,
+      "Maquis Pistol/1" : 1,
+      "Opera/2" : 1
+   },
+   "Les Miserables Novel/4" : {
+      "Les Miserables Novel/3" : 1,
+      "Lucky Looney/2" : 1,
+      "Maquis Emblem/1" : 1
+   },
    "Linguistic Database/1" : {
       "Database (Panel)/0" : 1,
       "Exo-Linguistic Text/0" : 1,
@@ -3606,6 +3783,14 @@
    "Medical Coat/4" : {
       "Medical Coat/3" : 2
    },
+   "Medical Desert Robes/0" : {
+      "Dermal Regenerator/0" : 1,
+      "Starfleet Uniform Pattern/0" : 1
+   },
+   "Medical Desert Robes/1" : {
+      "Field Rations/1" : 1,
+      "Medical Desert Robes/0" : 2
+   },
    "Medical Experiment/3" : {
       "Medical Experiment/2" : 2,
       "Stethoscope/2" : 2
@@ -3647,6 +3832,22 @@
    },
    "Medical Scanner (Popular)/1" : {
       "Medical Scanner (Popular)/0" : 2
+   },
+   "Medical Tunic (TNG)/0" : {
+      "Starfleet Uniform Pattern/0" : 1,
+      "TR-580 Medical Tricorder/0" : 1
+   },
+   "Medical Tunic (TNG)/1" : {
+      "Medical Tunic (TNG)/0" : 2,
+      "Starfleet Uniform Pattern/0" : 2
+   },
+   "Medical Tunic (TNG)/2" : {
+      "Medical Tunic (TNG)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Medical Tunic (TNG)/3" : {
+      "Medical Tunic (TNG)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2
    },
    "Medical Tunic (TOS)/0" : {
       "Hypospray (TOS)/0" : 1,
@@ -3745,6 +3946,21 @@
    "Micro-Resonator/4" : {
       "Micro-Resonator/3" : 2
    },
+   "Moby-Dick Novel/3" : {
+      "Boy Scout Badge/1" : 1,
+      "Novel/2" : 1,
+      "Single Pot Whiskey/1" : 1
+   },
+   "Moby-Dick Novel/4" : {
+      "Astrometric Chart/2" : 1,
+      "Boy Scout Badge/2" : 1,
+      "Moby-Dick Novel/3" : 1
+   },
+   "Moby-Dick Novel/5" : {
+      "Boy Scout Badge/3" : 1,
+      "Moby-Dick Novel/4" : 1,
+      "Single Pot Whiskey/3" : 1
+   },
    "Model Enterprise/2" : {
       "Earl Grey Tea/1" : 1,
       "Gold-Pressed Latinum/1" : 2,
@@ -3764,6 +3980,29 @@
       "Bajoran Earring/2" : 1,
       "Incense/1" : 2,
       "Science Experiment/0" : 1
+   },
+   "Morphogenic Virus/2" : {
+      "Hypospray (TNG)/1" : 1,
+      "Pathogen/2" : 1
+   },
+   "Morphogenic Virus/3" : {
+      "Medical Experiment/0" : 2,
+      "Morphogenic Virus/2" : 1
+   },
+   "Mr. Scott's Toolbox/2" : {
+      "Isolinear Rod/0" : 1,
+      "Single Pot Whiskey/1" : 1,
+      "Toolbox/1" : 1
+   },
+   "Mr. Scott's Toolbox/3" : {
+      "Mr. Scott's Toolbox/2" : 1,
+      "Single Pot Whiskey/2" : 1,
+      "Sonic Driver/2" : 1
+   },
+   "Mr. Scott's Toolbox/4" : {
+      "Flux Coupler/3" : 1,
+      "Mr. Scott's Toolbox/3" : 1,
+      "Single Pot Whiskey/3" : 1
    },
    "Mr. Scott's Vest/2" : {
       "Civilian Engineer Clothing/1" : 2,
@@ -3817,6 +4056,31 @@
       "Astrometric Chart/1" : 1,
       "Jibalian Spices/1" : 1,
       "Neelix's Suit/3" : 1
+   },
+   "Neural Processor/0" : {
+      "Isolinear Chips/0" : 1,
+      "Microconnector/0" : 2,
+      "Polyalloy/0" : 1
+   },
+   "Neural Processor/1" : {
+      "Microconnector/0" : 2,
+      "Neural Processor/0" : 1,
+      "Subcutaneous Transponder/0" : 1
+   },
+   "Neural Processor/2" : {
+      "Borg Occipital Implant/1" : 1,
+      "Neural Processor/1" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Neural Processor/3" : {
+      "Borg Cortical Node/1" : 1,
+      "Neural Processor/2" : 1,
+      "Optronic Circuit/1" : 2
+   },
+   "Neural Processor/4" : {
+      "Borg Nanoprobes/2" : 1,
+      "Encoded Communique/2" : 1,
+      "Neural Processor/3" : 1
    },
    "Neurocortical Monitor/1" : {
       "Neurocortical Monitor/0" : 2
@@ -4601,6 +4865,16 @@
       "Brain Circuitry Pattern/2" : 2,
       "Psychological Evaluation Holoprogram/2" : 2
    },
+   "Psychological Evaluation Holoprogram/4" : {
+      "Alpha-wave Inducer/1" : 2,
+      "Brain Circuitry Pattern/1" : 2,
+      "Psychological Evaluation Holoprogram/1" : 1
+   },
+   "Psychological Evaluation Holoprogram/5" : {
+      "Alpha-wave Inducer/4" : 2,
+      "Brain Circuitry Pattern/4" : 2,
+      "Psychological Evaluation Holoprogram/4" : 1
+   },
    "Psychology Text/0" : {
       "TR-580 Medical Tricorder/0" : 1,
       "Text Book/0" : 1
@@ -4837,6 +5111,31 @@
    "Resistance Cipher/3" : {
       "Resistance Cipher/2" : 2
    },
+   "Reyga's PADD/2" : {
+      "Database (Panel)/1" : 2,
+      "Ferengi PADD/2" : 1,
+      "Science Experiment/1" : 2
+   },
+   "Reyga's PADD/3" : {
+      "Database (Panel)/2" : 2,
+      "Reyga's PADD/2" : 1,
+      "Reyga's Research/2" : 1
+   },
+   "Reyga's Research/2" : {
+      "Quantum Phase Regulator/1" : 1,
+      "Science Experiment/1" : 1,
+      "Slug-o-Cola/1" : 1
+   },
+   "Reyga's Research/3" : {
+      "Reyga's Research/2" : 1,
+      "Slug-o-Cola/2" : 1,
+      "Tube Grubs/1" : 1
+   },
+   "Reyga's Research/4" : {
+      "Reyga's Research/3" : 1,
+      "Spectral Micrometer/3" : 1,
+      "Tube Grubs/2" : 1
+   },
    "Riker's Earring/2" : {
       "Pollyalloy/2" : 1,
       "Replicator Ration/2" : 3
@@ -4913,6 +5212,11 @@
       "Alcohol/2" : 2,
       "Romulan Ale/2" : 1,
       "Star Empire Icon/2" : 1
+   },
+   "Romulan Command Uniform/1" : {
+      "Clothing Pattern/0" : 4,
+      "Romulan Diplomacy Uniform/0" : 2,
+      "Romulan Disruptor/0" : 2
    },
    "Romulan Diplomacy Uniform/0" : {
       "Clothing Pattern/0" : 4,
@@ -5125,6 +5429,65 @@
       "Isolinear Chips/2" : 2,
       "Science Lesson/2" : 2
    },
+   "Scotty's Scanner/2" : {
+      "Relay/1" : 2,
+      "Submicron Scanner/1" : 2,
+      "Trident Scanner/1" : 2
+   },
+   "Scotty's Scanner/3" : {
+      "Relay/2" : 2,
+      "Scotty's Scanner/2" : 1,
+      "Tricorder/1" : 2
+   },
+   "Scotty's Scanner/4" : {
+      "Relay/3" : 2,
+      "Scotty's Scanner/3" : 1,
+      "Submicron Scanner/3" : 1
+   },
+   "Scotty's Scanner/5" : {
+      "Duotronic Probe/4" : 1,
+      "Relay/4" : 2,
+      "Scotty's Scanner/4" : 1
+   },
+   "Scotty's Wrench/2" : {
+      "Engineering Lesson/1" : 1,
+      "Polyalloy/1" : 2,
+      "Wrench/1" : 2
+   },
+   "Scotty's Wrench/3" : {
+      "Engineering Lesson/2" : 1,
+      "Polyalloy/2" : 2,
+      "Scotty's Wrench/2" : 1
+   },
+   "Scotty's Wrench/4" : {
+      "Polyalloy/3" : 2,
+      "Scotty's Wrench/3" : 1,
+      "Single Pot Whiskey/3" : 1
+   },
+   "Section 31 Encryption Algorithm/0" : {
+      "Database (Panel)/0" : 4,
+      "Encoded Communique/0" : 1
+   },
+   "Section 31 Encryption Algorithm/1" : {
+      "Database (Panel)/0" : 1,
+      "Section 31 Encryption Algorithm/0" : 2,
+      "Translation Algorithm/0" : 1
+   },
+   "Section 31 Encryption Algorithm/2" : {
+      "Linguistic Database/1" : 1,
+      "Section 31 Encryption Algorithm/1" : 1,
+      "Translation Algorithm/1" : 2
+   },
+   "Section 31 Encryption Algorithm/3" : {
+      "Linguistic Database/2" : 1,
+      "Section 31 Encryption Algorithm/2" : 2,
+      "Translation Algorithm/2" : 1
+   },
+   "Section 31 Encryption Algorithm/4" : {
+      "Linguistic Database/3" : 1,
+      "Section 31 Encryption Algorithm/3" : 2,
+      "Translation Algorithm/3" : 1
+   },
    "Security Codes/3" : {
       "Security Codes/2" : 2
    },
@@ -5165,6 +5528,19 @@
    "Self-sealing Stem Bolt/5" : {
       "Casing/4" : 4,
       "Self-sealing Stem Bolt/4" : 2
+   },
+   "Seven's Disguise/2" : {
+      "Starfleet Science Uniform (VOY)/2" : 1,
+      "Starfleet Uniform Pattern/1" : 2
+   },
+   "Seven's Disguise/3" : {
+      "Seven's Disguise/2" : 1,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Seven's Disguise/4" : {
+      "Hidden Occipital Implant/2" : 1,
+      "Seven's Disguise/3" : 1,
+      "Temporal Prime Directive/3" : 1
    },
    "Seven's Isomodulator/3" : {
       "Borg Nanoprobes/2" : 1,
