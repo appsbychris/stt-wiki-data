@@ -4634,6 +4634,23 @@
    "Quantum Flux Regulator/2" : {
       "Quantum Flux Regulator/1" : 2
    },
+   "Quantum Oscillator/1" : {
+      "Casing/0" : 1,
+      "Quantum Oscillator/0" : 1
+   },
+   "Quantum Oscillator/2" : {
+      "Casing/1" : 1,
+      "Power Cell/0" : 1,
+      "Quantum Oscillator/1" : 1
+   },
+   "Quantum Oscillator/3" : {
+      "Isolinear Chips/0" : 1,
+      "Quantum Oscillator/2" : 1
+   },
+   "Quantum Oscillator/4" : {
+      "Optronic Circuit/0" : 1,
+      "Quantum Oscillator/3" : 1
+   },
    "Quantum Phase Regulator/1" : {
       "Quantum Phase Regulator/0" : 2
    },
