@@ -2981,6 +2981,20 @@
       "Micro-Resonator/3" : 2,
       "Security Reports/1" : 1
    },
+   "Hirogen Alpha Mark/2" : {
+      "Hirogen Alpha Mark/1" : 1,
+      "Hirogen Tetryon Rifle/1" : 1
+   },
+   "Hirogen Alpha Mark/3" : {
+      "Hirogen Alpha Mark/2" : 1,
+      "Hirogen Relic/1" : 1,
+      "Security Codes/1" : 1
+   },
+   "Hirogen Alpha Mark/4" : {
+      "Hirogen Alpha Mark/3" : 1,
+      "Hirogen Hunter Armor/1" : 1,
+      "Hirogen Relic/2" : 1
+   },
    "Hirogen Hunter Armor/2" : {
       "Hirogen Alpha Mark/1" : 1,
       "Hirogen Hunter Armor/1" : 1,
@@ -2990,6 +3004,11 @@
       "Hirogen Hunter Armor/2" : 1,
       "Hirogen Relic/2" : 1,
       "Pollyalloy/2" : 2
+   },
+   "Hirogen Relic/2" : {
+      "Biological Sample Kit/1" : 2,
+      "Hirogen Relic/1" : 1,
+      "Scalpel/1" : 1
    },
    "Hirogen Technician Suit/2" : {
       "Hirogen Technician Suit/1" : 1,
@@ -3151,6 +3170,15 @@
       "House Duras Crest/1" : 1,
       "Poisoned Drink/1" : 1
    },
+   "House Duras Crest/3" : {
+      "House Duras Crest/2" : 2
+   },
+   "House Duras Crest/4" : {
+      "House Duras Crest/3" : 2
+   },
+   "House Duras Crest/5" : {
+      "House Duras Crest/4" : 2
+   },
    "House Duras Knife/2" : {
       "D'k tahg/2" : 2,
       "Polyalloy/2" : 2
@@ -3159,6 +3187,11 @@
       "House Duras Crest/2" : 1,
       "House Duras Knife/2" : 1,
       "Polyalloy/2" : 1
+   },
+   "House Gowron Crest/4" : {
+      "D'k tahg/3" : 1,
+      "Gagh/3" : 1,
+      "Klingon House Crest/3" : 2
    },
    "House Martok Crest/1" : {
       "Bloodwine/0" : 1,
@@ -3172,6 +3205,10 @@
    "House Martok Crest/3" : {
       "Bloodwine/2" : 2,
       "House Martok Crest/2" : 1
+   },
+   "House Quark Crest/1" : {
+      "Klingon House Crest/1" : 1,
+      "Rules of Acquisition/0" : 2
    },
    "House Worf Crest/3" : {
       "Gagh/0" : 1,
@@ -3267,6 +3304,31 @@
       "Idrin's Armor/3" : 1,
       "Idrin's Rifle/2" : 1,
       "Optronic Data Core/2" : 1
+   },
+   "Idrin's Rifle/2" : {
+      "Hirogen Alpha Mark/1" : 1,
+      "Hirogen Tetryon Rifle/1" : 1,
+      "Power Cell/1" : 4
+   },
+   "Idrin's Rifle/3" : {
+      "Hirogen Alpha Mark/2" : 1,
+      "Hirogen Scanner/1" : 1,
+      "Idrin's Rifle/2" : 1
+   },
+   "Idrin's Rifle/4" : {
+      "Hirogen Relic/2" : 1,
+      "Hirogen Scanner/2" : 1,
+      "Idrin's Rifle/3" : 1
+   },
+   "Idrin's Trophy/3" : {
+      "Hirogen Relic/2" : 1,
+      "Identification Code/2" : 2,
+      "Security Reports/1" : 1
+   },
+   "Idrin's Trophy/4" : {
+      "Dissection Tools/2" : 1,
+      "Hirogen Alpha Mark/2" : 1,
+      "Idrin's Trophy/3" : 1
    },
    "Imperial Guard Emblem/1" : {
       "Imperial Guard Emblem/0" : 2
@@ -3432,6 +3494,37 @@
       "Janeway's Tank Top/3" : 1,
       "Photon Grenade/3" : 2,
       "Prime Directive/2" : 2
+   },
+   "Jem'Hadar Armor/0" : {
+      "Clothing Pattern/0" : 2,
+      "Polyalloy/0" : 2
+   },
+   "Jem'Hadar Armor/1" : {
+      "Jem'Hadar Armor/0" : 2,
+      "Jem'Hadar Knife/0" : 1
+   },
+   "Jem'Hadar Armor/2" : {
+      "Dominion Seal/1" : 1,
+      "Jem'Hadar Armor/1" : 1,
+      "Kar'takin/1" : 1
+   },
+   "Jem'Hadar Pistol/3" : {
+      "Emitter Crystal/2" : 3,
+      "Jem'Hadar Pistol/2" : 2,
+      "Relay/2" : 3
+   },
+   "Jem'Hadar Rifle/1" : {
+      "Expansion Module/0" : 2,
+      "Jem'Hadar Pistol/0" : 2,
+      "Power Cell/0" : 2
+   },
+   "Jem'Hadar Rifle/2" : {
+      "Jem'Hadar Knife/1" : 1,
+      "Jem'Hadar Rifle/1" : 1,
+      "Power Cell/1" : 2
+   },
+   "Jem'Hadar Rifle/3" : {
+      "Jem'Hadar Rifle/2" : 1
    },
    "Jet Pack/1" : {
       "Backpack/1" : 1,
@@ -3663,6 +3756,20 @@
    "Ketracel-white/1" : {
       "Dominion PADD/0" : 1,
       "Science Experiment/0" : 1
+   },
+   "Ketracel-white/3" : {
+      "Casing/2" : 1,
+      "Ketracel-white/2" : 1,
+      "Medical Experiment/1" : 1
+   },
+   "Ketracel-white/4" : {
+      "Dominion Seal/1" : 1,
+      "Ketracel-white/3" : 1,
+      "Medical Experiment/2" : 1
+   },
+   "Ketracel-white/5" : {
+      "Dominion Seal/2" : 1,
+      "Ketracel-white/4" : 1
    },
    "Kim's Calculations/2" : {
       "Science Experiment/0" : 2,
