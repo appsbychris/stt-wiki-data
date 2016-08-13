@@ -2294,13 +2294,13 @@
    "The Mad Vedek/3" : {
       "cost" : "16",
       "item" : {
-         "Expansion Module/1" : 17,
-         "Expansion Module/2" : 12,
-         "Isolinear Chips/3" : 9,
-         "Pattern Enhancer/2" : 6,
-         "Writing PADD (DS9)/0" : 7
+         "Expansion Module/1" : 21,
+         "Expansion Module/2" : 13,
+         "Isolinear Chips/3" : 10,
+         "Pattern Enhancer/2" : 9,
+         "Writing PADD (DS9)/0" : 10
       },
-      "runs" : 17
+      "runs" : 21
    },
    "The Prodigal Son/1" : {
       "cost" : "4",
