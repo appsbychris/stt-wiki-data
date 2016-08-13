@@ -24,12 +24,12 @@
       "cost" : "22",
       "item" : {
          "Clothing Pattern/4" : 5,
-         "Expansion Module/2" : 63,
+         "Expansion Module/2" : 71,
          "Polyalloy/4" : 3,
-         "Power Cell/3" : 20,
-         "Relay/2" : 56
+         "Power Cell/3" : 22,
+         "Relay/2" : 67
       },
-      "runs" : 49
+      "runs" : 56
    },
    "A Father Figure/1" : {
       "cost" : "4",
@@ -58,11 +58,11 @@
       "item" : {
          "Clothing Pattern/2" : 11,
          "Micro-Resonator/0" : 5,
-         "Phaser Type 1/2" : 4,
-         "Relay/1" : 223,
-         "Spices/2" : 13
+         "Phaser Type 1/2" : 5,
+         "Relay/1" : 276,
+         "Spices/2" : 15
       },
-      "runs" : 64
+      "runs" : 78
    },
    "A Kazon Scorned/1" : {
       "cost" : "8",
@@ -1091,11 +1091,11 @@
       "item" : {
          "Casing/4" : 0,
          "Isolinear Chips/2" : 18,
-         "Optronic Circuit/4" : 1,
-         "Sensor/3" : 5,
-         "Writing PADD (TNG)/2" : 24
+         "Optronic Circuit/4" : 2,
+         "Sensor/3" : 6,
+         "Writing PADD (TNG)/2" : 28
       },
-      "runs" : 16
+      "runs" : 18
    },
    "Iconian Insider/1" : {
       "cost" : "4",
@@ -1180,12 +1180,12 @@
    "Indiscriminate Mind/3" : {
       "cost" : "10",
       "item" : {
-         "Alcohol/0" : 82,
-         "Coffee/1" : 33,
-         "Furs/1" : 61,
-         "Interlink/2" : 13
+         "Alcohol/0" : 90,
+         "Coffee/1" : 38,
+         "Furs/1" : 67,
+         "Interlink/2" : 18
       },
-      "runs" : 63
+      "runs" : 71
    },
    "Instant Intervention/2" : {
       "cost" : "18",
@@ -1247,13 +1247,13 @@
    "Into His Own Hands/3" : {
       "cost" : "22",
       "item" : {
-         "Casing/2" : 107,
-         "Clothing Pattern/3" : 34,
-         "Database (Panel)/4" : 7,
-         "Incense/3" : 101,
+         "Casing/2" : 110,
+         "Clothing Pattern/3" : 35,
+         "Database (Panel)/4" : 9,
+         "Incense/3" : 104,
          "Isolinear Chips/4" : 6
       },
-      "runs" : 85
+      "runs" : 88
    },
    "Ishka Issues/1" : {
       "cost" : "8",
@@ -1323,11 +1323,11 @@
       "cost" : "14",
       "item" : {
          "Incense/3" : 0,
-         "Isolinear Chips/2" : 2,
-         "Optronic Circuit/3" : 0,
-         "Sensor/1" : 7
+         "Isolinear Chips/2" : 9,
+         "Optronic Circuit/3" : 1,
+         "Sensor/1" : 41
       },
-      "runs" : 3
+      "runs" : 17
    },
    "Long Live the King/2" : {
       "cost" : "18",
@@ -1398,14 +1398,14 @@
    "Maquis Incitement/1" : {
       "cost" : "4",
       "item" : {
-         "Casing/1" : 87,
-         "Clothing Pattern/0" : 165,
-         "Clothing Pattern/2" : 40,
-         "Hand Scanner/0" : 141,
-         "Hoverball/0" : 168,
-         "Power Cell/1" : 65
+         "Casing/1" : 93,
+         "Clothing Pattern/0" : 179,
+         "Clothing Pattern/2" : 44,
+         "Hand Scanner/0" : 157,
+         "Hoverball/0" : 181,
+         "Power Cell/1" : 72
       },
-      "runs" : 222
+      "runs" : 242
    },
    "Maquis Incitement/2" : {
       "cost" : "8",
@@ -1485,24 +1485,24 @@
    "Mutual Assured Destruction/2" : {
       "cost" : "14",
       "item" : {
-         "Alcohol/3" : 7,
-         "Backpack/2" : 37,
-         "Casing/2" : 73,
+         "Alcohol/3" : 9,
+         "Backpack/2" : 39,
+         "Casing/2" : 76,
          "Casing/4" : 1,
-         "Replicator Ration/1" : 152
+         "Replicator Ration/1" : 160
       },
-      "runs" : 90
+      "runs" : 95
    },
    "Mutual Assured Destruction/3" : {
       "cost" : "20",
       "item" : {
-         "Casing/2" : 164,
-         "Casing/4" : 12,
-         "Optronic Circuit/3" : 65,
-         "Subprocessor/2" : 166,
-         "Subprocessor/4" : 10
+         "Casing/2" : 180,
+         "Casing/4" : 13,
+         "Optronic Circuit/3" : 68,
+         "Subprocessor/2" : 182,
+         "Subprocessor/4" : 13
       },
-      "runs" : 139
+      "runs" : 152
    },
    "No Man Left Behind/1" : {
       "cost" : "1",
@@ -1819,13 +1819,13 @@
    "Pretense of Mercy/3" : {
       "cost" : "12",
       "item" : {
-         "Backpack/2" : 57,
-         "Casing/2" : 111,
-         "Casing/3" : 30,
+         "Backpack/2" : 58,
+         "Casing/2" : 113,
+         "Casing/3" : 31,
          "Casing/4" : 9,
-         "Clothing Pattern/1" : 240
+         "Clothing Pattern/1" : 245
       },
-      "runs" : 149
+      "runs" : 152
    },
    "Proof of Concept/1" : {
       "cost" : "12",
