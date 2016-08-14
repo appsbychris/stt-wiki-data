@@ -1733,6 +1733,11 @@
       "Data's Hand Lens/3" : 1,
       "Forensic Psychology Text/3" : 1
    },
+   "Data's Hand Lens/5" : {
+      "Data's Hand Lens/4" : 1,
+      "Positronic Brain/4" : 1,
+      "Tricorder Mark VII/3" : 1
+   },
    "Data's Pipe/3" : {
       "Ethical Subroutine/2" : 1,
       "Ode to Spot Poem/2" : 1,
@@ -1797,6 +1802,11 @@
       "Data's Violin/3" : 1,
       "Positronic Brain/3" : 1,
       "Replicator Ration/3" : 4
+   },
+   "Data's Violin/5" : {
+      "Data's Violin/4" : 1,
+      "Replicator Ration/4" : 4,
+      "Scandal in Bohemia Holonovel/4" : 1
    },
    "Data's Visor/0" : {
       "Casino Chip/0" : 1,
@@ -8055,6 +8065,11 @@
    "Trowel/0" : {
       "Polyalloy/0" : 2,
       "Replicator Ration/0" : 2
+   },
+   "Trowel/1" : {
+      "Ethnobotonay Experiment/0" : 1,
+      "Pollyalloy/0" : 1,
+      "Trowel/0" : 1
    },
    "Tube Grubs/3" : {
       "Gold-Pressed Latinum/1" : 1,
