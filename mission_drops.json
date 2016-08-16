@@ -1990,6 +1990,17 @@
       },
       "runs" : 35
    },
+   "Right Place, Wrong Time/1" : {
+      "cost" : "16",
+      "item" : {
+         "Backpack/2" : 5,
+         "Casing/4" : 0,
+         "Interlink/1" : 30,
+         "Microconnector/3" : 1,
+         "Subprocessor/2" : 15
+      },
+      "runs" : 17
+   },
    "Right of Conquest/1" : {
       "cost" : "4",
       "item" : {
@@ -2191,6 +2202,36 @@
          "Terran Emblem/2" : 0
       },
       "runs" : 1
+   },
+   "Talk Less, Smile More/1" : {
+      "cost" : "1",
+      "item" : {
+         "Hoverball/0" : 40,
+         "Identification Code/1" : 31,
+         "Medical Experiment/0" : 10,
+         "Optronic Circuit/0" : 24
+      },
+      "runs" : 35
+   },
+   "Talk Less, Smile More/2" : {
+      "cost" : "1",
+      "item" : {
+         "Andorian Ale/1" : 26,
+         "Encoded Communique/0" : 41,
+         "Holoprogram/0" : 43,
+         "Writing PADD (TOS)/0" : 28
+      },
+      "runs" : 46
+   },
+   "Talk Less, Smile More/3" : {
+      "cost" : "1",
+      "item" : {
+         "Pattern Enhancer/1" : 58,
+         "Prime Directive/2" : 25,
+         "Science Experiment/0" : 71,
+         "Starfleet Uniform Pattern/2" : 50
+      },
+      "runs" : 68
    },
    "Temporary Hold/1" : {
       "cost" : "6",
