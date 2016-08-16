@@ -854,6 +854,18 @@
       "location" : "E4-M2",
       "type" : "Space Battle"
    },
+   "Nowhere to Run/1" : {
+      "location" : "GB-M1",
+      "type" : "Space Battle"
+   },
+   "Nowhere to Run/2" : {
+      "location" : "GB-M1",
+      "type" : "Space Battle"
+   },
+   "Nowhere to Run/3" : {
+      "location" : "GB-M1",
+      "type" : "Space Battle"
+   },
    "Of Two Evils/1" : {
       "location" : "UF-M5",
       "skillcheck" : "135"
