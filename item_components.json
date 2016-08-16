@@ -1449,7 +1449,7 @@
    },
    "Coffee/5" : {
       "Coffee/4" : 2,
-      "Replicator Ration/5" : 4
+      "Replicator Ration/4" : 4
    },
    "Combadge (ALT)/2" : {
       "Combadge (DS9)/1" : 1,
@@ -1648,7 +1648,7 @@
    },
    "Criminal Activity Report/5" : {
       "Criminal Activity Report/4" : 1,
-      "Database (Panel)/5" : 4,
+      "Database (Panel)/4" : 4,
       "Encoded Communique/3" : 1
    },
    "Crusher's Covert Ops Outfit/2" : {
@@ -1871,8 +1871,8 @@
       "Kemocite/3" : 1
    },
    "Degra's Armor/5" : {
-      "Degra's Armor/5" : 1,
-      "Kemocite/5" : 1,
+      "Degra's Armor/4" : 1,
+      "Kemocite/4" : 1,
       "Xindi Icon/3" : 1
    },
    "Dermal Regenerator/1" : {
@@ -3232,7 +3232,7 @@
    },
    "House Worf Crest/5" : {
       "House Worf Crest/4" : 1,
-      "KCA Icon/5" : 1,
+      "KCA Icon/4" : 1,
       "Worf's D'k tahg/3" : 1
    },
    "House of Mogh Crest/2" : {
@@ -3468,7 +3468,7 @@
    "Jadzia's Classic Tricorder/5" : {
       "Jadzia's Classic Tricorder/4" : 1,
       "Security Codes/3" : 1,
-      "Temporal Prime Directive/5" : 1
+      "Temporal Prime Directive/4" : 1
    },
    "Jadzia's Disguise/2" : {
       "Covert Contacts/1" : 1,
@@ -3741,7 +3741,7 @@
    },
    "Kemocite/5" : {
       "Kemocite/4" : 1,
-      "Science Experiment/5" : 1
+      "Science Experiment/4" : 1
    },
    "Kess's Dress/2" : {
       "Civilian Diplomatic Dress/1" : 1,
@@ -4572,7 +4572,7 @@
       "Micro-Optic Drill/2" : 2
    },
    "Micro-Optic Drill/4" : {
-      "Casing/5" : 2,
+      "Casing/4" : 2,
       "Micro-Optic Drill/3" : 1,
       "Power Cell/3" : 3
    },
@@ -5018,7 +5018,7 @@
       "Osmotic Eel/2" : 1
    },
    "Osmotic Eel/4" : {
-      "Augment Icon/5" : 1,
+      "Augment Icon/4" : 1,
       "Osmotic Eel/3" : 1
    },
    "Osmotic Eel/5" : {
@@ -5829,7 +5829,7 @@
    },
    "Regent Worf's D'k tahg/5" : {
       "House Worf Crest/3" : 1,
-      "KCA Icon/5" : 1,
+      "KCA Icon/4" : 1,
       "Regent Worf's D'k tahg/4" : 1
    },
    "Relora Furs/1" : {
@@ -6410,9 +6410,9 @@
       "Seven's Isomodulator/3" : 1
    },
    "Seven's Isomodulator/5" : {
-      "Borg Nanoprobes/5" : 1,
+      "Borg Nanoprobes/4" : 1,
       "Power Cell/0" : 1,
-      "Seven's Isomodulator/5" : 1
+      "Seven's Isomodulator/4" : 1
    },
    "Seven's Nanoprobes/2" : {
       "Borg Nanoprobes/1" : 2,
@@ -6430,9 +6430,9 @@
       "Subprocessor/3" : 2
    },
    "Seven's Nanoprobes/5" : {
-      "Seven's Nanoprobes/5" : 1,
-      "Social Lesson/5" : 1,
-      "Subprocessor/5" : 2
+      "Seven's Nanoprobes/4" : 1,
+      "Social Lesson/4" : 1,
+      "Subprocessor/4" : 2
    },
    "Seven's Suit/0" : {
       "Clothing Pattern/0" : 4,
@@ -6461,7 +6461,7 @@
    "Seven's Suit/5" : {
       "Radiation Collector/3" : 1,
       "Science Experiment/3" : 1,
-      "Seven's Suit/5" : 2
+      "Seven's Suit/4" : 2
    },
    "Seven's Tricorder/2" : {
       "Encoded Communique/1" : 1,
@@ -6628,8 +6628,8 @@
       "Social Lesson/3" : 1
    },
    "Social Lesson/5" : {
-      "Database (Panel)/5" : 1,
-      "Social Lesson/5" : 2
+      "Database (Panel)/4" : 1,
+      "Social Lesson/4" : 2
    },
    "Son of Frankenstein Movie/3" : {
       "Bride of Frankenstein Movie/2" : 2
@@ -6751,8 +6751,8 @@
       "Spock's Tricorder/3" : 2
    },
    "Spock's Tricorder/5" : {
-      "IDIC/5" : 2,
-      "Sensor/5" : 2,
+      "IDIC/4" : 2,
+      "Sensor/4" : 2,
       "Spock's Tricorder/4" : 2
    },
    "Spring Wine/1" : {
@@ -7676,7 +7676,7 @@
    },
    "Temporal Prime Directive/5" : {
       "Prime Directive/3" : 1,
-      "Quantum Chronometer/5" : 1,
+      "Quantum Chronometer/4" : 1,
       "Temporal Prime Directive/3" : 1
    },
    "Tequila/1" : {

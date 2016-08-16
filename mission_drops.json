@@ -1064,7 +1064,7 @@
       "cost" : "16",
       "item" : {
          "Database (Panel)/0" : 103,
-         "Database (Panel)/5" : 5,
+         "Database (Panel)/4" : 5,
          "Emitter Crystal/3" : 12,
          "Isolinear Chips/2" : 60,
          "Spices/1" : 90
@@ -1356,8 +1356,8 @@
       "item" : {
          "Clothing Pattern/2" : 20,
          "Clothing Pattern/3" : 6,
-         "Database (Panel)/5" : 1,
-         "Power Cell/5" : 4,
+         "Database (Panel)/4" : 1,
+         "Power Cell/4" : 4,
          "Sensor/3" : 11
       },
       "runs" : 14
@@ -1892,7 +1892,7 @@
          "Clothing Pattern/1" : 15,
          "Isolinear Chips/3" : 1,
          "Optronic Circuit/2" : 11,
-         "Replicator Ration/5" : 0
+         "Replicator Ration/4" : 0
       },
       "runs" : 11
    },
@@ -1910,7 +1910,7 @@
       "cost" : "16",
       "item" : {
          "Bloodwine/0" : 2,
-         "Microconnector/5" : 0,
+         "Microconnector/4" : 0,
          "Optronic Circuit/1" : 7,
          "Polyalloy/0" : 6,
          "Replicator Ration/3" : 0
