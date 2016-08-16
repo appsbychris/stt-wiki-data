@@ -198,7 +198,7 @@
    },
    "Ancient Revolver/1" : {
       "Ancient Revolver/0" : 1,
-      "Pollyalloy/0" : 2,
+      "Polyalloy/0" : 2,
       "Security Codes/0" : 1
    },
    "Ancient Revolver/2" : {
@@ -486,17 +486,17 @@
    "Backpack/3" : {
       "Backpack/2" : 2,
       "Microconnector/2" : 2,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Backpack/4" : {
       "Backpack/3" : 2,
       "Microconnector/3" : 2,
-      "Pollyalloy/3" : 2
+      "Polyalloy/3" : 2
    },
    "Backpack/5" : {
       "Backpack/4" : 2,
       "Microconnector/4" : 2,
-      "Pollyalloy/4" : 2
+      "Polyalloy/4" : 2
    },
    "Bajoran Combadge/2" : {
       "Bajoran Combadge/1" : 1,
@@ -518,11 +518,11 @@
    },
    "Bajoran Earring/1" : {
       "Bajoran Earring/0" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Bajoran Earring/3" : {
       "Bajoran Earring/2" : 1,
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Will of the Prophets Text/2" : 1
    },
    "Bajoran Engineering Uniform/0" : {
@@ -696,7 +696,7 @@
    "Bat'leth/2" : {
       "Bat'leth/1" : 1,
       "Bloodwine/0" : 1,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Bat'leth/3" : {
       "Bat'leth/2" : 1,
@@ -704,7 +704,7 @@
    },
    "Bat'leth/4" : {
       "Bat'leth/3" : 1,
-      "Pollyalloy/3" : 2
+      "Polyalloy/3" : 2
    },
    "Battle of Britain Holoprogram/2" : {
       "Holoprogram/1" : 2,
@@ -789,7 +789,7 @@
    "Borg Cortical Node/0" : {
       "Interlink/0" : 2,
       "Microconnector/0" : 2,
-      "Pollyalloy/0" : 3
+      "Polyalloy/0" : 3
    },
    "Borg Cortical Node/1" : {
       "Borg Cortical Node/0" : 2,
@@ -798,41 +798,41 @@
    "Borg Cortical Node/2" : {
       "Borg Cortical Node/1" : 2,
       "Interlink/1" : 2,
-      "Pollyalloy/1" : 1
+      "Polyalloy/1" : 1
    },
    "Borg Exo-Plating/1" : {
       "Microconnector/0" : 2,
-      "Pollyalloy/0" : 2,
+      "Polyalloy/0" : 2,
       "Relay/0" : 2
    },
    "Borg Exo-Plating/2" : {
       "Borg Exo-Plating/1" : 2,
       "Microconnector/1" : 1,
-      "Pollyalloy/1" : 1
+      "Polyalloy/1" : 1
    },
    "Borg Exo-Plating/3" : {
       "Borg Exo-Plating/2" : 2,
       "Microconnector/2" : 1,
-      "Pollyalloy/2" : 1
+      "Polyalloy/2" : 1
    },
    "Borg Nanoprobes/1" : {
       "Interlink/0" : 2,
-      "Pollyalloy/0" : 2,
+      "Polyalloy/0" : 2,
       "Relay/0" : 2
    },
    "Borg Nanoprobes/2" : {
       "Borg Nanoprobes/1" : 2,
-      "Pollyalloy/1" : 1,
+      "Polyalloy/1" : 1,
       "Relay/1" : 1
    },
    "Borg Nanoprobes/3" : {
       "Borg Nanoprobes/2" : 2,
-      "Pollyalloy/2" : 1,
+      "Polyalloy/2" : 1,
       "Relay/2" : 1
    },
    "Borg Nanoprobes/4" : {
       "Borg Nanoprobes/3" : 2,
-      "Pollyalloy/3" : 1,
+      "Polyalloy/3" : 1,
       "Relay/3" : 1
    },
    "Borg Occipital Implant/1" : {
@@ -1137,17 +1137,17 @@
    },
    "Central Command Insignia/3" : {
       "Central Command Insignia/2" : 1,
-      "Pollyalloy/2" : 4
+      "Polyalloy/2" : 4
    },
    "Central Command Uniform/1" : {
       "Central Command Insignia/0" : 1,
       "Clothing Pattern/0" : 4,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "Central Command Uniform/2" : {
       "Central Command Insignia/1" : 1,
       "Central Command Uniform/1" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Ceti Eel/2" : {
       "Ceti Eel/1" : 1,
@@ -1390,22 +1390,22 @@
    },
    "Climbing Gear/1" : {
       "Casing/0" : 4,
-      "Pollyalloy/0" : 4
+      "Polyalloy/0" : 4
    },
    "Climbing Gear/2" : {
       "Casing/1" : 2,
       "Climbing Gear/1" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Climbing Gear/3" : {
       "Casing/2" : 2,
       "Climbing Gear/2" : 2,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Climbing Gear/4" : {
       "Casing/3" : 2,
       "Climbing Gear/3" : 2,
-      "Pollyalloy/3" : 2
+      "Polyalloy/3" : 2
    },
    "Code 7-10/2" : {
       "First Contact Protocol/1" : 1,
@@ -1458,17 +1458,17 @@
    "Combadge (ALT)/3" : {
       "Casing/2" : 1,
       "Combadge (ALT)/2" : 2,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Combadge (ALT)/4" : {
       "Casing/3" : 1,
       "Combadge (ALT)/3" : 2,
-      "Pollyalloy/3" : 1
+      "Polyalloy/3" : 1
    },
    "Combadge (ALT)/5" : {
       "Casing/4" : 2,
       "Combadge (ALT)/4" : 2,
-      "Pollyalloy/4" : 1
+      "Polyalloy/4" : 1
    },
    "Combadge (DS9)/1" : {
       "Combadge (DS9)/0" : 2,
@@ -1671,7 +1671,7 @@
    },
    "D'k tahg/3" : {
       "D'k tahg/2" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Da Vinci's Workshop Holoprogram/2" : {
       "Database (Panel)/1" : 2,
@@ -1696,17 +1696,17 @@
    "Darts/1" : {
       "Alcohol/0" : 2,
       "Darts/0" : 2,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "Darts/2" : {
       "Alcohol/1" : 2,
       "Darts/1" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Darts/3" : {
       "Alcohol/2" : 2,
       "Darts/2" : 2,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Data's Cap/3" : {
       "Clothing Pattern/2" : 3,
@@ -1834,7 +1834,7 @@
       "Poker Cards/3" : 1
    },
    "Dathon's Knife/0" : {
-      "Pollyalloy/0" : 4
+      "Polyalloy/0" : 4
    },
    "Dathon's Knife/1" : {
       "Dathon's Knife/0" : 1,
@@ -2017,7 +2017,7 @@
    },
    "Dissection Tools/2" : {
       "Biological Sample Kit/1" : 1,
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Scalpel/1" : 1
    },
    "Dissection Tools/3" : {
@@ -2445,7 +2445,7 @@
    },
    "Ezri's Knife/4" : {
       "KCA Icon/3" : 1,
-      "Pollyalloy/3" : 4,
+      "Polyalloy/3" : 4,
       "Terran Knife/3" : 2
    },
    "Ezri's Pistol/2" : {
@@ -2591,7 +2591,7 @@
    },
    "GI Helmet/0" : {
       "Clothing Pattern/0" : 2,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "GI Helmet/1" : {
       "Clothing Pattern/0" : 2,
@@ -2600,13 +2600,13 @@
    },
    "GI Helmet/2" : {
       "GI Helmet/1" : 1,
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Tactical Alert/1" : 1
    },
    "GI Helmet/3" : {
       "Field Rations/2" : 1,
       "GI Helmet/2" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "GI Jacket/0" : {
       "20th Century Pistol/0" : 1,
@@ -3008,12 +3008,12 @@
    "Hirogen Hunter Armor/2" : {
       "Hirogen Alpha Mark/1" : 1,
       "Hirogen Hunter Armor/1" : 1,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Hirogen Hunter Armor/3" : {
       "Hirogen Hunter Armor/2" : 1,
       "Hirogen Relic/2" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Hirogen Relic/2" : {
       "Biological Sample Kit/1" : 2,
@@ -3045,17 +3045,17 @@
    },
    "Hockey Skates/0" : {
       "Furs/0" : 2,
-      "Pollyalloy/0" : 1
+      "Polyalloy/0" : 1
    },
    "Hockey Skates/1" : {
       "Furs/1" : 1,
       "Hockey Skates/0" : 1,
-      "Pollyalloy/1" : 1
+      "Polyalloy/1" : 1
    },
    "Hockey Skates/2" : {
       "Furs/2" : 1,
       "Hockey Skates/1" : 1,
-      "Pollyalloy/2" : 1
+      "Polyalloy/2" : 1
    },
    "Hockey Skates/3" : {
       "Furs/2" : 2,
@@ -3063,15 +3063,15 @@
    },
    "Hockey Stick/1" : {
       "Casing/0" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Hockey Stick/2" : {
       "Hockey Stick/1" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Hockey Stick/3" : {
       "Hockey Stick/2" : 1,
-      "Pollyalloy/3" : 2
+      "Polyalloy/3" : 2
    },
    "Hollander's Hat/2" : {
       "Civilian Command Clothing/1" : 1,
@@ -3308,7 +3308,7 @@
    "Idrin's Armor/3" : {
       "Hirogen Hunter Armor/2" : 1,
       "Hirogen Tetryon Rifle/2" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Idrin's Armor/4" : {
       "Idrin's Armor/3" : 1,
@@ -3364,12 +3364,12 @@
    "Intendant's Circlet/3" : {
       "KCA Icon/2" : 1,
       "Multidimensional Transporter Device/1" : 1,
-      "Pollyalloy/2" : 4
+      "Polyalloy/2" : 4
    },
    "Intendant's Circlet/4" : {
       "Cardassian Encryption Algorithm/2" : 1,
       "Intendant's Circlet/3" : 1,
-      "Pollyalloy/3" : 4
+      "Polyalloy/3" : 4
    },
    "Intendant's Circlet/5" : {
       "Intendant's Circlet/4" : 1,
@@ -3663,7 +3663,7 @@
    "Kang's Sword/2" : {
       "Bloodwine/1" : 1,
       "D'k tahg/2" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Kayaking Holoprogram/1" : {
       "Database (Panel)/0" : 2,
@@ -3869,7 +3869,7 @@
    "Kirk's Lirpa/4" : {
       "Andorian Rifle/2" : 1,
       "Kirk's Lirpa/3" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Klingon Armor (TNG)/3" : {
       "Clothing Pattern/2" : 4,
@@ -3877,7 +3877,7 @@
    },
    "Klingon Armor (TOS)/0" : {
       "Furs/0" : 2,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "Klingon Armor (TOS)/1" : {
       "Furs/1" : 2,
@@ -3889,7 +3889,7 @@
    "Klingon Baldric/1" : {
       "Clothing Pattern/0" : 1,
       "Klingon Baldric/0" : 1,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "Klingon Baldric/2" : {
       "Bloodwine/0" : 1,
@@ -3899,7 +3899,7 @@
    "Klingon Baldric/3" : {
       "Klingon Baldric/2" : 1,
       "Klingon House Crest/1" : 1,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Klingon Baldric/4" : {
       "Clothing Pattern/3" : 3,
@@ -4047,7 +4047,7 @@
    "Kor's Armor/2" : {
       "Furs/2" : 2,
       "Klingon Armor (TOS)/2" : 2,
-      "Pollyalloy/0" : 1
+      "Polyalloy/0" : 1
    },
    "Kor's Armor/3" : {
       "D'k tahg/1" : 1,
@@ -4108,7 +4108,7 @@
    },
    "Laser Scalpel/2" : {
       "Laser Scalpel/1" : 2,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Late Vintage Bloodwine/3" : {
       "Bat'leth/2" : 1,
@@ -4166,12 +4166,12 @@
    },
    "Lirpa/1" : {
       "IDIC/1" : 1,
-      "Pollyalloy/0" : 1
+      "Polyalloy/0" : 1
    },
    "Lirpa/2" : {
       "Kolinahr Text/1" : 1,
       "Lirpa/1" : 1,
-      "Pollyalloy/0" : 4
+      "Polyalloy/0" : 4
    },
    "Lursa's Communicator/2" : {
       "House Duras Crest/1" : 1,
@@ -4208,7 +4208,7 @@
    },
    "Maco Baton/1" : {
       "Casing/0" : 2,
-      "Pollyalloy/0" : 2,
+      "Polyalloy/0" : 2,
       "Power Cell/1" : 2
    },
    "Maco Baton/2" : {
@@ -4526,12 +4526,12 @@
    },
    "Mek'leth/1" : {
       "Mek'leth/0" : 1,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Mek'leth/2" : {
       "D'k tahg/1" : 1,
       "Mek'leth/1" : 1,
-      "Pollyalloy/1" : 2
+      "Polyalloy/1" : 2
    },
    "Mek'leth/3" : {
       "D'k tahg/2" : 1,
@@ -4541,17 +4541,17 @@
    "Mek'leth/4" : {
       "Gagh/3" : 2,
       "Mek'leth/3" : 1,
-      "Pollyalloy/3" : 2
+      "Polyalloy/3" : 2
    },
    "Melora's Exoskeleton/1" : {
       "Microconnector/1" : 2,
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Power Cell/1" : 2
    },
    "Melora's Exoskeleton/2" : {
       "Melora's Exoskeleton/1" : 1,
       "Physiostimulator/1" : 2,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Melora's Exoskeleton/3" : {
       "Astrometric Chart/2" : 2,
@@ -4882,22 +4882,22 @@
    },
    "Odo's Bucket/1" : {
       "Identification Code/0" : 2,
-      "Pollyalloy/0" : 2,
+      "Polyalloy/0" : 2,
       "Security Reports/0" : 1
    },
    "Odo's Bucket/2" : {
       "Odo's Bucket/1" : 1,
-      "Pollyalloy/1" : 3,
+      "Polyalloy/1" : 3,
       "Security Reports/1" : 1
    },
    "Odo's Bucket/3" : {
       "Odo's Bucket/2" : 1,
-      "Pollyalloy/2" : 3,
+      "Polyalloy/2" : 3,
       "Security Reports/2" : 1
    },
    "Odo's Bucket/4" : {
       "Odo's Bucket/3" : 1,
-      "Pollyalloy/3" : 3,
+      "Polyalloy/3" : 3,
       "Security Reports/3" : 1
    },
    "Odo's Monitor/3" : {
@@ -5076,7 +5076,7 @@
    "Paris's Stick/3" : {
       "Hockey Stick/3" : 1,
       "Holoprogram/1" : 1,
-      "Pollyalloy/2" : 1
+      "Polyalloy/2" : 1
    },
    "Particle Rifle/1" : {
       "Casing/0" : 2,
@@ -5126,7 +5126,7 @@
    "Persis's D'k tahg/3" : {
       "Augment Icon/1" : 1,
       "D'k tahg/3" : 1,
-      "Pollyalloy/2" : 2
+      "Polyalloy/2" : 2
    },
    "Persis's D'k tahg/4" : {
       "Augment Icon/1" : 1,
@@ -5756,11 +5756,11 @@
       "Rand's Tricorder/0" : 2
    },
    "Raquet/1" : {
-      "Pollyalloy/1" : 4,
+      "Polyalloy/1" : 4,
       "Replicator Ration/0" : 3
    },
    "Raquet/2" : {
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Raquet/1" : 1,
       "Replicator Ration/1" : 2
    },
@@ -5800,7 +5800,7 @@
    "Regent Worf's Collar/2" : {
       "Agonizer/1" : 1,
       "KCA Icon/1" : 1,
-      "Pollyalloy/1" : 6
+      "Polyalloy/1" : 6
    },
    "Regent Worf's Collar/3" : {
       "Dissection Tools/2" : 1,
@@ -5843,7 +5843,7 @@
       "Relora Furs/1" : 1
    },
    "Reman Knife/3" : {
-      "Pollyalloy/2" : 4,
+      "Polyalloy/2" : 4,
       "Reman Knife/2" : 1,
       "Star Empire Icon/1" : 1
    },
@@ -5948,12 +5948,12 @@
       "Science Experiment/1" : 1
    },
    "Riker's Earring/2" : {
-      "Pollyalloy/2" : 1,
+      "Polyalloy/2" : 1,
       "Replicator Ration/2" : 3
    },
    "Riker's Earring/3" : {
       "Bajoran Earring/2" : 1,
-      "Pollyalloy/3" : 1,
+      "Polyalloy/3" : 1,
       "Riker's Earring/2" : 1
    },
    "Riker's Earring/4" : {
@@ -5961,7 +5961,7 @@
       "Riker's Earring/3" : 1
    },
    "Riker's Earring/5" : {
-      "Pollyalloy/4" : 2,
+      "Polyalloy/4" : 2,
       "Prime Directive/2" : 1,
       "Riker's Earring/4" : 2
    },
@@ -6214,12 +6214,12 @@
    },
    "Scalpel/3" : {
       "Medical Lesson/1" : 1,
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Scalpel/2" : 1
    },
    "Scalpel/4" : {
       "Medical Lesson/2" : 1,
-      "Pollyalloy/3" : 2,
+      "Polyalloy/3" : 2,
       "Scalpel/3" : 1
    },
    "Scalpel/5" : {
@@ -6485,12 +6485,12 @@
    },
    "Shinzon's Knife/3" : {
       "Medical Experiment/2" : 1,
-      "Pollyalloy/2" : 4,
+      "Polyalloy/2" : 4,
       "Reman Knife/2" : 1
    },
    "Shinzon's Knife/4" : {
       "Earl Grey Tea/3" : 1,
-      "Pollyalloy/3" : 2,
+      "Polyalloy/3" : 2,
       "Shinzon's Knife/3" : 1
    },
    "Shinzon's Pistol/4" : {
@@ -6769,7 +6769,7 @@
       "Spring Wine/3" : 1
    },
    "Star Empire Icon/1" : {
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Romulan Encryption Algorithm/0" : 2
    },
    "Star Empire Icon/3" : {
@@ -7446,7 +7446,7 @@
    },
    "Subvocal Processor/2" : {
       "Microconnector/1" : 2,
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Subprocessor/1" : 2
    },
    "Subvocal Processor/3" : {
@@ -7470,11 +7470,11 @@
       "Surgery Outfit/1" : 2
    },
    "Surgical Shears/2" : {
-      "Pollyalloy/1" : 4,
+      "Polyalloy/1" : 4,
       "Scalpel/1" : 1
    },
    "Surgical Shears/3" : {
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Scalpel/1" : 1,
       "Surgical Shears/2" : 1
    },
@@ -7780,13 +7780,13 @@
       "Terran Sash/4" : 1
    },
    "Terran Knife/3" : {
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Terran Emblem/1" : 1,
       "Terran Knife/2" : 1
    },
    "Terran Knife/4" : {
       "Poisoned Drink/1" : 1,
-      "Pollyalloy/3" : 2,
+      "Polyalloy/3" : 2,
       "Terran Knife/3" : 1
    },
    "Terran Pistol/0" : {
@@ -7901,16 +7901,16 @@
    },
    "Tommy Gun/1" : {
       "20th Century Pistol/0" : 2,
-      "Pollyalloy/0" : 2
+      "Polyalloy/0" : 2
    },
    "Tommy Gun/2" : {
       "Ancient Film/1" : 1,
-      "Pollyalloy/1" : 2,
+      "Polyalloy/1" : 2,
       "Tommy Gun/1" : 1
    },
    "Tommy Gun/3" : {
       "Criminal Activity Report/2" : 1,
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Tommy Gun/2" : 1
    },
    "Tongo Deck/1" : {
@@ -8073,7 +8073,7 @@
    },
    "Trowel/1" : {
       "Ethnobotonay Experiment/0" : 1,
-      "Pollyalloy/0" : 1,
+      "Polyalloy/0" : 1,
       "Trowel/0" : 1
    },
    "Tube Grubs/3" : {
@@ -8459,22 +8459,22 @@
    },
    "Worf's Baldric/3" : {
       "Klingon Baldric/2" : 1,
-      "Pollyalloy/2" : 2,
+      "Polyalloy/2" : 2,
       "Prune Juice/2" : 1
    },
    "Worf's Baldric/4" : {
-      "Pollyalloy/3" : 2,
+      "Polyalloy/3" : 2,
       "Prune Juice/3" : 1,
       "Worf's Baldric/3" : 1
    },
    "Worf's Baldric/5" : {
       "Mek'leth/3" : 1,
-      "Pollyalloy/4" : 3,
+      "Polyalloy/4" : 3,
       "Worf's Baldric/4" : 1
    },
    "Worf's Bat'leth/3" : {
       "Bat'leth/2" : 1,
-      "Pollyalloy/2" : 1,
+      "Polyalloy/2" : 1,
       "Prune Juice/2" : 1
    },
    "Worf's Bat'leth/4" : {
@@ -8487,7 +8487,7 @@
       "Prune Juice/2" : 1
    },
    "Worf's D'k tahg/4" : {
-      "Pollyalloy/3" : 2,
+      "Polyalloy/3" : 2,
       "Prune Juice/3" : 1,
       "Worf's D'k tahg/3" : 1
    },
@@ -8502,33 +8502,33 @@
       "Prune Juice/1" : 1
    },
    "Worf's Mek'leth/4" : {
-      "Pollyalloy/2" : 4,
+      "Polyalloy/2" : 4,
       "Prune Juice/3" : 1,
       "Worf's Mek'leth/3" : 1
    },
    "Worf's Mek'leth/5" : {
       "House Martok Crest/3" : 2,
-      "Pollyalloy/3" : 4,
+      "Polyalloy/3" : 4,
       "Worf's Mek'leth/4" : 1
    },
    "Wrench/1" : {
-      "Pollyalloy/0" : 4,
+      "Polyalloy/0" : 4,
       "Wrench/0" : 2
    },
    "Wrench/2" : {
-      "Pollyalloy/1" : 3,
+      "Polyalloy/1" : 3,
       "Wrench/1" : 2
    },
    "Wrench/3" : {
-      "Pollyalloy/2" : 3,
+      "Polyalloy/2" : 3,
       "Wrench/2" : 2
    },
    "Wrench/4" : {
-      "Pollyalloy/3" : 3,
+      "Polyalloy/3" : 3,
       "Wrench/3" : 2
    },
    "Wrench/5" : {
-      "Pollyalloy/4" : 3,
+      "Polyalloy/4" : 3,
       "Wrench/4" : 2
    },
    "Wrist Tricorder/2" : {
