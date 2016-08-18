@@ -800,6 +800,11 @@
       "Interlink/1" : 2,
       "Polyalloy/1" : 1
    },
+   "Borg Cortical Node/3" : {
+      "Borg Cortical Node/2" : 2,
+      "Interlink/2" : 1,
+      "Polyalloy/2" : 1
+   },
    "Borg Exo-Plating/1" : {
       "Microconnector/0" : 2,
       "Polyalloy/0" : 2,
@@ -1337,6 +1342,16 @@
       "Clothing Pattern/0" : 2,
       "Hyperspanner (DS9)/0" : 1
    },
+   "Civilian Engineer Dress/1" : {
+      "Civilian Engineer Dress/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "Toolbox/0" : 1
+   },
+   "Civilian Engineer Dress/2" : {
+      "Civilian Engineer Dress/1" : 1,
+      "Clothing Pattern/1" : 1,
+      "Plasma Torch/1" : 1
+   },
    "Civilian Medical Clothing/1" : {
       "Clothing Pattern/0" : 4,
       "Dermal Regenerator/1" : 1
@@ -1375,6 +1390,10 @@
    "Civilian Scientist Dress/0" : {
       "Clothing Pattern/0" : 2,
       "Tricorder Mark VII/0" : 1
+   },
+   "Civilian Scientist Dress/1" : {
+      "Civilian Scientist Dress/0" : 2,
+      "Clothing Pattern/0" : 2
    },
    "Civilian Security Clothing/1" : {
       "Civilian Security Clothing/0" : 1,
@@ -2128,6 +2147,11 @@
       "Hirogen Scanner/1" : 1,
       "Wrench/2" : 2
    },
+   "Drafting Room 5/2" : {
+      "Holoprogram/0" : 1,
+      "Model Enterprise/2" : 1,
+      "Optronic Data Core/0" : 1
+   },
    "Dukat's Armor/3" : {
       "Central Command Insignia/2" : 1,
       "Central Command Uniform/2" : 1,
@@ -2659,6 +2683,11 @@
       "Garak's Armor/3" : 1,
       "Kotra/2" : 1
    },
+   "Garak's Armor/5" : {
+      "Cardassian Disruptor Pistol/2" : 1,
+      "Garak's Armor/4" : 1,
+      "KCA Icon/4" : 1
+   },
    "Garak's PADD/1" : {
       "Cardassian PADD/1" : 1,
       "Obsidian Order Clearance/0" : 1
@@ -2712,6 +2741,29 @@
       "Garak's PADD/1" : 2,
       "Garak's Suit/3" : 1,
       "Tailoring Tool/3" : 1
+   },
+   "General Chang's Eyepatch/2" : {
+      "Clothing Pattern/0" : 4,
+      "Klingon House Crest/1" : 1
+   },
+   "General Chang's Eyepatch/3" : {
+      "General Chang's Eyepatch/2" : 1,
+      "Polyalloy/2" : 2,
+      "Tactical Alert/2" : 1
+   },
+   "General Chang's Uniform/2" : {
+      "Clothing Pattern/0" : 4,
+      "Klingon Armor (TNG)/1" : 1
+   },
+   "General Chang's Uniform/3" : {
+      "General Chang's Uniform/2" : 1,
+      "Klingon Baldric/2" : 1,
+      "Klingon Stole/2" : 1
+   },
+   "General Chang's Uniform/4" : {
+      "Clothing Pattern/3" : 4,
+      "General Chang's Uniform/3" : 1,
+      "Klingon Warnog/3" : 1
    },
    "Geordi's Hat/3" : {
       "Bowler/2" : 1,
@@ -4066,6 +4118,11 @@
       "Central Command Insignia/3" : 1,
       "Kotra/3" : 1
    },
+   "Kruge's Pistol/3" : {
+      "Expansion Module/2" : 2,
+      "Klingon Disruptor Pistol/2" : 2,
+      "Klingon Disruptor Rifle/2" : 1
+   },
    "Kukalaka/3" : {
       "Autosuture/2" : 1,
       "Medical Lesson/2" : 1,
@@ -4173,6 +4230,16 @@
       "Lirpa/1" : 1,
       "Polyalloy/0" : 4
    },
+   "Lursa's Armor/2" : {
+      "Klingon Armor (TNG)/0" : 1,
+      "Klingon PADD/1" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Lursa's Armor/3" : {
+      "Klingon PADD/2" : 1,
+      "Lursa's Armor/2" : 1,
+      "Romulan Encryption Algorithm/2" : 1
+   },
    "Lursa's Communicator/2" : {
       "House Duras Crest/1" : 1,
       "Klingon Communicator/1" : 1,
@@ -4192,10 +4259,20 @@
       "Klingon Disruptor Rifle/2" : 1,
       "Lursa's Disruptor Pistol/2" : 1
    },
+   "Lursa's Disruptor Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "Klingon Disruptor Rifle/3" : 1,
+      "Lursa's Disruptor Pistol/3" : 1
+   },
    "Lwaxana's Gown/2" : {
       "Civilian Diplomatic Dress/1" : 2,
       "Clothing Pattern/2" : 1,
       "Holoprogram/1" : 1
+   },
+   "MACO Badge/1" : {
+      "Boy Scout Badge/1" : 1,
+      "EM Pistol/0" : 1,
+      "Particle Rifle/0" : 1
    },
    "MACO Uniform/0" : {
       "Clothing Pattern/0" : 1,
@@ -5130,7 +5207,7 @@
    },
    "Persis's D'k tahg/4" : {
       "Augment Icon/1" : 1,
-      "Persis's D'k tahg/3" : 2,
+      "Persis's D'k tahg/3" : 1,
       "Soong's Teaching/2" : 1
    },
    "Persis's Outfit/2" : {
@@ -6158,6 +6235,11 @@
       "Furs/3" : 2,
       "Rura Penthe Furs/3" : 1
    },
+   "Saavik's Padd/3" : {
+      "Sensor/2" : 2,
+      "The Teaching of Surak Book/2" : 1,
+      "Writing PADD (TOS)/2" : 1
+   },
    "Saddle/1" : {
       "Furs/0" : 2,
       "Identification Code/0" : 1,
@@ -6191,6 +6273,41 @@
       "Evening Gown/2" : 1,
       "GI Jacket/1" : 1,
       "Sainte Claire 1944/2" : 1
+   },
+   "Sarek's Necklace/2" : {
+      "Poetry/1" : 1,
+      "Polyalloy/1" : 2,
+      "Vulcan Tea/1" : 1
+   },
+   "Sarek's Necklace/3" : {
+      "Sarek's Necklace/2" : 1,
+      "The Teaching of Surak Book/2" : 1,
+      "Vulcan Meditation Lamp/2" : 1
+   },
+   "Sarek's Necklace/4" : {
+      "Polyalloy/3" : 4,
+      "Sarek's Necklace/3" : 1,
+      "Vulcan Lute/3" : 1
+   },
+   "Sarek's Necklace/5" : {
+      "Sarek's Necklace/4" : 1,
+      "The Teaching of Surak Book/4" : 2,
+      "Vulcan Tea/4" : 1
+   },
+   "Sarek's Robes/2" : {
+      "Incense/1" : 4,
+      "Vulcan Lute/1" : 1,
+      "Vulcan Robes/1" : 1
+   },
+   "Sarek's Robes/3" : {
+      "Opera/2" : 2,
+      "Sarek's Robes/2" : 1,
+      "Vulcan Meditation Lamp/2" : 2
+   },
+   "Sarek's Robes/4" : {
+      "Incense/3" : 2,
+      "Sarek's Necklace/3" : 1,
+      "Sarek's Robes/3" : 1
    },
    "Saurian Brandy/0" : {
       "Alcohol/0" : 4,
@@ -6268,6 +6385,21 @@
       "Database (Panel)/2" : 2,
       "Isolinear Chips/2" : 2,
       "Science Lesson/2" : 2
+   },
+   "Scientific Tasmanian/2" : {
+      "Database (Panel)/1" : 2,
+      "Identification Code/1" : 1,
+      "Science Experiment/1" : 1
+   },
+   "Scientific Tasmanian/3" : {
+      "Astrometric Chart/2" : 1,
+      "Database (Panel)/2" : 2,
+      "Scientific Tasmanian/2" : 1
+   },
+   "Scientific Tasmanian/4" : {
+      "Database (Panel)/3" : 2,
+      "Science Experiment/3" : 1,
+      "Scientific Tasmanian/3" : 1
    },
    "Scotty's Scanner/2" : {
       "Relay/1" : 2,
@@ -7367,6 +7499,9 @@
    "Starfleet Test Cylinder/3" : {
       "Starfleet Test Cylinder/2" : 2
    },
+   "Starfleet Test Cylinder/4" : {
+      "Starfleet Test Cylinder/3" : 2
+   },
    "Stethoscope/1" : {
       "Casing/0" : 2,
       "Medical Lesson/0" : 1
@@ -8121,6 +8256,16 @@
       "Tuvix's Uniform/4" : 1,
       "Vulcan Meditation Lamp/3" : 1
    },
+   "Tuvok's PADD/2" : {
+      "Casing/1" : 2,
+      "Criminal Activity Report/1" : 1,
+      "Writing PADD (TNG)/1" : 2
+   },
+   "Tuvok's PADD/3" : {
+      "Orchids/0" : 1,
+      "Tuvok's PADD/2" : 1,
+      "Vulcan Meditation Lamp/1" : 1
+   },
    "Tuvok's Rifle/3" : {
       "Phaser Type 3 (DS9)/2" : 2,
       "Power Cell/2" : 1,
@@ -8287,6 +8432,15 @@
       "Holo-imager/3" : 1,
       "Optronic Data Core/2" : 1,
       "Virtual Display Device/4" : 1
+   },
+   "Vorik's Toolbox/1" : {
+      "Incense/1" : 1,
+      "Toolbox/1" : 1
+   },
+   "Vorik's Toolbox/2" : {
+      "Interlink/1" : 2,
+      "Vorik's Toolbox/1" : 1,
+      "Vulcan Tea/1" : 1
    },
    "Vorik's Tricorder/1" : {
       "Incense/0" : 2,

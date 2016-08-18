@@ -284,6 +284,15 @@
       "location" : "EA-M1",
       "skillcheck" : "290"
    },
+   "Breakwater/1" : {
+      "skillcheck" : "135"
+   },
+   "Breakwater/2" : {
+      "skillcheck" : "270"
+   },
+   "Breakwater/3" : {
+      "skillcheck" : "380"
+   },
    "By Hook Or By Crook/1" : {
       "location" : "E1-M14B",
       "skillcheck" : "39"
@@ -1264,6 +1273,15 @@
    "The Army of Anaydis/3" : {
       "location" : "E2-M3",
       "type" : "Space Battle"
+   },
+   "The Coming Storm/1" : {
+      "skillcheck" : "100"
+   },
+   "The Coming Storm/2" : {
+      "skillcheck" : "245"
+   },
+   "The Coming Storm/3" : {
+      "skillcheck" : "345"
    },
    "The First Battle/1" : {
       "location" : "P1-M1",

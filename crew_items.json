@@ -1781,6 +1781,168 @@
          "level" : 99
       }
    ],
+   "Ambassador Sarek" : [
+      {
+         "item" : "Civilian Diplomatic Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Science Experiment/0",
+         "level" : 2
+      },
+      {
+         "item" : "Encoded Communique/1",
+         "level" : 4
+      },
+      {
+         "item" : "IDIC/1",
+         "level" : 5
+      },
+      {
+         "item" : "Civilian Diplomatic Clothing/1",
+         "level" : 10
+      },
+      {
+         "item" : "Science Lesson/1",
+         "level" : 13
+      },
+      {
+         "item" : "Holo-imager/1",
+         "level" : 16
+      },
+      {
+         "item" : "Vulcan Lute/1",
+         "level" : 20
+      },
+      {
+         "item" : "Civilian Diplomatic Clothing/1",
+         "level" : 20
+      },
+      {
+         "item" : "Sarek's Necklace/2",
+         "level" : 23
+      },
+      {
+         "item" : "Combadge (TNG)/2",
+         "level" : 26
+      },
+      {
+         "item" : "IDIC/2",
+         "level" : 30
+      },
+      {
+         "item" : "Sarek's Robes/2",
+         "level" : 30
+      },
+      {
+         "item" : "Vulcan Meditation Lamp/2",
+         "level" : 33
+      },
+      {
+         "item" : "Holocommunicator/2",
+         "level" : 36
+      },
+      {
+         "item" : "Identification Code/3",
+         "level" : 40
+      },
+      {
+         "item" : "Sarek's Robes/3",
+         "level" : 40
+      },
+      {
+         "item" : "Translation Algorithm/3",
+         "level" : 43
+      },
+      {
+         "item" : "The Teaching of Surak Book/3",
+         "level" : 46
+      },
+      {
+         "item" : "Science Experiment/4",
+         "level" : 50
+      },
+      {
+         "item" : "Sarek's Robes/3",
+         "level" : 50
+      },
+      {
+         "item" : "Vulcan Tea/3",
+         "level" : 53
+      },
+      {
+         "item" : "Sarek's Necklace/3",
+         "level" : 56
+      },
+      {
+         "item" : "Psychological Evaluation Holoprogram/4",
+         "level" : 60
+      },
+      {
+         "item" : "Sarek's Robes/4",
+         "level" : 60
+      },
+      {
+         "item" : "Kolinahr Text/3",
+         "level" : 63
+      },
+      {
+         "item" : "IDIC/4",
+         "level" : 66
+      },
+      {
+         "item" : "Vulcan Meditation Lamp/5",
+         "level" : 70
+      },
+      {
+         "item" : "Sarek's Robes/4",
+         "level" : 70
+      },
+      {
+         "item" : "Sarek's Necklace/4",
+         "level" : 73
+      },
+      {
+         "item" : "Holocommunicator/4",
+         "level" : 76
+      },
+      {
+         "item" : "Social Lesson/5",
+         "level" : 80
+      },
+      {
+         "item" : "Sarek's Robes/4",
+         "level" : 80
+      },
+      {
+         "item" : "Kal-Toh/4",
+         "level" : 83
+      },
+      {
+         "item" : "Science Experiment/5",
+         "level" : 86
+      },
+      {
+         "item" : "Vulcan Meditation Lamp/5",
+         "level" : 90
+      },
+      {
+         "item" : "Sarek's Robes/4",
+         "level" : 90
+      },
+      {
+         "item" : "IDIC/4",
+         "level" : 93
+      },
+      {
+         "item" : "Sarek's Necklace/5",
+         "level" : 96
+      },
+      {
+         "item" : "Science Experiment/5",
+         "level" : 99
+      }
+   ],
    "Ambassador Spock" : [
       {
          "item" : "Civilian Diplomatic Clothing/0",
@@ -4941,19 +5103,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Security Clothing/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Spring Wine/3",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "3d Chess Set/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/3",
          "level" : 60
       },
       {
@@ -6152,6 +6314,168 @@
       },
       {
          "item" : "Orb Experience/5",
+         "level" : 99
+      }
+   ],
+   "Captain Sulu" : [
+      {
+         "item" : "Starfleet Command Uniform/0",
+         "level" : 1
+      },
+      {
+         "item" : "Authorization Code/1",
+         "level" : 2
+      },
+      {
+         "item" : "Phaser Type 2 (TMP)/1",
+         "level" : 4
+      },
+      {
+         "item" : "3D Chess Set/1",
+         "level" : 5
+      },
+      {
+         "item" : "item/5",
+         "level" : 10
+      },
+      {
+         "item" : "item/5",
+         "level" : 13
+      },
+      {
+         "item" : "item/5",
+         "level" : 16
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 23
+      },
+      {
+         "item" : "item/5",
+         "level" : 26
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 33
+      },
+      {
+         "item" : "item/5",
+         "level" : 36
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 43
+      },
+      {
+         "item" : "item/5",
+         "level" : 46
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 53
+      },
+      {
+         "item" : "item/5",
+         "level" : 56
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ],
@@ -7485,35 +7809,35 @@
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Hirogen Hunter Armor/2",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Optronic Data Core/2",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Hirogen Tetryon Rifle/2",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "EJ-7 Interlock/3",
          "level" : 30
       },
       {
-         "item" : "Hirogen Hunter Armor/2",
+         "item" : "Karr's Uniform/2",
          "level" : 30
       },
       {
-         "item" : "Optronic Data Core/2",
+         "item" : "Transporter Control Module/2",
          "level" : 33
       },
       {
-         "item" : "Hirogen Tetryon Rifle/2",
+         "item" : "Hirogen Relic/3",
          "level" : 36
       },
       {
-         "item" : "EJ-7 Interlock/3",
+         "item" : "20th Century Rifle/3",
          "level" : 40
       },
       {
@@ -11971,19 +12295,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Medical Desert Robes/2",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Field Rations/2",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "First Contact Protocol/2",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Manitoba Journal of Interplanetary Psychology/4",
          "level" : 99
       }
    ],
@@ -12475,19 +12799,19 @@
    ],
    "Doctor Chapel" : [
       {
-         "item" : "item/5",
+         "item" : "Starfleet Medicine Uniform (TOS)/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Detronal Scanner/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Laser Scalpel/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Autosuture/1",
          "level" : 5
       },
       {
@@ -13981,19 +14305,19 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Russell's Scrubs/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Hypospray/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Biological Sample Kit/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Russell's Research/3",
          "level" : 40
       },
       {
@@ -18143,6 +18467,168 @@
          "level" : 99
       }
    ],
+   "General Chang" : [
+      {
+         "item" : "Klingon Armor (TNG)/1",
+         "level" : 1
+      },
+      {
+         "item" : "Authorization Code/0",
+         "level" : 2
+      },
+      {
+         "item" : "Klingon PADD/1",
+         "level" : 4
+      },
+      {
+         "item" : "Security Codes/0",
+         "level" : 5
+      },
+      {
+         "item" : "Klingon Armor (TNG)/1",
+         "level" : 10
+      },
+      {
+         "item" : "Identification Code/1",
+         "level" : 13
+      },
+      {
+         "item" : "D'k tahg/1",
+         "level" : 16
+      },
+      {
+         "item" : "Priority One Message/1",
+         "level" : 20
+      },
+      {
+         "item" : "Klingon Armor (TNG)/1",
+         "level" : 20
+      },
+      {
+         "item" : "Klingon PADD/1",
+         "level" : 23
+      },
+      {
+         "item" : "Klingon House Crest/1",
+         "level" : 26
+      },
+      {
+         "item" : "Klingon Warnog/2",
+         "level" : 30
+      },
+      {
+         "item" : "Klingon Armor (TNG)/2",
+         "level" : 30
+      },
+      {
+         "item" : "Identification Code/2",
+         "level" : 33
+      },
+      {
+         "item" : "Tactical Alert/2",
+         "level" : 36
+      },
+      {
+         "item" : "General Chang's Eyepatch/2",
+         "level" : 40
+      },
+      {
+         "item" : "General Chang's Uniform/2",
+         "level" : 40
+      },
+      {
+         "item" : "Klingon Communicator/2",
+         "level" : 43
+      },
+      {
+         "item" : "D'k tahg/2",
+         "level" : 46
+      },
+      {
+         "item" : "Raktajino/3",
+         "level" : 50
+      },
+      {
+         "item" : "General Chang's Uniform/2",
+         "level" : 50
+      },
+      {
+         "item" : "Pattern Enhancer/2",
+         "level" : 53
+      },
+      {
+         "item" : "Gagh/4",
+         "level" : 56
+      },
+      {
+         "item" : "General Chang's Eyepatch/3",
+         "level" : 60
+      },
+      {
+         "item" : "General Chang's Uniform/3",
+         "level" : 60
+      },
+      {
+         "item" : "Novel/4",
+         "level" : 63
+      },
+      {
+         "item" : "Klingon Stole/4",
+         "level" : 66
+      },
+      {
+         "item" : "Tactical Alert/4",
+         "level" : 70
+      },
+      {
+         "item" : "General Chang's Uniform/3",
+         "level" : 70
+      },
+      {
+         "item" : "Gagh/4",
+         "level" : 73
+      },
+      {
+         "item" : "Identification Code/4",
+         "level" : 76
+      },
+      {
+         "item" : "General Chang's Eyepatch/4",
+         "level" : 80
+      },
+      {
+         "item" : "General Chang's Uniform/4",
+         "level" : 80
+      },
+      {
+         "item" : "Bloodwine/4",
+         "level" : 83
+      },
+      {
+         "item" : "Encoded Communique/4",
+         "level" : 86
+      },
+      {
+         "item" : "Klingon Disruptor Rifle/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
+         "level" : 99
+      }
+   ],
    "General Martok" : [
       {
          "item" : "Klingon Armor (TNG)/1",
@@ -19505,7 +19991,7 @@
          "level" : 40
       },
       {
-         "item" : "Civilian Scientist Dress/2",
+         "item" : "Civilian Scientist Dress/1",
          "level" : 40
       },
       {
@@ -19521,19 +20007,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Engineer Dress/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Hyperspanner (DS9)/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Self-sealing Stem Bolt/2",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Scientific Tasmanian/3",
          "level" : 60
       },
       {
@@ -19569,35 +20055,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Engineer Dress/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Parametric Scanner/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Scientific Tasmanian/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Self-sealing Stem Bolt/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Dress/2",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Toolbox/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Astrometric Chart/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Drafting Room 5/4",
          "level" : 99
       }
    ],
@@ -21919,19 +22405,19 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Torres's Outfit/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Phase Coil Resonator/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Toolbox/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Boxing Gloves/3",
          "level" : 40
       },
       {
@@ -21939,15 +22425,15 @@
          "level" : 40
       },
       {
-         "item" : "Phase Coil Resonator/2",
+         "item" : "Raktajino/2",
          "level" : 43
       },
       {
-         "item" : "Toolbox/2",
+         "item" : "Champagne/3",
          "level" : 46
       },
       {
-         "item" : "Boxing Gloves/3",
+         "item" : "D'k tahg/3",
          "level" : 50
       },
       {
@@ -22097,67 +22583,67 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Tricorder/1",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Science Experiment/2",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Prime Directive/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TMP)/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Astrometric Chart/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Biological Sample Kit/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/2",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Saavik's Padd/3",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Astrometric Chart/2",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Vulcan Meditation Lamp/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/2",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Kali-fal/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "IDIC/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Optronic Data Core/3",
          "level" : 80
       },
       {
@@ -22797,7 +23283,7 @@
          "level" : 70
       },
       {
-         "item" : "Combadge/4",
+         "item" : "Combadge (DS9)/4",
          "level" : 73
       },
       {
@@ -23101,19 +23587,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Science Uniform (TNG)/2",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Pattern Enhancer/2",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Daren's Charts/3",
          "level" : 70
       },
       {
@@ -24267,19 +24753,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Lursa's Armor/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Late Vintage Bloodwine/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Lursa's Disruptor Pistol/4",
          "level" : 90
       },
       {
@@ -25499,19 +25985,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Armor (TOS)/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Gravimetric Scanner/2",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/3",
          "level" : 50
       },
       {
@@ -30343,51 +30829,51 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Engineer Dress/1",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Soba Noodles/1",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "EPI Capacitor/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Medkit/3",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Engineer Dress/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Poker Cards/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Toolbox/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Vulcan Tea/3",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Dress/3",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Darts/3",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "ECS License/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Stethoscope/4",
          "level" : 60
       },
       {
@@ -36385,19 +36871,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Diplomacy Uniform (TOS)/1",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Saurian Brandy/0",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/1",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (TOS)/1",
          "level" : 70
       },
       {
