@@ -600,15 +600,15 @@
       "type" : "Space Battle"
    },
    "Iconian Insider/1" : {
-      "location" : "DE-E8",
+      "location" : "DE-M8",
       "skillcheck" : "68"
    },
    "Iconian Insider/2" : {
-      "location" : "DE-E8",
+      "location" : "DE-M8",
       "skillcheck" : "115"
    },
    "Iconian Insider/3" : {
-      "location" : "DE-E8",
+      "location" : "DE-M8",
       "skillcheck" : "165"
    },
    "Improvised Entry/1" : {

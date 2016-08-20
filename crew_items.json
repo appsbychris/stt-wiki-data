@@ -3531,19 +3531,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/1",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Ethnobotonay Experiment/2",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Kadis-Kot/2",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Tricorder Mark VII/2",
          "level" : 90
       },
       {
@@ -12619,19 +12619,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Kira's Disguise/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Kira's PADD/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Orb Experience/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Field Rations/5",
          "level" : 99
       }
    ],
@@ -13105,19 +13105,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Security Clothing/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Forensic Psychology Text/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Geordi's Hat/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Geordi's VISOR/5",
          "level" : 99
       }
    ],
@@ -18613,19 +18613,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "General Chang's Uniform/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Tactical Alert/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Warnog/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "General Chang's Eyepatch/5",
          "level" : 99
       }
    ],
@@ -19715,19 +19715,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Kim's Jersey/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Rifle/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Self-sealing Stem Bolt/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Writing PADD (TNG)/3",
          "level" : 80
       },
       {
@@ -22357,19 +22357,19 @@
    ],
    "Liaison Torres" : [
       {
-         "item" : "item/5",
+         "item" : "Civilian Command Clothing/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "First Contact Protocol/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Isomodulator/1",
          "level" : 5
       },
       {
@@ -26373,19 +26373,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Vest (TOS)/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Agonizer/4",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Archer's Communicator/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Micro-Optic Drill/5",
          "level" : 90
       },
       {
@@ -27119,19 +27119,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Hand Scanner/3",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Communicator/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Astrometric Chart/3",
          "level" : 50
       },
       {
@@ -29695,35 +29695,35 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/1",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Darts/1",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Rifle/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Pistol/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Tactical Alert/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Plasma Rifle/2",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Baton/3",
          "level" : 50
       },
       {
@@ -35583,7 +35583,7 @@
          "level" : 63
       },
       {
-         "item" : "Vedek Winn's Cowl/2",
+         "item" : "Winn's Cowl/2",
          "level" : 66
       },
       {
@@ -35611,7 +35611,7 @@
          "level" : 80
       },
       {
-         "item" : "Vedek Winn's Cowl/2",
+         "item" : "Winn's Cowl/2",
          "level" : 83
       },
       {

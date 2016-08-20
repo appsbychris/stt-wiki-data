@@ -370,6 +370,11 @@
       "Boy Scout Badge/2" : 1,
       "Subprocessor/2" : 2
    },
+   "Archer's Communicator/4" : {
+      "Archer's Communicator/3" : 1,
+      "NX-01 Cap/3" : 1,
+      "Subprocessor/3" : 2
+   },
    "Archer's Jacket/3" : {
       "Boy Scout Badge/2" : 2,
       "Starfleet Command Vest (ENT)/2" : 1
@@ -482,6 +487,12 @@
       "Alcohol/2" : 2,
       "Julian Bashir, Secret Agent Holonovel/1" : 1,
       "Poker Cards/1" : 1
+   },
+   "Baccarat/4" : {
+      "Baccarat/3" : 1,
+      "Casino Chip/3" : 1,
+      "Gold-Pressed Latinum/2" : 4,
+      "Item/3" : 1
    },
    "Backpack/3" : {
       "Backpack/2" : 2,
@@ -1788,7 +1799,7 @@
       "Ethical Subroutine/2" : 1
    },
    "Data's Tricorder/4" : {
-      "Data's Tricorder/3" : 2,
+      "Data's Tricorder/3" : 1,
       "Database (Panel)/3" : 4,
       "Poetry/3" : 1
    },
@@ -2084,6 +2095,10 @@
    "Doctor Chaotica's Viewscreen/4" : {
       "Desktop Monitor (TNG)/2" : 1,
       "Doctor Chaotica's Viewscreen/3" : 1
+   },
+   "Doctor Chaotica's Viewscreen/5" : {
+      "Doctor Chaotica's Viewscreen/4" : 2,
+      "Multidimensional Transporter Device/2" : 2
    },
    "Dom-Jot Cue/0" : {
       "Casing/0" : 1,
@@ -2751,6 +2766,11 @@
       "Polyalloy/2" : 2,
       "Tactical Alert/2" : 1
    },
+   "General Chang's Eyepatch/5" : {
+      "Clothing Pattern/4" : 4,
+      "General Chang's Eyepatch/4" : 1,
+      "Klingon PADD/4" : 1
+   },
    "General Chang's Uniform/2" : {
       "Clothing Pattern/0" : 4,
       "Klingon Armor (TNG)/1" : 1
@@ -2764,6 +2784,12 @@
       "Clothing Pattern/3" : 4,
       "General Chang's Uniform/3" : 1,
       "Klingon Warnog/3" : 1
+   },
+   "General Chang's Uniform/5" : {
+      "Clothing Pattern/4" : 4,
+      "General Chang's Eyepatch/4" : 1,
+      "General Chang's Uniform/4" : 1,
+      "Klingon Baldric/4" : 1
    },
    "Geordi's Hat/3" : {
       "Bowler/2" : 1,
@@ -3095,6 +3121,10 @@
       "Clothing Pattern/2" : 2,
       "Hockey Jersey/1" : 1
    },
+   "Hockey Jersey/3" : {
+      "Furs/3" : 2,
+      "Hockey Jersey/2" : 1
+   },
    "Hockey Skates/0" : {
       "Furs/0" : 2,
       "Polyalloy/0" : 1
@@ -3171,9 +3201,9 @@
       "Optronic Circuit/0" : 2
    },
    "Holo-imager/3" : {
-      " Casing/2" : 2,
-      " Optronic Circuit/2" : 2,
-      " Optronic Circuit/3" : 2
+      " Holo-imager/1" : 2,
+      " Isolinear Chips/2" : 2,
+      " Optronic Circuit/1" : 2
    },
    "Holo-imager/4" : {
       "Holo-imager/3" : 2,
@@ -3848,6 +3878,19 @@
       "Civilian Scientist Clothing/1" : 1,
       "Combadge (ALT)/2" : 1
    },
+   "Kim's Jersey/3" : {
+      "Furs/0" : 2,
+      "Hockey Jersey/3" : 1
+   },
+   "Kim's Skates/3" : {
+      "Hockey Skates/3" : 1,
+      "Terran Knife/1" : 1
+   },
+   "Kim's Stick/3" : {
+      "Hockey Stick/3" : 1,
+      "Holoprogram/1" : 1,
+      "Polyalloy/2" : 1
+   },
    "Kira's Disguise/3" : {
       "Civilian Disguise/2" : 2,
       "Furs/2" : 1,
@@ -3857,6 +3900,11 @@
       "Cardassian Disruptor Pistol/0" : 1,
       "Clothing Pattern/3" : 1,
       "Kira's Disguise/3" : 1
+   },
+   "Kira's Disguise/5" : {
+      "Cardassian Communicator/2" : 1,
+      "Cardassian Disruptor Pistol/1" : 1,
+      "Kira's Disguise/4" : 2
    },
    "Kira's Earring/3" : {
       "Bajoran Earring/3" : 1,
@@ -4281,6 +4329,11 @@
    "MACO Uniform/1" : {
       "Clothing Pattern/0" : 2,
       "MACO Uniform/0" : 1,
+      "Plasma Rifle/0" : 1
+   },
+   "MACO Uniform/2" : {
+      "Clothing Pattern/0" : 2,
+      "MACO Uniform/1" : 1,
       "Plasma Rifle/0" : 1
    },
    "Maco Baton/1" : {
@@ -4710,6 +4763,21 @@
       "Earl Grey Tea/3" : 1,
       "Model Enterprise/3" : 2,
       "Prime Directive/3" : 1
+   },
+   "Money's Baton/3" : {
+      "Identification Code/2" : 1,
+      "Maco Baton/2" : 1,
+      "NX-01 Cap/1" : 2
+   },
+   "Money's Pistol/2" : {
+      "EM Pistol/2" : 1,
+      "Emitter Crystal/1" : 2,
+      "Power Cell/1" : 2
+   },
+   "Money's Rifle/2" : {
+      "Emitter Crystal/2" : 2,
+      "Expansion Module/2" : 2,
+      "Particle Rifle/1" : 2
    },
    "Mora's Earring/2" : {
       "Bajoran Earring/2" : 1,
@@ -8374,15 +8442,10 @@
       "Bajoran Earring/0" : 1,
       "Clothing Pattern/0" : 4
    },
-   "Vedek Winn's Cowl/2" : {
-      "Clothing Pattern/1" : 3,
-      "Vedek Cowl/2" : 1,
-      "Will of the Prophets Text/1" : 1
-   },
    "Vedek Winn's Cowl/4" : {
       "Orb Experience/3" : 1,
       "Spring Wine/1" : 1,
-      "Vedek Winn's Cowl/2" : 1
+      "Winn's Cowl/2" : 1
    },
    "Velocity Holoprogram/2" : {
       "Holoprogram/1" : 1,
@@ -8582,6 +8645,11 @@
       "Incense/2" : 2,
       "Orb Experience/2" : 1,
       "Will of the Prophets Text/2" : 1
+   },
+   "Winn's Cowl/2" : {
+      "Clothing Pattern/1" : 3,
+      "Vedek Cowl/2" : 1,
+      "Will of the Prophets Text/1" : 1
    },
    "Winn's Earring/3" : {
       "Bajoran Earring/3" : 1,
