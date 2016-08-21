@@ -72,12 +72,15 @@
       "type" : "Space Battle"
    },
    "A Question of Rights/1" : {
+      "location" : "CF-M2",
       "skillcheck" : "70"
    },
    "A Question of Rights/2" : {
+      "location" : "CF-M2",
       "skillcheck" : "205"
    },
    "A Question of Rights/3" : {
+      "location" : "CF-M2",
       "skillcheck" : "305"
    },
    "A Show of Force/1" : {
@@ -285,12 +288,15 @@
       "skillcheck" : "290"
    },
    "Breakwater/1" : {
+      "location" : "CF-M5",
       "skillcheck" : "135"
    },
    "Breakwater/2" : {
+      "location" : "CF-M5",
       "skillcheck" : "270"
    },
    "Breakwater/3" : {
+      "location" : "CF-M5",
       "skillcheck" : "380"
    },
    "By Hook Or By Crook/1" : {
@@ -438,12 +444,15 @@
       "skillcheck" : "139"
    },
    "Down Once More/1" : {
+      "location" : "CF-M1",
       "skillcheck" : "55"
    },
    "Down Once More/2" : {
+      "location" : "CF-M1",
       "skillcheck" : "190"
    },
    "Down Once More/3" : {
+      "location" : "CF-M1",
       "skillcheck" : "290"
    },
    "Family Squabble/1" : {
@@ -579,12 +588,15 @@
       "skillcheck" : "290"
    },
    "Hot Pursuit/1" : {
+      "location" : "E2-M7",
       "type" : "Space Battle"
    },
    "Hot Pursuit/2" : {
+      "location" : "E2-M7",
       "type" : "Space Battle"
    },
    "Hot Pursuit/3" : {
+      "location" : "E2-M7",
       "type" : "Space Battle"
    },
    "Hounded/1" : {
@@ -975,12 +987,15 @@
       "skillcheck" : "200"
    },
    "Pirate Problems/1" : {
+      "location" : "CT-M3",
       "type" : "Space Battle"
    },
    "Pirate Problems/2" : {
+      "location" : "CT-M3",
       "type" : "Space Battle"
    },
    "Pirate Problems/3" : {
+      "location" : "CT-M3",
       "type" : "Space Battle"
    },
    "Pretense of Mercy/1" : {
@@ -1221,12 +1236,15 @@
       "skillcheck" : "1473"
    },
    "Talarian Coup/1" : {
+      "location" : "CF-M3",
       "skillcheck" : "85"
    },
    "Talarian Coup/2" : {
+      "location" : "CF-M3",
       "skillcheck" : "215"
    },
    "Talarian Coup/3" : {
+      "location" : "CF-M3",
       "skillcheck" : "325"
    },
    "Talk Less, Smile More/1" : {
@@ -1275,12 +1293,15 @@
       "type" : "Space Battle"
    },
    "The Coming Storm/1" : {
+      "location" : "CF-M4",
       "skillcheck" : "100"
    },
    "The Coming Storm/2" : {
+      "location" : "CF-M4",
       "skillcheck" : "245"
    },
    "The Coming Storm/3" : {
+      "location" : "CF-M4",
       "skillcheck" : "345"
    },
    "The First Battle/1" : {
