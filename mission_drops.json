@@ -1200,13 +1200,13 @@
    "Indiscriminate Mind/1" : {
       "cost" : "4",
       "item" : {
-         "Clothing Pattern/0" : 405,
-         "Combadge (DS9)/0" : 220,
-         "Microconnector/0" : 392,
-         "Novel/1" : 58,
-         "Quantum Chronometer/0" : 119
+         "Clothing Pattern/0" : 442,
+         "Combadge (DS9)/0" : 241,
+         "Microconnector/0" : 425,
+         "Novel/1" : 65,
+         "Quantum Chronometer/0" : 126
       },
-      "runs" : 398
+      "runs" : 433
    },
    "Indiscriminate Mind/2" : {
       "cost" : "8",
@@ -1536,12 +1536,12 @@
       "cost" : "14",
       "item" : {
          "Alcohol/3" : 9,
-         "Backpack/2" : 39,
-         "Casing/2" : 76,
+         "Backpack/2" : 40,
+         "Casing/2" : 78,
          "Casing/4" : 1,
-         "Replicator Ration/1" : 160
+         "Replicator Ration/1" : 163
       },
-      "runs" : 95
+      "runs" : 97
    },
    "Mutual Assured Destruction/3" : {
       "cost" : "20",
@@ -1598,14 +1598,14 @@
    "No Returns Accepted/3" : {
       "cost" : "22",
       "item" : {
-         "Emitter Crystal/2" : 62,
-         "Gold-Pressed Latinum/3" : 22,
-         "Incense/2" : 75,
+         "Emitter Crystal/2" : 76,
+         "Gold-Pressed Latinum/3" : 26,
+         "Incense/2" : 85,
          "Incense/4" : 8,
          "Starfleet Uniform Pattern/4" : 3,
-         "{{Item|Val Jean Schematic}}/0" : 57
+         "{{Item|Val Jean Schematic}}/0" : 63
       },
-      "runs" : 63
+      "runs" : 73
    },
    "Not A Drop to Drink/1" : {
       "cost" : "4",
@@ -2687,12 +2687,12 @@
    "Warranted Pursuit/1" : {
       "cost" : "8",
       "item" : {
-         "Microconnector/0" : 153,
-         "Novel/1" : 59,
-         "Sensor/2" : 33,
-         "Subprocessor/1" : 127
+         "Microconnector/0" : 154,
+         "Novel         /1" : 60,
+         "Sensor        /2" : 33,
+         "Subprocessor  /1" : 128
       },
-      "runs" : 124
+      "runs" : 125
    },
    "Warranted Pursuit/2" : {
       "cost" : "12",
