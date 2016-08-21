@@ -608,6 +608,26 @@
       "Orb Experience/2" : 1,
       "Subprocessor/2" : 3
    },
+   "Barclay Program 15/2" : {
+      "Holoprogram/1" : 1,
+      "Isolinear Chips/1" : 2,
+      "Security Codes/1" : 1
+   },
+   "Barclay Program 15/3" : {
+      "Barclay Program 15/2" : 1,
+      "Barclay's Sword/1" : 1,
+      "Isolinear Chips/2" : 2
+   },
+   "Barclay Program 9/2" : {
+      "Holoprogram/1" : 1,
+      "Isolinear Chips/1" : 2,
+      "Psychology Text/1" : 1
+   },
+   "Barclay Program 9/3" : {
+      "Alpha-wave Inducer/2" : 1,
+      "Barclay Program 9/2" : 1,
+      "Isolinear Chips/2" : 2
+   },
    "Barclay's Sword/1" : {
       "Polyalloy/0" : 2,
       "Replicator Ration/0" : 2,
@@ -1181,6 +1201,36 @@
       "Augment Icon/3" : 1,
       "Ceti Eel/4" : 1
    },
+   "Chakotay's Helmet/3" : {
+      "GI Helmet/3" : 1,
+      "Maquis Pistol/2" : 1,
+      "War Report/1" : 2
+   },
+   "Chakotay's Medicine Bundle/3" : {
+      "Maquis Emblem/2" : 2,
+      "Medicine Bundle/2" : 2,
+      "Psychology Text/2" : 2
+   },
+   "Chakotay's Medicine Bundle/4" : {
+      "Chakotay's Tattoo/3" : 1,
+      "Incense/3" : 4,
+      "Medicine Bundle/3" : 2
+   },
+   "Chakotay's Outfit/3" : {
+      "Maquis Command Outfit/2" : 2,
+      "Maquis Emblem/2" : 1,
+      "Maquis Security Outfit/2" : 1
+   },
+   "Chakotay's Outfit/4" : {
+      "Chakotay's Outfit/3" : 2,
+      "Chakotay's Tattoo/3" : 1,
+      "Maquis Pistol/3" : 1
+   },
+   "Chakotay's Rifle/3" : {
+      "20th Century Rifle/3" : 1,
+      "Casing/2" : 2,
+      "Maquis Emblem/1" : 1
+   },
    "Chakotay's Tattoo/3" : {
       "Incense/2" : 4,
       "Maquis Emblem/2" : 2,
@@ -1695,6 +1745,20 @@
       "Clothing Pattern/3" : 2,
       "Crusher's Covert Ops Outfit/3" : 2,
       "Magnasite-Nitron Tablet/3" : 1
+   },
+   "Culluh's Furs/2" : {
+      "Furs/2" : 1,
+      "Kazon Disruptor Pistol/1" : 1,
+      "Nistrim Furs/1" : 1
+   },
+   "Culluh's Furs/3" : {
+      "Culluh's Furs/2" : 2,
+      "Furs/2" : 2
+   },
+   "Culluh's Furs/4" : {
+      "Culluh's Furs/3" : 1,
+      "Furs/3" : 2,
+      "Kazon Disruptor Rifle/3" : 1
    },
    "D'k tahg/2" : {
       "D'k tahg/1" : 2
@@ -3777,6 +3841,11 @@
       "Kazon Disruptor Pistol/2" : 2,
       "Power Cell/2" : 1
    },
+   "Kazon Disruptor Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "Kazon Disruptor Pistol/3" : 2,
+      "Power Cell/3" : 2
+   },
    "Kazon Disruptor Rifle/0" : {
       "Compression Rifle/0" : 1,
       "Emitter Crystal/0" : 1,
@@ -3790,6 +3859,16 @@
       "Emitter Crystal/1" : 2,
       "Expansion Module/2" : 1,
       "Kazon Disruptor Rifle/1" : 2
+   },
+   "Kazon Disruptor Rifle/3" : {
+      "Emitter Crystal/2" : 2,
+      "Expansion Module/2" : 2,
+      "Kazon Disruptor Rifle/2" : 1
+   },
+   "Kazon Disruptor Rifle/4" : {
+      "Emitter Crystal/3" : 1,
+      "Expansion Module/3" : 1,
+      "Kazon Disruptor Rifle/3" : 2
    },
    "Kazon Furs/2" : {
       "Furs/1" : 2,
