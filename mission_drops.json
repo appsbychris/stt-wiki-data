@@ -257,7 +257,7 @@
          "Science Experiment/1" : 28,
          "Spices/1" : 6
       },
-      "runs" : 137
+      "runs" : 149
    },
    "A Tale of Forgotten Lore/3" : {
       "cost" : "8",
@@ -306,13 +306,13 @@
       "cost" : "10",
       "item" : {
          "Authorization Code/2" : 21,
-         "Interlink/3" : 19,
-         "Isolinear Chips/1" : 585,
-         "Microconnector/2" : 53,
-         "Spices/2" : 60,
-         "Starfleet Test Cylinder/0" : 33
+         "Interlink/3" : 20,
+         "Isolinear Chips/1" : 614,
+         "Microconnector/2" : 56,
+         "Spices/2" : 62,
+         "Starfleet Test Cylinder/0" : 34
       },
-      "runs" : 257
+      "runs" : 269
    },
    "Arms Race/2" : {
       "cost" : "14",
@@ -1105,13 +1105,13 @@
    "Hounded/1" : {
       "cost" : "16",
       "item" : {
-         "Backpack/2" : 118,
-         "Casing/3" : 34,
+         "Backpack/2" : 126,
+         "Casing/3" : 35,
          "Casing/4" : 16,
-         "Emitter Crystal/0" : 149,
-         "Replicator Ration/1" : 169
+         "Emitter Crystal/0" : 153,
+         "Replicator Ration/1" : 183
       },
-      "runs" : 162
+      "runs" : 171
    },
    "Hounded/2" : {
       "cost" : "22",
@@ -1463,6 +1463,10 @@
       },
       "runs" : 54
    },
+   "Material Assistance/1" : {
+      "cost" : "16",
+      "runs" : "6"
+   },
    "Moriarty's Deadline/1" : {
       "cost" : "10",
       "item" : {
@@ -1691,13 +1695,13 @@
    "On Their Heels/1" : {
       "cost" : "4",
       "item" : {
-         "Clothing Pattern/0" : 838,
-         "Starfleet Uniform (ENT)/0" : 217,
-         "Starfleet Uniform (VOY)/0" : 199,
-         "TR-580 Medical Tricorder/0" : 235,
-         "Writing PADD (TNG)/1" : 77
+         "Clothing Pattern/0" : 860,
+         "Starfleet Uniform (ENT)/0" : 222,
+         "Starfleet Uniform (VOY)/0" : 203,
+         "TR-580 Medical Tricorder/0" : 239,
+         "Writing PADD (TNG)/1" : 78
       },
-      "runs" : 522
+      "runs" : 534
    },
    "On Their Heels/2" : {
       "cost" : "6",
@@ -1713,13 +1717,13 @@
    "On Their Heels/3" : {
       "cost" : "10",
       "item" : {
-         "Expansion Module/2" : 6,
-         "Microconnector/2" : 7,
-         "Pattern Enhancer/2" : 10,
-         "Relay/1" : 135,
-         "Sensor/3" : 4
+         "Expansion Module/2" : 7,
+         "Microconnector/2" : 8,
+         "Pattern Enhancer/2" : 11,
+         "Relay/1" : 148,
+         "Sensor/3" : 6
       },
-      "runs" : 54
+      "runs" : 60
    },
    "One Future Ends/3" : {
       "cost" : "16",
@@ -1963,12 +1967,12 @@
    "Race to the Finish/1" : {
       "cost" : "12",
       "item" : {
-         "Alcohol/2" : 23,
-         "Database (Panel)/0" : 145,
-         "Polyalloy/3" : 13,
-         "Replicator Ration/1" : 149
+         "Alcohol/2" : 26,
+         "Database (Panel)/0" : 172,
+         "Polyalloy/3" : 15,
+         "Replicator Ration/1" : 171
       },
-      "runs" : 110
+      "runs" : 128
    },
    "Race to the Finish/2" : {
       "cost" : "16",
@@ -2415,11 +2419,11 @@
       "cost" : "8",
       "item" : {
          "Alcohol/3" : 3,
-         "Casing/0" : 41,
-         "Optronic Circuit/1" : 50,
-         "Relay/2" : 17
+         "Casing/0" : 52,
+         "Optronic Circuit/1" : 58,
+         "Relay/2" : 19
       },
-      "runs" : 37
+      "runs" : 44
    },
    "The Rings of Time/1" : {
       "cost" : "14",

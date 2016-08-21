@@ -3337,6 +3337,16 @@
    "Hoverball/4" : {
       "Hoverball/3" : 2
    },
+   "Hugh's Armature/3" : {
+      "Combadge/2" : 1,
+      "Security Codes/2" : 2,
+      "Servo-armature/3" : 1
+   },
+   "Hugh's Nanoprobes/3" : {
+      "Borg Nanoprobes/3" : 1,
+      "Engineering Lesson/1" : 1,
+      "Microconnector/1" : 2
+   },
    "Human Q's Clothing/2" : {
       "Civilian Engineer Clothing/1" : 1,
       "Civilian Scientist Clothing/1" : 1
@@ -3891,6 +3901,10 @@
       "Holoprogram/1" : 1,
       "Polyalloy/2" : 1
    },
+   "Kim's Stick/4" : {
+      "Holoprogram/2" : 1,
+      "Kim's Stick/3" : 2
+   },
    "Kira's Disguise/3" : {
       "Civilian Disguise/2" : 2,
       "Furs/2" : 1,
@@ -4170,6 +4184,11 @@
       "Expansion Module/2" : 2,
       "Klingon Disruptor Pistol/2" : 2,
       "Klingon Disruptor Rifle/2" : 1
+   },
+   "Kruge's Stole/3" : {
+      "Clothing Pattern/2" : 4,
+      "Klingon Disruptor Pistol/2" : 1,
+      "Klingon Stole/2" : 1
    },
    "Kukalaka/3" : {
       "Autosuture/2" : 1,
