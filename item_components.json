@@ -2826,6 +2826,11 @@
       "Polyalloy/2" : 2,
       "Tactical Alert/2" : 1
    },
+   "General Chang's Eyepatch/4" : {
+      "Clothing Pattern/3" : 3,
+      "General Chang's Eyepatch/3" : 1,
+      "Klingon Warnog/3" : 1
+   },
    "General Chang's Eyepatch/5" : {
       "Clothing Pattern/4" : 4,
       "General Chang's Eyepatch/4" : 1,
@@ -3361,6 +3366,14 @@
    "House Quark Crest/1" : {
       "Klingon House Crest/1" : 1,
       "Rules of Acquisition/0" : 2
+   },
+   "House Quark Crest/2" : {
+      "House Quark Crest/1" : 2,
+      "Tongo Deck/1" : 1
+   },
+   "House Quark Crest/3" : {
+      "House Quark Crest/2" : 2,
+      "Latinum Tooth Sharpener/2" : 2
    },
    "House Worf Crest/3" : {
       "Gagh/0" : 1,
@@ -3967,9 +3980,17 @@
       "Furs/0" : 2,
       "Hockey Jersey/3" : 1
    },
+   "Kim's Jersey/4" : {
+      "Furs/1" : 3,
+      "Kim's Jersey/3" : 2
+   },
    "Kim's Skates/3" : {
       "Hockey Skates/3" : 1,
       "Terran Knife/1" : 1
+   },
+   "Kim's Skates/4" : {
+      "Kim's Skates/3" : 2,
+      "Terran Knife/2" : 2
    },
    "Kim's Stick/3" : {
       "Hockey Stick/3" : 1,
@@ -4180,6 +4201,11 @@
       "Gagh/0" : 1,
       "Klingon Stole/0" : 2
    },
+   "Klingon Stole/2" : {
+      "Clothing Pattern/1" : 3,
+      "Klingon Stole/1" : 1,
+      "Klingon Warnog/0" : 1
+   },
    "Klingon Warnog/3" : {
       "Alcohol/2" : 2,
       "D'k tahg/1" : 2,
@@ -4254,6 +4280,11 @@
    "Kotra/4" : {
       "Central Command Insignia/3" : 1,
       "Kotra/3" : 1
+   },
+   "Kruge's Communicator/3" : {
+      "Gagh/2" : 1,
+      "Klingon Communicator/2" : 1,
+      "Mek'leth/2" : 2
    },
    "Kruge's Pistol/3" : {
       "Expansion Module/2" : 2,
@@ -4335,6 +4366,10 @@
    },
    "Leola Root/1" : {
       "Leola Root/0" : 2,
+      "Spices/1" : 2
+   },
+   "Leola Root/2" : {
+      "Leola Root/1" : 1,
       "Spices/1" : 2
    },
    "Les Miserables Novel/2" : {
@@ -4550,6 +4585,16 @@
       "Maquis Pistol/1" : 1,
       "Maquis Security Outfit/1" : 1
    },
+   "Marcus's Research/2" : {
+      "Database (Panel)/0" : 4,
+      "Ethnobotonay Experiment/1" : 2,
+      "Tricorder/1" : 1
+   },
+   "Marcus's Tricorder/2" : {
+      "Casing/0" : 2,
+      "Identification Code/0" : 1,
+      "Tricorder/2" : 1
+   },
    "Mass Spectrometer/1" : {
       "Mass Spectrometer/0" : 2
    },
@@ -4693,8 +4738,17 @@
    "Medical Scanner (Logical)/1" : {
       "Medical Scanner (Logical)/0" : 2
    },
+   "Medical Scanner (Logical)/2" : {
+      "Medical Scanner (Logical)/1" : 2
+   },
    "Medical Scanner (Popular)/1" : {
       "Medical Scanner (Popular)/0" : 2
+   },
+   "Medical Scanner (Popular)/2" : {
+      "Medical Scanner (Popular)/1" : 2
+   },
+   "Medical Scanner (Popular)/3" : {
+      "Medical Scanner (Popular)/2" : 2
    },
    "Medical Tunic (TNG)/0" : {
       "Starfleet Uniform Pattern/0" : 1,
@@ -4956,15 +5010,15 @@
       "First Contact Protocol/2" : 1,
       "NX-01 Cap/2" : 2
    },
-   "Neelix's Suit/3" : {
+   "Neelix's Suit/2" : {
       "Civilian Diplomatic Clothing/2" : 1,
       "First Contact Protocol/1" : 1,
       "Leola Root/0" : 1
    },
-   "Neelix's Suit/4" : {
+   "Neelix's Suit/3" : {
       "Astrometric Chart/1" : 1,
       "Jibalian Spices/1" : 1,
-      "Neelix's Suit/3" : 1
+      "Neelix's Suit/2" : 1
    },
    "Neural Processor/0" : {
       "Isolinear Chips/0" : 1,
@@ -5948,6 +6002,10 @@
    "Quantum Phase Regulator/2" : {
       "Quantum Phase Regulator/1" : 2
    },
+   "Quark's Bat'leth/3" : {
+      "Bat'leth/2" : 2,
+      "Tongo Deck/2" : 2
+   },
    "Radiation Collector/1" : {
       "Radiation Collector/0" : 2
    },
@@ -6401,6 +6459,11 @@
       "Sensor/2" : 2,
       "The Teaching of Surak Book/2" : 1,
       "Writing PADD (TOS)/2" : 1
+   },
+   "Saavik's Padd/4" : {
+      "Saavik's Padd/3" : 1,
+      "Science Experiment/3" : 1,
+      "Sensor/3" : 2
    },
    "Saddle/1" : {
       "Furs/0" : 2,
@@ -7008,6 +7071,16 @@
       "IDIC/1" : 1,
       "Spock's Lirpa/3" : 1,
       "The Teaching of Surak Book/2" : 1
+   },
+   "Spock's Rifle/3" : {
+      "Casing/2" : 2,
+      "Power Cell/2" : 2,
+      "Romulan Disruptor Rifle/2" : 2
+   },
+   "Spock's Rifle/4" : {
+      "Power Cell/3" : 2,
+      "Romulan Disruptor Rifle/3" : 1,
+      "Spock's Rifle/3" : 1
    },
    "Spock's Robes/2" : {
       "Sweat Band/1" : 1,
@@ -8569,6 +8642,16 @@
       "Interlink/0" : 2,
       "Relay/0" : 2,
       "Subprocessor/0" : 2
+   },
+   "Virtual Control Device/2" : {
+      "Relay/1" : 2,
+      "Subprocessor/1" : 2,
+      "Virtual Control Device/1" : 2
+   },
+   "Virtual Control Device/3" : {
+      "Relay/2" : 2,
+      "Subprocessor/2" : 2,
+      "Virtual Control Device/2" : 2
    },
    "Virtual Display Device/1" : {
       "Casing/1" : 2,

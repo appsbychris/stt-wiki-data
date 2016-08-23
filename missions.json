@@ -1425,13 +1425,16 @@
       "skillcheck" : "119"
    },
    "Thy Enemy's Secrets/1" : {
-      "location" : "E5-M18A"
+      "location" : "E5-M18A",
+      "skillcheck" : "200"
    },
    "Thy Enemy's Secrets/2" : {
-      "location" : "E5-M18A"
+      "location" : "E5-M18A",
+      "skillcheck" : "740"
    },
    "Thy Enemy's Secrets/3" : {
-      "location" : "E5-M18A"
+      "location" : "E5-M18A",
+      "skillcheck" : "1256"
    },
    "Too Greedily and Too Deep/1" : {
       "location" : "E6-M3",

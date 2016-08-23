@@ -9347,19 +9347,19 @@
          "level" : 70
       },
       {
-         "item" : "Starfleet Science Uniform/2",
+         "item" : "Starfleet Science Uniform (TOS)/2",
          "level" : 70
       },
       {
-         "item" : "Laser Scalpel/2",
+         "item" : "Hyperspanner (DS9)/2",
          "level" : 73
       },
       {
-         "item" : "Maddox's Research/3",
+         "item" : "Combadge (DS9)/3",
          "level" : 76
       },
       {
-         "item" : "Psychology Text/3",
+         "item" : "Spectral Micrometer/3",
          "level" : 80
       },
       {
@@ -12815,51 +12815,51 @@
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Medicine Uniform (TOS)/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "Bone-Knitting Laser/1",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Prime Directive/1",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Scalpel/1",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Medical Tunic/2",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Poetry/2",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Neurocortical Monitor/1",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TMP)/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Laser Scalpel/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Medkit/1",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Tricorder/2",
          "level" : 40
       },
       {
@@ -12879,19 +12879,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Scalpel/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Poetry/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Tricorder/2",
          "level" : 60
       },
       {
@@ -14531,19 +14531,15 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
-         "level" : 70
-      },
-      {
-         "item" : "item/5",
+         "item" : "Medkit/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "First Contact Protocol/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Scalpel/4",
          "level" : 80
       },
       {
@@ -15547,7 +15543,7 @@
          "level" : 96
       },
       {
-         "item" : "Desktop Monitor/3",
+         "item" : "Desktop Monitor (ENT)/3",
          "level" : 99
       }
    ],
@@ -19747,19 +19743,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Kim's Jersey/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Compression Rifle/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Kim's Skates/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 3 (DS9)/4",
          "level" : 99
       }
    ],
@@ -22231,15 +22227,15 @@
          "level" : 20
       },
       {
-         "item" : "Virtual Control Device/1",
+         "item" : "Holoprogram/1",
          "level" : 23
       },
       {
-         "item" : "D'k tahg/1",
+         "item" : "Ferengi PADD/1",
          "level" : 26
       },
       {
-         "item" : "House Quark Crest/2",
+         "item" : "Bat'leth/2",
          "level" : 30
       },
       {
@@ -22647,19 +22643,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Neural Processor/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Saavik's Padd/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Biological Sample Kit/4",
          "level" : 90
       },
       {
@@ -25061,11 +25057,11 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Lwaxana's Gown/2",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Writing PADD (TNG)/2",
          "level" : 73
       },
       {
@@ -25073,39 +25069,39 @@
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (TNG)/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Lwaxana's Gown/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Novel/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Andorian Ale/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Saurian Brandy/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Lwaxana's Gown/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Andorian Ale/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Champagne/4",
          "level" : 99
       }
    ],
@@ -30569,19 +30565,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Engineering Uniform (ENT)/2",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Desealing Rod/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Son of Frankenstein Movie/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Uhura's Phaser/3",
          "level" : 80
       },
       {
@@ -31249,19 +31245,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Kim's Jacket/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Submicron Scanner/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Temporal Prime Directive/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Kim's Calculations/5",
          "level" : 99
       }
    ],
