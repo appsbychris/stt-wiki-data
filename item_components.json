@@ -437,7 +437,8 @@
       "Ceti Eel/1" : 1
    },
    "Authorization Code/3" : {
-      "Authorization Code/2" : 2
+      "Authorization Code/2" : 1,
+      "Database/2" : 3
    },
    "Authorization Code/4" : {
       "Authorization Code/3" : 2
@@ -816,6 +817,11 @@
       "Boombox/3" : 1,
       "Power Cell/4" : 2,
       "Relay/4" : 1
+   },
+   "Boothby's Trowel/2" : {
+      "Identification Code/1" : 1,
+      "Psychology Text/1" : 1,
+      "Trowel/1" : 1
    },
    "Borg Cortical Node/0" : {
       "Interlink/0" : 2,
@@ -1497,6 +1503,11 @@
       "Communicator (TOS)/2" : 1,
       "Database (Panel)/3" : 2
    },
+   "Code 7-10/4" : {
+      "Authorization Code/3" : 1,
+      "Code 7-10/3" : 1,
+      "Security Codes/3" : 1
+   },
    "Coffee Substitute/1" : {
       "Coffee Substitute/0" : 2,
       "Spices/0" : 4
@@ -2016,7 +2027,8 @@
       "Subprocessor/1" : 1
    },
    "Desktop Monitor (TNG)/3" : {
-      "Desktop Monitor (TNG)/2" : 2
+      "Desktop Monitor (TNG)/2" : 2,
+      "Expansion Module/2" : 1
    },
    "Desktop Monitor (TNG)/4" : {
       "Desktop Monitor (TNG)/3" : 2,
@@ -2164,6 +2176,12 @@
       "Doctor Chaotica's Viewscreen/4" : 2,
       "Multidimensional Transporter Device/2" : 2
    },
+   "Dolim's Pistol/2" : {
+      "/" : 1,
+      "Identification Code/1" : 1,
+      "Power Cell/1" : 2,
+      "Xindi Pistol/2" : 1
+   },
    "Dom-Jot Cue/0" : {
       "Casing/0" : 1,
       "Interlink/0" : 1
@@ -2270,17 +2288,19 @@
       "EJ-7 Interlock/1" : 2
    },
    "EM Pistol/1" : {
-      "Casing/0" : 1,
+      "Casing/0" : 3,
       "EM Pistol/0" : 1
    },
    "EM Pistol/2" : {
-      "EM Pistol/1" : 2
+      "EM Pistol/1" : 1,
+      "Expansion Module/1" : 2
    },
    "EM Pistol/3" : {
       "EM Pistol/2" : 2
    },
    "EM Pistol/4" : {
-      "EM Pistol/3" : 2
+      "EM Pistol/3" : 2,
+      "Emitter Crystal/3" : 2
    },
    "EPI Capacitor/1" : {
       "EPI Capacitor/0" : 2
@@ -2312,13 +2332,16 @@
       "Power Cell/2" : 1
    },
    "Emergency Transporter Armband/1" : {
-      "Emergency Transporter Armband/0" : 2
+      "Emergency Transporter Armband/0" : 1,
+      "Microconnector/0" : 3
    },
    "Emergency Transporter Armband/2" : {
-      "Emergency Transporter Armband/1" : 2
+      "Emergency Transporter Armband/1" : 1,
+      "Relay/1" : 2
    },
    "Emergency Transporter Armband/3" : {
-      "Emergency Transporter Armband/2" : 2
+      "Casing/2" : 1,
+      "Emergency Transporter Armband/2" : 1
    },
    "Emergency Transporter Armband/4" : {
       "Emergency Transporter Armband/3" : 2
@@ -2852,7 +2875,6 @@
    },
    "General Chang's Uniform/5" : {
       "Clothing Pattern/4" : 4,
-      "General Chang's Eyepatch/4" : 1,
       "General Chang's Uniform/4" : 1,
       "Klingon Baldric/4" : 1
    },
@@ -2860,6 +2882,11 @@
       "Bowler/2" : 1,
       "Medical Lesson/2" : 1,
       "Novel/1" : 1
+   },
+   "Geordi's Hat/4" : {
+      "Clothing Pattern/3" : 2,
+      "Geordi's Hat/3" : 2,
+      "Scandal in Bohemia Holonovel/2" : 1
    },
    "Geordi's Hyperspanner/2" : {
       "Casing/1" : 2,
@@ -2973,6 +3000,11 @@
       "Andorian Ale/3" : 1,
       "Golf Club/3" : 1,
       "Replicator Ration/3" : 1
+   },
+   "Gowron's D'k tagh/4" : {
+      "D'k tahg/3" : 2,
+      "House Gowron Crest/4" : 1,
+      "Klingon Warnog/0" : 1
    },
    "Grand Nagus Staff/1" : {
       "Ferengi PADD/0" : 1,
@@ -3286,7 +3318,14 @@
       "Power Cell/1" : 1
    },
    "Holocommunicator/3" : {
-      "Holocommunicator/2" : 2
+      "Holocommunicator/2" : 2,
+      "Optronic Circuit/2" : 1,
+      "Power Cell/2" : 2
+   },
+   "Holocommunicator/4" : {
+      "Holocommunicator/3" : 2,
+      "Optronic Circuit/3" : 2,
+      "Power Cell/3" : 2
    },
    "Homing Transponder/2" : {
       "Cortical Monitor/1" : 1,
@@ -3345,6 +3384,11 @@
       "House Duras Knife/2" : 1,
       "Polyalloy/2" : 1
    },
+   "House Duras Knife/4" : {
+      "House Duras Crest/3" : 1,
+      "House Duras Knife/3" : 1,
+      "Polyalloy/3" : 2
+   },
    "House Gowron Crest/4" : {
       "D'k tahg/3" : 1,
       "Gagh/3" : 1,
@@ -3374,6 +3418,10 @@
    "House Quark Crest/3" : {
       "House Quark Crest/2" : 2,
       "Latinum Tooth Sharpener/2" : 2
+   },
+   "House Quark Crest/4" : {
+      "Ferengi Trade By-Laws/3" : 1,
+      "House Quark Crest/3" : 2
    },
    "House Worf Crest/3" : {
       "Gagh/0" : 1,
@@ -4191,6 +4239,11 @@
       "Isolinear Chips/2" : 2,
       "Klingon PADD/2" : 2
    },
+   "Klingon PADD/4" : {
+      "Klingon PADD/3" : 2,
+      "Relay/3" : 4,
+      "Subprocessor/3" : 2
+   },
    "Klingon Stole/0" : {
       "Clothing Pattern/0" : 3,
       "Klingon PADD/0" : 1,
@@ -4205,6 +4258,11 @@
       "Clothing Pattern/1" : 3,
       "Klingon Stole/1" : 1,
       "Klingon Warnog/0" : 1
+   },
+   "Klingon Stole/3" : {
+      "Clothing Pattern/2" : 3,
+      "Klingon Armor (TNG)/1" : 1,
+      "Klingon Stole/2" : 1
    },
    "Klingon Warnog/3" : {
       "Alcohol/2" : 2,
@@ -4417,6 +4475,11 @@
       "Lursa's Armor/2" : 1,
       "Romulan Encryption Algorithm/2" : 1
    },
+   "Lursa's Armor/4" : {
+      "Klingon PADD/3" : 1,
+      "Lursa's Armor/3" : 1,
+      "Romulan Encryption Algorithm/3" : 1
+   },
    "Lursa's Communicator/2" : {
       "House Duras Crest/1" : 1,
       "Klingon Communicator/1" : 1,
@@ -4426,6 +4489,11 @@
       "Lursa's Communicator/2" : 1,
       "Relay/2" : 2,
       "Romulan Encryption Algorithm/2" : 1
+   },
+   "Lursa's Communicator/4" : {
+      "Lursa's Communicator/3" : 2,
+      "Power Cell/3" : 3,
+      "Relay/3" : 3
    },
    "Lursa's Disruptor Pistol/2" : {
       "House Duras Crest/1" : 1,
@@ -5355,13 +5423,16 @@
       "Paradise Lost Novel/4" : 1
    },
    "Parametric Scanner/1" : {
-      "Parametric Scanner/0" : 2
+      "Parametric Scanner/0" : 1,
+      "Sensor/0" : 3
    },
    "Parametric Scanner/2" : {
-      "Parametric Scanner/1" : 2
+      "Parametric Scanner/1" : 1,
+      "Power Cell/1" : 2
    },
    "Parametric Scanner/3" : {
-      "Parametric Scanner/2" : 2
+      "Expansion Module/2" : 1,
+      "Parametric Scanner/2" : 1
    },
    "Parametric Scanner/4" : {
       "Parametric Scanner/3" : 2
@@ -5452,13 +5523,17 @@
       "Soong's Teaching/2" : 1
    },
    "Phase Pistol/2" : {
+      "Emitter Crystal/1" : 2,
       "Phase Pistol/1" : 2
    },
    "Phase Pistol/3" : {
-      "Phase Pistol/2" : 2
+      "Phase Pistol/2" : 1,
+      "Power Cell/2" : 3
    },
    "Phase Pistol/4" : {
-      "Phase Pistol/3" : 2
+      "Casing/3" : 2,
+      "Phase Pistol/3" : 1,
+      "Polyalloy/3" : 1
    },
    "Phase Pistol/5" : {
       "Phase Pistol/4" : 2
@@ -5633,11 +5708,17 @@
       "Pheromones/3" : 1,
       "Science Experiment/3" : 1
    },
+   "Pheromones/5" : {
+      "Brain Circuitry Pattern/3" : 1,
+      "Massage Oil/3" : 1,
+      "Pheromones/4" : 1
+   },
    "Photon Grenade/1" : {
       "Photon Grenade/0" : 2
    },
    "Photon Grenade/2" : {
-      "Photon Grenade/1" : 2
+      "Photon Grenade/1" : 1,
+      "Sensor/1" : 1
    },
    "Photon Grenade/3" : {
       "Photon Grenade/2" : 2
@@ -5956,9 +6037,11 @@
       "Q's Robes/2" : 1
    },
    "Q's Robes/4" : {
+      " Criminal Activity Report/3" : 2,
       "Q's Robes/3" : 1
    },
    "Q's Robes/5" : {
+      "Criminal Activity Report/3" : 1,
       "Q's Robes/4" : 1
    },
    "Quantum Chronometer/1" : {
@@ -6002,9 +6085,18 @@
    "Quantum Phase Regulator/2" : {
       "Quantum Phase Regulator/1" : 2
    },
+   "Quark's Armor/3" : {
+      "Klingon Armor (TNG)/2" : 2,
+      "Virtual Control Device/2" : 1
+   },
    "Quark's Bat'leth/3" : {
       "Bat'leth/2" : 2,
       "Tongo Deck/2" : 2
+   },
+   "Quark's Bat'leth/4" : {
+      "House Quark Crest/3" : 1,
+      "Quark's Bat'leth/3" : 1,
+      "Tongo Deck/3" : 1
    },
    "Radiation Collector/1" : {
       "Radiation Collector/0" : 2
@@ -6051,6 +6143,11 @@
    },
    "Rand's Tricorder/1" : {
       "Rand's Tricorder/0" : 2
+   },
+   "Rand's Tricorder/2" : {
+      "Casing/1" : 2,
+      "Rand's Tricorder/1" : 2,
+      "Sensor/1" : 2
    },
    "Raquet/1" : {
       "Polyalloy/1" : 4,
@@ -6571,7 +6668,7 @@
    },
    "Scandal in Bohemia Holonovel/1" : {
       "Holoprogram/1" : 1,
-      "Novel/1" : 2
+      "Novel/1" : 1
    },
    "Scandal in Bohemia Holonovel/2" : {
       "Scandal in Bohemia Holonovel/1" : 2
@@ -6985,7 +7082,7 @@
       "Social Lesson/3" : 1
    },
    "Social Lesson/5" : {
-      "Database (Panel)/4" : 1,
+      "First Contact Protocol/4" : 1,
       "Social Lesson/4" : 2
    },
    "Son of Frankenstein Movie/3" : {
@@ -7439,6 +7536,11 @@
       "Starfleet Engineering Uniform (ENT)/1" : 1,
       "Starfleet Uniform Pattern/1" : 2
    },
+   "Starfleet Engineering Uniform (ENT)/3" : {
+      "Plasma Torch/2" : 1,
+      "Starfleet Engineering Uniform (ENT)/2" : 1,
+      "Starfleet Uniform Pattern/2" : 2
+   },
    "Starfleet Engineering Uniform (TNG)/0" : {
       "Hyperspanner (DS9)/0" : 1,
       "Starfleet Uniform Pattern/0" : 1
@@ -7474,6 +7576,10 @@
    "Starfleet Engineering Uniform (TWOK)/1" : {
       "Starfleet Engineering Uniform (TWOK)/0" : 2,
       "Starfleet Uniform Pattern/0" : 2
+   },
+   "Starfleet Engineering Uniform (TWOK)/2" : {
+      "Starfleet Engineering Uniform (TWOK)/1" : 2,
+      "Starfleet Uniform Pattern/1" : 2
    },
    "Starfleet Engineering Uniform (VOY)/0" : {
       "Isolinear Rod/0" : 1,
@@ -8150,12 +8256,12 @@
       "Terran Sash/4" : 1
    },
    "Terran Knife/3" : {
-      "Polyalloy/2" : 2,
-      "Terran Emblem/1" : 1,
+      "Poisoned Drink/2" : 2,
+      "Terran Emblem/2" : 1,
       "Terran Knife/2" : 1
    },
    "Terran Knife/4" : {
-      "Poisoned Drink/1" : 1,
+      "Agonizer/3" : 1,
       "Polyalloy/3" : 2,
       "Terran Knife/3" : 1
    },
@@ -8317,7 +8423,8 @@
       "Toolbox/1" : 1
    },
    "Toolbox/3" : {
-      "Toolbox/2" : 2
+      "Hyperspanner (DS9)/2" : 1,
+      "Toolbox/2" : 1
    },
    "Toolbox/4" : {
       "Toolbox/3" : 2
@@ -8448,12 +8555,31 @@
    },
    "Tube Grubs/3" : {
       "Gold-Pressed Latinum/1" : 1,
-      "Spices/1" : 1,
+      "Spices/1" : 2,
       "Tube Grubs/2" : 1
+   },
+   "Tucker's Knife/3" : {
+      "Poisoned Drink/2" : 1,
+      "Terran Emblem/2" : 1,
+      "Terran Knife/2" : 1
+   },
+   "Tucker's Sash/3" : {
+      "Radiation Collector/2" : 1,
+      "Terran Emblem/2" : 1,
+      "Terran Sash/2" : 1
+   },
+   "Tucker's Sash/4" : {
+      "Self-sealing Stem Bolt/3" : 1,
+      "Terran Pistol/3" : 1,
+      "Tucker's Sash/3" : 1
    },
    "Tucker's Toolbox/4" : {
       "Boy Scout Badge/3" : 1,
       "Toolbox/3" : 1
+   },
+   "Tucker's Uniform/3" : {
+      "Starfleet Engineering Uniform (TWOK)/2" : 2,
+      "Terran Sash/2" : 1
    },
    "Tulaberry Wine/0" : {
       "Alcohol/0" : 3,
@@ -8583,7 +8709,7 @@
       "Uhura's Uniform/3" : 1
    },
    "Variable Field Damper/1" : {
-      "Casing/0" : 1,
+      "Casing/1" : 2,
       "Variable Field Damper/0" : 1
    },
    "Vash's Outfit/2" : {
@@ -9000,6 +9126,21 @@
       "Xindi Armor/1" : 1,
       "Xindi Icon/1" : 1
    },
+   "Xindi Biorifle/1" : {
+      "Expansion Module/0" : 2,
+      "Medical Experiment/0" : 1,
+      "Xindi Pistol/0" : 2
+   },
+   "Xindi Biorifle/2" : {
+      "Polyalloy/1" : 2,
+      "Power Cell/1" : 1,
+      "Xindi Biorifle/1" : 2
+   },
+   "Xindi Biorifle/3" : {
+      "Biological Sample Kit/2" : 1,
+      "Xindi Biorifle/2" : 1,
+      "Xindi Icon/1" : 1
+   },
    "Xindi Icon/2" : {
       "Xindi Icon/1" : 2
    },
@@ -9013,6 +9154,20 @@
    },
    "Xindi Icon/5" : {
       "Xindi Icon/4" : 2
+   },
+   "Xindi Pistol/0" : {
+      "Emitter Crystal/0" : 1,
+      "Polyalloy/0" : 1,
+      "Power Cell/0" : 1
+   },
+   "Xindi Pistol/1" : {
+      "Casing/1" : 2,
+      "Xindi Pistol/1" : 2
+   },
+   "Xindi Pistol/2" : {
+      "Emitter Crystal/2" : 2,
+      "Xindi Icon/1" : 1,
+      "Xindi Pistol/1" : 1
    },
    "Yar's Phaser/2" : {
       "Emitter Crystal/1" : 2,
