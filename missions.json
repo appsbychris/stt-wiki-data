@@ -144,13 +144,16 @@
       "type" : "Space Battle"
    },
    "Act of Betrayal/1" : {
-      "location" : "E5-M8"
+      "location" : "E5-M8",
+      "skillcheck" : "212"
    },
    "Act of Betrayal/2" : {
-      "location" : "E5-M8"
+      "location" : "E5-M8",
+      "skillcheck" : "576"
    },
    "Act of Betrayal/3" : {
-      "location" : "E5-M8"
+      "location" : "E5-M8",
+      "skillcheck" : "1096"
    },
    "Ancient Guardians/1" : {
       "location" : "E6-M2",
@@ -201,13 +204,16 @@
       "skillcheck" : "345"
    },
    "Back to School/1" : {
-      "location" : "E5-M14"
+      "location" : "E5-M14",
+      "skillcheck" : "284"
    },
    "Back to School/2" : {
-      "location" : "E5-M14"
+      "location" : "E5-M14",
+      "skillcheck" : "667"
    },
    "Back to School/3" : {
-      "location" : "E5-M14"
+      "location" : "E5-M14",
+      "skillcheck" : "1181"
    },
    "Baited Hook/1" : {
       "location" : "E5-M16"

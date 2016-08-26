@@ -1313,35 +1313,35 @@
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Disguise/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "Psychological Evaluation Holoprogram/1",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Cranial Implant/2",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Section 31 Encryption Algorithm/2",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Disguise/1",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/2",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/2",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "3d Chess Set/3",
          "level" : 30
       },
       {
@@ -1349,31 +1349,31 @@
          "level" : 30
       },
       {
-         "item" : "Identification Code/2",
+         "item" : "Field Rations/2",
          "level" : 33
       },
       {
-         "item" : "Covert Contacts/2",
+         "item" : "Tequila/2",
          "level" : 36
       },
       {
-         "item" : "3D Chess Set/3",
+         "item" : "Writing PADD (ENT)/3",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Agent Harris's Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Communicator (ENT)/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Charter Article 14, Section 31/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Criminal Activity Report/3",
          "level" : 50
       },
       {
@@ -14721,7 +14721,7 @@
          "level" : 86
       },
       {
-         "item" : "item/0",
+         "item" : "McCoy's Tricorder/3",
          "level" : 90
       },
       {
@@ -19765,19 +19765,19 @@
    ],
    "Grand Nagus Zek" : [
       {
-         "item" : "item/5",
+         "item" : "Civilian Diplomatic Clothing/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Palm Beacon/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Detronal Scanner/0",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Rules of Acquisition/1",
          "level" : 5
       },
       {
@@ -19813,7 +19813,7 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Command Clothing/1",
          "level" : 30
       },
       {
@@ -19821,11 +19821,11 @@
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Tulaberry Wine/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Staff/3",
          "level" : 40
       },
       {
@@ -19877,19 +19877,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Zek's Suit/4",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Zek's Staff/5",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Submicron Scanner/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Tulaberry Wine/4",
          "level" : 80
       },
       {
@@ -23149,19 +23149,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (TOS)/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Saavik's Padd/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Heavy Duty Tricorder/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "The Teaching of Surak Book/4",
          "level" : 99
       }
    ],
@@ -27685,11 +27685,11 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "item/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "item/4",
          "level" : 93
       },
       {
