@@ -136,6 +136,11 @@
       "Casino Chip/3" : 1,
       "Gold-Pressed Latinum/4" : 2
    },
+   "Agent Harris's Uniform/2" : {
+      "Civilian Command Clothing/1" : 1,
+      "Clothing Pattern/1" : 2,
+      "Encoded Communique/1" : 1
+   },
    "Agonizer/3" : {
       "Agonizer/2" : 1,
       "Casing/2" : 4,
@@ -432,7 +437,8 @@
    },
    "Augment Icon/3" : {
       "Augment Icon/2" : 1,
-      "Ceti Eel/0" : 1
+      "Ceti Eel/0" : 1,
+      "Polyalloy/2" : 2
    },
    "Augment Icon/4" : {
       "Augment Icon/3" : 1,
@@ -825,6 +831,11 @@
       "Identification Code/1" : 1,
       "Psychology Text/1" : 1,
       "Trowel/1" : 1
+   },
+   "Boothby's Trowel/3" : {
+      "Boothby's Trowel/2" : 2,
+      "Psychological Evaluation Holoprogram/1" : 1,
+      "Single Pot Whiskey/2" : 1
    },
    "Borg Cortical Node/0" : {
       "Interlink/0" : 2,
@@ -2012,13 +2023,21 @@
       "Sensor/3" : 2
    },
    "Desktop Monitor (ENT)/1" : {
-      "Desktop Monitor (ENT)/0" : 2
+      "Database (Panel)/0" : 3,
+      "Desktop Monitor (ENT)/0" : 1
    },
    "Desktop Monitor (ENT)/2" : {
-      "Desktop Monitor (ENT)/1" : 2
+      "Desktop Monitor (ENT)/1" : 2,
+      "Interlink/1" : 1
    },
    "Desktop Monitor (ENT)/3" : {
-      "Desktop Monitor (ENT)/2" : 2
+      "Database (Panel)/2" : 2,
+      "Desktop Monitor (ENT)/2" : 1
+   },
+   "Desktop Monitor (ENT)/4" : {
+      "Database (Panel)/3" : 1,
+      "Desktop Monitor (ENT)/3" : 2,
+      "Optronic Circuit/3" : 1
    },
    "Desktop Monitor (TNG)/1" : {
       "Desktop Monitor (TNG)/0" : 1,
@@ -2273,13 +2292,16 @@
       "Klingon House Crest/3" : 1
    },
    "Duotronic Probe/1" : {
-      "Duotronic Probe/0" : 2
+      "Duotronic Probe/0" : 1,
+      "Power Cell/0" : 3
    },
    "Duotronic Probe/2" : {
-      "Duotronic Probe/1" : 2
+      "Duotronic Probe/1" : 1,
+      "Sensor/1" : 2
    },
    "Duotronic Probe/3" : {
-      "Duotronic Probe/2" : 2
+      "Duotronic Probe/2" : 1,
+      "Microconnector/2" : 2
    },
    "Duotronic Probe/4" : {
       "Duotronic Probe/3" : 2
@@ -3009,6 +3031,26 @@
       "House Gowron Crest/4" : 1,
       "Klingon Warnog/0" : 1
    },
+   "Gralik's Armor/2" : {
+      "Civilian Scientist Clothing/1" : 1,
+      "Furs/2" : 2,
+      "Xindi Armor/1" : 1
+   },
+   "Gralik's Armor/3" : {
+      "Clothing Pattern/2" : 2,
+      "Gralik's Armor/2" : 1,
+      "Xindi Icon/1" : 1
+   },
+   "Gralik's Scanner/3" : {
+      "Hand Scanner/2" : 2,
+      "Polyalloy/2" : 1,
+      "Subprocessor/2" : 2
+   },
+   "Gralik's Scanner/4" : {
+      "Gralik's Scanner/3" : 2,
+      "Kemocite/3" : 1,
+      "Sensor/3" : 2
+   },
    "Grand Nagus Staff/1" : {
       "Ferengi PADD/0" : 1,
       "Rules of Acquisition/0" : 1,
@@ -3032,6 +3074,11 @@
       "Grand Nagus Staff/4" : 1,
       "Great Material Continuum Texts/4" : 1,
       "Tongo Deck/4" : 1
+   },
+   "Grand Nagus Zek's Staff/5" : {
+      "Gold-Pressed Latinum/4" : 2,
+      "Grand Nagus Staff/4" : 1,
+      "Hupyrian Beetle Snuff/4" : 1
    },
    "Gravimetric Scanner/1" : {
       "Gravimetric Scanner/0" : 2
@@ -3475,6 +3522,21 @@
       "Civilian Engineer Clothing/1" : 1,
       "Civilian Scientist Clothing/1" : 1
    },
+   "Hupyrian Beetle Snuff/2" : {
+      "Gold-Pressed Latinum/1" : 1,
+      "Spices/1" : 2,
+      "Tulaberry Wine/1" : 1
+   },
+   "Hupyrian Beetle Snuff/3" : {
+      "Hupyrian Beetle Snuff/2" : 2,
+      "Slug-o-Cola/2" : 1,
+      "Spices/2" : 2
+   },
+   "Hupyrian Beetle Snuff/4" : {
+      "Hupyrian Beetle Snuff/3" : 2,
+      "Rules of Acquisition/3" : 1,
+      "Spices/3" : 2
+   },
    "Hyperspanner (DS9)/1" : {
       "Expansion Module/0" : 2,
       "Hyperspanner (DS9)/0" : 1,
@@ -3818,10 +3880,12 @@
       "KCA Icon/3" : 1
    },
    "Kadis-Kot/1" : {
-      "Kadis-Kot/0" : 2
+      "Isolinear Chips/0" : 1,
+      "Kadis-Kot/0" : 1
    },
    "Kadis-Kot/2" : {
-      "Kadis-Kot/1" : 2
+      "Kadis-Kot/1" : 1,
+      "Replicator Ration/1" : 1
    },
    "Kadis-Kot/3" : {
       "Kadis-Kot/2" : 2
@@ -6069,16 +6133,16 @@
       "Quantum Flux Regulator/1" : 2
    },
    "Quantum Oscillator/1" : {
-      "Casing/0" : 1,
+      "Casing/0" : 2,
       "Quantum Oscillator/0" : 1
    },
    "Quantum Oscillator/2" : {
       "Casing/1" : 1,
-      "Power Cell/0" : 1,
+      "Power Cell/1" : 1,
       "Quantum Oscillator/1" : 1
    },
    "Quantum Oscillator/3" : {
-      "Isolinear Chips/0" : 1,
+      "Isolinear Chips/2" : 1,
       "Quantum Oscillator/2" : 1
    },
    "Quantum Oscillator/4" : {
@@ -6483,6 +6547,11 @@
       "Romulan Ale/0" : 1,
       "Romulan Disruptor/1" : 1
    },
+   "Romulan Disruptor/3" : {
+      "Power Cell/1" : 4,
+      "Romulan Disruptor/2" : 1,
+      "Star Empire Icon/2" : 1
+   },
    "Romulan Encryption Algorithm/1" : {
       "Encoded Communique/1" : 1,
       "Romulan Encryption Algorithm/0" : 1
@@ -6753,6 +6822,11 @@
       "Duotronic Probe/4" : 1,
       "Relay/4" : 2,
       "Scotty's Scanner/4" : 1
+   },
+   "Scotty's Suit/2" : {
+      "Engineering Suit (TMP)/2" : 1,
+      "Heavy Scanner/1" : 2,
+      "Identification Code/0" : 2
    },
    "Scotty's Wrench/2" : {
       "Engineering Lesson/1" : 1,
@@ -7261,6 +7335,11 @@
       "Bat'leth/3" : 1,
       "Bloodwine/2" : 1,
       "Klingon House Crest/3" : 1
+   },
+   "Starfleet Charter Article 14, Section 31/3" : {
+      "First Contact Protocol/2" : 1,
+      "Novel/2" : 1,
+      "Prime Directive/2" : 1
    },
    "Starfleet Command Jacket (TNG)/0" : {
       "Authorization Code/0" : 1,
@@ -8467,6 +8546,11 @@
    },
    "Translator/2" : {
       "Translator/1" : 2
+   },
+   "Transparent Aluminum/3" : {
+      "Polyalloy/2" : 4,
+      "Science Experiment/2" : 2,
+      "Scotty's Wrench/2" : 1
    },
    "Transporter Control Module/1" : {
       "Casing/0" : 1,
