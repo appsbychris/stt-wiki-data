@@ -1290,6 +1290,32 @@
       "Clothing Pattern/2" : 2,
       "Spices/2" : 4
    },
+   "Chekov's Collector/3" : {
+      "Expansion Module/2" : 2,
+      "Radiation Collector/2" : 1,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Chekov's Collector/4" : {
+      "Chekov's Collector/3" : 1,
+      "Power Cell/3" : 2,
+      "Sensor/2" : 2
+   },
+   "Chekov's Communicator/2" : {
+      "Authorization Code/1" : 1,
+      "Casing/2" : 2,
+      "Communicator (TOS)/1" : 2
+   },
+   "Chekov's Communicator/3" : {
+      "Chekov's Communicator/2" : 1
+   },
+   "Chekov's Communicator/4" : {
+      "Chekov's Communicator/3" : 1
+   },
+   "Chekov's Phaser/3" : {
+      "Emitter Crystal/2" : 2,
+      "Phaser Type 2 (TOS)/2" : 1,
+      "Security Reports/1" : 1
+   },
    "Chicago Mobs of the Twenties/1" : {
       "Ancient Film/0" : 1,
       "Novel/1" : 1
@@ -1506,6 +1532,16 @@
       "Casing/3" : 2,
       "Climbing Gear/3" : 2,
       "Polyalloy/3" : 2
+   },
+   "Cochrane's Toolbox/3" : {
+      "Engineering Lesson/1" : 2,
+      "Toolbox/3" : 1,
+      "Wrench/2" : 1
+   },
+   "Cochrane's Vest/3" : {
+      "Astrometric Chart/1" : 1,
+      "Civilian Engineer Clothing/1" : 4,
+      "Rock and Roll/2" : 1
    },
    "Code 7-10/2" : {
       "First Contact Protocol/1" : 1,
@@ -1785,6 +1821,15 @@
       "Furs/3" : 2,
       "Kazon Disruptor Rifle/3" : 1
    },
+   "Culluh's Pistol/2" : {
+      "Emitter Crystal/1" : 1,
+      "Kazon Disruptor Pistol/1" : 1,
+      "Kazon Name/1" : 1
+   },
+   "Culluh's Pistol/3" : {
+      "Culluh's Pistol/2" : 2,
+      "Kazon Name/2" : 1
+   },
    "D'k tahg/2" : {
       "D'k tahg/1" : 2
    },
@@ -1807,10 +1852,25 @@
       "Database (Panel)/3" : 2,
       "Wrench/3" : 2
    },
+   "Damar's Armor/3" : {
+      "Central Command Uniform/2" : 1,
+      "Clothing Pattern/3" : 1,
+      "Kanar/2" : 1
+   },
    "Damar's Pistol/3" : {
       "Cardassian Disruptor Pistol/2" : 2,
       "Central Command Insignia/2" : 2,
       "Kanar/2" : 1
+   },
+   "Daren's Charts/2" : {
+      "Astrometric Chart/2" : 1,
+      "Authorization Code/1" : 2,
+      "Database (Panel)/2" : 2
+   },
+   "Daren's Charts/3" : {
+      "Daren's Charts/2" : 1,
+      "Database (Panel)/2" : 2,
+      "Science Experiment/1" : 2
    },
    "Darts/1" : {
       "Alcohol/0" : 2,
@@ -2163,6 +2223,30 @@
       "Dissection Tools/4" : 1,
       "Surgical Shears/2" : 1
    },
+   "Dixon's Tux/3" : {
+      "Ancient Film/1" : 1,
+      "Champagne/2" : 1,
+      "Tuxedo/2" : 1
+   },
+   "Doctor Chaotica's Microphone/2" : {
+      "Holocommunicator/1" : 1,
+      "Polyalloy/2" : 2,
+      "Relay/1" : 1
+   },
+   "Doctor Chaotica's Microphone/3" : {
+      "Doctor Chaotica's Microphone/2" : 1,
+      "Holoprogram/2" : 1,
+      "Relay/2" : 1
+   },
+   "Doctor Chaotica's Microphone/4" : {
+      "Doctor Chaotica's Microphone/3" : 1,
+      "Polyalloy/3" : 1,
+      "Resistance Cipher/3" : 1
+   },
+   "Doctor Chaotica's Microphone/5" : {
+      "Doctor Chaotica's Microphone/4" : 2,
+      "Relay/4" : 2
+   },
    "Doctor Chaotica's Outfit/2" : {
       "Clothing Pattern/1" : 2,
       "Furs/2" : 2
@@ -2343,6 +2427,31 @@
    },
    "Earpiece/2" : {
       " Earpiece/1" : 2
+   },
+   "Eddington's Holo-communicator/2" : {
+      "Holocommunicator/1" : 1,
+      "Maquis Emblem/1" : 1,
+      "Optronic Circuit/1" : 2
+   },
+   "Eddington's Holo-communicator/3" : {
+      "Holocommunicator/2" : 1,
+      "Optronic Circuit/2" : 2,
+      "Security Codes/1" : 1
+   },
+   "Eddington's Outfit/2" : {
+      "Jem'Hadar Rifle/1" : 1,
+      "Maquis Command Outfit/1" : 1,
+      "Maquis Security Outfit/1" : 1
+   },
+   "Eddington's Outfit/3" : {
+      "Clothing Pattern/1" : 2,
+      "Eddington's Outfit/2" : 1,
+      "Lucky Looney/2" : 1
+   },
+   "Eddington's Outfit/4" : {
+      "Clothing Pattern/2" : 2,
+      "Eddington's Outfit/3" : 1,
+      "Unknown/1" : 2
    },
    "Emergency Transponder/1" : {
       "Casing/0" : 2,
@@ -2639,6 +2748,51 @@
       "Covert Contacts/1" : 1,
       "Fedora/1" : 1
    },
+   "Feezal's Dress/2" : {
+      "Civilian Scientist Clothing/1" : 2,
+      "Hand Scanner/1" : 1,
+      "Neutron Microscope/1" : 1
+   },
+   "Feezal's Dress/3" : {
+      "Feezal's Dress/2" : 1,
+      "Heavy Scanner/2" : 1,
+      "Science Experiment/0" : 1
+   },
+   "Feezal's Dress/4" : {
+      "Feezal's Dress/3" : 1,
+      "Neutron Microscope/3" : 1,
+      "Pheromones/2" : 1
+   },
+   "Feezal's Scanner/2" : {
+      "Hand Scanner/1" : 2,
+      "Optronic Circuit/1" : 2,
+      "Sensor/1" : 2
+   },
+   "Feezal's Scanner/3" : {
+      "Feezal's Scanner/2" : 1,
+      "Optronic Circuit/2" : 2,
+      "Science Experiment/0" : 1
+   },
+   "Feezal's Scanner/4" : {
+      "Engineering Lesson/1" : 1,
+      "Feezal's Scanner/3" : 1,
+      "Optronic Circuit/3" : 2
+   },
+   "Feezal's Scanner/5" : {
+      "Feezal's Scanner/4" : 1,
+      "Heavy Scanner/4" : 2,
+      "Optronic Circuit/4" : 2
+   },
+   "Feezal's Toolbox/3" : {
+      "Hyperspanner (ENT)/2" : 1,
+      "Toolbox/2" : 2,
+      "Wrench/1" : 2
+   },
+   "Feezal's Toolbox/4" : {
+      "Feezal's Toolbox/3" : 1,
+      "Hyperspanner (ENT)/3" : 2,
+      "Wrench/3" : 2
+   },
    "Feragoit Goulash/1" : {
       "Leola Root/0" : 1,
       "Recipe Book/0" : 1,
@@ -2730,6 +2884,11 @@
    "Founder's Dress/4" : {
       "Dominion Seal/2" : 1,
       "Founder's Dress/3" : 1,
+      "Treaty of Bajor/3" : 1
+   },
+   "Founder's PADD/4" : {
+      "Dominion PADD/3" : 1,
+      "Isolinear Chips/3" : 2,
       "Treaty of Bajor/3" : 1
    },
    "Frankenstein Movie/2" : {
@@ -3026,6 +3185,16 @@
       "Golf Club/3" : 1,
       "Replicator Ration/3" : 1
    },
+   "Gowron's Armor/3" : {
+      "Klingon Armor (TNG)/2" : 1,
+      "Klingon Stole/2" : 1,
+      "Klingon Warnog/2" : 1
+   },
+   "Gowron's Armor/4" : {
+      "First Contact Protocol/3" : 2,
+      "Gowron's Armor/3" : 2,
+      "Klingon Stole/3" : 1
+   },
    "Gowron's D'k tagh/4" : {
       "D'k tahg/3" : 2,
       "House Gowron Crest/4" : 1,
@@ -3244,6 +3413,16 @@
       "Biological Sample Kit/1" : 2,
       "Hirogen Relic/1" : 1,
       "Scalpel/1" : 1
+   },
+   "Hirogen Scanner/3" : {
+      "Hirogen Scanner/2" : 1,
+      "Optronic Circuit/2" : 1,
+      "Sensor/2" : 2
+   },
+   "Hirogen Scanner/4" : {
+      "Hirogen Relic/2" : 1,
+      "Hirogen Scanner/3" : 1,
+      "Optronic Circuit/3" : 1
    },
    "Hirogen Technician Suit/2" : {
       "Hirogen Technician Suit/1" : 1,
@@ -3518,6 +3697,16 @@
       "Engineering Lesson/1" : 1,
       "Microconnector/1" : 2
    },
+   "Hugh's Occipital Implant/2" : {
+      "Borg Occipital Implant/2" : 1,
+      "First Contact Protocol/0" : 2,
+      "Polyalloy/0" : 2
+   },
+   "Hugh's Occipital Implant/3" : {
+      "Emergency Transponder/2" : 1,
+      "Hugh's Occipital Implant/2" : 1,
+      "Microconnector/1" : 2
+   },
    "Human Q's Clothing/2" : {
       "Civilian Engineer Clothing/1" : 1,
       "Civilian Scientist Clothing/1" : 1
@@ -3764,6 +3953,21 @@
       "Starfleet Uniform Pattern/3" : 2,
       "Toolbox/3" : 1
    },
+   "Jadzia's Tricorder/3" : {
+      "Casing/2" : 4,
+      "Science Experiment/1" : 1,
+      "Tricorder/2" : 2
+   },
+   "Jadzia's Tricorder/4" : {
+      "Gagh/1" : 1,
+      "Jadzia's Tricorder/3" : 1,
+      "Tongo Deck/2" : 1
+   },
+   "Jadzia's Tricorder/5" : {
+      "Casing/4" : 4,
+      "Jadzia's Tricorder/4" : 1,
+      "Prime Directive/3" : 1
+   },
    "Jake's PADD/2" : {
       "Identification Code/1" : 1,
       "Press Credentials/1" : 1,
@@ -3784,6 +3988,19 @@
       "Photon Grenade/3" : 2,
       "Prime Directive/2" : 2
    },
+   "Janeway's Uniform/3" : {
+      "Admiral's Uniform/2" : 1
+   },
+   "Janeway's Uniform/4" : {
+      "Admiral Pips/2" : 1,
+      "Admiral's Uniform/3" : 1,
+      "Priority One Message/1" : 1
+   },
+   "Janeway's Uniform/5" : {
+      "Admiral's Uniform/4" : 1,
+      "Coffee/3" : 1,
+      "Velocity Holoprogram/3" : 1
+   },
    "Jem'Hadar Armor/0" : {
       "Clothing Pattern/0" : 2,
       "Polyalloy/0" : 2
@@ -3796,6 +4013,16 @@
       "Dominion Seal/1" : 1,
       "Jem'Hadar Armor/1" : 1,
       "Kar'takin/1" : 1
+   },
+   "Jem'Hadar Knife/2" : {
+      "Jem'Hadar Knife/0" : 1,
+      "Jem'Hadar Knife/1" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Jem'Hadar Knife/3" : {
+      "Jem'Hadar Knife/1" : 1,
+      "Jem'Hadar Knife/2" : 1,
+      "Polyalloy/2" : 2
    },
    "Jem'Hadar Pistol/3" : {
       "Emitter Crystal/2" : 3,
@@ -3814,6 +4041,36 @@
    },
    "Jem'Hadar Rifle/3" : {
       "Jem'Hadar Rifle/2" : 1
+   },
+   "Jem'Hadar Scanner/0" : {
+      "Power Cell/0" : 2,
+      "Sensor/1" : 1,
+      "Subprocessor/0" : 2
+   },
+   "Jem'Hadar Scanner/1" : {
+      "Dominion PADD/0" : 1,
+      "Jem'Hadar Scanner/0" : 1,
+      "Subprocessor/0" : 2
+   },
+   "Jem'Hadar Scanner/3" : {
+      "Dominion Seal/2" : 1,
+      "Jem'Hadar Scanner/2" : 1,
+      "Sensor/2" : 2
+   },
+   "Jem'Hadar Shroud/1" : {
+      "Jem'Hadar Scanner/0" : 2,
+      "Power Cell/0" : 4,
+      "Subprocessor/0" : 4
+   },
+   "Jem'Hadar Shroud/2" : {
+      "Dominion Seal/1" : 1,
+      "Jem'Hadar Shroud/1" : 1,
+      "Optronic Circuit/1" : 4
+   },
+   "Jem'Hadar Shroud/3" : {
+      "Jem'Hadar Scanner/1" : 1,
+      "Jem'Hadar Shroud/2" : 1,
+      "Subprocessor/2" : 2
    },
    "Jet Pack/1" : {
       "Backpack/1" : 1,
@@ -3946,6 +4203,15 @@
       "D'k tahg/2" : 1,
       "Polyalloy/2" : 2
    },
+   "Kar'takin/0" : {
+      "Jem'Hadar Knife/0" : 1,
+      "Polyalloy/0" : 6
+   },
+   "Kar'takin/2" : {
+      "Jem'Hadar Knife/0" : 1,
+      "Kar'takin/1" : 1,
+      "Ketracel-white/1" : 1
+   },
    "Kayaking Holoprogram/1" : {
       "Database (Panel)/0" : 2,
       "Holoprogram/1" : 1,
@@ -4017,6 +4283,9 @@
    "Kazon Name/3" : {
       "Kazon Name/2" : 2
    },
+   "Kazon Name/4" : {
+      "Kazon Name/3" : 2
+   },
    "Keevan's PADD/2" : {
       "Dominion PADD/1" : 2,
       "Dominion Seal/0" : 1,
@@ -4076,6 +4345,46 @@
    "Ketracel-white/5" : {
       "Dominion Seal/2" : 1,
       "Ketracel-white/4" : 1
+   },
+   "Khan's Necklace/3" : {
+      "Augment Icon/2" : 1,
+      "Clothing Pattern/2" : 2,
+      "Novel/1" : 1
+   },
+   "Khan's Necklace/4" : {
+      "Clothing Pattern/3" : 2,
+      "Khan's Necklace/3" : 1,
+      "Novel/2" : 1
+   },
+   "Khan's Necklace/5" : {
+      "Clothing Pattern/4" : 2,
+      "Khan's Necklace/4" : 1,
+      "Novel/3" : 1
+   },
+   "Khan's Outfit/1" : {
+      "Ceti Eel/0" : 1,
+      "Civilian Command Clothing/0" : 1,
+      "Civilian Security Clothing/0" : 1
+   },
+   "Khan's Outfit/2" : {
+      "Ceti Eel/1" : 1,
+      "Khan's Outfit/1" : 1,
+      "Medical Experiment/0" : 1
+   },
+   "Khan's Outfit/3" : {
+      "Augment Icon/1" : 1,
+      "Ceti Eel/2" : 1,
+      "Khan's Outfit/2" : 1
+   },
+   "Khan's Outfit/4" : {
+      "Augment Icon/2" : 1,
+      "Ceti Eel/3" : 1,
+      "Khan's Outfit/3" : 1
+   },
+   "Khan's Outfit/5" : {
+      "Augment Icon/3" : 1,
+      "Ceti Eel/4" : 1,
+      "Khan's Outfit/4" : 1
    },
    "Kim's Calculations/2" : {
       "Science Experiment/0" : 2,
@@ -4167,6 +4476,16 @@
       "Bajoran Security Uniform/2" : 1,
       "Orb Experience/2" : 1
    },
+   "Kirk's Axe/2" : {
+      "Communicator (TOS)/1" : 2,
+      "Polyalloy/1" : 2,
+      "Temporal Prime Directive/2" : 1
+   },
+   "Kirk's Axe/3" : {
+      "Kirk's Axe/2" : 1,
+      "Polyalloy/2" : 2,
+      "Temporal Prime Directive/2" : 1
+   },
    "Kirk's Communicator/2" : {
       "Casing/1" : 4,
       "Communicator (TOS)/1" : 2,
@@ -4196,6 +4515,36 @@
       "Andorian Rifle/2" : 1,
       "Kirk's Lirpa/3" : 1,
       "Polyalloy/2" : 2
+   },
+   "Kirk's Phaser/3" : {
+      "Emitter Crystal/2" : 2,
+      "Phaser Type 2 (TOS)/3" : 1,
+      "Saurian Brandy/2" : 1
+   },
+   "Kirk's Phaser/4" : {
+      "3d Chess Set/3" : 1,
+      "Emitter Crystal/3" : 2,
+      "Kirk's Phaser/3" : 1
+   },
+   "Kirk's Phaser/5" : {
+      "Communicator/3" : 1,
+      "Kirk's Phaser/4" : 1,
+      "Saurian Brandy/3" : 1
+   },
+   "Kirk's Uniform/3" : {
+      "Agonizer/2" : 1,
+      "Terran Empire Command Uniform/3" : 1,
+      "Terran Empire Honors/1" : 1
+   },
+   "Kirk's Uniform/4" : {
+      "Kirk's Uniform/3" : 1,
+      "Multidimensional Transporter Device/1" : 1,
+      "Terran Sash/2" : 2
+   },
+   "Kirk's Uniform/5" : {
+      "Kirk's Uniform/4" : 1,
+      "Saurian Brandy/3" : 1,
+      "Terran Knife/3" : 1
    },
    "Klingon Armor (TNG)/3" : {
       "Clothing Pattern/2" : 4,
@@ -4395,6 +4744,11 @@
       "Furs/2" : 2,
       "Klingon Armor (TOS)/2" : 1
    },
+   "Kor's Baldric/2" : {
+      "Klingon Baldric/2" : 1,
+      "Polyalloy/0" : 2,
+      "Security Codes/0" : 1
+   },
    "Kotra/1" : {
       "3d Chess Set/1" : 1,
       "Central Command Insignia/0" : 1
@@ -4532,6 +4886,11 @@
       "Kolinahr Text/1" : 1,
       "Lirpa/1" : 1,
       "Polyalloy/0" : 4
+   },
+   "Lucky Looney/2" : {
+      "Casino Chip/1" : 1,
+      "Gold-Pressed Latinum/1" : 4,
+      "Maquis Emblem/1" : 1
    },
    "Lursa's Armor/2" : {
       "Klingon Armor (TNG)/0" : 1,
@@ -4730,6 +5089,42 @@
       "Casing/0" : 2,
       "Identification Code/0" : 1,
       "Tricorder/2" : 1
+   },
+   "Martok's Armor/2" : {
+      "Klingon Armor (TNG)/1" : 1,
+      "Klingon Communicator/1" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Martok's Armor/3" : {
+      "Klingon Baldric/2" : 1,
+      "Martok's Armor/2" : 1
+   },
+   "Martok's Armor/4" : {
+      "Klingon Communicator/3" : 1,
+      "Late Vintage Bloodwine/3" : 1,
+      "Martok's Armor/3" : 1,
+      "Polyalloy/3" : 3
+   },
+   "Martok's Armor/5" : {
+      "Klingon Communicator/4" : 1,
+      "Late Vintage Bloodwine/4" : 1,
+      "Martok's Armor/4" : 2
+   },
+   "Martok's Pistol/2" : {
+      "Bloodwine/1" : 1,
+      "House Martok Crest/1" : 1,
+      "Martok's Pistol/1" : 1
+   },
+   "Martok's Pistol/3" : {
+      "Bloodwine/2" : 1,
+      "Klingon Warnog/0" : 2,
+      "Martok's Pistol/2" : 1
+   },
+   "Martok's Pistol/4" : {
+      "Martok's Pistol/3" : 1
+   },
+   "Martok's Pistol/5" : {
+      "Martok's Pistol/4" : 1
    },
    "Mass Spectrometer/1" : {
       "Mass Spectrometer/0" : 2
