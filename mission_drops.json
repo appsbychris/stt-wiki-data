@@ -276,6 +276,38 @@
       },
       "runs" : 153
    },
+   "A Time of Morn-ing/1" : {
+      "cost" : "4",
+      "item" : {
+         "Authorization Code/1" : 56,
+         "Desealing Rod/1" : 73,
+         "Duotronic Probe/0" : 15,
+         "Polyalloy/0" : 206,
+         "Starfleet Uniform (DS9)/0" : 40
+      },
+      "runs" : 130
+   },
+   "A Time of Morn-ing/2" : {
+      "cost" : "6",
+      "item" : {
+         "Alcohol/0" : 24,
+         "Cardassian Monitor/0" : 4,
+         "Laser Beacon/0" : 14,
+         "Phaser Rifle/0" : 20,
+         "Subprocessor/1" : 16
+      },
+      "runs" : 26
+   },
+   "A Time of Morn-ing/3" : {
+      "cost" : "8",
+      "item" : {
+         "Incense/2" : 29,
+         "Isolinear Chips/0" : 90,
+         "Replicator Ration/1" : 98,
+         "Toolbox/1" : 38
+      },
+      "runs" : 85
+   },
    "Act of Betrayal/1" : {
       "cost" : "12",
       "item" : {
