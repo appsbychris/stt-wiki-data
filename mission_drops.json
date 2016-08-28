@@ -67,12 +67,12 @@
    "A Kazon Scorned/1" : {
       "cost" : "8",
       "item" : {
-         "Expansion Module/2" : "15",
-         "Flux Coupler/0" : "19",
-         "Incense/1" : "42",
-         "Polyalloy/0" : "106"
+         "Expansion Module/2" : 15,
+         "Flux Coupler/0" : 19,
+         "Incense/1" : 42,
+         "Polyalloy/0" : 106
       },
-      "runs" : "43"
+      "runs" : 49
    },
    "A Kazon Scorned/2" : {
       "cost" : "14",
@@ -86,7 +86,14 @@
    },
    "A Kazon Scorned/3" : {
       "cost" : "18",
-      "runs" : "20"
+      "item" : {
+         "Expansion Module/3" : 12,
+         "Incense/2" : 27,
+         "Power Cell/4" : 1,
+         "Replicator Ration/4" : 2,
+         "Subprocessor/2" : 36
+      },
+      "runs" : 26
    },
    "A Logical Response/1" : {
       "cost" : "4",
@@ -198,13 +205,13 @@
    "A Show of Force/1" : {
       "cost" : "4",
       "item" : {
-         "Astrometric Chart/1" : "5",
-         "Authorization Code/0" : "7",
-         "Phaser Type 2 (TOS)/0" : "6",
-         "Security Codes/0" : "7",
-         "Starfleet Uniform Pattern/0" : "32"
+         "Astrometric Chart/1" : 5,
+         "Authorization Code/0" : 7,
+         "Phaser Type 2 (TOS)/0" : 6,
+         "Security Codes/0" : 7,
+         "Starfleet Uniform Pattern/0" : 32
       },
-      "runs" : "19"
+      "runs" : 19
    },
    "A Singular Occurrence/1" : {
       "cost" : "8",
@@ -292,15 +299,36 @@
    },
    "Ancient Guardians/1" : {
       "cost" : "16",
-      "runs" : "1"
+      "item" : {
+         "Furs/1" : 2,
+         "Furs/2" : 1,
+         "Relay/3" : 0,
+         "Relay/4" : 0,
+         "Writing PADD (TNG)/2" : 0
+      },
+      "runs" : 1
    },
    "Ancient Guardians/2" : {
       "cost" : "18",
-      "runs" : "7"
+      "item" : {
+         "Alcohol/2" : 18,
+         "Emitter Crystal/2" : 24,
+         "Expansion Module/4" : 1,
+         "Furs/3" : 12,
+         "Spices/4" : 2
+      },
+      "runs" : 19
    },
    "Ancient Guardians/3" : {
       "cost" : "24",
-      "runs" : "1"
+      "item" : {
+         "Clothing Pattern/3" : 2,
+         "Database (Panel)/3" : 11,
+         "Power Cell      /4" : 2,
+         "Sensor          /4" : 3,
+         "Spices          /2" : 12
+      },
+      "runs" : 10
    },
    "Arms Race/1" : {
       "cost" : "10",
@@ -433,7 +461,14 @@
    },
    "Battle Shinzon/3" : {
       "cost" : "24",
-      "runs" : "2"
+      "item" : {
+         "Astrometric Chart/2" : 1,
+         "Incense/2" : 4,
+         "Incense/3" : 1,
+         "Polyalloy/4" : 0,
+         "Sensor/4" : 0
+      },
+      "runs" : 2
    },
    "Behind Closed Doors/1" : {
       "cost" : "4",
@@ -458,7 +493,13 @@
    },
    "Behind Closed Doors/3" : {
       "cost" : "12",
-      "runs" : "0"
+      "item" : {
+         "Alcohol/2" : 0,
+         "Expansion Module/3" : 0,
+         "Interlink/3" : 0,
+         "Polyalloy/1" : 0
+      },
+      "runs" : 0
    },
    "Beyond the Call/1" : {
       "cost" : "4",
@@ -556,11 +597,23 @@
    },
    "Breakwater/2" : {
       "cost" : "1",
-      "runs" : "4"
+      "item" : {
+         "Augment Icon/1" : 11,
+         "Bajoran Combadge/1" : 7,
+         "Cardassian Encryption Algorithm/1" : 14,
+         "Field Rations/1" : 7
+      },
+      "runs" : 13
    },
    "Breakwater/3" : {
       "cost" : "1",
-      "runs" : "3"
+      "item" : {
+         "KCA Icon/2" : 4,
+         "Prime Directive/2" : 2,
+         "Romulan Ale/1" : 1,
+         "Translation Algorithm/0" : 2
+      },
+      "runs" : 3
    },
    "By Hook Or By Crook/1" : {
       "cost" : "4",
@@ -661,6 +714,13 @@
    },
    "Coursing Hounds/2" : {
       "cost" : "16",
+      "item" : {
+         "Alcohol/3" : 0,
+         "Andorian Communicator/4" : 1,
+         "Casing/1" : 19,
+         "Emitter Crystal/2" : 13,
+         "Power Cell/0" : 27
+      },
       "runs" : 20
    },
    "Coursing Hounds/3" : {
@@ -827,7 +887,13 @@
    },
    "Down Once More/3" : {
       "cost" : "1",
-      "runs" : "1"
+      "item" : {
+         "Bloodwine/0" : 1,
+         "Kali-fal/2" : 0,
+         "Mass Spectrometer/0" : 1,
+         "Scalpel/2" : 1
+      },
+      "runs" : 1
    },
    "Family Squabble/1" : {
       "cost" : "8",
@@ -841,23 +907,57 @@
    },
    "Family Squabble/2" : {
       "cost" : "12",
-      "runs" : "55"
+      "item" : {
+         "Alcohol/1" : 80,
+         "Emitter Crystal/3" : 13,
+         "Nova Class Schematic/0" : 51,
+         "Replicator Ration/0" : 73
+      },
+      "runs" : 61
    },
    "Family Squabble/3" : {
       "cost" : "18",
-      "runs" : "3"
+      "item" : {
+         "Combadge (DS9)/2" : 3,
+         "Interlink/4" : 0,
+         "Isolinear Chips/3" : 0,
+         "Optronic Circuit/2" : 3,
+         "Replicator Ration/1" : 3
+      },
+      "runs" : 3
    },
    "Fan Club/1" : {
       "cost" : "10",
-      "runs" : "5"
+      "item" : {
+         "Emitter Crystal/1" : 102,
+         "Furs/3" : 1,
+         "Optronic Circuit/2" : 5,
+         "Power Cell/2" : 8,
+         "Writing PADD (TNG)/2" : 4
+      },
+      "runs" : 40
    },
    "Fan Club/2" : {
       "cost" : "16",
-      "runs" : "8"
+      "item" : {
+         "Criminal Activity Report/1" : 7,
+         "Expansion Module/3" : 2,
+         "Microconnector/1" : 34,
+         "Optronic Circuit/4" : 0,
+         "Subprocessor/2" : 11
+      },
+      "runs" : 18
    },
    "Fan Club/3" : {
       "cost" : "20",
-      "runs" : "1"
+      "item" : {
+         "Alcohol/2" : 13,
+         "Alcohol/4" : 0,
+         "Expansion Module/4" : 1,
+         "Isolinear Chips/2" : 12,
+         "Spices/3" : 4
+      },
+      "runs" : 10
    },
    "First Conflict/1" : {
       "cost" : "1",
@@ -901,7 +1001,13 @@
    },
    "Flesh and Blood/3" : {
       "cost" : "1",
-      "runs" : "6"
+      "item" : {
+         "IDIC/2" : 6,
+         "Klingon Disruptor Rifle/1" : 12,
+         "Quantum Chronometer/0" : 9,
+         "Rules of Acquisition/2" : 6
+      },
+      "runs" : 11
    },
    "For His Own Good/1" : {
       "cost" : "6",
@@ -948,19 +1054,47 @@
    },
    "For the People/2" : {
       "cost" : "16",
-      "runs" : "2"
+      "item" : {
+         "Casing/3" : 0,
+         "Combadge (DS9)/2" : 1,
+         "Database (Panel)/4" : 0,
+         "Isolinear Chips/2" : 0,
+         "Sensor/1" : 5
+      },
+      "runs" : 2
    },
    "Garak's Gamble/1" : {
       "cost" : "18",
-      "runs" : "3"
+      "item" : {
+         "Alcohol/4" : 0,
+         "Casing/2" : 2,
+         "Furs/0" : 4,
+         "Isolinear Chips/1" : 3,
+         "Polyalloy/3" : 0
+      },
+      "runs" : 3
    },
    "Garak's Gamble/2" : {
       "cost" : "22",
-      "runs" : "1"
+      "item" : {
+         "Clothing Pattern/4" : 0,
+         "Incense/2" : 1,
+         "Microconnector/3" : 0,
+         "Replicator Ration/2" : 2,
+         "Writing Padd/2" : 0
+      },
+      "runs" : 1
    },
    "Garak's Gamble/3" : {
       "cost" : "24",
-      "runs" : "1"
+      "item" : {
+         "Combadge/2" : 0,
+         "Database/4" : 0,
+         "Microconnector/3" : 1,
+         "Polyalloy/4" : 0,
+         "Spices/2" : 2
+      },
+      "runs" : 1
    },
    "He Means Well/1" : {
       "cost" : "10",
@@ -1020,7 +1154,13 @@
    },
    "Highwaymen/3" : {
       "cost" : "8",
-      "runs" : "5"
+      "item" : {
+         "Criminal Activity Report/1" : 8,
+         "Furs/2" : 6,
+         "Incense/0" : 10,
+         "Sensor/1" : 12
+      },
+      "runs" : 12
    },
    "His Own Man/1" : {
       "cost" : "4",
@@ -1075,7 +1215,13 @@
    },
    "History Interrupted/3" : {
       "cost" : "1",
-      "runs" : "8"
+      "item" : {
+         "Imperial Guard Emblem/0" : 5,
+         "Klingon House Crest/2" : 12,
+         "Multidimensional Transporter Device/0" : 11,
+         "Terran Slave Emblem/2" : 11
+      },
+      "runs" : 13
    },
    "Hot Pursuit/1" : {
       "cost" : "4",
@@ -1179,7 +1325,14 @@
    },
    "Improvised Entry/1" : {
       "cost" : "16",
-      "runs" : "9"
+      "item" : {
+         "Alcohol/3" : 0,
+         "Casing/1" : 17,
+         "Emitter Crystal/2" : 8,
+         "Interlink/4" : 0,
+         "Writing PADD (TNG)/2" : 2
+      },
+      "runs" : 9
    },
    "Incompatible With Life/1" : {
       "cost" : "1",
@@ -1203,7 +1356,13 @@
    },
    "Incompatible With Life/3" : {
       "cost" : "1",
-      "runs" : "5"
+      "item" : {
+         "Central Command Insignia/1" : 5,
+         "Klingon House Crest/1" : 5,
+         "Physiostimulator/0" : 4,
+         "Star Empire Icon/2" : 1
+      },
+      "runs" : 5
    },
    "Indiscriminate Mind/1" : {
       "cost" : "4",
@@ -1292,7 +1451,14 @@
    },
    "Internal Dispute/3" : {
       "cost" : "16",
-      "runs" : "8"
+      "item" : {
+         "Alcohol/4" : 0,
+         "Incense/0" : 5,
+         "Microconnector/1" : 6,
+         "Polyalloy/3" : 0,
+         "Replicator Ration/2" : 5
+      },
+      "runs" : 8
    },
    "Into His Own Hands/1" : {
       "cost" : "12",
@@ -1306,7 +1472,14 @@
    },
    "Into His Own Hands/2" : {
       "cost" : "18",
-      "runs" : "1"
+      "item" : {
+         "Alcohol/4" : 1,
+         "Astrometric Chart/2" : 0,
+         "Casing/1" : 4,
+         "Power Cell/3" : 0,
+         "Subprocessor/2" : 1
+      },
+      "runs" : 2
    },
    "Into His Own Hands/3" : {
       "cost" : "22",
@@ -1482,7 +1655,15 @@
       "runs" : 54
    },
    "Material Assistance/1" : {
-      "cost" : "16"
+      "cost" : "16",
+      "item" : {
+         "Casing/3" : 6,
+         "Combadge (DS9)/2" : 5,
+         "Gold-Pressed Latinum/1" : 38,
+         "Incense/2" : 13,
+         "Incense/4" : 1
+      },
+      "runs" : 21
    },
    "Moriarty's Deadline/1" : {
       "cost" : "10",
@@ -1496,7 +1677,15 @@
    },
    "Moriarty's Deadline/2" : {
       "cost" : "14",
-      "runs" : "10"
+      "item" : {
+         "Authorization Code/2" : 25,
+         "Clothing Pattern/2" : 32,
+         "Incense/4" : 0,
+         "Relay/1" : 26,
+         "Subprocessor/3" : 4,
+         "{{item|Val Jean Schematic}}/0" : 27
+      },
+      "runs" : 32
    },
    "Mortals and Mayhem/1" : {
       "cost" : "4",
@@ -1736,6 +1925,13 @@
    },
    "One Future Ends/3" : {
       "cost" : "16",
+      "item" : {
+         "Clothing Pattern/0" : 0,
+         "Clothing Pattern/3" : 0,
+         "Gold-Pressed Latinum/1" : 0,
+         "Microconnector/2" : 0,
+         "Spices/4" : 0
+      },
       "runs" : 0
    },
    "Operation Isolate/1" : {
@@ -1746,7 +1942,7 @@
          "Science Experiment/0" : 0,
          "Spices/0" : 14
       },
-      "runs" : "11"
+      "runs" : 11
    },
    "Organian Aid/1" : {
       "cost" : "8",
@@ -1985,7 +2181,14 @@
    },
    "Race to the Finish/2" : {
       "cost" : "16",
-      "runs" : "1"
+      "item" : {
+         "Alcohol/4" : 0,
+         "Database (Panel)/2" : 0,
+         "Furs/2" : 2,
+         "Isolinear Chips/3" : 0,
+         "Replicator Ration/0" : 1
+      },
+      "runs" : 1
    },
    "Rescue the Val Jean/1" : {
       "cost" : "4",
@@ -2011,7 +2214,14 @@
    },
    "Researching Future History/1" : {
       "cost" : "16",
-      "runs" : "8"
+      "item" : {
+         "Database (Panel)/3" : 1,
+         "Expansion Module/0" : 9,
+         "Isolinear Chips/4" : 0,
+         "Polyalloy/2" : 4,
+         "Sensor/1" : 13
+      },
+      "runs" : 9
    },
    "Retroactive Vengeance/1" : {
       "cost" : "16",
@@ -2037,7 +2247,14 @@
    },
    "Retroactive Vengeance/3" : {
       "cost" : "24",
-      "runs" : "1"
+      "item" : {
+         "Alcohol/3" : 1,
+         "Emitter Crystal/3" : 1,
+         "Field Rations/2" : 5,
+         "Incense/4" : 0,
+         "Microconnector/2" : 5
+      },
+      "runs" : 4
    },
    "Right Place, Wrong Time/1" : {
       "cost" : "16",
@@ -2051,7 +2268,15 @@
       "runs" : 33
    },
    "Right Place, Wrong Time/2" : {
-      "cost" : "22"
+      "cost" : "22",
+      "item" : {
+         "Database (Panel)/0" : 9,
+         "Database (Panel)/4" : 2,
+         "Emitter Crystal/3" : 2,
+         "Isolinear Chips/2" : 9,
+         "Spices/1" : 8
+      },
+      "runs" : 10
    },
    "Right of Conquest/1" : {
       "cost" : "4",
@@ -2119,11 +2344,24 @@
    },
    "Saving Smiley O'Brien/1" : {
       "cost" : "12",
-      "runs" : "4"
+      "item" : {
+         "Alcohol/1" : 1,
+         "Interlink/0" : 9,
+         "Power Cell/2" : 1,
+         "Spices/3" : 1
+      },
+      "runs" : 4
    },
    "Saving Smiley O'Brien/2" : {
       "cost" : "18",
-      "runs" : "6"
+      "item" : {
+         "Alcohol/3" : 5,
+         "Clothing Pattern/2" : 2,
+         "Database (Panel)/1" : 8,
+         "Phaser Type 1/2" : 1,
+         "Polyalloy/4" : 2
+      },
+      "runs" : 6
    },
    "Secure the Chavez/2" : {
       "cost" : "16",
@@ -2481,13 +2719,13 @@
    "The Toss/1" : {
       "cost" : "6",
       "item" : {
-         "Astrometric Chart/1" : "6",
-         "Identification Code/1" : "13",
-         "Maquis Raider Schematic/0" : "69",
-         "Power Cell/1" : "56",
-         "Replicator Ration/0" : "118"
+         "Astrometric Chart/1" : 6,
+         "Identification Code/1" : 13,
+         "Maquis Raider Schematic/0" : 69,
+         "Power Cell/1" : 56,
+         "Replicator Ration/0" : 118
       },
-      "runs" : "72"
+      "runs" : 72
    },
    "The Toss/2" : {
       "cost" : "10",
@@ -2568,7 +2806,14 @@
    },
    "The Walls Have Ears/3" : {
       "cost" : "16",
-      "runs" : "24"
+      "item" : {
+         "Emitter Crystal/0" : 37,
+         "Emitter Crystal/3" : 5,
+         "Power Cell/4" : 2,
+         "Sensor/1" : 30,
+         "Sensor/2" : 25
+      },
+      "runs" : 33
    },
    "The Wrong Crowd/1" : {
       "cost" : "4",
@@ -2730,6 +2975,13 @@
    },
    "With Friends Like These/2" : {
       "cost" : "16",
-      "runs" : "7"
+      "item" : {
+         "Database (Panel)/2" : 49,
+         "Incense/0" : 43,
+         "Power Cell/3" : 6,
+         "Relay/1" : 54,
+         "Subcutaneous Transponder/0" : 13
+      },
+      "runs" : 55
    }
 }
