@@ -368,9 +368,9 @@
       "Archer's Communicator/0" : 2
    },
    "Archer's Communicator/2" : {
+      "Boy Scout Badge/1" : 1,
       "Communicator (ENT)/1" : 2,
-      "NX-01 Cap/1" : 1,
-      "Terran Emblem/1" : 1
+      "NX-01 Cap/1" : 1
    },
    "Archer's Communicator/3" : {
       "Archer's Communicator/2" : 1,
@@ -833,7 +833,7 @@
       "Trowel/1" : 1
    },
    "Boothby's Trowel/3" : {
-      "Boothby's Trowel/2" : 2,
+      "Boothby's Trowel/2" : 1,
       "Psychological Evaluation Holoprogram/1" : 1,
       "Single Pot Whiskey/2" : 1
    },
@@ -2282,11 +2282,21 @@
       "Doctor Chaotica's Viewscreen/4" : 2,
       "Multidimensional Transporter Device/2" : 2
    },
+   "Dolim's Armor/2" : {
+      "Scalpel/1" : 1,
+      "Tactical Alert/1" : 2,
+      "Xindi Armor/2" : 1
+   },
    "Dolim's Pistol/2" : {
       "/" : 1,
       "Identification Code/1" : 1,
       "Power Cell/1" : 2,
       "Xindi Pistol/2" : 1
+   },
+   "Dolim's Pistol/3" : {
+      "Dolim's Pistol/2" : 1,
+      "Emitter Crystal/2" : 2,
+      "Xindi Icon/2" : 1
    },
    "Dom-Jot Cue/0" : {
       "Casing/0" : 1,
@@ -2817,9 +2827,19 @@
       "Emitter Crystal/1" : 3,
       "Power Cell/1" : 2
    },
+   "Ferengi PADD/3" : {
+      "Database (Panel)/2" : 2,
+      "Ferengi PADD/2" : 2,
+      "Subprocessor/2" : 2
+   },
+   "Ferengi PADD/4" : {
+      "Database (Panel)/3" : 2,
+      "Ferengi PADD/3" : 2,
+      "Subprocessor/3" : 2
+   },
    "Ferengi Trade By-Laws/3" : {
       "Ferengi Trade By-Laws/2" : 1,
-      "Gold-Pressed Latinum/2" : 1,
+      "Gold-Pressed Latinum/2" : 2,
       "Great Material Continuum Texts/2" : 1
    },
    "Field Rations/3" : {
@@ -3142,6 +3162,11 @@
       "Microconnector/3" : 4,
       "Science Experiment/3" : 1
    },
+   "Geordi's VISOR/5" : {
+      "Geordi's VISOR/4" : 1,
+      "Interphasic Scanner/3" : 2,
+      "Spectral Micrometer/3" : 2
+   },
    "Geordi's Watch/3" : {
       "Ancient Watch/3" : 1,
       "Casing/2" : 4,
@@ -3244,10 +3269,31 @@
       "Great Material Continuum Texts/4" : 1,
       "Tongo Deck/4" : 1
    },
+   "Grand Nagus Zek's Staff/3" : {
+      "Gold-Pressed Latinum/2" : 4,
+      "Grand Nagus Staff/2" : 1
+   },
    "Grand Nagus Zek's Staff/5" : {
       "Gold-Pressed Latinum/4" : 2,
       "Grand Nagus Staff/4" : 1,
       "Hupyrian Beetle Snuff/4" : 1
+   },
+   "Grand Nagus Zek's Suit/3" : {
+      "Civilian Diplomatic Clothing/2" : 1,
+      "Clothing Pattern/2" : 2,
+      "Hupyrian Beetle Snuff/2" : 1
+   },
+   "Grand Nagus Zek's Suit/4" : {
+      "Ferengi Bill of Opportunities/2" : 1,
+      "Gold-Pressed Latinum/3" : 2,
+      "Grand Nagus Zek's Suit/3" : 1,
+      "Tongo Deck/3" : 1
+   },
+   "Grand Nagus Zek's Suit/5" : {
+      "Gold-Pressed Latinum/4" : 2,
+      "Grand Nagus Staff/4" : 1,
+      "Grand Nagus Zek's Suit/4" : 1,
+      "Rules of Acquisition/4" : 1
    },
    "Gravimetric Scanner/1" : {
       "Gravimetric Scanner/0" : 2
@@ -4198,6 +4244,21 @@
       "Central Command Insignia/3" : 1,
       "Kanar/3" : 2
    },
+   "Kang's Armor/2" : {
+      "Klingon Armor (TOS)/1" : 2,
+      "Klingon Warnog/0" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Kang's Baldric/2" : {
+      "Klingon Baldric/2" : 1,
+      "Polyalloy/0" : 1,
+      "Security Codes/0" : 1
+   },
+   "Kang's Baldric/3" : {
+      "Kang's Baldric/2" : 1,
+      "Klingon Communicator/1" : 1,
+      "Klingon House Crest/1" : 1
+   },
    "Kang's Sword/2" : {
       "Bloodwine/1" : 1,
       "D'k tahg/2" : 1,
@@ -4766,6 +4827,11 @@
       "Klingon Communicator/2" : 1,
       "Mek'leth/2" : 2
    },
+   "Kruge's Communicator/4" : {
+      "Gagh/3" : 1,
+      "Kruge's Communicator/3" : 1,
+      "Mek'leth/3" : 1
+   },
    "Kruge's Pistol/3" : {
       "Expansion Module/2" : 2,
       "Klingon Disruptor Pistol/2" : 2,
@@ -4775,6 +4841,11 @@
       "Clothing Pattern/2" : 4,
       "Klingon Disruptor Pistol/2" : 1,
       "Klingon Stole/2" : 1
+   },
+   "Kruge's Stole/4" : {
+      "Clothing Pattern/3" : 4,
+      "Klingon Disruptor Pistol/3" : 1,
+      "Kruge's Stole/3" : 2
    },
    "Kukalaka/3" : {
       "Autosuture/2" : 1,
@@ -4945,6 +5016,16 @@
       "Boy Scout Badge/1" : 1,
       "EM Pistol/0" : 1,
       "Particle Rifle/0" : 1
+   },
+   "MACO Badge/2" : {
+      "Clothing Pattern/1" : 2,
+      "MACO Badge/1" : 1,
+      "Security Codes/0" : 2
+   },
+   "MACO Badge/3" : {
+      "MACO Badge/2" : 1,
+      "Stun Grenade/1" : 2,
+      "Tactical Alert/1" : 1
    },
    "MACO Uniform/0" : {
       "Clothing Pattern/0" : 1,
@@ -5162,6 +5243,10 @@
    "McCoy's Civilian Outfit/2" : {
       "Clothing Pattern/0" : 2,
       "Single Pot Whiskey/1" : 2
+   },
+   "McCoy's Civilian Outfit/3" : {
+      "McCoy's Civilian Outfit/2" : 1,
+      "McCoy's Scrubs/2" : 1
    },
    "McCoy's Scrubs/2" : {
       "20th Century Scrubs/2" : 1,
@@ -5452,6 +5537,11 @@
       "EM Pistol/2" : 1,
       "Emitter Crystal/1" : 2,
       "Power Cell/1" : 2
+   },
+   "Money's Pistol/3" : {
+      "Authorization Code/2" : 1,
+      "Field Rations/1" : 2,
+      "Money's Pistol/2" : 1
    },
    "Money's Rifle/2" : {
       "Emitter Crystal/2" : 2,
@@ -6554,6 +6644,12 @@
       "Klingon Armor (TNG)/2" : 2,
       "Virtual Control Device/2" : 1
    },
+   "Quark's Armor/4" : {
+      "House Quark Crest/3" : 1,
+      "Polyalloy/3" : 2,
+      "Quark's Armor/3" : 1,
+      "Virtual Control Device/3" : 1
+   },
    "Quark's Bat'leth/3" : {
       "Bat'leth/2" : 2,
       "Tongo Deck/2" : 2
@@ -7223,6 +7319,11 @@
       "Heavy Scanner/1" : 2,
       "Identification Code/0" : 2
    },
+   "Scotty's Suit/3" : {
+      "Scotty's Suit/2" : 1,
+      "Single Pot Whiskey/2" : 1,
+      "Toolbox/1" : 2
+   },
    "Scotty's Wrench/2" : {
       "Engineering Lesson/1" : 1,
       "Polyalloy/1" : 2,
@@ -7460,6 +7561,16 @@
       "Alcohol/3" : 1,
       "Poetry/3" : 1,
       "Single Pot Whiskey/4" : 1
+   },
+   "Sisko's Classic PADD/3" : {
+      "Authorization Code/1" : 1,
+      "Casing/2" : 2,
+      "Writing PADD (TOS)/2" : 2
+   },
+   "Sisko's Classic PADD/4" : {
+      "Desktop Monitor/2" : 2,
+      "Isolinear Chips/3" : 2,
+      "Sisko's Classic PADD/3" : 1
    },
    "Sisko's Classic Phaser/3" : {
       "Emitter Crystal/2" : 2,
@@ -8377,10 +8488,13 @@
       "Stun Grenade/0" : 2
    },
    "Stun Grenade/2" : {
-      "Stun Grenade/1" : 2
+      "Casing/1" : 2,
+      "Stun Grenade/1" : 1
    },
    "Stun Grenade/3" : {
-      "Stun Grenade/2" : 2
+      "Expansion Module/2" : 2,
+      "Power Cell/2" : 2,
+      "Stun Grenade/2" : 1
    },
    "Stun Grenade/4" : {
       "Stun Grenade/3" : 2
@@ -8419,6 +8533,27 @@
       "Microconnector/3" : 2,
       "Subprocessor/2" : 2,
       "Subvocal Processor/3" : 2
+   },
+   "Suliban Pistol/0" : {
+      "Casing/0" : 3,
+      "Emitter Crystal/0" : 1,
+      "Power Cell/0" : 1
+   },
+   "Suliban Pistol/1" : {
+      "Phase Pistol/1" : 1,
+      "Suliban Pistol/0" : 1
+   },
+   "Suliban Pistol/2" : {
+      "Suliban Pistol/1" : 2
+   },
+   "Suliban Uniform/0" : {
+      "Clothing Pattern/0" : 1,
+      "Furs/0" : 3
+   },
+   "Suliban Uniform/1" : {
+      "Clothing Pattern/1" : 1,
+      "Quantum Chronometer/0" : 1,
+      "Suliban Uniform/0" : 1
    },
    "Surgery Outfit/0" : {
       "Cortical Monitor/0" : 1,
@@ -8947,6 +9082,11 @@
       "Science Experiment/2" : 2,
       "Scotty's Wrench/2" : 1
    },
+   "Transparent Aluminum/4" : {
+      "Polyalloy/3" : 4,
+      "Scotty's Scanner/3" : 1,
+      "Transparent Aluminum/3" : 1
+   },
    "Transporter Control Module/1" : {
       "Casing/0" : 1,
       "Transporter Control Module/0" : 1
@@ -9207,6 +9347,11 @@
       "Civilian Scientist Clothing/1" : 2,
       "Clothing Pattern/1" : 2
    },
+   "Vash's Pack/3" : {
+      "Backpack/2" : 2,
+      "Kurlan Naiskos/2" : 1,
+      "Palm Beacon/2" : 1
+   },
    "Vedek Cowl/0" : {
       "Clothing Pattern/0" : 2,
       "Spring Wine/0" : 1
@@ -9268,6 +9413,16 @@
       "Relay/2" : 2,
       "Subprocessor/2" : 2,
       "Virtual Control Device/2" : 2
+   },
+   "Virtual Control Device/4" : {
+      "Relay/3" : 2,
+      "Subprocessor/3" : 2,
+      "Virtual Control Device/3" : 2
+   },
+   "Virtual Control Device/5" : {
+      "Relay/4" : 2,
+      "Subprocessor/4" : 2,
+      "Virtual Control Device/4" : 2
    },
    "Virtual Display Device/1" : {
       "Casing/1" : 2,

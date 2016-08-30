@@ -1167,19 +1167,19 @@
          "level" : 20
       },
       {
-         "item" : "Riker's Uniform/2",
+         "item" : "Admiral's Uniform/1",
          "level" : 20
       },
       {
-         "item" : "Phaser Type 2 (TNG)/1",
+         "item" : "Strategema/2",
          "level" : 23
       },
       {
-         "item" : "Combadge (ALT)/2",
+         "item" : "Admiral Pips/2",
          "level" : 26
       },
       {
-         "item" : "Priority One Message/2",
+         "item" : "Riker's Lucky Deck/3",
          "level" : 30
       },
       {
@@ -1393,19 +1393,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Agent Harris's Uniform/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/3",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Tequila/4",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Section 31 Encryption Algorithm/4",
          "level" : 70
       },
       {
@@ -3207,35 +3207,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Quark's Suit/2",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Warnog/2",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Great Material Continuum Texts/2",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Rules of Acquisition/2",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Quark's Suit/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/2",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Ferengi Trade By-Laws/3",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Slug-o-Cola/3",
          "level" : 99
       }
    ],
@@ -5193,7 +5193,7 @@
          "level" : 2
       },
       {
-         "item" : "Linguistic Database/0",
+         "item" : "Linguistic Database/1",
          "level" : 4
       },
       {
@@ -7939,19 +7939,19 @@
    ],
    "Colonel Karr" : [
       {
-         "item" : "item/5",
+         "item" : "Hirogen Hunter Armor/1",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "20th Century Pistol/1",
          "level" : 5
       },
       {
@@ -8829,19 +8829,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Dolim's Armor/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Dolim's Pistol/3",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Kemocite/4",
          "level" : 60
       },
       {
@@ -8991,19 +8991,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Kang's Armor/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon PADD/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Kang's Baldric/3",
          "level" : 60
       },
       {
@@ -9363,35 +9363,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's Armor/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's D'k tahg/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Mek'leth/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's Communicator/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's Armor/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Warnog/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's Pistol/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Kruge's Stole/4",
          "level" : 99
       }
    ],
@@ -13057,35 +13057,35 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Detronal Scanner/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Physiostimulator/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Stethoscope/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Scalpel/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Cortical Monitor/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Tricorder/3",
          "level" : 80
       },
       {
@@ -14677,19 +14677,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "McCoy's Civilian Outfit/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Emergency Transponder/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "McCoy's Tricorder/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Stethoscope/3",
          "level" : 70
       },
       {
@@ -19893,19 +19893,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Zek's Suit/5",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Rules of Acquisition/4",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Security Reports/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Hupyrian Beetle Snuff/4",
          "level" : 90
       },
       {
@@ -20201,19 +20201,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Medical Clothing/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Golf Club/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Psychology Text/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Backpack/4",
          "level" : 80
       },
       {
@@ -22971,19 +22971,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Quark's Armor/4",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Rules of Acquisition/4",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Covert Contacts/5",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "House Quark Crest/5",
          "level" : 90
       },
       {
@@ -30553,19 +30553,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/2",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Boxing Gloves/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Pistol/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Badge/3",
          "level" : 70
       },
       {
@@ -33373,35 +33373,35 @@
    ],
    "Silik" : [
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Pistol/1",
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "Priority One Message/1",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/1",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Pistol/2",
          "level" : 20
       },
       {
