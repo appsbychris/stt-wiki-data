@@ -5200,6 +5200,16 @@
       "Late Vintage Bloodwine/4" : 1,
       "Martok's Armor/4" : 2
    },
+   "Martok's Knife/2" : {
+      "D'k tahg/1" : 1,
+      "Klingon House Crest/1" : 1
+   },
+   "Martok's Knife/3" : {
+      "Martok's Knife/2" : 1
+   },
+   "Martok's Knife/4" : {
+      "Martok's Knife/3" : 1
+   },
    "Martok's Pistol/2" : {
       "Bloodwine/1" : 1,
       "House Martok Crest/1" : 1,
@@ -5460,6 +5470,21 @@
       "Astrometric Chart/2" : 2,
       "Engineering Lesson/1" : 1,
       "Melora's Exoskeleton/2" : 1
+   },
+   "Mendon's Respirator/2" : {
+      "ODN Recoupler/1" : 2,
+      "Physiostimulator/1" : 1,
+      "Sensor/0" : 2
+   },
+   "Mendon's Respirator/3" : {
+      "Mendon's Respirator/2" : 1,
+      "Science Lesson/2" : 1,
+      "Sensor/1" : 2
+   },
+   "Mendon's Respirator/4" : {
+      "Mendon's Respirator/3" : 1,
+      "Physiostimulator/4" : 1,
+      "Sensor/2" : 4
    },
    "Micro-Optic Drill/1" : {
       "Casing/0" : 2,
@@ -6592,6 +6617,14 @@
       "Neurocortical Monitor/1" : 2,
       "Psychology Text/2" : 1
    },
+   "Q's Gavel/3" : {
+      "Authorization Code/2" : 2,
+      "Case Files/2" : 2
+   },
+   "Q's Gavel/4" : {
+      "Case Files/3" : 2,
+      "Q's Gavel/3" : 1
+   },
    "Q's Robes/2" : {
       "Civilian Disguise/1" : 2,
       "Criminal Activity Report/1" : 2
@@ -7652,6 +7685,36 @@
    "Slug-o-Cola/4" : {
       "Gold-Pressed Latinum/3" : 1,
       "Slug-o-Cola/3" : 2
+   },
+   "Smiley's Outfit/2" : {
+      "Civilian Command Clothing/1" : 2,
+      "Civilian Engineer Clothing/1" : 2,
+      "Terran Slave Emblem/1" : 1
+   },
+   "Smiley's Outfit/3" : {
+      "Single Pot Whiskey/2" : 1,
+      "Smiley's Outfit/2" : 1,
+      "Terran Slave Emblem/1" : 1
+   },
+   "Smiley's Outfit/4" : {
+      "Single Pot Whiskey/3" : 1,
+      "Smiley's Outfit/3" : 1,
+      "Terran Slave Emblem/2" : 1
+   },
+   "Smiley's Pistol/3" : {
+      "Multidimensional Transporter Device/1" : 1,
+      "Terran Pistol/3" : 1,
+      "Terran Slave Emblem/2" : 1
+   },
+   "Smiley's Toolbox/3" : {
+      "Multidimensional Transporter Device/2" : 1,
+      "Single Pot Whiskey/1" : 1,
+      "Toolbox/3" : 1
+   },
+   "Smiley's Toolbox/4" : {
+      "Multidimensional Transporter Device/3" : 1,
+      "Smiley's Toolbox/3" : 1,
+      "Terran Slave Emblem/1" : 1
    },
    "Smoking Pipe/2" : {
       "Casing/2" : 2,
@@ -9862,6 +9925,16 @@
       "Emitter Crystal/2" : 2,
       "Xindi Icon/1" : 1,
       "Xindi Pistol/1" : 1
+   },
+   "Yar's Belt/2" : {
+      "Phaser Type 1/1" : 1,
+      "Phaser Type 3/1" : 1,
+      "Security Belt/1" : 1
+   },
+   "Yar's Belt/3" : {
+      "Phaser Type 3/1" : 1,
+      "Security Codes/0" : 1,
+      "Yar's Belt/2" : 1
    },
    "Yar's Phaser/2" : {
       "Emitter Crystal/1" : 2,
