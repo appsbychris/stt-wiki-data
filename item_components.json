@@ -2288,7 +2288,6 @@
       "Xindi Armor/2" : 1
    },
    "Dolim's Pistol/2" : {
-      "/" : 1,
       "Identification Code/1" : 1,
       "Power Cell/1" : 2,
       "Xindi Pistol/2" : 1
@@ -2297,6 +2296,11 @@
       "Dolim's Pistol/2" : 1,
       "Emitter Crystal/2" : 2,
       "Xindi Icon/2" : 1
+   },
+   "Dolim's Pistol/4" : {
+      "Dolim's Pistol/3" : 1,
+      "Kemocite/2" : 2,
+      "Security Codes/2" : 2
    },
    "Dom-Jot Cue/0" : {
       "Casing/0" : 1,
@@ -3234,6 +3238,11 @@
       "Clothing Pattern/2" : 2,
       "Gralik's Armor/2" : 1,
       "Xindi Icon/1" : 1
+   },
+   "Gralik's Armor/4" : {
+      "Gralik's Armor/3" : 1,
+      "Hand Scanner/3" : 1,
+      "Xindi Pistol/2" : 1
    },
    "Gralik's Scanner/3" : {
       "Hand Scanner/2" : 2,
@@ -7587,6 +7596,16 @@
       "Security Codes/4" : 2,
       "Sisko's Classic Phaser/4" : 1
    },
+   "Sisko's Disguise/3" : {
+      "Starfleet Command Uniform (TOS)/2" : 2,
+      "Starfleet Uniform Pattern/2" : 2,
+      "Temporal Prime Directive/2" : 2
+   },
+   "Sisko's Disguise/4" : {
+      "Sisko's Disguise/3" : 1,
+      "Temporal Prime Directive/3" : 2,
+      "Writing PADD (TOS)/2" : 2
+   },
    "Sisko's Pistol/2" : {
       "Klingon Disruptor Pistol/1" : 1,
       "Terran Emblem/1" : 1,
@@ -7596,6 +7615,16 @@
       "Gold-Pressed Latinum/2" : 4,
       "Sisko's Pistol/2" : 1,
       "Terran Slave Emblem/2" : 1
+   },
+   "Sisko's Recipe Book/3" : {
+      "Alcohol/2" : 4,
+      "Identification Code/2" : 1,
+      "Recipe Book/1" : 1
+   },
+   "Sisko's Recipe Book/5" : {
+      "Alcohol/3" : 4,
+      "Identification Code/3" : 2,
+      "Sisko's Recipe Book/3" : 2
    },
    "Sloan's Outfit/2" : {
       "Civilian Disguise/1" : 2,
@@ -8497,7 +8526,8 @@
       "Stun Grenade/2" : 1
    },
    "Stun Grenade/4" : {
-      "Stun Grenade/3" : 2
+      "Casing/3" : 2,
+      "Stun Grenade/3" : 1
    },
    "Subcutaneous Transponder/1" : {
       "Subcutaneous Transponder/0" : 2
@@ -8885,6 +8915,11 @@
       "Polyalloy/3" : 2,
       "Terran Knife/3" : 1
    },
+   "Terran Knife/5" : {
+      "Casing/3" : 4,
+      "Poisoned Drink/3" : 1,
+      "Terran Knife/4" : 1
+   },
    "Terran Pistol/0" : {
       "Casing/0" : 2,
       "Emitter Crystal/0" : 4,
@@ -9203,6 +9238,11 @@
       "Terran Pistol/3" : 1,
       "Tucker's Sash/3" : 1
    },
+   "Tucker's Sash/5" : {
+      "Clothing Pattern/4" : 2,
+      "Radiation Collector/3" : 2,
+      "Tucker's Sash/4" : 1
+   },
    "Tucker's Toolbox/4" : {
       "Boy Scout Badge/3" : 1,
       "Toolbox/3" : 1
@@ -9210,6 +9250,11 @@
    "Tucker's Uniform/3" : {
       "Starfleet Engineering Uniform (TWOK)/2" : 2,
       "Terran Sash/2" : 1
+   },
+   "Tucker's Uniform/4" : {
+      "Starfleet Engineering Uniform (TWOK)/2" : 1,
+      "Terran Emblem/3" : 1,
+      "Tucker's Sash/3" : 1
    },
    "Tulaberry Wine/0" : {
       "Alcohol/0" : 3,
@@ -9811,7 +9856,7 @@
    },
    "Xindi Pistol/1" : {
       "Casing/1" : 2,
-      "Xindi Pistol/1" : 2
+      "Xindi Pistol/0" : 2
    },
    "Xindi Pistol/2" : {
       "Emitter Crystal/2" : 2,
