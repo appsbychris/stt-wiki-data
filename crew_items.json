@@ -441,10 +441,6 @@
          "level" : 70
       },
       {
-         "item" : "Communicator/4",
-         "level" : 73
-      },
-      {
          "item" : "Authorization Code/4",
          "level" : 76
       },
@@ -1199,19 +1195,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Riker's Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Palm Beacon/3",
          "level" : 43
       },
       {
-         "item" : "Identification Code/4",
+         "item" : "Priority One Message/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/4",
          "level" : 50
       },
       {
@@ -2750,6 +2746,168 @@
       },
       {
          "item" : "Soong's Pistol/5",
+         "level" : 99
+      }
+   ],
+   "Aviator Yar" : [
+      {
+         "item" : "Civilian Command Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Toolbox/0",
+         "level" : 2
+      },
+      {
+         "item" : "Authorization Code/0",
+         "level" : 4
+      },
+      {
+         "item" : "Field Rations/1",
+         "level" : 5
+      },
+      {
+         "item" : "WWII Flight Jacket/1",
+         "level" : 10
+      },
+      {
+         "item" : "Authorization Code/1",
+         "level" : 13
+      },
+      {
+         "item" : "WWII Flight Helmet/1",
+         "level" : 16
+      },
+      {
+         "item" : "Identification Code/1",
+         "level" : 20
+      },
+      {
+         "item" : "WWII Flight Jacket/2",
+         "level" : 20
+      },
+      {
+         "item" : "Tactical Alert/2",
+         "level" : 23
+      },
+      {
+         "item" : "Desealing Rod/2",
+         "level" : 26
+      },
+      {
+         "item" : "Yar's Aviator Scarf/2",
+         "level" : 30
+      },
+      {
+         "item" : "Yar's Flight Jacket/3",
+         "level" : 30
+      },
+      {
+         "item" : "Self-sealing Stem Bolt/2",
+         "level" : 33
+      },
+      {
+         "item" : "Authorization Code/2",
+         "level" : 36
+      },
+      {
+         "item" : "WWII Flight Helmet/3",
+         "level" : 40
+      },
+      {
+         "item" : "Yar's Flight Jacket/3",
+         "level" : 40
+      },
+      {
+         "item" : "Yar's Aviator Scarf/2",
+         "level" : 43
+      },
+      {
+         "item" : "Phaser Type 3 (TNG)/3",
+         "level" : 46
+      },
+      {
+         "item" : "Wrench/2",
+         "level" : 50
+      },
+      {
+         "item" : "Yar's Flight Jacket/3",
+         "level" : 50
+      },
+      {
+         "item" : "Stun Grenade/3",
+         "level" : 53
+      },
+      {
+         "item" : "Tactical Alert/3",
+         "level" : 56
+      },
+      {
+         "item" : "Yar's Flight Helmet/4",
+         "level" : 60
+      },
+      {
+         "item" : "Yar's Flight Jacket/4",
+         "level" : 60
+      },
+      {
+         "item" : "Yar's Aviator Scarf/3",
+         "level" : 63
+      },
+      {
+         "item" : "Security Reports/4",
+         "level" : 66
+      },
+      {
+         "item" : "Sonic Driver/3",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ],
@@ -8861,19 +9019,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Dolim's Armor/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Tactical Alert/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Novel/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/4",
          "level" : 80
       },
       {
@@ -9995,19 +10153,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Sela's Uniform/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "First Contact Protocol/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Romulan Ale/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Sela's Pistol/4",
          "level" : 80
       },
       {
@@ -11291,19 +11449,19 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Shran's Uniform/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Tactical Alert/4",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Andorian Pistol/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Shran's Ushaan-tor/4",
          "level" : 80
       },
       {
@@ -12993,7 +13151,7 @@
          "level" : 20
       },
       {
-         "item" : "Medical Tunic/2",
+         "item" : "Medical Tunic (TOS)/2",
          "level" : 20
       },
       {
@@ -13025,19 +13183,15 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
-         "level" : 43
-      },
-      {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TMP)/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Dissection Tools/3",
          "level" : 50
       },
       {
@@ -13575,35 +13729,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Hirogen Technician Suit/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Laser Beacon/2",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Donik's Scanner/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Hirogen Technician Suit/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Holocommunicator/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Optronic Data Core/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Donik's Toolbox/4",
          "level" : 99
       }
    ],
@@ -14419,19 +14573,19 @@
    ],
    "Dr. Toby Russell" : [
       {
-         "item" : "item/5",
+         "item" : "Surgery Outfit/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Tricorder Mark VII/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Cortical Stimulator/2",
          "level" : 5
       },
       {
@@ -15535,19 +15689,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Engineering Jacket/1",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "ODN Recoupler/2",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Interphasic Coil Spanner/2",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Holoprogram/2",
          "level" : 99
       }
    ],
@@ -19585,19 +19739,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Gralik's Armor/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Micro-Resonator/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Kemocite/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Gralik's Scanner/5",
          "level" : 99
       }
    ],
@@ -30569,35 +30723,35 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Badge/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Plasma Rifle/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Tactical Alert/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Field Rations/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Baton/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Pistol/4",
          "level" : 90
       },
       {
@@ -30938,6 +31092,330 @@
       },
       {
          "item" : "Phaser Type 2 (DS9)/3",
+         "level" : 99
+      }
+   ],
+   "RAF Julian Bashir" : [
+      {
+         "item" : "20th Century Scrubs/0",
+         "level" : 1
+      },
+      {
+         "item" : "Autosuture/0",
+         "level" : 2
+      },
+      {
+         "item" : "Poker Cards/0",
+         "level" : 4
+      },
+      {
+         "item" : "20th Century Pistol/1",
+         "level" : 5
+      },
+      {
+         "item" : "WWII Flight Jacket/1",
+         "level" : 10
+      },
+      {
+         "item" : "Security Codes/0",
+         "level" : 13
+      },
+      {
+         "item" : "WWII Flight Helmet/1",
+         "level" : 16
+      },
+      {
+         "item" : "Medkit/1",
+         "level" : 20
+      },
+      {
+         "item" : "Bashir's Flight Jacket/2",
+         "level" : 20
+      },
+      {
+         "item" : "Ancient Watch/1",
+         "level" : 23
+      },
+      {
+         "item" : "Medkit/1",
+         "level" : 26
+      },
+      {
+         "item" : "20th Century Pistol/2",
+         "level" : 30
+      },
+      {
+         "item" : "Bashir's Flight Jacket/2",
+         "level" : 30
+      },
+      {
+         "item" : "WWII Flight Helmet/2",
+         "level" : 33
+      },
+      {
+         "item" : "Bashir's Aviator Scarf/2",
+         "level" : 36
+      },
+      {
+         "item" : "Field Rations/3",
+         "level" : 40
+      },
+      {
+         "item" : "Bashir's Flight Jacket/3",
+         "level" : 40
+      },
+      {
+         "item" : "Identification Code/3",
+         "level" : 43
+      },
+      {
+         "item" : "Single Pot Whiskey/2",
+         "level" : 46
+      },
+      {
+         "item" : "Medical Lesson/2",
+         "level" : 50
+      },
+      {
+         "item" : "Bashir's Flight Jacket/3",
+         "level" : 50
+      },
+      {
+         "item" : "Battle of Britain Holoprogram/3",
+         "level" : 53
+      },
+      {
+         "item" : "Bashir's Pistol/3",
+         "level" : 56
+      },
+      {
+         "item" : "Backpack/2",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
+         "level" : 99
+      }
+   ],
+   "RAF Miles O'Brien" : [
+      {
+         "item" : "Civilian Engineer Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Engineering Lesson/0",
+         "level" : 2
+      },
+      {
+         "item" : "Authorization Code/0",
+         "level" : 4
+      },
+      {
+         "item" : "20th Century Pistol/0",
+         "level" : 5
+      },
+      {
+         "item" : "WWII Flight Jacket/1",
+         "level" : 10
+      },
+      {
+         "item" : "Plasma Torch/1",
+         "level" : 13
+      },
+      {
+         "item" : "WWII Flight Helmet/1",
+         "level" : 16
+      },
+      {
+         "item" : "Identification Code/1",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 23
+      },
+      {
+         "item" : "item/5",
+         "level" : 26
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "O'Brien's Flight Jacket/3",
+         "level" : 30
+      },
+      {
+         "item" : "Engineering Lesson/2",
+         "level" : 33
+      },
+      {
+         "item" : "Authorization Code/2",
+         "level" : 36
+      },
+      {
+         "item" : "WWII Flight Helmet/3",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 43
+      },
+      {
+         "item" : "item/5",
+         "level" : 46
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 53
+      },
+      {
+         "item" : "item/5",
+         "level" : 56
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "O'Brien's Flight Jacket/4",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "O'Brien's Flight Jacket/5",
+         "level" : 90
+      },
+      {
+         "item" : "O'Brien's Wrench/5",
+         "level" : 93
+      },
+      {
+         "item" : "Battle of Britain Holoprogram/5",
+         "level" : 96
+      },
+      {
+         "item" : "O'Brien's Flight Helmet/5",
          "level" : 99
       }
    ],
@@ -33405,99 +33883,99 @@
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/2",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Genetic Modification/2",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Security Codes/2",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (ENT)/3",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/3",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Pistol/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Genetic Modification/3",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Stun Grenade/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Suliban Uniform/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Silik's Pistol/3",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (ENT)/3",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/4",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Silik's Uniform/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Palm Beacon/4",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Parametric Scanner/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Grenade/4",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Silik's Uniform/4",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Silik's Pistol/4",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Genetic Modification/4",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/4",
          "level" : 80
       },
       {
@@ -35171,7 +35649,7 @@
          "level" : 5
       },
       {
-         "item" : "Starfleet Security Uniform (TNG)/1",
+         "item" : "Starfleet Security Uniform (TNG)/0",
          "level" : 10
       },
       {
@@ -35207,7 +35685,7 @@
          "level" : 30
       },
       {
-         "item" : "Phaser Type 3 (TNG)/3",
+         "item" : "Phaser Type 3 (DS9)/3",
          "level" : 33
       },
       {
@@ -35219,7 +35697,7 @@
          "level" : 40
       },
       {
-         "item" : "Starfleet Security Uniform (TNG)/3",
+         "item" : "Starfleet Security Uniform (DS9)/3",
          "level" : 40
       },
       {
@@ -36122,6 +36600,168 @@
       },
       {
          "item" : "Moby-Dick Novel/5",
+         "level" : 99
+      }
+   ],
+   "Tuskegee Mayweather" : [
+      {
+         "item" : "Civilian Engineer Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Prime Directive/0",
+         "level" : 2
+      },
+      {
+         "item" : "Plasma Torch/0",
+         "level" : 4
+      },
+      {
+         "item" : "Writing PADD (DS9)/1",
+         "level" : 5
+      },
+      {
+         "item" : "WWII Flight Jacket/1",
+         "level" : 10
+      },
+      {
+         "item" : "Toolbox/0",
+         "level" : 13
+      },
+      {
+         "item" : "Coffee/1",
+         "level" : 16
+      },
+      {
+         "item" : "Identification Code/1",
+         "level" : 20
+      },
+      {
+         "item" : "WWII Flight Jacket/2",
+         "level" : 20
+      },
+      {
+         "item" : "Ancient Watch/1",
+         "level" : 23
+      },
+      {
+         "item" : "Authorization Code/1",
+         "level" : 26
+      },
+      {
+         "item" : "Mayweather's Parachute/2",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 33
+      },
+      {
+         "item" : "item/5",
+         "level" : 36
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "Mayweather's Flight Jacket/3",
+         "level" : 40
+      },
+      {
+         "item" : "Identification Code/3",
+         "level" : 43
+      },
+      {
+         "item" : "Single Pot Whiskey/2",
+         "level" : 46
+      },
+      {
+         "item" : "Toolbox/2",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 53
+      },
+      {
+         "item" : "item/5",
+         "level" : 56
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ],
@@ -38215,19 +38855,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Diplomacy Uniform (TOS)/2",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Prime Directive/2",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "3d Chess Set/2",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Rand's Tricorder/3",
          "level" : 99
       }
    ]

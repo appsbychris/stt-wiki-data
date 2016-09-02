@@ -648,6 +648,10 @@
       "Identification Code/1" : 2,
       "Replicator Ration/1" : 2
    },
+   "Bashir's Aviator Scarf/2" : {
+      "Clothing Pattern/0" : 2,
+      "Poker Cards/1" : 1
+   },
    "Bashir's Disguise/2" : {
       "Security Codes/1" : 1,
       "Starfleet Medicine Uniform (DS9)/2" : 1,
@@ -667,6 +671,15 @@
       "Bashir's Disguise/4" : 1,
       "Kukalaka/4" : 1,
       "Raquet/3" : 1
+   },
+   "Bashir's Flight Jacket/2" : {
+      "Clothing Pattern/3" : 1,
+      "WWII Flight Helmet/1" : 2
+   },
+   "Bashir's Flight Jacket/3" : {
+      "20th Century Pistol/2" : 2,
+      "Bashir's Flight Jacket/2" : 1,
+      "Furs/2" : 1
    },
    "Bashir's Orders/2" : {
       "Dominion Seal/1" : 1,
@@ -1271,6 +1284,20 @@
       "Champagne/3" : 2,
       "Replicator Ration/3" : 2
    },
+   "Chapel's Tricorder/1" : {
+      "Isolinear Chips/0" : 3,
+      "Tricorder/0" : 2
+   },
+   "Chapel's Tricorder/2" : {
+      "Chapel's Tricorder/1" : 1,
+      "Cortical Monitor/0" : 1,
+      "Hypospray (TNG)/1" : 1
+   },
+   "Chapel's Uniform/2" : {
+      "Hypospray (TOS)/0" : 1,
+      "Medical Scanner (Logical)/1" : 1,
+      "Starfleet Medicine Uniform (TOS)/1" : 1
+   },
    "Chef's Hat/0" : {
       "Clothing Pattern/0" : 2,
       "Spices/0" : 4
@@ -1853,8 +1880,8 @@
       "Wrench/3" : 2
    },
    "Damar's Armor/3" : {
-      "Central Command Uniform/2" : 1,
-      "Clothing Pattern/3" : 1,
+      "Central Command Uniform/2" : 2,
+      "Clothing Pattern/3" : 2,
       "Kanar/2" : 1
    },
    "Damar's Pistol/3" : {
@@ -1935,7 +1962,7 @@
    "Data's Rifle/4" : {
       "Emitter Crystal/3" : 2,
       "Ethical Subroutine/3" : 2,
-      "Phaser Type 3 (TNG)/3" : 2
+      "Phaser Type 3 (DS9)/3" : 2
    },
    "Data's Tricorder/2" : {
       "Database (Panel)/1" : 4,
@@ -2287,6 +2314,11 @@
       "Tactical Alert/1" : 2,
       "Xindi Armor/2" : 1
    },
+   "Dolim's Armor/3" : {
+      "Dolim's Armor/2" : 1,
+      "Interlink/2" : 2,
+      "Xindi Biorifle/1" : 2
+   },
    "Dolim's Pistol/2" : {
       "Identification Code/1" : 1,
       "Power Cell/1" : 2,
@@ -2611,11 +2643,11 @@
    },
    "Ethical Subroutine/3" : {
       "Database (Panel)/2" : 4,
-      "Ethical Subroutine/2" : 2,
+      "Ethical Subroutine/2" : 1,
       "Isolinear Chips/2" : 4
    },
    "Ethical Subroutine/4" : {
-      "Database (Panel)/3" : 4,
+      "Database (Panel)/3" : 1,
       "Ethical Subroutine/3" : 2,
       "Isolinear Chips/3" : 4
    },
@@ -3086,6 +3118,25 @@
       "General Chang's Uniform/4" : 1,
       "Klingon Baldric/4" : 1
    },
+   "Genetic Modification/1" : {
+      "Scalpel/0" : 1,
+      "Science Experiment/0" : 1
+   },
+   "Genetic Modification/2" : {
+      "Furs/1" : 3,
+      "Genetic Modification/1" : 1,
+      "Medical Experiment/1" : 1
+   },
+   "Genetic Modification/3" : {
+      "Genetic Modification/2" : 1,
+      "Medical Experiment/2" : 1,
+      "Scalpel/2" : 1
+   },
+   "Genetic Modification/4" : {
+      "Genetic Modification/3" : 2,
+      "Medical Experiment/3" : 1,
+      "Medical Lesson/3" : 1
+   },
    "Geordi's Hat/3" : {
       "Bowler/2" : 1,
       "Medical Lesson/2" : 1,
@@ -3253,6 +3304,12 @@
       "Gralik's Scanner/3" : 2,
       "Kemocite/3" : 1,
       "Sensor/3" : 2
+   },
+   "Gralik's Scanner/5" : {
+      "Gralik's Scanner/4" : 1,
+      "Hand Scanner/4" : 1,
+      "Subprocessor/4" : 1,
+      "Xindi Icon/4" : 1
    },
    "Grand Nagus Staff/1" : {
       "Ferengi PADD/0" : 1,
@@ -5050,6 +5107,11 @@
       "MACO Uniform/1" : 1,
       "Plasma Rifle/0" : 1
    },
+   "MACO Uniform/3" : {
+      "Hand Scanner/1" : 2,
+      "MACO Badge/1" : 2,
+      "MACO Uniform/2" : 1
+   },
    "Maco Baton/1" : {
       "Casing/0" : 2,
       "Polyalloy/0" : 2,
@@ -5258,6 +5320,10 @@
    "Mayweather's Boomer Outfit/4" : {
       "Astrometric Chart/3" : 1,
       "Mayweather's Boomer Outfit/3" : 1
+   },
+   "Mayweather's Parachute/2" : {
+      "Backpack/1" : 1,
+      "Clothing Pattern/0" : 4
    },
    "McCoy's Civilian Outfit/2" : {
       "Clothing Pattern/0" : 2,
@@ -5567,6 +5633,11 @@
       "Maco Baton/2" : 1,
       "NX-01 Cap/1" : 2
    },
+   "Money's Baton/4" : {
+      "MACO Badge/3" : 1,
+      "Money's Baton/3" : 1,
+      "Power Cell/3" : 2
+   },
    "Money's Pistol/2" : {
       "EM Pistol/2" : 1,
       "Emitter Crystal/1" : 2,
@@ -5576,6 +5647,11 @@
       "Authorization Code/2" : 1,
       "Field Rations/1" : 2,
       "Money's Pistol/2" : 1
+   },
+   "Money's Pistol/4" : {
+      "Emitter Crystal/3" : 2,
+      "MACO Badge/2" : 2,
+      "Money's Pistol/3" : 1
    },
    "Money's Rifle/2" : {
       "Emitter Crystal/2" : 2,
@@ -5777,6 +5853,23 @@
    "O'Brien's Disguise/4" : {
       "O'Brien's Disguise/3" : 1
    },
+   "O'Brien's Flight Helmet/5" : {
+      "Furs/4" : 2,
+      "O'Brien's Flight Helmet/4" : 2,
+      "Security Codes/4" : 1,
+      "Wrench/4" : 1
+   },
+   "O'Brien's Flight Jacket/4" : {
+      "20th Century Pistol/3" : 1,
+      "O'Brien's Flight Jacket/3" : 1,
+      "Single Pot Whiskey/3" : 1
+   },
+   "O'Brien's Flight Jacket/5" : {
+      "Battle of Britain Holoprogram/4" : 1,
+      "Clothing Pattern/4" : 1,
+      "O'Brien's Flight Helmet/4" : 1,
+      "O'Brien's Flight Jacket/4" : 1
+   },
    "O'Brien's Phaser/3" : {
       "Casing/2" : 2,
       "Emitter Crystal/2" : 2,
@@ -5791,6 +5884,11 @@
       "Desealing Rod/3" : 2,
       "Flux Coupler/4" : 2,
       "O'Brien's Toolbox/4" : 1
+   },
+   "O'Brien's Wrench/5" : {
+      "Polyalloy/4" : 2,
+      "Single Pot Whiskey/4" : 1,
+      "Wrench/4" : 2
    },
    "ODN Recoupler/1" : {
       "ODN Recoupler/0" : 2
@@ -6022,7 +6120,8 @@
       "Parametric Scanner/2" : 1
    },
    "Parametric Scanner/4" : {
-      "Parametric Scanner/3" : 2
+      "Parametric Scanner/3" : 2,
+      "Sensor/3" : 2
    },
    "Paris's Stick/3" : {
       "Hockey Stick/3" : 1,
@@ -7070,6 +7169,11 @@
       "Romulan Ale/2" : 1,
       "Star Empire Icon/2" : 1
    },
+   "Romulan Ale/4" : {
+      "Alcohol/3" : 2,
+      "Romulan Ale/3" : 1,
+      "Star Empire Icon/3" : 1
+   },
    "Romulan Command Uniform/1" : {
       "Clothing Pattern/0" : 4,
       "Romulan Diplomacy Uniform/0" : 2,
@@ -7193,6 +7297,11 @@
       "Clothing Pattern/3" : 2,
       "Furs/3" : 2,
       "Rura Penthe Furs/3" : 1
+   },
+   "Russell's tricorder/2" : {
+      "Optronic Circuit/1" : 4,
+      "Sensor/1" : 4,
+      "Tricorder Mark VII/1" : 2
    },
    "Saavik's Padd/3" : {
       "Sensor/2" : 2,
@@ -7614,6 +7723,25 @@
       "Emitter Crystal/4" : 2,
       "Shinzon's Pistol/4" : 1
    },
+   "Silik's Pistol/3" : {
+      "Power Cell/2" : 2,
+      "Security Codes/1" : 1,
+      "Suliban Pistol/2" : 1
+   },
+   "Silik's Pistol/4" : {
+      "Casing/3" : 1,
+      "Emitter Crystal/3" : 2,
+      "Silik's Pistol/3" : 1
+   },
+   "Silik's Uniform/3" : {
+      "Poisoned Drink/2" : 2,
+      "Suliban Uniform/2" : 1
+   },
+   "Silik's Uniform/4" : {
+      "Furs/3" : 2,
+      "Genetic Modification/2" : 1,
+      "Silik's Uniform/3" : 1
+   },
    "Single Pot Whiskey/1" : {
       "Alcohol/0" : 4,
       "Coffee/0" : 2
@@ -7637,6 +7765,21 @@
       "Alcohol/3" : 1,
       "Poetry/3" : 1,
       "Single Pot Whiskey/4" : 1
+   },
+   "Sisko's Baseball/3" : {
+      "Great Material Continuum Texts/2" : 1,
+      "Holo-imager/1" : 1,
+      "Identification Code/1" : 1
+   },
+   "Sisko's Baseball/4" : {
+      "Clothing Pattern/3" : 1,
+      "Identification Code/3" : 1,
+      "Sisko's Baseball/3" : 1
+   },
+   "Sisko's Baseball/5" : {
+      "Great Material Continuum Texts/4" : 1,
+      "Raktajino/4" : 1,
+      "Sisko's Baseball/4" : 1
    },
    "Sisko's Classic PADD/3" : {
       "Authorization Code/1" : 1,
@@ -8681,6 +8824,10 @@
       "Clothing Pattern/1" : 1,
       "Quantum Chronometer/0" : 1,
       "Suliban Uniform/0" : 1
+   },
+   "Suliban Uniform/2" : {
+      "Furs/2" : 1,
+      "Suliban Uniform/1" : 1
    },
    "Sulu's Phaser/3" : {
       "Emitter Crystal/2" : 3,
@@ -9729,6 +9876,24 @@
       "Spices/3" : 2,
       "Vulcan Tea/3" : 2
    },
+   "WWII Flight Helmet/1" : {
+      "Civilian Security Clothing/0" : 1,
+      "Clothing Pattern/0" : 2
+   },
+   "WWII Flight Helmet/2" : {
+      "WWII Flight Helmet/1" : 2
+   },
+   "WWII Flight Helmet/3" : {
+      "WWII Flight Helmet/2" : 1,
+      "War Report/2" : 1
+   },
+   "WWII Flight Jacket/1" : {
+      "Civilian Command Clothing/0" : 1,
+      "Civilian Engineer Clothing/0" : 1
+   },
+   "WWII Flight Jacket/2" : {
+      "WWII Flight Jacket/1" : 2
+   },
    "War Report/0" : {
       "Press Credentials/0" : 1,
       "Writing PADD (TNG)/0" : 1
@@ -10035,6 +10200,14 @@
       "Xindi Icon/1" : 1,
       "Xindi Pistol/1" : 1
    },
+   "Yar's Aviator Scarf/2" : {
+      "Clothing Pattern/0" : 2,
+      "Poker Cards/1" : 1
+   },
+   "Yar's Aviator Scarf/3" : {
+      "Security Codes/2" : 2,
+      "Yar's Aviator Scarf/2" : 1
+   },
    "Yar's Belt/2" : {
       "Phaser Type 1/1" : 1,
       "Phaser Type 3/1" : 1,
@@ -10044,6 +10217,19 @@
       "Phaser Type 3/1" : 1,
       "Security Codes/0" : 1,
       "Yar's Belt/2" : 1
+   },
+   "Yar's Flight Helmet/4" : {
+      "Toolbox/3" : 1,
+      "WWII Flight Helmet/3" : 2
+   },
+   "Yar's Flight Jacket/3" : {
+      "WWII Flight Helmet/2" : 1,
+      "WWII Flight Jacket/2" : 1
+   },
+   "Yar's Flight Jacket/4" : {
+      "20th Century Pistol/3" : 1,
+      "Single Pot Whiskey/3" : 1,
+      "Yar's Flight Jacket/3" : 1
    },
    "Yar's Phaser/2" : {
       "Emitter Crystal/1" : 2,
