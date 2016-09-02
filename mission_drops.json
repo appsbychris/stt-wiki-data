@@ -34,13 +34,13 @@
    "A Father Figure/1" : {
       "cost" : "4",
       "item" : {
-         "Emitter Crystal/0" : 810,
-         "IDIC/1" : 214,
-         "ODN Recoupler/0" : 203,
-         "Prime Directive/1" : 78,
-         "Starfleet Uniform (DS9)/0" : 231
+         "Emitter Crystal/0" : 851,
+         "IDIC/1" : 226,
+         "ODN Recoupler/0" : 212,
+         "Prime Directive/1" : 80,
+         "Starfleet Uniform (DS9)/0" : 243
       },
-      "runs" : 384
+      "runs" : 403
    },
    "A Father Figure/2" : {
       "cost" : "6",
@@ -618,12 +618,12 @@
    "Bravery in Action/3" : {
       "cost" : "1",
       "item" : {
-         "Authorization Code/1" : 12,
-         "Case Files/1" : 9,
+         "Authorization Code/1" : 17,
+         "Case Files/1" : 14,
          "Security Codes/2" : 6,
-         "TR-580 Medical Tricorder/0" : 15
+         "TR-580 Medical Tricorder/0" : 23
       },
-      "runs" : 14
+      "runs" : 20
    },
    "Breakwater/1" : {
       "cost" : "1",
@@ -808,13 +808,13 @@
    "Deadly Disruptions/2" : {
       "cost" : "14",
       "item" : {
-         "Authorization Code/2" : 28,
+         "Authorization Code/2" : 33,
          "Casing/3" : 11,
-         "Clothing Pattern/1" : 240,
-         "Clothing Pattern/4" : 3,
-         "Power Cell/2" : 93
+         "Clothing Pattern/1" : 259,
+         "Clothing Pattern/4" : 4,
+         "Power Cell/2" : 101
       },
-      "runs" : 125
+      "runs" : 136
    },
    "Death Throes/1" : {
       "cost" : "10",
@@ -1567,13 +1567,13 @@
    "Long Distance Call/1" : {
       "cost" : "4",
       "item" : {
-         "Casing/0" : 386,
-         "Phaser Type 2 (DS9)/0" : 92,
+         "Casing/0" : 390,
+         "Phaser Type 2 (DS9)/0" : 95,
          "Phaser Type 2 (TNG)/0" : 36,
-         "Starfleet Uniform (TNG)/0" : 99,
+         "Starfleet Uniform (TNG)/0" : 101,
          "Starfleet Uniform (TOS)/0" : 86
       },
-      "runs" : 233
+      "runs" : 236
    },
    "Long Distance Call/2" : {
       "cost" : "4",
@@ -1954,13 +1954,13 @@
    "On Their Heels/2" : {
       "cost" : "6",
       "item" : {
-         "Phaser Type 3 (TNG)/0" : 147,
-         "Replicator Ration/1" : 118,
-         "Spices/0" : 143,
-         "Submicron Scanner/0" : 138,
-         "Tulaberry Wine/1" : 21
+         "Phaser Type 3 (TNG)/0" : 155,
+         "Replicator Ration/1" : 130,
+         "Spices/0" : 147,
+         "Submicron Scanner/0" : 143,
+         "Tulaberry Wine/1" : 22
       },
-      "runs" : 189
+      "runs" : 199
    },
    "On Their Heels/3" : {
       "cost" : "10",
@@ -2567,12 +2567,12 @@
    "Talk Less, Smile More/3" : {
       "cost" : "1",
       "item" : {
-         "Pattern Enhancer/1" : 85,
-         "Prime Directive/2" : 36,
-         "Science Experiment/0" : 97,
-         "Starfleet Uniform Pattern/2" : 64
+         "Pattern Enhancer/1" : 89,
+         "Prime Directive/2" : 37,
+         "Science Experiment/0" : 98,
+         "Starfleet Uniform Pattern/2" : 67
       },
-      "runs" : 94
+      "runs" : 97
    },
    "Temporary Hold/1" : {
       "cost" : "6",
