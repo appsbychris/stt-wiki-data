@@ -672,6 +672,10 @@
       "Kukalaka/4" : 1,
       "Raquet/3" : 1
    },
+   "Bashir's Flight Helmet/3" : {
+      "Clothing Pattern/2" : 2,
+      "WWII Flight Helmet/2" : 2
+   },
    "Bashir's Flight Jacket/2" : {
       "Clothing Pattern/2" : 1,
       "WWII Flight Helmet/1" : 2
@@ -1899,6 +1903,11 @@
       "Database (Panel)/2" : 2,
       "Science Experiment/1" : 2
    },
+   "Daren's Charts/4" : {
+      "Daren's Charts/3" : 1,
+      "Starfleet Test Cylinder/3" : 1,
+      "Tricorder Mark VII/2" : 2
+   },
    "Darts/1" : {
       "Alcohol/0" : 2,
       "Darts/0" : 2,
@@ -2319,6 +2328,11 @@
       "Interlink/2" : 2,
       "Xindi Biorifle/1" : 2
    },
+   "Dolim's Armor/4" : {
+      "Dolim's Armor/3" : 1,
+      "Dolim's Pistol/2" : 1,
+      "Kemocite/2" : 2
+   },
    "Dolim's Pistol/2" : {
       "Identification Code/1" : 1,
       "Power Cell/1" : 2,
@@ -2727,8 +2741,9 @@
       "Isolinear Chips/0" : 1
    },
    "Exo-Linguistic Text/4" : {
+      "Database/3" : 2,
       "Exo-Linguistic Text/3" : 1,
-      "Optronic Circuit/0" : 1
+      "Optronic Circuit/3" : 1
    },
    "Exographic Targeting Sensor/1" : {
       "Optronic Circuit/0" : 2,
@@ -3930,6 +3945,9 @@
    "Imperial Guard Emblem/3" : {
       "Andorian Ale/1" : 1,
       "Imperial Guard Emblem/2" : 1
+   },
+   "Imperial Guard Emblem/5" : {
+      "Imperial Guard Emblem/4" : 2
    },
    "Insurrection Alpha Holoprogram/3" : {
       "Holoprogram/2" : 2,
@@ -5321,9 +5339,17 @@
       "Astrometric Chart/3" : 1,
       "Mayweather's Boomer Outfit/3" : 1
    },
+   "Mayweather's Flight Jacket/2" : {
+      "WWII Flight Helmet/1" : 1,
+      "WWII Flight Jacket/1" : 1
+   },
    "Mayweather's Parachute/2" : {
       "Backpack/1" : 1,
       "Clothing Pattern/0" : 4
+   },
+   "Mayweather's Parachute/3" : {
+      "Mayweather's Parachute/2" : 1,
+      "WWII Flight Helmet/2" : 2
    },
    "McCoy's Civilian Outfit/2" : {
       "Clothing Pattern/0" : 2,
@@ -5853,6 +5879,10 @@
    "O'Brien's Disguise/4" : {
       "O'Brien's Disguise/3" : 1
    },
+   "O'Brien's Flight Helmet/4" : {
+      "Clothing Pattern/3" : 3,
+      "Toolbox/3" : 1
+   },
    "O'Brien's Flight Helmet/5" : {
       "Furs/4" : 2,
       "O'Brien's Flight Helmet/4" : 2,
@@ -6208,6 +6238,17 @@
       "Persis's Pistol/3" : 1,
       "Soong's Teaching/2" : 1
    },
+   "Phase Coil Resonator/0" : {
+      "Casing/0" : 3,
+      "Isolinear Chips/0" : 1,
+      "Power Cell/0" : 1
+   },
+   "Phase Coil Resonator/1" : {
+      "Phase Coil Resonator/0" : 2
+   },
+   "Phase Coil Resonator/2" : {
+      "Phase Coil Resonator/1" : 2
+   },
    "Phase Pistol/2" : {
       "Emitter Crystal/1" : 2,
       "Phase Pistol/1" : 2
@@ -6550,6 +6591,11 @@
       "Identification Code/1" : 2,
       "Opera/2" : 1,
       "Portable Piano/2" : 1
+   },
+   "Portable Piano/4" : {
+      "Optronic Circuit/3" : 2,
+      "Portable Piano/3" : 2,
+      "Power Cell/2" : 2
    },
    "Portable Tractor Beam/1" : {
       "Engineering Lesson/1" : 1,
@@ -6952,6 +6998,11 @@
       "KCA Icon/4" : 1,
       "Regent Worf's D'k tahg/4" : 1
    },
+   "Rejal's Research/3" : {
+      "Cardassian Monitor/2" : 1,
+      "Orb Experience/1" : 1,
+      "Science Experiment/0" : 2
+   },
    "Relora Furs/1" : {
       "Furs/0" : 4,
       "Kazon Furs/0" : 1,
@@ -7108,6 +7159,16 @@
       "Encoded Communique/3" : 1,
       "Gagh/3" : 1,
       "Riker's Lucky Deck/4" : 1
+   },
+   "Riker's Uniform/2" : {
+      "Admiral's Uniform/1" : 2,
+      "Casino Chip/0" : 1,
+      "Starfleet Uniform Pattern/1" : 1
+   },
+   "Riker's Uniform/3" : {
+      "Chef's Hat/2" : 1,
+      "Riker's Uniform/2" : 1,
+      "Starfleet Uniform Pattern/1" : 2
    },
    "Rite of Emergence/2" : {
       "Database (Panel)/1" : 2,
@@ -7733,6 +7794,11 @@
       "Emitter Crystal/3" : 2,
       "Silik's Pistol/3" : 1
    },
+   "Silik's Pistol/5" : {
+      "Casing/4" : 1,
+      "Security Codes/4" : 1,
+      "Silik's Pistol/4" : 2
+   },
    "Silik's Uniform/3" : {
       "Poisoned Drink/2" : 2,
       "Suliban Uniform/2" : 1
@@ -7741,6 +7807,11 @@
       "Furs/3" : 2,
       "Genetic Modification/2" : 1,
       "Silik's Uniform/3" : 1
+   },
+   "Silik's Uniform/5" : {
+      "Poisoned Drink/4" : 1,
+      "Silik's Pistol/4" : 1,
+      "Silik's Uniform/4" : 2
    },
    "Single Pot Whiskey/1" : {
       "Alcohol/0" : 4,
@@ -10172,6 +10243,16 @@
       "Xindi Biorifle/2" : 1,
       "Xindi Icon/1" : 1
    },
+   "Xindi Biorifle/4" : {
+      "Expansion Module/3" : 2,
+      "Medical Experiment/3" : 1,
+      "Xindi Biorifle/3" : 1
+   },
+   "Xindi Biorifle/5" : {
+      "Power Cell/4" : 2,
+      "Xindi Biorifle/4" : 1,
+      "Xindi Icon/3" : 2
+   },
    "Xindi Icon/2" : {
       "Xindi Icon/1" : 2
    },
@@ -10208,6 +10289,11 @@
       "Security Codes/2" : 2,
       "Yar's Aviator Scarf/2" : 1
    },
+   "Yar's Aviator Scarf/4" : {
+      "Clothing Pattern/3" : 2,
+      "Encoded Communique/3" : 1,
+      "Yar's Aviator Scarf/3" : 1
+   },
    "Yar's Belt/2" : {
       "Phaser Type 1/1" : 1,
       "Phaser Type 3/1" : 1,
@@ -10230,6 +10316,11 @@
       "20th Century Pistol/3" : 1,
       "Single Pot Whiskey/3" : 1,
       "Yar's Flight Jacket/3" : 1
+   },
+   "Yar's Flight Jacket/5" : {
+      "Yar's Aviator Scarf/4" : 1,
+      "Yar's Flight Helmet/4" : 1,
+      "Yar's Flight Jacket/4" : 1
    },
    "Yar's Phaser/2" : {
       "Emitter Crystal/1" : 2,
