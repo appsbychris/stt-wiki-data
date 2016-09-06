@@ -9959,51 +9959,51 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Suit/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Hyperspanner (ENT)/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Identification Code/2",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Wrench/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Suit/2",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Parametric Scanner/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Scanner/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Single Pot Whiskey/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Suit/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "EJ-7 Interlock/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (TOS)/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Micro-Optic Drill/4",
          "level" : 80
       },
       {
@@ -11481,19 +11481,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Shran's Uniform/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Andorian Rifle/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Andorian Communicator/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Shran's Ushaan-tor/5",
          "level" : 99
       }
    ],
@@ -12141,7 +12141,7 @@
          "level" : 96
       },
       {
-         "item" : "Hypospray/3",
+         "item" : "Hypospray (TNG)/3",
          "level" : 99
       }
    ],
@@ -12997,7 +12997,7 @@
          "level" : 23
       },
       {
-         "item" : "Parametric Scanner/3",
+         "item" : "Parametric Scanner/2",
          "level" : 26
       },
       {
@@ -13185,6 +13185,10 @@
       {
          "item" : "Chapel's Uniform/2",
          "level" : 40
+      },
+      {
+         "item" : "Medical Lesson/2",
+         "level" : 43
       },
       {
          "item" : "Phaser Type 2 (TMP)/3",
@@ -14151,35 +14155,35 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor (TOS)/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Radiation Collector/2",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Ethnobotonay Experiment/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "The Cosmos A to Z/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/2",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Marcus's Tricorder/3",
          "level" : 60
       },
       {
@@ -19335,19 +19339,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Engineer Clothing/1",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Astrometric Chart/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Micro-Resonator/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Cardassian Monitor/3",
          "level" : 50
       },
       {
@@ -20063,19 +20067,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Zek's Suit/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Ferengi PADD/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Latinum Tooth Sharpener/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Grand Nagus Zek's Staff/5",
          "level" : 99
       }
    ],
@@ -31241,19 +31245,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Bashir's Flight Jacket/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Bashir's Pistol/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Bashir's Aviator Scarf/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Bashir's Medkit/4",
          "level" : 99
       }
    ],
@@ -31355,19 +31359,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "O'Brien's Flight Jacket/4",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Coffee/4",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Security Reports/4",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Sonic Driver/3",
          "level" : 70
       },
       {
@@ -36701,35 +36705,35 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Flight Jacket/4",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Self-sealing Stem Bolt/2",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Desktop Monitor/3",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Parachute/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Mayweather's Flight Jacket/4",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "EJ-7 Interlock/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Pattern Enhancer/3",
          "level" : 80
       },
       {
@@ -37057,19 +37061,19 @@
          "level" : 80
       },
       {
-         "item" : "O'Brien's Disguise/4",
+         "item" : "O'Brien's Disguise/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "O'Brien's Phaser/4",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Battle of Clontarf Holoprogram/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "O'Brien's Toolbox/5",
          "level" : 90
       },
       {

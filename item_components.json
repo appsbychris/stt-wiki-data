@@ -427,10 +427,13 @@
       "Power Cell/4" : 4
    },
    "Astrometric Chart/3" : {
-      "Astrometric Chart/2" : 2
+      "Astrometric Chart/1" : 1,
+      "Astrometric Chart/2" : 1,
+      "Database (Panel)/2" : 1
    },
    "Astrometric Chart/4" : {
-      "Astrometric Chart/3" : 2
+      "Astrometric Chart/3" : 1,
+      "Database (Panel)/3" : 2
    },
    "Astrometric Chart/5" : {
       "Astrometric Chart/4" : 2
@@ -555,6 +558,11 @@
       "Bajoran Engineering Uniform/0" : 1,
       "Clothing Pattern/0" : 2
    },
+   "Bajoran Engineering Uniform/2" : {
+      "Bajoran Engineering Uniform/1" : 2,
+      "Clothing Pattern/1" : 2,
+      "EJ-7 Interlock/1" : 2
+   },
    "Bajoran PADD/1" : {
       "Bajoran PADD/0" : 2,
       "Casing/0" : 2,
@@ -652,6 +660,11 @@
       "Clothing Pattern/0" : 2,
       "Poker Cards/1" : 1
    },
+   "Bashir's Aviator Scarf/3" : {
+      "Bashir's Aviator Scarf/2" : 1,
+      "Furs/2" : 2,
+      "Replicator Ration/2" : 2
+   },
    "Bashir's Disguise/2" : {
       "Security Codes/1" : 1,
       "Starfleet Medicine Uniform (DS9)/2" : 1,
@@ -684,6 +697,11 @@
       "20th Century Pistol/2" : 2,
       "Bashir's Flight Jacket/2" : 1,
       "Furs/2" : 1
+   },
+   "Bashir's Flight Jacket/4" : {
+      "Bashir's Flight Jacket/3" : 1,
+      "Clothing Pattern/3" : 2,
+      "Medkit/3" : 1
    },
    "Bashir's Orders/2" : {
       "Dominion Seal/1" : 1,
@@ -2538,7 +2556,8 @@
       "Emergency Transporter Armband/2" : 1
    },
    "Emergency Transporter Armband/4" : {
-      "Emergency Transporter Armband/3" : 2
+      "Emergency Transporter Armband/3" : 2,
+      "Power Cell/3" : 2
    },
    "Emory Erikson: Father of the Transporter Book/1" : {
       "Engineering Lesson/1" : 1,
@@ -4272,7 +4291,7 @@
    },
    "Kadis-Kot/2" : {
       "Kadis-Kot/1" : 1,
-      "Replicator Ration/1" : 1
+      "Replicator Ration/1" : 2
    },
    "Kadis-Kot/3" : {
       "Kadis-Kot/2" : 2
@@ -4540,6 +4559,11 @@
       "Database (Panel)/2" : 2,
       "Encoded Communique/1" : 2,
       "Kim's Calculations/2" : 1
+   },
+   "Kim's Calculations/4" : {
+      "Database/3" : 2,
+      "Kim's Calculations/3" : 1,
+      "Science Experiment/3" : 1
    },
    "Kim's Jacket/2" : {
       "Civilian Engineer Clothing/1" : 1,
@@ -5260,6 +5284,11 @@
       "Identification Code/0" : 1,
       "Tricorder/2" : 1
    },
+   "Marcus's Tricorder/3" : {
+      "Database (Panel)/1" : 2,
+      "Marcus's Tricorder/2" : 1,
+      "Orchids/1" : 1
+   },
    "Martok's Armor/2" : {
       "Klingon Armor (TNG)/1" : 1,
       "Klingon Communicator/1" : 1,
@@ -5339,9 +5368,21 @@
       "Astrometric Chart/3" : 1,
       "Mayweather's Boomer Outfit/3" : 1
    },
+   "Mayweather's Flight Helmet/3" : {
+      "20th Century Pistol/3" : 1,
+      "WWII Flight Helmet/2" : 2
+   },
    "Mayweather's Flight Jacket/2" : {
       "WWII Flight Helmet/1" : 1,
       "WWII Flight Jacket/1" : 1
+   },
+   "Mayweather's Flight Jacket/3" : {
+      "Mayweather's Flight Jacket/2" : 2
+   },
+   "Mayweather's Flight Jacket/4" : {
+      "Clothing Pattern/3" : 2,
+      "Mayweather's Flight Jacket/3" : 2,
+      "Toolbox/3" : 1
    },
    "Mayweather's Parachute/2" : {
       "Backpack/1" : 1,
@@ -5888,6 +5929,11 @@
       "O'Brien's Flight Helmet/4" : 2,
       "Security Codes/4" : 1,
       "Wrench/4" : 1
+   },
+   "O'Brien's Flight Jacket/3" : {
+      "Battle of Britain Holoprogram/2" : 1,
+      "Furs/2" : 2,
+      "WWII Flight Jacket/2" : 1
    },
    "O'Brien's Flight Jacket/4" : {
       "20th Century Pistol/3" : 1,
@@ -6491,10 +6537,12 @@
       "Pinstripe Suit/2" : 1
    },
    "Plasma Rifle/1" : {
-      "Plasma Rifle/0" : 2
+      "Plasma Rifle/0" : 1,
+      "Power Cell/0" : 4
    },
    "Plasma Rifle/2" : {
-      "Plasma Rifle/1" : 2
+      "Expansion Module/1" : 2,
+      "Plasma Rifle/1" : 1
    },
    "Plasma Rifle/3" : {
       "Plasma Rifle/2" : 2
@@ -7610,7 +7658,7 @@
       "Translation Algorithm/3" : 1
    },
    "Security Belt/0" : {
-      "Phaser Type 3 (TOS)/0" : 1,
+      "Phaser Type 3 (TOS, Drink)/0" : 1,
       "Starfleet Uniform Pattern/0" : 1
    },
    "Security Belt/1" : {
@@ -7640,6 +7688,16 @@
    "Security Reports/4" : {
       "Case Files/3" : 1,
       "Security Reports/3" : 2
+   },
+   "Sela's Uniform/2" : {
+      "Clothing Pattern/1" : 4,
+      "Romulan Command Uniform/1" : 2,
+      "Romulan Disruptor/1" : 1
+   },
+   "Sela's Uniform/3" : {
+      "Clothing Pattern/2" : 4,
+      "Romulan Encryption Algorithm/2" : 1,
+      "Sela's Uniform/2" : 1
    },
    "Self-sealing Stem Bolt/2" : {
       "Casing/1" : 4,
@@ -7763,6 +7821,11 @@
       "Seven's Tricorder/4" : 1,
       "Subprocessor/4" : 2,
       "Temporal Prime Directive/4" : 1
+   },
+   "Shakaar's Tricorder/3" : {
+      "Bajoran Tricorder/2" : 2,
+      "Encoded Communique/1" : 1,
+      "Sensor/2" : 4
    },
    "Shinzon's Knife/3" : {
       "Medical Experiment/2" : 1,
