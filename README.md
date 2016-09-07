@@ -23,6 +23,13 @@ Caveats
 These data are, at best, as good as the wiki. Due to various parsing
 issues, they're probably worse.
 
+I only parse the recipes for items that use
+[Template:ItemX](http://startrektimelineswiki.com/wiki/Template:ItemX). I've
+converted many recipes to this template, but there are still a few
+dozen I haven't gotten to. All for characters whose names start with S
+(Sato, Shakaar, Sela, Seska, Spock, Shinzon, Shran, Soong,
+Spock). What can I say, I ran out of steam.
+
 Drop rates are not known for faction-only items, nor do I have a list
 of faction-only items. These would show up as items used in recipes
 that do not have drop rates. Unfortunately, typos appear the same
