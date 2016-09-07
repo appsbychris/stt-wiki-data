@@ -40,8 +40,10 @@ For formatting reasons when expanding large chains of items, a few
 common recipes have been entered in a way that's very difficult to
 parse. For example, [Basic Civilian Engineer
 Clothing](http://startrektimelineswiki.com/wiki/Template:ItemX/Civilian_Engineer_Clothing/0).
-I'd probably need to maintain a list of exceptions where I can't rely
-on the wiki.
+A full list of such pages appears on the [talk page for
+Template:ItemX](http://startrektimelineswiki.com/wiki/Template_talk:ItemX).
+I'd probably need to maintain a set of recipe exceptions where I can't
+rely on the wiki.
 
 Some items can come from different eras, but the era is not always
 specified on the character or recipe page. For example, it is not
