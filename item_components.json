@@ -989,10 +989,6 @@
       "Field Rations/2" : 1,
       "Magnasite-Nitron Tablet/2" : 1
    },
-   "Brain Circuitry Pattern/0" : {
-      "Database (Panel)/0" : 1,
-      "Sensor/0" : 1
-   },
    "Brain Circuitry Pattern/1" : {
       "Brain Circuitry Pattern/0" : 2
    },
@@ -1484,10 +1480,6 @@
       "Civilian Disguise/1" : 1,
       "Clothing Pattern/2" : 2,
       "Covert Contacts/2" : 1
-   },
-   "Civilian Engineer Clothing/0" : {
-      "Clothing Pattern/0" : 4,
-      "Wrench/0" : 1
    },
    "Civilian Engineer Clothing/1" : {
       "Civilian Engineer Clothing/0" : 1,
@@ -3149,6 +3141,7 @@
    },
    "General Chang's Uniform/5" : {
       "Clothing Pattern/4" : 4,
+      "General Chang's Eyepatch/4" : 1,
       "General Chang's Uniform/4" : 1,
       "Klingon Baldric/4" : 1
    },
@@ -3879,7 +3872,7 @@
    },
    "Hyperspanner (DS9)/2" : {
       "Expansion Module/1" : 2,
-      "Hyperspanner (DS9)/1" : 2,
+      "Hyperspanner (DS9)/1" : 1,
       "Power Cell/1" : 2
    },
    "Hyperspanner (ENT)/1" : {
@@ -5370,7 +5363,7 @@
    },
    "Mayweather's Flight Helmet/3" : {
       "20th Century Pistol/3" : 1,
-      "WWII Flight Helmet/2" : 2
+      "WWII Flight Helmet/3" : 2
    },
    "Mayweather's Flight Jacket/2" : {
       "WWII Flight Helmet/1" : 1,
@@ -5478,10 +5471,6 @@
    "Medical Experiment/5" : {
       "Medical Experiment/4" : 1,
       "Stethoscope/4" : 1
-   },
-   "Medical Lesson/0" : {
-      "Medical Experiment/0" : 1,
-      "Writing PADD (TOS)/0" : 1
    },
    "Medical Lesson/1" : {
       "Database (Panel)/0" : 4,
@@ -5922,7 +5911,8 @@
    },
    "O'Brien's Flight Helmet/4" : {
       "Clothing Pattern/3" : 3,
-      "Toolbox/3" : 1
+      "Toolbox/3" : 1,
+      "WWII Flight Helmet/3" : 1
    },
    "O'Brien's Flight Helmet/5" : {
       "Furs/4" : 2,
@@ -6579,10 +6569,6 @@
       "Replicator Ration/3" : 2,
       "Vulcan Lute/1" : 2
    },
-   "Poetry/0" : {
-      "Alcohol/0" : 4,
-      "Writing PADD (TNG)/0" : 1
-   },
    "Poetry/1" : {
       "Alcohol/1" : 2,
       "First Contact Protocol/0" : 1,
@@ -6794,10 +6780,6 @@
       "Alpha-wave Inducer/4" : 2,
       "Brain Circuitry Pattern/4" : 2,
       "Psychological Evaluation Holoprogram/4" : 1
-   },
-   "Psychology Text/0" : {
-      "TR-580 Medical Tricorder/0" : 1,
-      "Text Book/0" : 1
    },
    "Psychology Text/1" : {
       "Psychology Text/0" : 2
@@ -7875,10 +7857,6 @@
       "Poisoned Drink/4" : 1,
       "Silik's Pistol/4" : 1,
       "Silik's Uniform/4" : 2
-   },
-   "Single Pot Whiskey/1" : {
-      "Alcohol/0" : 4,
-      "Coffee/0" : 2
    },
    "Single Pot Whiskey/2" : {
       "Alcohol/1" : 2,
@@ -9477,10 +9455,6 @@
       "Rules of Acquisition/4" : 1,
       "Tongo Deck/4" : 1
    },
-   "Toolbox/0" : {
-      "Hyperspanner (ENT)/0" : 1,
-      "ODN Recoupler/0" : 1
-   },
    "Toolbox/2" : {
       "Submicron Scanner/1" : 1,
       "Toolbox/1" : 1
@@ -9490,7 +9464,9 @@
       "Toolbox/2" : 1
    },
    "Toolbox/4" : {
-      "Toolbox/3" : 2
+      "Casing/3" : 2,
+      "Toolbox/3" : 1,
+      "Tricorder Mark VII/3" : 1
    },
    "Toolbox/5" : {
       "Toolbox/4" : 2

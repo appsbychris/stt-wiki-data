@@ -10007,19 +10007,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Suit/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Sonic Driver/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Writing PADD (TOS)/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Wrench/4",
          "level" : 90
       },
       {
@@ -10559,19 +10559,19 @@
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Romulan Command Uniform/1",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Writing PADD (DS9)/1",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Encoded Communique/0",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "Romulan Encryption Algorithm/1",
          "level" : 30
       },
       {
@@ -13247,19 +13247,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Chapel's Uniform/4",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TMP)/2",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Casino Chip/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Medkit/3",
          "level" : 90
       },
       {
@@ -15175,7 +15175,7 @@
          "level" : 70
       },
       {
-         "item" : "Starfleet Medicine Uniform/1",
+         "item" : "Starfleet Medicine Uniform (TOS)/1",
          "level" : 70
       },
       {
@@ -15191,7 +15191,7 @@
          "level" : 80
       },
       {
-         "item" : "Starfleet Medicine Uniform/1",
+         "item" : "Starfleet Medicine Uniform (TOS)/1",
          "level" : 80
       },
       {
@@ -15207,7 +15207,7 @@
          "level" : 90
       },
       {
-         "item" : "Starfleet Medicine Uniform/1",
+         "item" : "Starfleet Medicine Uniform (TOS)/1",
          "level" : 90
       },
       {

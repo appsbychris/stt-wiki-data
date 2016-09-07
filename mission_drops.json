@@ -226,22 +226,22 @@
    "A Singular Occurrence/1" : {
       "cost" : "8",
       "item" : {
-         "Astrometric Chart/1" : 22,
-         "Casing/1" : 45,
-         "Database (Panel)/2" : 13,
-         "Interlink/0" : 48
+         "Astrometric Chart/1" : 25,
+         "Casing/1" : 49,
+         "Database (Panel)/2" : 14,
+         "Interlink/0" : 56
       },
-      "runs" : 32
+      "runs" : 36
    },
    "A Singular Occurrence/2" : {
       "cost" : "12",
       "item" : {
          "Clothing Pattern/3" : 15,
          "Micro-Resonator/0" : 39,
-         "Microconnector/1" : 183,
-         "Subprocessor/0" : 183
+         "Microconnector/1" : 186,
+         "Subprocessor/0" : 184
       },
-      "runs" : 105
+      "runs" : 106
    },
    "A Singular Occurrence/3" : {
       "cost" : "18",
@@ -443,12 +443,12 @@
    "Back In Time/1" : {
       "cost" : "1",
       "item" : {
-         "Boy Scout Badge/1" : 40,
-         "Poker Cards/0" : 51,
-         "Replicator Ration/0" : 81,
-         "Security Codes/0" : 65
+         "Boy Scout Badge/1" : 47,
+         "Poker Cards/0" : 57,
+         "Replicator Ration/0" : 95,
+         "Security Codes/0" : 74
       },
-      "runs" : 79
+      "runs" : 91
    },
    "Back In Time/2" : {
       "cost" : "1",
@@ -475,20 +475,20 @@
       "item" : {
          "Casing/2" : 2,
          "Gold-Pressed Latinum/3" : 0,
-         "Power Cell/1" : 25,
-         "Replicator Ration/3" : 0
+         "Power Cell/1" : 36,
+         "Replicator Ration/3" : 1
       },
-      "runs" : 9
+      "runs" : 13
    },
    "Baited Hook/1" : {
       "cost" : "14",
       "item" : {
          "Expansion Module/3" : 1,
-         "Sensor/2" : 7,
-         "Spices/1" : 35,
+         "Sensor/2" : 9,
+         "Spices/1" : 45,
          "Spices/3" : 2
       },
-      "runs" : 15
+      "runs" : 19
    },
    "Battle Shinzon/1" : {
       "cost" : "16",
@@ -702,14 +702,14 @@
    "Cleansing Fire/1" : {
       "cost" : "4",
       "item" : {
-         "Bloodwine/0" : 55,
-         "Constellation Class Schematic/0" : 142,
-         "Hyperspanner (DS9)/0" : 115,
-         "Micro-Optic Drill/0" : 97,
-         "Polyalloy/0" : 334,
-         "Spices/0" : 523
+         "Bloodwine/0" : 12,
+         "Constellation Class Schematic/0" : 23,
+         "Hyperspanner (DS9)/0" : 18,
+         "Micro-Optic Drill/0" : 9,
+         "Polyalloy/0" : 41,
+         "Spices/0" : 83
       },
-      "runs" : 422
+      "runs" : 62
    },
    "Cleansing Fire/2" : {
       "cost" : "6",
@@ -725,12 +725,12 @@
    "Common Ground/1" : {
       "cost" : "8",
       "item" : {
-         "Backpack/1" : 16,
-         "Clothing Pattern/0" : 44,
-         "Isolinear Chips/1" : 36,
-         "Optronic Circuit/2" : 12
+         "Backpack/1" : 19,
+         "Clothing Pattern/0" : 48,
+         "Isolinear Chips/1" : 41,
+         "Optronic Circuit/2" : 15
       },
-      "runs" : 36
+      "runs" : 41
    },
    "Common Ground/2" : {
       "cost" : "14",
@@ -1032,12 +1032,12 @@
    "First Conflict/3" : {
       "cost" : "1",
       "item" : {
-         "Bajoran Earring/0" : 0,
-         "Encoded Communique/1" : 0,
-         "Encoded Communique/2" : 0,
-         "Novel/2" : 0
+         "Bajoran Earring/0" : 6,
+         "Encoded Communique/1" : 1,
+         "Encoded Communique/2" : 5,
+         "Novel/2" : 3
       },
-      "runs" : 0
+      "runs" : 5
    },
    "Flesh and Blood/1" : {
       "cost" : "1",
@@ -1276,12 +1276,12 @@
    "History Interrupted/3" : {
       "cost" : "1",
       "item" : {
-         "Imperial Guard Emblem/0" : 5,
-         "Klingon House Crest/2" : 12,
-         "Multidimensional Transporter Device/0" : 11,
-         "Terran Slave Emblem/2" : 11
+         "Imperial Guard Emblem/0" : 10,
+         "Klingon House Crest/2" : 15,
+         "Multidimensional Transporter Device/0" : 15,
+         "Terran Slave Emblem/2" : 20
       },
-      "runs" : 13
+      "runs" : 20
    },
    "Hot Pursuit/1" : {
       "cost" : "4",
@@ -1308,13 +1308,13 @@
    "Hot Pursuit/3" : {
       "cost" : "16",
       "item" : {
-         "Database (Panel)/0" : 105,
-         "Database (Panel)/4" : 6,
-         "Emitter Crystal/3" : 12,
-         "Isolinear Chips/2" : 70,
-         "Spices/1" : 95
+         "Database (Panel)/0" : 107,
+         "Database (Panel)/4" : 7,
+         "Emitter Crystal/3" : 13,
+         "Isolinear Chips/2" : 72,
+         "Spices/1" : 104
       },
-      "runs" : 96
+      "runs" : 101
    },
    "Hounded/1" : {
       "cost" : "16",
@@ -1417,12 +1417,12 @@
    "Incompatible With Life/3" : {
       "cost" : "1",
       "item" : {
-         "Central Command Insignia/1" : 5,
-         "Klingon House Crest/1" : 5,
-         "Physiostimulator/0" : 4,
-         "Star Empire Icon/2" : 1
+         "Central Command Insignia/1" : 16,
+         "Klingon House Crest/1" : 12,
+         "Physiostimulator/0" : 14,
+         "Star Empire Icon/2" : 6
       },
-      "runs" : 5
+      "runs" : 16
    },
    "Indiscriminate Mind/1" : {
       "cost" : "4",
@@ -1460,11 +1460,11 @@
       "cost" : "14",
       "item" : {
          "Incense/3" : 0,
-         "Relay/3" : 0,
-         "Subprocessor/1" : 28,
-         "Subprocessor/2" : 2
+         "Relay/3" : 1,
+         "Subprocessor/1" : 38,
+         "Subprocessor/2" : 3
       },
-      "runs" : 10
+      "runs" : 14
    },
    "Instant Intervention/2" : {
       "cost" : "18",
@@ -1707,12 +1707,12 @@
    "Maquis Incitement/2" : {
       "cost" : "8",
       "item" : {
-         "3d Chess Set/1" : 25,
-         "Database (Panel)/1" : 63,
-         "Expansion Module/0" : 65,
-         "Power Cell/2" : 18
+         "3d Chess Set/1" : 26,
+         "Database (Panel)/1" : 68,
+         "Expansion Module/0" : 69,
+         "Power Cell/2" : 20
       },
-      "runs" : 57
+      "runs" : 61
    },
    "Material Assistance/1" : {
       "cost" : "16",
@@ -1750,14 +1750,14 @@
    "Mortals and Mayhem/1" : {
       "cost" : "4",
       "item" : {
-         "Bajoran PADD/0" : 30,
+         "Bajoran PADD/0" : 32,
          "Duotronic Probe/0" : 33,
-         "Graviton Emitter/0" : 267,
-         "Maquis Raider Schematic/0" : 74,
-         "Neurocortical Monitor/0" : 118,
-         "Phase Pistol/1" : 132
+         "Graviton Emitter/0" : 272,
+         "Maquis Raider Schematic/0" : 76,
+         "Neurocortical Monitor/0" : 123,
+         "Phase Pistol/1" : 133
       },
-      "runs" : 218
+      "runs" : 223
    },
    "Mortals and Mayhem/2" : {
       "cost" : "8",
@@ -2322,13 +2322,13 @@
    "Retroactive Vengeance/3" : {
       "cost" : "24",
       "item" : {
-         "Alcohol/3" : 5,
-         "Emitter Crystal/3" : 2,
-         "Field Rations/2" : 7,
-         "Incense/4" : 1,
-         "Microconnector/2" : 15
+         "Alcohol/3" : 7,
+         "Emitter Crystal/3" : 4,
+         "Field Rations/2" : 9,
+         "Incense/4" : 3,
+         "Microconnector/2" : 16
       },
-      "runs" : 10
+      "runs" : 13
    },
    "Right Place, Wrong Time/1" : {
       "cost" : "16",
@@ -2461,13 +2461,13 @@
    "Secure the Chavez/3" : {
       "cost" : "22",
       "item" : {
-         "Clothing Pattern/2" : 49,
+         "Clothing Pattern/2" : 51,
          "Clothing Pattern/3" : 38,
          "Optronic Circuit/4" : 1,
          "Relay/4" : 2,
-         "Sensor/3" : 57
+         "Sensor/3" : 58
       },
-      "runs" : 49
+      "runs" : 50
    },
    "Self Control/1" : {
       "cost" : "8",
@@ -2695,13 +2695,13 @@
    "The Mad Vedek/1" : {
       "cost" : "4",
       "item" : {
-         "Encoded Communique/0" : 43,
-         "Heavy Scanner/0" : 471,
-         "Neurocortical Monitor/0" : 490,
+         "Encoded Communique/0" : 44,
+         "Heavy Scanner/0" : 478,
+         "Neurocortical Monitor/0" : 494,
          "Toolbox/1" : 52,
-         "Writing PADD (ENT)/0" : 465
+         "Writing PADD (ENT)/0" : 468
       },
-      "runs" : 507
+      "runs" : 512
    },
    "The Mad Vedek/2" : {
       "cost" : "8",
@@ -2729,11 +2729,11 @@
       "item" : {
          "Coffee/0" : 307,
          "Criminal Activity Report/1" : 102,
-         "Database (Panel)/0" : 1215,
-         "Prime Directive/0" : 310,
-         "Tricorder/0" : 304
+         "Database (Panel)/0" : 1216,
+         "Prime Directive/0" : 311,
+         "Tricorder/0" : 305
       },
-      "runs" : 746
+      "runs" : 747
    },
    "The Prodigal Son/2" : {
       "cost" : "6",
