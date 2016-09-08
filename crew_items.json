@@ -329,11 +329,11 @@
          "level" : 1
       },
       {
-         "item" : "Authorization Code/0",
+         "item" : "Authorization Code/1",
          "level" : 2
       },
       {
-         "item" : "Phaser Type 2 (TOS)/0",
+         "item" : "Phaser Type 2 (TOS)/1",
          "level" : 4
       },
       {
@@ -478,6 +478,168 @@
       },
       {
          "item" : "Sisko's Baseball/5",
+         "level" : 99
+      }
+   ],
+   "23rd Century Martok" : [
+      {
+         "item" : "item/5",
+         "level" : 1
+      },
+      {
+         "item" : "item/5",
+         "level" : 2
+      },
+      {
+         "item" : "item/5",
+         "level" : 4
+      },
+      {
+         "item" : "item/5",
+         "level" : 5
+      },
+      {
+         "item" : "Klingon Armor/1",
+         "level" : 10
+      },
+      {
+         "item" : "Security Codes/2",
+         "level" : 13
+      },
+      {
+         "item" : "Authorization Code/2",
+         "level" : 16
+      },
+      {
+         "item" : "Martok's Classic Disruptor/2",
+         "level" : 20
+      },
+      {
+         "item" : "Klingon Armor/1",
+         "level" : 20
+      },
+      {
+         "item" : "Security Codes/2",
+         "level" : 23
+      },
+      {
+         "item" : "Klingon Baldric/3",
+         "level" : 26
+      },
+      {
+         "item" : "Bloodwine/3",
+         "level" : 30
+      },
+      {
+         "item" : "Martok's Disguise/2",
+         "level" : 30
+      },
+      {
+         "item" : "Martok's Classic Disruptor/2",
+         "level" : 33
+      },
+      {
+         "item" : "Diplomatic Protocol/3",
+         "level" : 36
+      },
+      {
+         "item" : "House Martok Crest/3",
+         "level" : 40
+      },
+      {
+         "item" : "Martok's Disguise/2",
+         "level" : 40
+      },
+      {
+         "item" : "Klingon Warnog/2",
+         "level" : 43
+      },
+      {
+         "item" : "Stun Grenade/3",
+         "level" : 46
+      },
+      {
+         "item" : "Martok's Sword/3",
+         "level" : 50
+      },
+      {
+         "item" : "Martok's Disguise/2",
+         "level" : 50
+      },
+      {
+         "item" : "Martok's Classic Disruptor/2",
+         "level" : 53
+      },
+      {
+         "item" : "Diplomatic Protocol/3",
+         "level" : 56
+      },
+      {
+         "item" : "Late Vintage Bloodwine/3",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ],
@@ -789,19 +951,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Flux Coupler/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Writing PADD (TNG)/3",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Wesley's Tricorder/4",
          "level" : 99
       }
    ],
@@ -1421,35 +1583,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Agent Harris's Uniform/4",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Psychological Evaluation Holoprogram/4",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Go/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Cranial Implant/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Agent Harris's Uniform/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Charter Article 13, Section 41/5",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Field Rations/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Priority One Message/5",
          "level" : 99
       }
    ],
@@ -1551,19 +1713,19 @@
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Medicine Uniform (ALT)/3",
          "level" : 60
       },
       {
-         "item" : "item/5",
+         "item" : "Raquet/3",
          "level" : 63
       },
       {
-         "item" : "item/5",
+         "item" : "Dermal Regenerator/4",
          "level" : 66
       },
       {
-         "item" : "item/5",
+         "item" : "Science Experiment/5",
          "level" : 70
       },
       {
@@ -6217,19 +6379,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Q's Uniform/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Tricorder Mark VII/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Combadge (TNG)/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Poetry/3",
          "level" : 50
       },
       {
@@ -10023,19 +10185,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Suit/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Single Pot Whiskey/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Scotty's Scanner/4",
          "level" : 99
       }
    ],
@@ -16179,19 +16341,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Medicine Uniform (TNG)/1",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Hypospray (TNG)/2",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Physiostimulator/2",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Medical Lesson/3",
          "level" : 99
       }
    ],
@@ -30759,19 +30921,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Uniform/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Boxing Gloves/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "MACO Badge/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Money's Rifle/4",
          "level" : 99
       }
    ],

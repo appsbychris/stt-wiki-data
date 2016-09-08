@@ -5128,6 +5128,11 @@
       "Stun Grenade/1" : 2,
       "Tactical Alert/1" : 1
    },
+   "MACO Badge/4" : {
+      "MACO Badge/3" : 1,
+      "Maco Baton/2" : 2,
+      "Particle Rifle/2" : 2
+   },
    "MACO Uniform/0" : {
       "Clothing Pattern/0" : 1,
       "Security Reports/0" : 1
@@ -5713,6 +5718,16 @@
       "Emitter Crystal/2" : 2,
       "Expansion Module/2" : 2,
       "Particle Rifle/1" : 2
+   },
+   "Money's Rifle/3" : {
+      "Communicator (ENT)/2" : 1,
+      "Money's Rifle/2" : 1,
+      "Power Cell/3" : 2
+   },
+   "Money's Rifle/4" : {
+      "Expansion Module/4" : 2,
+      "MACO Badge/3" : 2,
+      "Money's Rifle/3" : 1
    },
    "Mora's Earring/2" : {
       "Bajoran Earring/2" : 1,
@@ -6816,6 +6831,10 @@
       "Criminal Activity Report/3" : 1,
       "Q's Robes/4" : 1
    },
+   "Q's Uniform/2" : {
+      "Starfleet Command Uniform (TOS)/1" : 1,
+      "Strategema/1" : 1
+   },
    "Quantum Chronometer/1" : {
       "Quantum Chronometer/0" : 2
    },
@@ -7388,6 +7407,16 @@
       "Clothing Pattern/3" : 2,
       "Furs/3" : 2,
       "Rura Penthe Furs/3" : 1
+   },
+   "Russell's Research/3" : {
+      "Database (Panel)/2" : 3,
+      "Medical Experiment/2" : 1,
+      "Writing PADD (DS9)/1" : 2
+   },
+   "Russell's Scrubs/2" : {
+      "Medical Experiment/1" : 1,
+      "Replicator Ration/1" : 4,
+      "Surgery Outfit/1" : 1
    },
    "Russell's tricorder/2" : {
       "Optronic Circuit/1" : 4,
