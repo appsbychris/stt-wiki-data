@@ -1,0 +1,66 @@
+{
+   "20th Century Pistol/0" : {
+      "Security Codes/0" : 1,
+      "Casing/0" : 4
+   },
+   "Biological Sample Kit/0" : {
+      "Casing/0" : 1,
+      "Science Experiment/0" : 1
+   },
+   "Brain Circuitry Pattern/0" : {
+      "Database (Panel)/0" : 1,
+      "Sensor/0" : 1
+   },
+   "Civilian Command Clothing/0" : {
+      "Clothing Pattern/0" : 2,
+      "Identification Code" : 1
+   },
+   "Civilian Diplomatic Dress/0" : {
+      "Clothing Pattern/0" : 2,
+      "Translation Algorithm/0" : 1
+   },
+   "Civilian Engineer Clothing/0" : {
+      "Clothing Pattern/0" : 4,
+      "Wrench/0" : 1
+   },
+   "Civilian Security Clothing/0" : {
+      "Clothing Pattern/0" : 2,
+      "Security Reports/0" : 1
+   },
+   "Coffee Substitute/0" : {
+      "Authorization Code/0" : 1,
+      "Spices/0" : 1
+   },
+   "Diplomatic Dress Uniform (VOY)/0" : {
+      "Starfleet Uniform Pattern" : 2,
+      "First Contact Protocol" : 1
+   },
+   "Medical Lesson/0" : {
+      "Medical Experiment/0" : 1,
+      "Writing PADD (TOS)/0" : 1
+   },
+   "Poetry/0" : {
+      "Writing PADD (TNG)/0" : 1,
+      "Alcohol/0" : 4
+   },
+   "Psychology Text/0" : {
+      "Text Book/0" : 1,
+      "TR-580 Medical Tricorder/0" : 1
+   },
+   "Recipe Book/0" : {
+      "Spices/0" : 2,
+      "Database (Panel)/0" : 2
+   },
+   "Science Lesson/0" : {
+      "Science Experiment/0" : 1,
+      "Database (Panel)/0" : 1
+   },
+   "Single Pot Whiskey/1" : {
+      "Alcohol/0" : 4,
+      "Coffee/0" : 2
+   },
+   "Toolbox/0" : {
+      "ODN Recoupler/0" : 1,
+      "Hyperspanner (ENT)/0" : 1
+   }
+}
