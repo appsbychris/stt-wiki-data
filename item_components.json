@@ -141,6 +141,11 @@
       "Clothing Pattern/1" : 2,
       "Encoded Communique/1" : 1
    },
+   "Agent Harris's Uniform/3" : {
+      "Agent Harris's Uniform/2" : 1,
+      "Section 31 Encryption Algorithm/2" : 1,
+      "Security Codes/2" : 2
+   },
    "Agonizer/3" : {
       "Agonizer/2" : 1,
       "Casing/2" : 4,
@@ -197,7 +202,8 @@
       "Power Cell/1" : 2
    },
    "Alpha-wave Inducer/3" : {
-      "Alpha-wave Inducer/2" : 2
+      "Alpha-wave Inducer/2" : 1,
+      "Subprocessor/2" : 3
    },
    "Ancient Revolver/0" : {
       "Authorization Code/0" : 1,
@@ -429,7 +435,7 @@
    "Astrometric Chart/3" : {
       "Astrometric Chart/1" : 1,
       "Astrometric Chart/2" : 1,
-      "Database (Panel)/2" : 1
+      "Database (Panel)/2" : 2
    },
    "Astrometric Chart/4" : {
       "Astrometric Chart/3" : 1,
@@ -1745,13 +1751,16 @@
       "Feragoit Goulash/2" : 1
    },
    "Cortical Monitor/1" : {
-      "Cortical Monitor/0" : 2
+      "Cortical Monitor/0" : 2,
+      "Subprocessor/0" : 1
    },
    "Cortical Monitor/2" : {
-      "Cortical Monitor/1" : 2
+      "Cortical Monitor/1" : 1,
+      "Expansion Module/1" : 2
    },
    "Cortical Monitor/3" : {
-      "Cortical Monitor/2" : 2
+      "Cortical Monitor/2" : 1,
+      "Subprocessor/2" : 2
    },
    "Cortical Monitor/4" : {
       "Cortical Monitor/3" : 2
@@ -2249,6 +2258,22 @@
       "Diplomatic Dress Uniform (VOY)/4" : 2,
       "Starfleet Uniform Pattern/4" : 2
    },
+   "Diplomatic Protocol/0" : {
+      "Alcohol/0" : 1,
+      "Database (Panel)/0" : 4
+   },
+   "Diplomatic Protocol/1" : {
+      "Database (Panel)/0" : 2,
+      "Diplomatic Protocol/0" : 1
+   },
+   "Diplomatic Protocol/2" : {
+      "Diplomatic Protocol/1" : 1,
+      "Novel/1" : 1
+   },
+   "Diplomatic Protocol/3" : {
+      "Diplomatic Protocol/2" : 1,
+      "First Contact Protocol/1" : 1
+   },
    "Dissection Tools/2" : {
       "Biological Sample Kit/1" : 1,
       "Polyalloy/1" : 2,
@@ -2343,6 +2368,11 @@
       "Dolim's Pistol/2" : 1,
       "Kemocite/2" : 2
    },
+   "Dolim's Armor/5" : {
+      "Dolim's Armor/4" : 1,
+      "Polyalloy/4" : 2,
+      "Xindi Icon/5" : 1
+   },
    "Dolim's Pistol/2" : {
       "Identification Code/1" : 1,
       "Power Cell/1" : 2,
@@ -2357,6 +2387,11 @@
       "Dolim's Pistol/3" : 1,
       "Kemocite/2" : 2,
       "Security Codes/2" : 2
+   },
+   "Dolim's Pistol/5" : {
+      "Dolim's Pistol/4" : 2,
+      "Emitter Crystal/4" : 2,
+      "Power Cell/4" : 2
    },
    "Dom-Jot Cue/0" : {
       "Casing/0" : 1,
@@ -2681,6 +2716,31 @@
       "Ethical Subroutine/4" : 2,
       "Isolinear Chips/4" : 4
    },
+   "Ethnobotany Experiment/0" : {
+      "Biological Sample Kit/0" : 1,
+      "Database (Panel)/0" : 2,
+      "Science Experiment/0" : 1
+   },
+   "Ethnobotany Experiment/1" : {
+      "Database (Panel)/1" : 2,
+      "Ethnobotany Experiment/0" : 2,
+      "Orchids/1" : 1
+   },
+   "Ethnobotany Experiment/2" : {
+      "Database (Panel)/2" : 4,
+      "Ethnobotany Experiment/1" : 1,
+      "Orchids/1" : 1
+   },
+   "Ethnobotany Experiment/3" : {
+      "Database (Panel)/2" : 2,
+      "Ethnobotany Experiment/2" : 1,
+      "Science Experiment/2" : 1
+   },
+   "Ethnobotany Experiment/4" : {
+      "Database (Panel)/3" : 2,
+      "Ethnobotany Experiment/3" : 1,
+      "Science Experiment/3" : 1
+   },
    "Ethnobotonay Experiment/0" : {
       "Biological Sample Kit/0" : 1,
       "Database (Panel)/0" : 2,
@@ -2749,7 +2809,7 @@
    },
    "Exo-Linguistic Text/3" : {
       "Exo-Linguistic Text/2" : 1,
-      "Isolinear Chips/0" : 1
+      "Isolinear Chips/2" : 2
    },
    "Exo-Linguistic Text/4" : {
       "Database/3" : 2,
@@ -4795,10 +4855,28 @@
       "Klingon Disruptor Rifle/4" : 2,
       "Power Cell/4" : 4
    },
+   "Klingon Dress/1" : {
+      "Clothing Pattern/0" : 2,
+      "Furs/0" : 1
+   },
+   "Klingon Dress/2" : {
+      "Klingon Dress/1" : 2,
+      "Klingon Warnog/1" : 1
+   },
    "Klingon House Crest/3" : {
       "Bloodwine/0" : 1,
       "Gagh/0" : 1,
       "Klingon House Crest/2" : 1
+   },
+   "Klingon Hypospray/0" : {
+      "Casing/0" : 2,
+      "Polyalloy/0" : 1,
+      "Power Cell/0" : 1
+   },
+   "Klingon Hypospray/1" : {
+      "Alcohol/1" : 2,
+      "Klingon Hypospray/0" : 1,
+      "Relay/1" : 1
    },
    "Klingon PADD/0" : {
       "Casing/0" : 2,
@@ -4922,6 +5000,11 @@
    "Kotra/4" : {
       "Central Command Insignia/3" : 1,
       "Kotra/3" : 1
+   },
+   "Kruge's Armor/3" : {
+      "Gagh/2" : 2,
+      "Klingon Armor (TNG)/2" : 1,
+      "Klingon Stole/2" : 1
    },
    "Kruge's Communicator/3" : {
       "Gagh/2" : 1,
@@ -5274,7 +5357,7 @@
    },
    "Marcus's Research/2" : {
       "Database (Panel)/0" : 4,
-      "Ethnobotonay Experiment/1" : 2,
+      "Ethnobotany Experiment/1" : 2,
       "Tricorder/1" : 1
    },
    "Marcus's Tricorder/2" : {
@@ -5307,6 +5390,20 @@
       "Late Vintage Bloodwine/4" : 1,
       "Martok's Armor/4" : 2
    },
+   "Martok's Classic Disruptor/2" : {
+      "Emitter Crystal/1" : 3,
+      "Klingon Disruptor Pistol/1" : 1
+   },
+   "Martok's Disguise/2" : {
+      "Klingon Armor (TOS)/1" : 2,
+      "Klingon Warnog/0" : 1,
+      "Polyalloy/1" : 2
+   },
+   "Martok's Disguise/3" : {
+      "Clothing Pattern/2" : 2,
+      "Klingon House Crest/2" : 1,
+      "Martok's Disguise/2" : 1
+   },
    "Martok's Knife/2" : {
       "D'k tahg/1" : 1,
       "Klingon House Crest/1" : 1
@@ -5332,6 +5429,15 @@
    },
    "Martok's Pistol/5" : {
       "Martok's Pistol/4" : 1
+   },
+   "Martok's Sword/2" : {
+      "Bloodwine/1" : 1,
+      "D'k tahg/2" : 1,
+      "Polyalloy/2" : 1
+   },
+   "Martok's Sword/3" : {
+      "House Martok Crest/2" : 1,
+      "Martok's Sword/2" : 1
    },
    "Mass Spectrometer/1" : {
       "Mass Spectrometer/0" : 2
@@ -5733,6 +5839,11 @@
       "Bajoran Earring/2" : 1,
       "Incense/1" : 2,
       "Science Experiment/0" : 1
+   },
+   "Mora's PADD/2" : {
+      "Bajoran PADD/2" : 1,
+      "Database (Panel)/1" : 2,
+      "Odo's Bucket/1" : 1
    },
    "Morphogenic Virus/2" : {
       "Hypospray (TNG)/1" : 1,
@@ -6203,6 +6314,14 @@
    "Parametric Scanner/4" : {
       "Parametric Scanner/3" : 2,
       "Sensor/3" : 2
+   },
+   "Paris's Jersey/3" : {
+      "Furs/0" : 2,
+      "Hockey Jersey/3" : 1
+   },
+   "Paris's Skates/3" : {
+      "Hockey Skates/3" : 1,
+      "Terran Knife/1" : 1
    },
    "Paris's Stick/3" : {
       "Hockey Stick/3" : 1,
@@ -7928,7 +8047,7 @@
       "Writing PADD (TOS)/2" : 2
    },
    "Sisko's Classic PADD/4" : {
-      "Desktop Monitor/2" : 2,
+      "Desktop Monitor (TOS)/2" : 2,
       "Isolinear Chips/3" : 2,
       "Sisko's Classic PADD/3" : 1
    },
@@ -8256,6 +8375,11 @@
       "First Contact Protocol/2" : 1,
       "Novel/2" : 1,
       "Prime Directive/2" : 1
+   },
+   "Starfleet Charter Article 14, Section 31/4" : {
+      "Authorization Code/3" : 1,
+      "Security Reports/3" : 1,
+      "Starfleet Charter Article 14, Section 31/3" : 2
    },
    "Starfleet Command Jacket (TNG)/0" : {
       "Authorization Code/0" : 1,
@@ -9642,7 +9766,7 @@
       "Replicator Ration/0" : 2
    },
    "Trowel/1" : {
-      "Ethnobotonay Experiment/0" : 1,
+      "Ethnobotany Experiment/0" : 1,
       "Polyalloy/0" : 1,
       "Trowel/0" : 1
    },
