@@ -631,19 +631,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Martok's Disguise/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Martok's Classic Disruptor/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Raktajino/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Martok's Sword/5",
          "level" : 99
       }
    ],
@@ -1271,7 +1271,7 @@
          "level" : 83
       },
       {
-         "item" : "Phaser Type 2/5",
+         "item" : "Phaser Type 2/0",
          "level" : 86
       },
       {
@@ -1317,11 +1317,11 @@
          "level" : 10
       },
       {
-         "item" : "Phaser Type 2/1",
+         "item" : "Phaser Type 2 (TNG)/1",
          "level" : 13
       },
       {
-         "item" : "Combadge/2",
+         "item" : "Combadge (ALT)/2",
          "level" : 16
       },
       {
@@ -1353,7 +1353,7 @@
          "level" : 33
       },
       {
-         "item" : "Desktop Monitor/3",
+         "item" : "Desktop Monitor/0",
          "level" : 36
       },
       {
@@ -1417,7 +1417,7 @@
          "level" : 73
       },
       {
-         "item" : "Phaser Type 3/4",
+         "item" : "Phaser Type 3/0",
          "level" : 76
       },
       {
@@ -1445,7 +1445,7 @@
          "level" : 90
       },
       {
-         "item" : "Desktop Monitor/4",
+         "item" : "Desktop Monitor/0",
          "level" : 93
       },
       {
@@ -1607,7 +1607,7 @@
          "level" : 90
       },
       {
-         "item" : "Starfleet Charter Article 13, Section 41/5",
+         "item" : "Starfleet Charter Article 14, Section 31/5",
          "level" : 93
       },
       {
@@ -2609,19 +2609,19 @@
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Medical Outfit/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "Hand Scanner/1",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Medkit/1",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Hypospray/2",
          "level" : 20
       },
       {
@@ -5541,7 +5541,7 @@
          "level" : 20
       },
       {
-         "item" : "Starfleet Diplomacy Uniform (DS9)/1",
+         "item" : "Starfleet Diplomacy Uniform (VOY)/1",
          "level" : 20
       },
       {
@@ -5605,7 +5605,7 @@
          "level" : 60
       },
       {
-         "item" : "Starfleet Diplomacy Uniform (DS9)/3",
+         "item" : "Starfleet Diplomacy Uniform (VOY)/3",
          "level" : 60
       },
       {
@@ -5621,7 +5621,7 @@
          "level" : 70
       },
       {
-         "item" : "Starfleet Diplomacy Uniform (DS9)/3",
+         "item" : "Starfleet Diplomacy Uniform (VOY)/3",
          "level" : 70
       },
       {
@@ -10011,35 +10011,35 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Science Uniform (TNG)/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Science Experiment/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Duotronic Probe/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Positronic Brain/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Science Uniform (TNG)/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Neural Processor/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Novel/3",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Maddox's Research/4",
          "level" : 99
       }
    ],
@@ -10737,7 +10737,7 @@
          "level" : 26
       },
       {
-         "item" : "Vulcan Tea/2",
+         "item" : "Vulcan Tea/3",
          "level" : 30
       },
       {
@@ -14969,19 +14969,19 @@
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Russell's Scrubs/2",
          "level" : 40
       },
       {
-         "item" : "item/5",
+         "item" : "Hematology Experiment/2",
          "level" : 43
       },
       {
-         "item" : "item/5",
+         "item" : "Russell's tricorder/3",
          "level" : 46
       },
       {
-         "item" : "item/5",
+         "item" : "Coffee/3",
          "level" : 50
       },
       {
@@ -15211,19 +15211,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "McCoy's Civilian Outfit/5",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "McCoy's Tricorder/4",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Stethoscope/5",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Holo-imager/4",
          "level" : 99
       }
    ],
@@ -21173,51 +21173,51 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Paris's Jersey/3",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Compression Rifle/3",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Boombox/3",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "First Contact Protocol/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Paris's Jersey/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Security Codes/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Combadge (DS9)/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Paris's Stick/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Paris's Jersey/4",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Poker Cards/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Laser Beacon/3",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Paris's Skates/4",
          "level" : 99
       }
    ],
@@ -24005,7 +24005,7 @@
          "level" : 16
       },
       {
-         "item" : "Klingon Warnog/0",
+         "item" : "Klingon Warnog/1",
          "level" : 20
       },
       {
@@ -24025,19 +24025,19 @@
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Kurak's Dress/3",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Kurak's Padd/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Interphasic Scanner/3",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Communicator/3",
          "level" : 40
       },
       {
@@ -26389,19 +26389,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Security Uniform (TNG)/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Palm Beacon/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Casino Chip/3",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Duotronic Probe/3",
          "level" : 99
       }
    ],
@@ -30439,19 +30439,19 @@
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Scientist Clothing/3",
          "level" : 90
       },
       {
-         "item" : "item/5",
+         "item" : "Scalpel/3",
          "level" : 93
       },
       {
-         "item" : "item/5",
+         "item" : "Cardassian Monitor/4",
          "level" : 96
       },
       {
-         "item" : "item/5",
+         "item" : "Mora's Earring/4",
          "level" : 99
       }
    ],

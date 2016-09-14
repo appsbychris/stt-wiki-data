@@ -97,10 +97,6 @@
       "Gold-Pressed Latinum/3" : 2,
       "Security Codes/3" : 1
    },
-   "Admiral's Uniform/0" : {
-      "Authorization Code/0" : 1,
-      "Starfleet Uniform (DS9)/0" : 1
-   },
    "Admiral's Uniform/1" : {
       "Admiral's Uniform/0" : 1,
       "Security Reports/0" : 1,
@@ -510,8 +506,7 @@
    "Baccarat/4" : {
       "Baccarat/3" : 1,
       "Casino Chip/3" : 1,
-      "Gold-Pressed Latinum/2" : 4,
-      "Item/3" : 1
+      "Gold-Pressed Latinum/2" : 4
    },
    "Backpack/3" : {
       "Backpack/2" : 2,
@@ -3094,7 +3089,7 @@
    },
    "Garak's Armor/2" : {
       "Central Command Uniform/1" : 1,
-      "Garak's Armor/1" : 2,
+      "Garak's Armor/1" : 1,
       "KCA Icon/1" : 1
    },
    "Garak's Armor/3" : {
@@ -4624,8 +4619,8 @@
       "Combadge (ALT)/2" : 1
    },
    "Kim's Jersey/3" : {
-      "Furs/0" : 2,
-      "Hockey Jersey/3" : 1
+      "Hockey Jersey/3" : 1,
+      "Kazon Furs/0" : 2
    },
    "Kim's Jersey/4" : {
       "Furs/1" : 3,
@@ -4877,6 +4872,21 @@
       "Alcohol/1" : 2,
       "Klingon Hypospray/0" : 1,
       "Relay/1" : 1
+   },
+   "Klingon Hypospray/2" : {
+      "Klingon Hypospray/1" : 1,
+      "Medkit/1" : 1,
+      "Microconnector/1" : 1
+   },
+   "Klingon Medical Outfit/0" : {
+      "Alcohol/0" : 1,
+      "Clothing Pattern/0" : 2,
+      "Furs/0" : 1
+   },
+   "Klingon Medical Outfit/1" : {
+      "Furs/0" : 1,
+      "Klingon Hypospray/0" : 1,
+      "Klingon Medical Outfit/0" : 1
    },
    "Klingon PADD/0" : {
       "Casing/0" : 2,
@@ -5959,10 +5969,14 @@
       "Neural Processor/3" : 1
    },
    "Neurocortical Monitor/1" : {
-      "Neurocortical Monitor/0" : 2
+      "Neurocortical Monitor/0" : 1,
+      "Polyalloy/0" : 1,
+      "Sensor/0" : 2
    },
    "Neurocortical Monitor/2" : {
-      "Neurocortical Monitor/1" : 2
+      "Microconnector/1" : 1,
+      "Neurocortical Monitor/1" : 1,
+      "Subprocessor/1" : 1
    },
    "Neurocortical Monitor/3" : {
       "Neurocortical Monitor/2" : 2
@@ -6316,17 +6330,29 @@
       "Sensor/3" : 2
    },
    "Paris's Jersey/3" : {
-      "Furs/0" : 2,
-      "Hockey Jersey/3" : 1
+      "Hockey Jersey/3" : 1,
+      "Kazon Furs/0" : 2
+   },
+   "Paris's Jersey/4" : {
+      "Kazon Furs/1" : 3,
+      "Paris's Jersey/3" : 2
    },
    "Paris's Skates/3" : {
       "Hockey Skates/3" : 1,
       "Terran Knife/1" : 1
    },
+   "Paris's Skates/4" : {
+      "Paris's Skates/3" : 2,
+      "Terran Knife/2" : 2
+   },
    "Paris's Stick/3" : {
       "Hockey Stick/3" : 1,
       "Holoprogram/1" : 1,
       "Polyalloy/2" : 1
+   },
+   "Paris's Stick/4" : {
+      "Holoprogram/2" : 1,
+      "Paris's Stick/3" : 2
    },
    "Particle Rifle/1" : {
       "Casing/0" : 2,
@@ -6847,8 +6873,8 @@
       "Priority One Message/2" : 1
    },
    "Priority One Message/4" : {
-      "Communicator/2" : 1,
-      "Desktop Monitor/2" : 1,
+      "Communicator (ENT)/2" : 1,
+      "Desktop Monitor (TNG)/2" : 1,
       "Priority One Message/3" : 1
    },
    "Priority One Message/5" : {
@@ -6953,9 +6979,6 @@
    "Q's Uniform/2" : {
       "Starfleet Command Uniform (TOS)/1" : 1,
       "Strategema/1" : 1
-   },
-   "Quantum Chronometer/1" : {
-      "Quantum Chronometer/0" : 2
    },
    "Quantum Chronometer/2" : {
       "Quantum Chronometer/1" : 2
@@ -7247,8 +7270,8 @@
    },
    "Remataklan's Knife/5" : {
       "Field Rations/2" : 2,
-      "Jem'Hadar Knife/4" : 1,
-      "Ketracel-white/4" : 1
+      "Ketracel-white/4" : 1,
+      "Remataklan's Knife/4" : 1
    },
    "Remataklan's Rifle/3" : {
       "Interlink/2" : 3,
@@ -8105,10 +8128,6 @@
       "Covert Contacts/1" : 1,
       "Holocommunicator/1" : 1,
       "Sloan's Outfit/2" : 1
-   },
-   "Slug-o-Cola/0" : {
-      "Spices/0" : 4,
-      "Tube Grubs/0" : 1
    },
    "Slug-o-Cola/1" : {
       "Slug-o-Cola/0" : 2,
@@ -9536,6 +9555,11 @@
       "Case Files/3" : 1,
       "The Big Goodbye/3" : 1
    },
+   "The Big Goodbye/5" : {
+      "Case Files/4" : 1,
+      "Single Pot Whiskey/4" : 2,
+      "The Big Goodbye/4" : 1
+   },
    "The Cosmos A to Z/0" : {
       "Database (Panel)/0" : 2,
       "Text Book/0" : 1
@@ -9656,7 +9680,7 @@
    },
    "Translation Algorithm/3" : {
       "Expansion Module/2" : 1,
-      "Translation Algorithm/2" : 1
+      "Translation Algorithm/2" : 2
    },
    "Translator/1" : {
       "Translator/0" : 2
@@ -10454,9 +10478,11 @@
    },
    "Xindi Icon/4" : {
       "Kemocite/2" : 1,
+      "Polyalloy/3" : 2,
       "Xindi Icon/3" : 1
    },
    "Xindi Icon/5" : {
+      "Furs/4" : 2,
       "Xindi Icon/4" : 2
    },
    "Xindi Pistol/0" : {
