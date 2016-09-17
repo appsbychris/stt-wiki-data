@@ -4690,6 +4690,16 @@
       "Civilian Scientist Clothing/1" : 1,
       "Combadge (ALT)/2" : 1
    },
+   "Kim's Jacket/3" : {
+      "Clothing Pattern/3" : 2,
+      "Kim's Jacket/2" : 1,
+      "Quantum Oscillator/2" : 1
+   },
+   "Kim's Jacket/4" : {
+      "Clothing Pattern/4" : 2,
+      "Kim's Calculations/2" : 1,
+      "Kim's Jacket/3" : 1
+   },
    "Kim's Jersey/3" : {
       "Hockey Jersey/3" : 1,
       "Kazon Furs/0" : 2
