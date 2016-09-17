@@ -7143,6 +7143,11 @@
       "Quark's Bat'leth/3" : 1,
       "Tongo Deck/3" : 1
    },
+   "Quark's Bat'leth/5" : {
+      "House Quark Crest/4" : 1,
+      "Quark's Bat'leth/4" : 2,
+      "Tongo Deck/4" : 1
+   },
    "Radiation Collector/1" : {
       "Radiation Collector/0" : 2
    },
@@ -7617,7 +7622,7 @@
    "Romulan Science Uniform/2" : {
       "Kali-fal/1" : 1,
       "Quantum Phase Regulator/1" : 1,
-      "Romulan Diplomacy Uniform/1" : 2
+      "Romulan Science Uniform/1" : 2
    },
    "Root Beer/0" : {
       "Database (Panel)/0" : 1,

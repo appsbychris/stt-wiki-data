@@ -72,7 +72,7 @@
          "Incense/1" : 42,
          "Polyalloy/0" : 106
       },
-      "runs" : 117
+      "runs" : 125
    },
    "A Kazon Scorned/2" : {
       "cost" : "14",
@@ -226,12 +226,12 @@
    "A Singular Occurrence/1" : {
       "cost" : "8",
       "item" : {
-         "Astrometric Chart/1" : 28,
-         "Casing/1" : 52,
+         "Astrometric Chart/1" : 32,
+         "Casing/1" : 59,
          "Database (Panel)/2" : 16,
-         "Interlink/0" : 64
+         "Interlink/0" : 69
       },
-      "runs" : 40
+      "runs" : 44
    },
    "A Singular Occurrence/2" : {
       "cost" : "12",
@@ -258,12 +258,12 @@
       "cost" : "4",
       "item" : {
          "Astrometric Chart/1" : 163,
-         "Authorization Code/0" : 479,
+         "Authorization Code/0" : 480,
          "Phaser Type 2 (TOS)/0" : 446,
-         "Security Codes/0" : 495,
-         "Starfleet Uniform Pattern/0" : 1909
+         "Security Codes/0" : 496,
+         "Starfleet Uniform Pattern/0" : 1911
       },
-      "runs" : 873
+      "runs" : 874
    },
    "A Tale of Forgotten Lore/2" : {
       "cost" : "4",
@@ -353,13 +353,13 @@
    "Ancient Guardians/2" : {
       "cost" : "18",
       "item" : {
-         "Alcohol/2" : 55,
-         "Emitter Crystal/2" : 59,
+         "Alcohol/2" : 58,
+         "Emitter Crystal/2" : 61,
          "Expansion Module/4" : 2,
-         "Furs/3" : 20,
+         "Furs/3" : 21,
          "Spices/4" : 5
       },
-      "runs" : 47
+      "runs" : 49
    },
    "Ancient Guardians/3" : {
       "cost" : "24",
@@ -493,13 +493,13 @@
    "Battle Shinzon/1" : {
       "cost" : "16",
       "item" : {
-         "Emitter Crystal/3" : 1,
-         "Expansion Module/2" : 13,
-         "Interlink/1" : 14,
+         "Emitter Crystal/3" : 3,
+         "Expansion Module/2" : 16,
+         "Interlink/1" : 24,
          "Isolinear Chips/4" : 0,
          "Pattern Enhancer/2" : 2
       },
-      "runs" : 10
+      "runs" : 15
    },
    "Battle Shinzon/3" : {
       "cost" : "24",
@@ -682,14 +682,14 @@
    "Cardassian Hospitality/1" : {
       "cost" : "6",
       "item" : {
-         "Mass Spectrometer/0" : 69,
-         "Microconnector/0" : 49,
-         "Sensor/1" : 19,
-         "Sonic Driver/0" : 63,
-         "Spices/1" : 41,
+         "Mass Spectrometer/0" : 75,
+         "Microconnector/0" : 54,
+         "Sensor/1" : 20,
+         "Sonic Driver/0" : 65,
+         "Spices/1" : 42,
          "Spices/2" : 17
       },
-      "runs" : 86
+      "runs" : 91
    },
    "Cardassian Hospitality/2" : {
       "cost" : "8",
@@ -705,13 +705,13 @@
       "cost" : "4",
       "item" : {
          "Bloodwine/0" : 19,
-         "Constellation Class Schematic/0" : 42,
-         "Hyperspanner (DS9)/0" : 38,
+         "Constellation Class Schematic/0" : 44,
+         "Hyperspanner (DS9)/0" : 40,
          "Micro-Optic Drill/0" : 17,
-         "Polyalloy/0" : 88,
-         "Spices/0" : 159
+         "Polyalloy/0" : 92,
+         "Spices/0" : 166
       },
-      "runs" : 121
+      "runs" : 126
    },
    "Cleansing Fire/2" : {
       "cost" : "6",
@@ -953,7 +953,7 @@
       "item" : {
          "Casino Chip/0" : 9,
          "Exo-Linguistic Text/0" : 10,
-         "Starfleet Security Uniform/0" : 12,
+         "Starfleet Security Uniform (TNG)/0" : 12,
          "Writing PADD (TOS)/0" : 2
       },
       "runs" : 11
@@ -1375,14 +1375,14 @@
    "Iconian Insider/1" : {
       "cost" : "4",
       "item" : {
-         "Database (Panel)/0" : 91,
-         "Hypospray (TOS)/0" : 80,
-         "Interphasic Scanner/0" : 85,
-         "Maquis Raider Schematic/0" : 82,
-         "Microconnector/1" : 61,
-         "Optronic Circuit/2" : 14
+         "Database (Panel)/0" : 103,
+         "Hypospray (TOS)/0" : 88,
+         "Interphasic Scanner/0" : 94,
+         "Maquis Raider Schematic/0" : 86,
+         "Microconnector/1" : 64,
+         "Optronic Circuit/2" : 16
       },
-      "runs" : 124
+      "runs" : 136
    },
    "Iconian Insider/2" : {
       "cost" : "8",
@@ -1516,11 +1516,11 @@
       "item" : {
          "Database (Panel)/2" : 21,
          "Gold-Pressed Latinum/1" : 76,
-         "Hyperspanner (ENT)/0" : 120,
-         "Isolinear Chips/0" : 112,
+         "Hyperspanner (ENT)/0" : 121,
+         "Isolinear Chips/0" : 113,
          "Translator/0" : 111
       },
-      "runs" : 220
+      "runs" : 221
    },
    "Internal Dispute/2" : {
       "cost" : "8",
@@ -1762,13 +1762,13 @@
       "cost" : "14",
       "item" : {
          "Authorization Code/2" : 32,
-         "Clothing Pattern/2" : 42,
+         "Clothing Pattern/2" : 43,
          "Incense/4" : 1,
-         "Relay/1" : 36,
+         "Relay/1" : 38,
          "Subprocessor/3" : 6,
          "{{item|Val Jean Schematic}}/0" : 36
       },
-      "runs" : 43
+      "runs" : 44
    },
    "Mortals and Mayhem/1" : {
       "cost" : "4",
@@ -1878,13 +1878,13 @@
    "No Returns Accepted/2" : {
       "cost" : "16",
       "item" : {
-         "Database (Panel)/1" : 187,
-         "Hand Scanner/0" : 43,
-         "Microconnector/4" : 12,
-         "Polyalloy/0" : 203,
-         "Polyalloy/3" : 26
+         "Database (Panel)/1" : 222,
+         "Hand Scanner/0" : 52,
+         "Microconnector/4" : 14,
+         "Polyalloy/0" : 244,
+         "Polyalloy/3" : 29
       },
-      "runs" : 157
+      "runs" : 187
    },
    "No Returns Accepted/3" : {
       "cost" : "22",
@@ -1901,13 +1901,13 @@
    "Not A Drop to Drink/1" : {
       "cost" : "4",
       "item" : {
-         "Earpiece/0" : 488,
-         "Phaser Type 1/1" : 49,
-         "Phaser Type 2 (TMP)/0" : 503,
-         "Science Experiment/0" : 49,
-         "{{item|Phaser Type 3 (TOS, Drink)|basic}}/0" : 540
+         "Earpiece/0" : 508,
+         "Phaser Type 1/1" : 51,
+         "Phaser Type 2 (TMP)/0" : 526,
+         "Science Experiment/0" : 50,
+         "{{item|Phaser Type 3 (TOS, Drink)|basic}}/0" : 569
       },
-      "runs" : 543
+      "runs" : 568
    },
    "Not A Drop to Drink/2" : {
       "cost" : "8",
@@ -1946,9 +1946,9 @@
          "Alcohol/3" : 1,
          "Interlink/2" : 8,
          "Isolinear Chips/3" : 0,
-         "Microconnector/1" : 45
+         "Microconnector/1" : 57
       },
-      "runs" : 18
+      "runs" : 22
    },
    "Not Without A Fight/3" : {
       "cost" : "18",
@@ -1996,13 +1996,13 @@
    "On Their Heels/1" : {
       "cost" : "4",
       "item" : {
-         "Clothing Pattern/0" : 1319,
-         "Starfleet Uniform (ENT)/0" : 352,
-         "Starfleet Uniform (VOY)/0" : 316,
-         "TR-580 Medical Tricorder/0" : 366,
-         "Writing PADD (TNG)/1" : 113
+         "Clothing Pattern/0" : 1335,
+         "Starfleet Uniform (ENT)/0" : 357,
+         "Starfleet Uniform (VOY)/0" : 320,
+         "TR-580 Medical Tricorder/0" : 370,
+         "Writing PADD (TNG)/1" : 114
       },
-      "runs" : 822
+      "runs" : 832
    },
    "On Their Heels/2" : {
       "cost" : "6",
@@ -2158,25 +2158,25 @@
    "Pirate Problems/3" : {
       "cost" : "18",
       "item" : {
-         "Casing/3" : 128,
-         "Database (Panel)/2" : 322,
+         "Casing/3" : 132,
+         "Database (Panel)/2" : 342,
          "Isolinear Chips/4" : 21,
-         "Polyalloy/2" : 283,
-         "Subprocessor/4" : 14,
-         "{{item|Val Jean Schematic}}/0" : 198
+         "Polyalloy/2" : 298,
+         "Subprocessor/4" : 16,
+         "{{item|Val Jean Schematic}}/0" : 201
       },
-      "runs" : 278
+      "runs" : 292
    },
    "Pretense of Mercy/1" : {
       "cost" : "6",
       "item" : {
-         "Furs/0" : 197,
+         "Furs/0" : 204,
          "Interlink/2" : 38,
-         "Kurlan Naiskos/0" : 214,
-         "Optronic Circuit/1" : 120,
-         "Spectral Micrometer/0" : 217
+         "Kurlan Naiskos/0" : 225,
+         "Optronic Circuit/1" : 123,
+         "Spectral Micrometer/0" : 226
       },
-      "runs" : 262
+      "runs" : 272
    },
    "Pretense of Mercy/2" : {
       "cost" : "6",
@@ -2687,13 +2687,13 @@
    "The Army of Anaydis/1" : {
       "cost" : "4",
       "item" : {
-         "Cortical Monitor/0" : 101,
-         "Desktop Monitor (ENT)/0" : 82,
-         "Desktop Monitor (TOS)/0" : 82,
-         "Self-sealing Stem Bolt/1" : 12,
-         "Writing PADD (TNG)/1" : 11
+         "Cortical Monitor/0" : 109,
+         "Desktop Monitor (ENT)/0" : 91,
+         "Desktop Monitor (TOS)/0" : 92,
+         "Self-sealing Stem Bolt/1" : 13,
+         "Writing PADD (TNG)/1" : 13
       },
-      "runs" : 96
+      "runs" : 106
    },
    "The Army of Anaydis/2" : {
       "cost" : "8",
