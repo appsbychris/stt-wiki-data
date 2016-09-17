@@ -1875,6 +1875,20 @@
       "Culluh's Pistol/2" : 2,
       "Kazon Name/2" : 1
    },
+   "Cult Leader Dukat's Armband/2" : {
+      "Bajoran Earring/1" : 1,
+      "Clothing Pattern/1" : 2
+   },
+   "Cult Leader Dukat's Armband/3" : {
+      "Clothing Pattern/2" : 2,
+      "Cult Leader Dukat's Armband/2" : 1,
+      "Kanar/2" : 1
+   },
+   "Cult Leader Dukat's Outfit/3" : {
+      "Bajoran Earring/1" : 1,
+      "Civilian Diplomatic Clothing/2" : 2,
+      "Clothing Pattern/2" : 2
+   },
    "D'k tahg/2" : {
       "D'k tahg/1" : 2
    },
@@ -2475,6 +2489,10 @@
       "Dukat's Baldric/3" : 1,
       "Klingon House Crest/3" : 1
    },
+   "Dukat's Earring/3" : {
+      "Bajoran Earring/2" : 1,
+      "Incense/2" : 4
+   },
    "Duotronic Probe/1" : {
       "Duotronic Probe/0" : 1,
       "Power Cell/0" : 3
@@ -2488,7 +2506,10 @@
       "Microconnector/2" : 2
    },
    "Duotronic Probe/4" : {
-      "Duotronic Probe/3" : 2
+      "Duotronic Probe/3" : 2,
+      "Microconnector/3" : 1,
+      "Power Cell/3" : 2,
+      "Sensor/3" : 1
    },
    "EJ-7 Interlock/1" : {
       "EJ-7 Interlock/0" : 2
@@ -3465,10 +3486,12 @@
       "Gravitic Caliper/4" : 2
    },
    "Graviton Emitter/1" : {
-      "Graviton Emitter/0" : 2
+      "Emitter Crystal/1" : 2,
+      "Graviton Emitter/0" : 1
    },
    "Graviton Emitter/2" : {
-      "Graviton Emitter/1" : 2
+      "Graviton Emitter/1" : 1,
+      "Power Cell/2" : 2
    },
    "Great Material Continuum Texts/3" : {
       "Gold-Pressed Latinum/1" : 4,
@@ -4325,6 +4348,30 @@
       "Covert Contacts/4" : 1,
       "Julian Bashir, Secret Agent Holonovel/4" : 1
    },
+   "K'Ehleyr's Armor/3" : {
+      "Klingon Armor (TNG)/2" : 1,
+      "Klingon Baldric/2" : 1,
+      "Polyalloy/2" : 2
+   },
+   "K'Ehleyr's Armor/4" : {
+      "Agonizer/3" : 1,
+      "K'Ehleyr's Armor/3" : 1,
+      "KCA Icon/3" : 2
+   },
+   "K'Ehleyr's Gauntlet/2" : {
+      "D'k tahg/1" : 1,
+      "Polyalloy/1" : 4
+   },
+   "K'Ehleyr's Gauntlet/3" : {
+      "Bat'leth/2" : 1,
+      "Casing/2" : 2,
+      "K'Ehleyr's Gauntlet/2" : 1
+   },
+   "K'Ehleyr's Gauntlet/4" : {
+      "Bloodwine/3" : 1,
+      "Clothing Pattern/3" : 2,
+      "K'Ehleyr's Gauntlet/3" : 1
+   },
    "KCA Icon/3" : {
       "Agonizer/0" : 1,
       "KCA Icon/2" : 1
@@ -4558,6 +4605,16 @@
       "Dominion Seal/2" : 1,
       "Ketracel-white/4" : 1
    },
+   "Khan's Jacket/2" : {
+      "Civilian Command Clothing/1" : 1,
+      "Clothing Pattern/1" : 1,
+      "Genetic Modification/1" : 1
+   },
+   "Khan's Jacket/3" : {
+      "Civilian Engineer Clothing/1" : 2,
+      "Khan's Jacket/2" : 1,
+      "Medical Experiment/2" : 1
+   },
    "Khan's Necklace/3" : {
       "Augment Icon/2" : 1,
       "Clothing Pattern/2" : 2,
@@ -4598,6 +4655,21 @@
       "Ceti Eel/4" : 1,
       "Khan's Outfit/4" : 1
    },
+   "Khan's Painting/2" : {
+      "Andorian Ale/1" : 1,
+      "Incense/1" : 2,
+      "Psychological Evaluation Holoprogram/1" : 1
+   },
+   "Khan's Painting/3" : {
+      "Diplomatic Protocol/2" : 1,
+      "Khan's Painting/2" : 1,
+      "Opera/2" : 1
+   },
+   "Khan's Painting/4" : {
+      "First Contact Protocol/3" : 1,
+      "Incense/4" : 4,
+      "Khan's Painting/3" : 1
+   },
    "Kim's Calculations/2" : {
       "Science Experiment/0" : 2,
       "Temporal Prime Directive/2" : 1,
@@ -4623,7 +4695,7 @@
       "Kazon Furs/0" : 2
    },
    "Kim's Jersey/4" : {
-      "Furs/1" : 3,
+      "Kazon Furs/1" : 3,
       "Kim's Jersey/3" : 2
    },
    "Kim's Skates/3" : {
@@ -4911,6 +4983,15 @@
       "Relay/3" : 4,
       "Subprocessor/3" : 2
    },
+   "Klingon Padd/0" : {
+      "Casing/0" : 2,
+      "Database/0" : 2,
+      "Microconnector/0" : 2
+   },
+   "Klingon Padd/1" : {
+      "Database/0" : 2,
+      "Klingon Padd/0" : 2
+   },
    "Klingon Stole/0" : {
       "Clothing Pattern/0" : 3,
       "Klingon PADD/0" : 1,
@@ -5055,6 +5136,16 @@
       "Autosuture/4" : 1,
       "Kukalaka/4" : 2,
       "Medical Lesson/4" : 2
+   },
+   "Kurak's Dress/3" : {
+      "Klingon Dress/2" : 1,
+      "Klingon Warnog/2" : 1,
+      "Science Experiment/2" : 1
+   },
+   "Kurak's Padd/2" : {
+      "Flux Coupler/1" : 1,
+      "Klingon Padd/1" : 1,
+      "Polyalloy/1" : 4
    },
    "Kurlan Naiskos/1" : {
       "Kurlan Naiskos/0" : 2
@@ -5404,6 +5495,11 @@
       "Emitter Crystal/1" : 3,
       "Klingon Disruptor Pistol/1" : 1
    },
+   "Martok's Classic Disruptor/3" : {
+      "Expansion Module/2" : 3,
+      "Martok's Classic Disruptor/2" : 1,
+      "Polyalloy/2" : 1
+   },
    "Martok's Disguise/2" : {
       "Klingon Armor (TOS)/1" : 2,
       "Klingon Warnog/0" : 1,
@@ -5448,6 +5544,16 @@
    "Martok's Sword/3" : {
       "House Martok Crest/2" : 1,
       "Martok's Sword/2" : 1
+   },
+   "Martok's Sword/4" : {
+      "Late Vintage Bloodwine/3" : 1,
+      "Martok's Sword/3" : 1,
+      "Polyalloy/3" : 2
+   },
+   "Martok's Sword/5" : {
+      "Gold-Pressed Latinum/4" : 3,
+      "House Martok Crest/3" : 1,
+      "Martok's Sword/4" : 2
    },
    "Mass Spectrometer/1" : {
       "Mass Spectrometer/0" : 2
@@ -5495,7 +5601,7 @@
    },
    "Mayweather's Flight Jacket/4" : {
       "Clothing Pattern/3" : 2,
-      "Mayweather's Flight Jacket/3" : 2,
+      "Mayweather's Flight Jacket/3" : 1,
       "Toolbox/3" : 1
    },
    "Mayweather's Parachute/2" : {
@@ -7087,6 +7193,11 @@
       "Casing/1" : 2,
       "Rand's Tricorder/1" : 2,
       "Sensor/1" : 2
+   },
+   "Rand's Tricorder/3" : {
+      "Casing/2" : 2,
+      "Rand's Tricorder/2" : 2,
+      "Sensor/2" : 2
    },
    "Raquet/1" : {
       "Polyalloy/1" : 4,
@@ -8754,10 +8865,6 @@
       "Medkit/1" : 1,
       "Starfleet Medicine Uniform (ALT)/1" : 1,
       "Starfleet Uniform Pattern/1" : 2
-   },
-   "Starfleet Medicine Uniform (DS9)/0" : {
-      "Cortical Stimulator/0" : 1,
-      "Starfleet Uniform Pattern/0" : 2
    },
    "Starfleet Medicine Uniform (DS9)/1" : {
       "Starfleet Medicine Uniform (DS9)/0" : 2,

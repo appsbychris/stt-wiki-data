@@ -1607,7 +1607,7 @@
          "level" : 90
       },
       {
-         "item" : "Starfleet Charter Article 14, Section 31/5",
+         "item" : "Starfleet Charter Article 14, Section 31/4",
          "level" : 93
       },
       {
@@ -1615,7 +1615,7 @@
          "level" : 96
       },
       {
-         "item" : "Priority One Message/5",
+         "item" : "Priority One Message/4",
          "level" : 99
       }
    ],
@@ -19277,6 +19277,168 @@
          "level" : 99
       }
    ],
+   "Galen" : [
+      {
+         "item" : "item/5",
+         "level" : 1
+      },
+      {
+         "item" : "item/5",
+         "level" : 2
+      },
+      {
+         "item" : "item/5",
+         "level" : 4
+      },
+      {
+         "item" : "item/5",
+         "level" : 5
+      },
+      {
+         "item" : "item/5",
+         "level" : 10
+      },
+      {
+         "item" : "item/5",
+         "level" : 13
+      },
+      {
+         "item" : "item/5",
+         "level" : 16
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 23
+      },
+      {
+         "item" : "item/5",
+         "level" : 26
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 33
+      },
+      {
+         "item" : "item/5",
+         "level" : 36
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 43
+      },
+      {
+         "item" : "item/5",
+         "level" : 46
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 53
+      },
+      {
+         "item" : "item/5",
+         "level" : 56
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "item/5",
+         "level" : 63
+      },
+      {
+         "item" : "item/5",
+         "level" : 66
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
+         "level" : 99
+      }
+   ],
    "Gangster Spock" : [
       {
          "item" : "Pinstripe Suit/0",
@@ -28997,6 +29159,168 @@
          "level" : 99
       }
    ],
+   "Mirror K'Ehleyr" : [
+      {
+         "item" : "Klingon Armor (TNG)/0",
+         "level" : 1
+      },
+      {
+         "item" : "Bloodwine/0",
+         "level" : 2
+      },
+      {
+         "item" : "Klingon Disruptor Rifle/1",
+         "level" : 4
+      },
+      {
+         "item" : "Klingon Communicator/1",
+         "level" : 5
+      },
+      {
+         "item" : "Klingon Armor (TNG)/1",
+         "level" : 10
+      },
+      {
+         "item" : "Gagh/1",
+         "level" : 13
+      },
+      {
+         "item" : "Cardassian Disruptor Rifle/1",
+         "level" : 16
+      },
+      {
+         "item" : "Klingon Warnog/1",
+         "level" : 20
+      },
+      {
+         "item" : "Klingon Armor (TNG)/2",
+         "level" : 20
+      },
+      {
+         "item" : "Bloodwine/2",
+         "level" : 23
+      },
+      {
+         "item" : "Klingon Disruptor Rifle/2",
+         "level" : 26
+      },
+      {
+         "item" : "Multidimensional Transporter Device/2",
+         "level" : 30
+      },
+      {
+         "item" : "Klingon Armor (TNG)/2",
+         "level" : 30
+      },
+      {
+         "item" : "Klingon PADD/2",
+         "level" : 33
+      },
+      {
+         "item" : "Klingon Baldric/3",
+         "level" : 36
+      },
+      {
+         "item" : "Raktajino/3",
+         "level" : 40
+      },
+      {
+         "item" : "Klingon Armor (TNG)/2",
+         "level" : 40
+      },
+      {
+         "item" : "Klingon Communicator/2",
+         "level" : 43
+      },
+      {
+         "item" : "Cardassian Encryption Algorithm/3",
+         "level" : 46
+      },
+      {
+         "item" : "D'k tahg/3",
+         "level" : 50
+      },
+      {
+         "item" : "K'Ehleyr's Armor/3",
+         "level" : 50
+      },
+      {
+         "item" : "Tactical Alert/3",
+         "level" : 53
+      },
+      {
+         "item" : "K'Ehleyr's Gauntlet/3",
+         "level" : 56
+      },
+      {
+         "item" : "Klingon Communicator/3",
+         "level" : 60
+      },
+      {
+         "item" : "K'Ehleyr's Armor/3",
+         "level" : 60
+      },
+      {
+         "item" : "Klingon Warnog/3",
+         "level" : 63
+      },
+      {
+         "item" : "Bat'leth/3",
+         "level" : 66
+      },
+      {
+         "item" : "House Worf Crest/4",
+         "level" : 70
+      },
+      {
+         "item" : "K'Ehleyr's Armor/4",
+         "level" : 70
+      },
+      {
+         "item" : "Klingon Disruptor Pistol/3",
+         "level" : 73
+      },
+      {
+         "item" : "Late Vintage Bloodwine/3",
+         "level" : 76
+      },
+      {
+         "item" : "Klingon Disruptor Pistol/4",
+         "level" : 80
+      },
+      {
+         "item" : "K'Ehleyr's Armor/4",
+         "level" : 80
+      },
+      {
+         "item" : "Agonizer/4",
+         "level" : 83
+      },
+      {
+         "item" : "Gagh/4",
+         "level" : 86
+      },
+      {
+         "item" : "K'Ehleyr's Gauntlet/4",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
+         "level" : 99
+      }
+   ],
    "Mirror Kirk" : [
       {
          "item" : "Terran Empire Command Uniform/1",
@@ -31100,6 +31424,168 @@
       },
       {
          "item" : "Poker Cards/4",
+         "level" : 99
+      }
+   ],
+   "Pah-wraith Cult Dukat" : [
+      {
+         "item" : "Civilian Diplomatic Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Parametric Scanner/1",
+         "level" : 2
+      },
+      {
+         "item" : "Security Codes/1",
+         "level" : 4
+      },
+      {
+         "item" : "Holocommunicator/1",
+         "level" : 5
+      },
+      {
+         "item" : "Civilian Command Clothing/1",
+         "level" : 10
+      },
+      {
+         "item" : "Tactical Alert/1",
+         "level" : 13
+      },
+      {
+         "item" : "Identification Code/2",
+         "level" : 16
+      },
+      {
+         "item" : "Bajoran Earring/2",
+         "level" : 20
+      },
+      {
+         "item" : "Civilian Diplomatic Clothing/2",
+         "level" : 20
+      },
+      {
+         "item" : "Dominion Seal/1",
+         "level" : 23
+      },
+      {
+         "item" : "Cult Leader Dukat's Armband/2",
+         "level" : 26
+      },
+      {
+         "item" : "20th Century Pistol/2",
+         "level" : 30
+      },
+      {
+         "item" : "Civilian Command Clothing/2",
+         "level" : 30
+      },
+      {
+         "item" : "Diplomatic Protocol/3",
+         "level" : 33
+      },
+      {
+         "item" : "Cardassian Disruptor Rifle/2",
+         "level" : 36
+      },
+      {
+         "item" : "Dukat's Earring/3",
+         "level" : 40
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/3",
+         "level" : 40
+      },
+      {
+         "item" : "Treaty of Bajor/3",
+         "level" : 43
+      },
+      {
+         "item" : "Laser Beacon/3",
+         "level" : 46
+      },
+      {
+         "item" : "Cult Leader Dukat's Armband/3",
+         "level" : 50
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/3",
+         "level" : 50
+      },
+      {
+         "item" : "Bajoran Combadge/3",
+         "level" : 53
+      },
+      {
+         "item" : "Raktajino/3",
+         "level" : 56
+      },
+      {
+         "item" : "Dukat's Earring/3",
+         "level" : 60
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/4",
+         "level" : 60
+      },
+      {
+         "item" : "Cult Leader Dukat's Armband/4",
+         "level" : 63
+      },
+      {
+         "item" : "Diplomatic Protocol/4",
+         "level" : 66
+      },
+      {
+         "item" : "Encoded Communique/4",
+         "level" : 70
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/4",
+         "level" : 70
+      },
+      {
+         "item" : "Dukat's Earring/4",
+         "level" : 73
+      },
+      {
+         "item" : "Cardassian Monitor/4",
+         "level" : 76
+      },
+      {
+         "item" : "Spring Wine/4",
+         "level" : 80
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/5",
+         "level" : 80
+      },
+      {
+         "item" : "Priority One Message/4",
+         "level" : 83
+      },
+      {
+         "item" : "Treaty of Bajor/4",
+         "level" : 86
+      },
+      {
+         "item" : "Cult Leader Dukat's Armband/5",
+         "level" : 90
+      },
+      {
+         "item" : "Cult Leader Dukat's Outfit/5",
+         "level" : 90
+      },
+      {
+         "item" : "Cardassian Communicator/4",
+         "level" : 93
+      },
+      {
+         "item" : "Cult Leader Dukat's Armband/5",
+         "level" : 96
+      },
+      {
+         "item" : "Dukat's Earring/5",
          "level" : 99
       }
    ],
@@ -39848,6 +40334,168 @@
       },
       {
          "item" : "Rand's Tricorder/3",
+         "level" : 99
+      }
+   ],
+   "Young Khan" : [
+      {
+         "item" : "Civilian Diplomatic Clothing/1",
+         "level" : 1
+      },
+      {
+         "item" : "Augment Icon/1",
+         "level" : 2
+      },
+      {
+         "item" : "Plasma Torch/0",
+         "level" : 4
+      },
+      {
+         "item" : "Identification Code/0",
+         "level" : 5
+      },
+      {
+         "item" : "Civilian Diplomatic Clothing/2",
+         "level" : 10
+      },
+      {
+         "item" : "Communicator (ENT)/1",
+         "level" : 13
+      },
+      {
+         "item" : "Engineering Lesson/2",
+         "level" : 16
+      },
+      {
+         "item" : "3d Chess Set/1",
+         "level" : 20
+      },
+      {
+         "item" : "Khan's Jacket/2",
+         "level" : 20
+      },
+      {
+         "item" : "Psychological Evaluation Holoprogram/2",
+         "level" : 23
+      },
+      {
+         "item" : "Self-sealing Stem Bolt/2",
+         "level" : 26
+      },
+      {
+         "item" : "Paradise Lost Novel/3",
+         "level" : 30
+      },
+      {
+         "item" : "Khan's Jacket/2",
+         "level" : 30
+      },
+      {
+         "item" : "Wrench/2",
+         "level" : 33
+      },
+      {
+         "item" : "Augment Icon/3",
+         "level" : 36
+      },
+      {
+         "item" : "Communicator (ENT)/3",
+         "level" : 40
+      },
+      {
+         "item" : "Khan's Jacket/3",
+         "level" : 40
+      },
+      {
+         "item" : "Khan's Painting/3",
+         "level" : 43
+      },
+      {
+         "item" : "Trident Scanner/3",
+         "level" : 46
+      },
+      {
+         "item" : "Backpack/3",
+         "level" : 50
+      },
+      {
+         "item" : "Khan's Jacket/3",
+         "level" : 50
+      },
+      {
+         "item" : "Poetry/3",
+         "level" : 53
+      },
+      {
+         "item" : "Tequila/3",
+         "level" : 56
+      },
+      {
+         "item" : "Communicator (TOS)/4",
+         "level" : 60
+      },
+      {
+         "item" : "Khan's Jacket/3",
+         "level" : 60
+      },
+      {
+         "item" : "Flux Coupler/4",
+         "level" : 63
+      },
+      {
+         "item" : "Khan's Painting/4",
+         "level" : 66
+      },
+      {
+         "item" : "Novel/4",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 70
+      },
+      {
+         "item" : "item/5",
+         "level" : 73
+      },
+      {
+         "item" : "item/5",
+         "level" : 76
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ]
