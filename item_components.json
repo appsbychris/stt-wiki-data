@@ -177,7 +177,9 @@
       "Prune Juice/1" : 1
    },
    "Alexander's Armor/3" : {
-      "Alexander's Armor/2" : 1
+      "Alexander's Armor/2" : 1,
+      "Engineering Lesson/2" : 1,
+      "Polyalloy/2" : 4
    },
    "Alexander's Knife/3" : {
       "D'k tahg/2" : 1,
@@ -2245,7 +2247,8 @@
       "Diplomatic Dress Uniform (TNG)/0" : 1
    },
    "Diplomatic Dress Uniform (TNG)/2" : {
-      "Diplomatic Dress Uniform (TNG)/1" : 2
+      "Diplomatic Dress Uniform (TNG)/1" : 1,
+      "Power Cell/0" : 1
    },
    "Diplomatic Dress Uniform (VOY)/1" : {
       "Diplomatic Dress Uniform (VOY)/0" : 2,
@@ -4607,13 +4610,19 @@
    },
    "Khan's Jacket/2" : {
       "Civilian Command Clothing/1" : 1,
-      "Clothing Pattern/1" : 1,
+      "Clothing Pattern/1" : 2,
       "Genetic Modification/1" : 1
    },
    "Khan's Jacket/3" : {
       "Civilian Engineer Clothing/1" : 2,
       "Khan's Jacket/2" : 1,
       "Medical Experiment/2" : 1
+   },
+   "Khan's Jacket/4" : {
+      "Augment Icon/3" : 1,
+      "Clothing Pattern/3" : 2,
+      "Khan's Jacket/3" : 1,
+      "Social Lesson/3" : 1
    },
    "Khan's Necklace/3" : {
       "Augment Icon/2" : 1,
@@ -5074,6 +5083,10 @@
       "IDIC/2" : 1,
       "Incense/2" : 4,
       "Kolinahr Text/2" : 1
+   },
+   "Koloth's Disruptor Pistol/2" : {
+      "Casing/1" : 2,
+      "Klingon Disruptor Pistol/1" : 1
    },
    "Kor's Armor/2" : {
       "Furs/2" : 2,
@@ -5601,6 +5614,16 @@
    "Mayweather's Flight Helmet/3" : {
       "20th Century Pistol/3" : 1,
       "WWII Flight Helmet/3" : 2
+   },
+   "Mayweather's Flight Helmet/4" : {
+      "Mayweather's Flight Helmet/3" : 1,
+      "Single Pot Whiskey/4" : 1,
+      "War Report/2" : 1
+   },
+   "Mayweather's Flight Helmet/5" : {
+      "Backpack/4" : 2,
+      "Mayweather's Flight Helmet/4" : 1,
+      "Mayweather's Flight Jacket/4" : 1
    },
    "Mayweather's Flight Jacket/2" : {
       "WWII Flight Helmet/1" : 1,
@@ -7158,6 +7181,11 @@
       "Quark's Bat'leth/4" : 2,
       "Tongo Deck/4" : 1
    },
+   "Quark's Suit/2" : {
+      "Civilian Diplomatic Clothing/1" : 1,
+      "Ferengi Bill of Opportunities/1" : 1,
+      "Gold-Pressed Latinum/0" : 2
+   },
    "Radiation Collector/1" : {
       "Radiation Collector/0" : 2
    },
@@ -7344,6 +7372,11 @@
       "Emitter Crystal/1" : 2,
       "Reman Pistol/1" : 1,
       "Star Empire Icon/1" : 1
+   },
+   "Reman Rifle/2" : {
+      "Expansion Module/1" : 2,
+      "Reman Knife/1" : 1,
+      "Romulan Disruptor/1" : 1
    },
    "Reman Rifle/3" : {
       "Expansion Module/2" : 2,
@@ -7636,13 +7669,18 @@
    },
    "Root Beer/0" : {
       "Database (Panel)/0" : 1,
-      "Replicator Ration/0" : 1
+      "Replicator Ration/0" : 2,
+      "Spices/0" : 1
    },
    "Root Beer/1" : {
       "Root Beer/0" : 2
    },
    "Root Beer/2" : {
-      "Root Beer/1" : 2
+      "Replicator Ration/1" : 2,
+      "Root Beer/1" : 1
+   },
+   "Root Beer/3" : {
+      "Root Beer/2" : 2
    },
    "Rules of Acquisition/3" : {
       "Gold-Pressed Latinum/1" : 4,
@@ -9713,6 +9751,16 @@
    "The Viceroy's Staff/2" : {
       "Casing/2" : 2,
       "Polyalloy/2" : 2,
+      "Reman Uniform/2" : 1
+   },
+   "The Viceroy's Staff/3" : {
+      "Casing/3" : 2,
+      "Security Codes/1" : 2,
+      "The Viceroy's Staff/2" : 1
+   },
+   "The Viceroy's Uniform/2" : {
+      "Clothing Pattern/2" : 2,
+      "First Contact Protocol/1" : 1,
       "Reman Uniform/2" : 1
    },
    "Tommy Gun/1" : {

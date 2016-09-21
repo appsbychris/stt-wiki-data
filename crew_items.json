@@ -911,11 +911,11 @@
          "level" : 60
       },
       {
-         "item" : "Desktop Monitor/0",
+         "item" : "Desktop Monitor (TNG)/2",
          "level" : 63
       },
       {
-         "item" : "Hyperspanner/0",
+         "item" : "Hyperspanner (DS9)/2",
          "level" : 66
       },
       {
@@ -8905,7 +8905,7 @@
          "level" : 96
       },
       {
-         "item" : "Item/5",
+         "item" : "Kirk's Communicator/5",
          "level" : 99
       }
    ],
@@ -8991,19 +8991,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Diplomatic Dress Uniform (DS9)/3",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Compression Rifle/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Palm Beacon/2",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Rifle/2",
          "level" : 60
       },
       {
@@ -12709,7 +12709,7 @@
          "level" : 43
       },
       {
-         "item" : "Criminal Activity Report/3",
+         "item" : "Criminal Activity Report/2",
          "level" : 46
       },
       {
@@ -15553,35 +15553,35 @@
    ],
    "Emergency Command Hologram" : [
       {
-         "item" : "item/5",
+         "item" : "Starfleet Medicine Uniform (VOY)/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "Security Reports/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Medical Experiment/1",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 1/1",
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Command Uniform (VOY)/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "TR-580 Medical Tricorder/2",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TNG)/2",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Massage Oil/2",
          "level" : 20
       },
       {
@@ -18631,19 +18631,19 @@
    ],
    "First Goran'Agar" : [
       {
-         "item" : "item/5",
+         "item" : "Jem'Hadar Armor/0",
          "level" : 1
       },
       {
-         "item" : "item/5",
+         "item" : "War Report/0",
          "level" : 2
       },
       {
-         "item" : "item/5",
+         "item" : "Dominion Seal/0",
          "level" : 4
       },
       {
-         "item" : "item/5",
+         "item" : "Authorization Code/1",
          "level" : 5
       },
       {
@@ -20408,6 +20408,168 @@
       },
       {
          "item" : "Damar's Pistol/3",
+         "level" : 99
+      }
+   ],
+   "Gorn Captain" : [
+      {
+         "item" : "Civilian Security Clothing/0",
+         "level" : 1
+      },
+      {
+         "item" : "Authorization Code/0",
+         "level" : 2
+      },
+      {
+         "item" : "Desktop Monitor/0",
+         "level" : 4
+      },
+      {
+         "item" : "Heavy Scanner/0",
+         "level" : 5
+      },
+      {
+         "item" : "item/5",
+         "level" : 10
+      },
+      {
+         "item" : "item/5",
+         "level" : 13
+      },
+      {
+         "item" : "item/5",
+         "level" : 16
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 20
+      },
+      {
+         "item" : "item/5",
+         "level" : 23
+      },
+      {
+         "item" : "item/5",
+         "level" : 26
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 30
+      },
+      {
+         "item" : "item/5",
+         "level" : 33
+      },
+      {
+         "item" : "item/5",
+         "level" : 36
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 40
+      },
+      {
+         "item" : "item/5",
+         "level" : 43
+      },
+      {
+         "item" : "item/5",
+         "level" : 46
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 50
+      },
+      {
+         "item" : "item/5",
+         "level" : 53
+      },
+      {
+         "item" : "item/5",
+         "level" : 56
+      },
+      {
+         "item" : "item/5",
+         "level" : 60
+      },
+      {
+         "item" : "Gorn Captain's Uniform/3",
+         "level" : 60
+      },
+      {
+         "item" : "Phaser Type 3/3",
+         "level" : 63
+      },
+      {
+         "item" : "Authorization Code/2",
+         "level" : 66
+      },
+      {
+         "item" : "Gorn Captain's Boulder/3",
+         "level" : 70
+      },
+      {
+         "item" : "Gorn Captain's Uniform/3",
+         "level" : 70
+      },
+      {
+         "item" : "Field Rations/3",
+         "level" : 73
+      },
+      {
+         "item" : "Security Reports/3",
+         "level" : 76
+      },
+      {
+         "item" : "Gorn Captain's Boulder/3",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 80
+      },
+      {
+         "item" : "item/5",
+         "level" : 83
+      },
+      {
+         "item" : "item/5",
+         "level" : 86
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 90
+      },
+      {
+         "item" : "item/5",
+         "level" : 93
+      },
+      {
+         "item" : "item/5",
+         "level" : 96
+      },
+      {
+         "item" : "item/5",
          "level" : 99
       }
    ],
@@ -24139,7 +24301,7 @@
    ],
    "Koloth" : [
       {
-         "item" : "Klingon Armor (TOS)/0",
+         "item" : "Klingon Armor (TNG)/0",
          "level" : 1
       },
       {
@@ -24155,51 +24317,51 @@
          "level" : 5
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Armor (TNG)/1",
          "level" : 10
       },
       {
-         "item" : "item/5",
+         "item" : "Gagh/1",
          "level" : 13
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon PADD/1",
          "level" : 16
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Warnog/1",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Armor (TNG)/2",
          "level" : 20
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Communicator/1",
          "level" : 23
       },
       {
-         "item" : "item/5",
+         "item" : "Bloodwine/1",
          "level" : 26
       },
       {
-         "item" : "item/5",
+         "item" : "Koloth's Disruptor Pistol/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Armor (TNG)/2",
          "level" : 30
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Communicator/2",
          "level" : 33
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon Baldric/2",
          "level" : 36
       },
       {
-         "item" : "item/5",
+         "item" : "Klingon House Crest/2",
          "level" : 40
       },
       {
@@ -26681,35 +26843,35 @@
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Engineering Uniform (TNG)/2",
          "level" : 70
       },
       {
-         "item" : "item/5",
+         "item" : "Backpack/2",
          "level" : 73
       },
       {
-         "item" : "item/5",
+         "item" : "Phaser Type 2 (TNG)/2",
          "level" : 76
       },
       {
-         "item" : "item/5",
+         "item" : "Toolbox/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Starfleet Security Uniform (TNG)/2",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Desealing Rod/2",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Sonic Driver/3",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Photon Grenade/3",
          "level" : 90
       },
       {
@@ -31071,19 +31233,19 @@
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Civilian Security Clothing/3",
          "level" : 80
       },
       {
-         "item" : "item/5",
+         "item" : "Poker Cards/3",
          "level" : 83
       },
       {
-         "item" : "item/5",
+         "item" : "Tongo Deck/4",
          "level" : 86
       },
       {
-         "item" : "item/5",
+         "item" : "Raktajino/4",
          "level" : 90
       },
       {
@@ -37827,19 +37989,19 @@
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "The Viceroy's Uniform/2",
          "level" : 50
       },
       {
-         "item" : "item/5",
+         "item" : "Emergency Transponder/2",
          "level" : 53
       },
       {
-         "item" : "item/5",
+         "item" : "Holocommunicator/2",
          "level" : 56
       },
       {
-         "item" : "item/5",
+         "item" : "The Viceroy's Staff/3",
          "level" : 60
       },
       {
