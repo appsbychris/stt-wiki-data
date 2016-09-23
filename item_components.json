@@ -1760,7 +1760,8 @@
       "Subprocessor/2" : 2
    },
    "Cortical Monitor/4" : {
-      "Cortical Monitor/3" : 2
+      "Cortical Monitor/3" : 2,
+      "Isolinear Chips/3" : 2
    },
    "Cortical Stimulator/1" : {
       "Cortical Stimulator/0" : 2
@@ -1853,6 +1854,32 @@
       "Clothing Pattern/3" : 2,
       "Crusher's Covert Ops Outfit/3" : 2,
       "Magnasite-Nitron Tablet/3" : 1
+   },
+   "Crusher's Naval Uniform/2" : {
+      "Ancient Watch/1" : 1,
+      "Clothing Pattern/1" : 2,
+      "Starfleet Command Uniform (VOY)/1" : 1
+   },
+   "Crusher's Naval Uniform/3" : {
+      "Crusher's Naval Uniform/2" : 1,
+      "Holoprogram/2" : 1,
+      "Starfleet Uniform Pattern/2" : 2
+   },
+   "Crusher's Naval Uniform/4" : {
+      "Clothing Pattern/3" : 2,
+      "Crusher's Naval Uniform/3" : 1,
+      "Crusher's Spyglass/3" : 1,
+      "Social Lesson/3" : 1
+   },
+   "Crusher's Spyglass/3" : {
+      "Casing/2" : 4,
+      "Field Rations/2" : 2,
+      "Optronic Circuit/2" : 2
+   },
+   "Crusher's Spyglass/4" : {
+      "Casing/3" : 3,
+      "Crusher's Spyglass/3" : 1,
+      "Opera/3" : 1
    },
    "Culluh's Furs/2" : {
       "Furs/2" : 1,
@@ -2545,6 +2572,16 @@
       "Earl Grey Tea/2" : 1,
       "Identification Code/2" : 1,
       "Replicator Ration/2" : 1
+   },
+   "Earl Grey Tea/4" : {
+      "Earl Grey Tea/3" : 1,
+      "Identification Code/3" : 1,
+      "Replicator Ration/3" : 1
+   },
+   "Earl Grey Tea/5" : {
+      "Earl Grey Tea/4" : 2,
+      "Identification Code/4" : 1,
+      "Replicator Ration/4" : 3
    },
    "Earpiece/1" : {
       " Earpiece/0" : 2
@@ -4192,7 +4229,7 @@
       "Prime Directive/3" : 1
    },
    "Jake's PADD/2" : {
-      "Identification Code/1" : 1,
+      "Identification Code/0" : 1,
       "Press Credentials/1" : 1,
       "Writing PADD (TNG)/1" : 1
    },
@@ -4380,8 +4417,14 @@
       "KCA Icon/2" : 1
    },
    "KCA Icon/4" : {
-      "Gagh/1" : 1,
-      "KCA Icon/3" : 1
+      "Gagh/1" : 2,
+      "KCA Icon/3" : 1,
+      "Polyalloy/3" : 1
+   },
+   "KCA Icon/5" : {
+      "Gagh/2" : 1,
+      "KCA Icon/4" : 1,
+      "Multidimensional Transporter Device/2" : 1
    },
    "Kadis-Kot/1" : {
       "Isolinear Chips/0" : 1,
@@ -5714,11 +5757,15 @@
    },
    "Medical Desert Robes/0" : {
       "Dermal Regenerator/0" : 1,
-      "Starfleet Uniform Pattern/0" : 1
+      "Starfleet Uniform Pattern/0" : 2
    },
    "Medical Desert Robes/1" : {
       "Field Rations/1" : 1,
       "Medical Desert Robes/0" : 2
+   },
+   "Medical Desert Robes/2" : {
+      "Field Rations/1" : 2,
+      "Medical Desert Robes/1" : 2
    },
    "Medical Experiment/3" : {
       "Medical Experiment/2" : 2,
@@ -6620,6 +6667,11 @@
       "Optronic Circuit/4" : 2,
       "Phaser Rifle/3" : 1
    },
+   "Phaser Rifle/5" : {
+      "Expansion Module/4" : 2,
+      "Optronic Circuit/4" : 2,
+      "Phaser Rifle/4" : 1
+   },
    "Phaser Type 1/3" : {
       "Phaser Type 1/2" : 2
    },
@@ -7186,6 +7238,11 @@
       "Ferengi Bill of Opportunities/1" : 1,
       "Gold-Pressed Latinum/0" : 2
    },
+   "Quark's Suit/3" : {
+      "Ferengi Bill of Opportunities/2" : 1,
+      "Quark's Suit/2" : 1,
+      "Tongo Deck/1" : 1
+   },
    "Radiation Collector/1" : {
       "Radiation Collector/0" : 2
    },
@@ -7251,6 +7308,16 @@
       "Raquet/1" : 1,
       "Replicator Ration/1" : 2
    },
+   "Raquet/3" : {
+      "Polyalloy/2" : 2,
+      "Raquet/2" : 1,
+      "Replicator Ration/2" : 2
+   },
+   "Raquet/4" : {
+      "Polyalloy/3" : 2,
+      "Raquet/3" : 1,
+      "Replicator Ration/3" : 2
+   },
    "Ray Gun/1" : {
       "Casing/0" : 4,
       "Holoprogram/0" : 2,
@@ -7287,6 +7354,11 @@
    "Reed's Pistol/3" : {
       "Reed's Pistol/2" : 1,
       "Tactical Alert/2" : 1
+   },
+   "Reed's Pistol/4" : {
+      "Reed's Pistol/3" : 1,
+      "Section 31 Encryption Algorithm/2" : 1,
+      "Security Reports/2" : 1
    },
    "Reed's Rifle/2" : {
       "NX-01 Cap/1" : 1,
@@ -8145,14 +8217,19 @@
       "Sensor/2" : 4
    },
    "Shinzon's Knife/3" : {
-      "Medical Experiment/2" : 1,
       "Polyalloy/2" : 4,
-      "Reman Knife/2" : 1
+      "Reman Knife/2" : 1,
+      "Star Empire Icon/1" : 1
    },
    "Shinzon's Knife/4" : {
-      "Earl Grey Tea/3" : 1,
-      "Polyalloy/3" : 2,
-      "Shinzon's Knife/3" : 1
+      "Polyalloy/3" : 4,
+      "Shinzon's Knife/3" : 1,
+      "Star Empire Icon/2" : 1
+   },
+   "Shinzon's Knife/5" : {
+      "Model Enterprise/4" : 1,
+      "Polyalloy/4" : 2,
+      "Shinzon's Knife/4" : 1
    },
    "Shinzon's Pistol/4" : {
       "Emitter Crystal/3" : 2,
@@ -8412,6 +8489,27 @@
       "Augment Icon/2" : 1,
       "Engineering Lesson/1" : 1,
       "Soong's Teaching/2" : 1
+   },
+   "Soran's Disruptor/3" : {
+      "Emitter Crystal/2" : 2,
+      "Phaser Type 2 (TMP)/2" : 1,
+      "Polyalloy/2" : 2
+   },
+   "Soran's Outfit/2" : {
+      "Astrometric Chart/1" : 1,
+      "Civilian Engineer Clothing/1" : 1,
+      "Civilian Scientist Clothing/1" : 1
+   },
+   "Soran's Outfit/3" : {
+      "Clothing Pattern/2" : 2,
+      "Gravimetric Scanner/2" : 1,
+      "Quantum Chronometer/2" : 1,
+      "Soran's Outfit/2" : 1
+   },
+   "Soran's Research/3" : {
+      "Gravimetric Scanner/2" : 1,
+      "Quantum Flux Regulator/2" : 1,
+      "Science Lesson/2" : 2
    },
    "Spectral Micrometer/1" : {
       "Spectral Micrometer/0" : 2
@@ -8940,7 +9038,7 @@
       "Starfleet Uniform Pattern/4" : 2
    },
    "Starfleet Medicine Uniform (TNG)/0" : {
-      "Cortical Monitor/0" : 1,
+      "Cortical Stimulator/0" : 1,
       "Starfleet Uniform Pattern/0" : 2
    },
    "Starfleet Medicine Uniform (TNG)/1" : {
@@ -9212,6 +9310,9 @@
    "Stun Grenade/4" : {
       "Casing/3" : 2,
       "Stun Grenade/3" : 1
+   },
+   "Stun Grenade/5" : {
+      "Stun Grenade/4" : 2
    },
    "Subcutaneous Transponder/1" : {
       "Subcutaneous Transponder/0" : 2
@@ -9496,8 +9597,8 @@
    },
    "Tal Shiar Uniform/1" : {
       "Clothing Pattern/0" : 4,
-      "Romulan Diplomacy Uniform/0" : 2,
-      "Romulan Encryption Algorithm/0" : 2
+      "Romulan Diplomacy Uniform/0" : 1,
+      "Romulan Encryption Algorithm/0" : 1
    },
    "Tal Shiar Uniform/2" : {
       "Romulan Ale/0" : 1,
@@ -10681,6 +10782,10 @@
       "Clothing Pattern/3" : 2,
       "Encoded Communique/3" : 1,
       "Yar's Aviator Scarf/3" : 1
+   },
+   "Yar's Aviator Scarf/5" : {
+      "Clothing Pattern/4" : 2,
+      "Yar's Aviator Scarf/4" : 2
    },
    "Yar's Belt/2" : {
       "Phaser Type 1/1" : 1,
