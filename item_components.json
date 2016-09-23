@@ -142,6 +142,17 @@
       "Section 31 Encryption Algorithm/2" : 1,
       "Security Codes/2" : 2
    },
+   "Agent Harris's Uniform/4" : {
+      "Agent Harris's Uniform/3" : 1,
+      "Clothing Pattern/3" : 2,
+      "Covert Contacts/3" : 1
+   },
+   "Agent Harris's Uniform/5" : {
+      "Agent Harris's Uniform/4" : 1,
+      "Encoded Communique/4" : 1,
+      "Section 31 Encryption Algorithm/4" : 1,
+      "Starfleet Charter Article 14, Section 31/4" : 1
+   },
    "Agonizer/3" : {
       "Agonizer/2" : 1,
       "Casing/2" : 4,
@@ -1880,6 +1891,11 @@
       "Casing/3" : 3,
       "Crusher's Spyglass/3" : 1,
       "Opera/3" : 1
+   },
+   "Crusher's Spyglass/5" : {
+      "Casing/4" : 4,
+      "Crusher's Spyglass/4" : 1,
+      "Holo-imager/4" : 1
    },
    "Culluh's Furs/2" : {
       "Furs/2" : 1,
@@ -10800,6 +10816,10 @@
    "Yar's Flight Helmet/4" : {
       "Toolbox/3" : 1,
       "WWII Flight Helmet/3" : 2
+   },
+   "Yar's Flight Helmet/5" : {
+      "Security Codes/4" : 2,
+      "Yar's Flight Helmet/4" : 2
    },
    "Yar's Flight Jacket/3" : {
       "WWII Flight Helmet/2" : 1,
