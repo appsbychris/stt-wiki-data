@@ -3,6 +3,10 @@
       "Security Codes/0" : 1,
       "Casing/0" : 4
    },
+   "Admiral's Uniform/0" : {
+      "Starfleet Uniform (DS9)/0" : 1,
+      "Authorization Code/0" : 1
+   },
    "Biological Sample Kit/0" : {
       "Casing/0" : 1,
       "Science Experiment/0" : 1
@@ -47,6 +51,9 @@
       "Text Book/0" : 1,
       "TR-580 Medical Tricorder/0" : 1
    },
+   "Quantum Chronometer/1" : {
+      "Quantum Chronometer/0" : 2
+   },
    "Recipe Book/0" : {
       "Spices/0" : 2,
       "Database (Panel)/0" : 2
@@ -58,6 +65,64 @@
    "Single Pot Whiskey/1" : {
       "Alcohol/0" : 4,
       "Coffee/0" : 2
+   },
+   "Slug-o-Cola/0" : {
+      "Tube Grubs/0" : 1,
+      "Spices/0" : 4
+   },
+   "Soong's Jacket/2" : {
+      "Clothing Pattern/1" : 4,
+      "Augment Icon/1" : 2,
+      "Ceti Eel/0" : 1
+   },
+   "Soong's Jacket/3" : {
+      "Clothing Pattern/2" : 4,
+      "Soong's Jacket/2" : 1,
+      "Ceti Eel/1" : 1
+   },
+   "Soong's Jacket/4" : {
+      "Clothing Pattern/3" : 4,
+      "Soong's Jacket/3" : 1,
+      "Soong's Teaching/3" : 1
+   },
+   "Soong's PADD/2" : {
+      "Writing PADD (ENT)/1" : 3,
+      "Science Experiment/1" : 1,
+      "Engineering Lesson/0" : 1
+   },
+   "Soong's PADD/3" : {
+      "Soong's PADD/2" : 1,
+      "Augment Icon/1" : 1,
+      "Soong's Research/2" : 1
+   },
+   "Soong's PADD/4" : {
+      "Soong's PADD/3" : 1,
+      "Soong's Research/3" : 1,
+      "Augment Icon/2" : 1
+   },
+   "Soong's PADD/5" : {
+      "Soong's PADD/4" : 1,
+      "Soong's Research/4" : 1,
+      "Augment Icon/4" : 1
+   },
+   "Soong's Research/2" : {
+      "Medical Experiment/1" : 2,
+      "Science Experiment/1" : 1,
+      "Neutron Microscope/1" : 2
+   },
+   "Soong's Research/3" : {
+      "Soong's Research/2" : 1,
+      "Biological Sample Kit/2" : 3,
+      "Dissection Tools/2" : 1
+   },
+   "Soong's Research/4" : {
+      "Soong's Research/3" : 1,
+      "Medical Experiment/2" : 1,
+      "Augment Icon/3" : 1
+   },
+   "Starfleet Medicine Uniform (DS9)/0" : {
+      "Cortical Stimulator/0" : 1,
+      "Starfleet Uniform Pattern/0" : 2
    },
    "Toolbox/0" : {
       "ODN Recoupler/0" : 1,
